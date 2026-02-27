@@ -13,8 +13,6 @@ source_pdf_page: 30
 versions: ["2025"]
 ---
 
-## Rule 5.1. Constitutional Challenge to a Statute—Notice, Certification, and Intervention
-
 **(a) Notice by a Party.** A party that files a pleading, written motion, or other paper drawing into question the constitutionality of a federal or state statute must promptly:
 
 **(1)** file a notice of constitutional question stating the question and identifying the paper that raises it, if:
@@ -29,4 +27,6 @@ versions: ["2025"]
 
 **(c) Intervention; Final Decision on the Merits.** Unless the court sets a later time, the attorney general may intervene within 60 days after the notice is filed or after the court certifies the challenge, whichever is earlier. Before the time to intervene expires, the court may reject the constitutional challenge, but may not enter a final judgment holding the statute unconstitutional.
 
-**(d) No Forfeiture.** A party’s failure to file and serve the notice, or the court’s failure to certify, does not forfeit a constitutional claim or defense that is otherwise timely asserted. (As added Apr. 12, 2006, eff. Dec. 1, 2006; amended Apr. 30, 2007, eff. Dec. 1, 2007.)
+**(d) No Forfeiture.** A party’s failure to file and serve the notice, or the court’s failure to certify, does not forfeit a constitutional claim or defense that is otherwise timely asserted.
+
+<p class="amendment-history">(As added Apr. 12, 2006, eff. Dec. 1, 2006; amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -36,6 +36,17 @@ html {
   font-weight: 700;
 }
 
+/* Amendment history note (separate from rule text) */
+.rule-body .amendment-history {
+  font-size: 0.875rem;
+  color: #6b7280;
+  font-style: italic;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(28,28,30,0.08);
+  margin-bottom: 0;
+}
+
 /* Citation hover button */
 .rule-body p[id] { position: relative; }
 .cite-btn {

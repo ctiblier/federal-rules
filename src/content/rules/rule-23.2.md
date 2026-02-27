@@ -13,6 +13,6 @@ source_pdf_page: 55
 versions: ["2025"]
 ---
 
-## Rule 23.2. Actions Relating to Unincorporated Associations
+This rule applies to an action brought by or against the members of an unincorporated association as a class by naming certain members as representative parties. The action may be maintained only if it appears that those parties will fairly and adequately protect the interests of the association and its members. In conducting the action, the court may issue any appropriate orders corresponding with those in Rule 23(d), and the procedure for settlement, voluntary dismissal, or compromise must correspond with the procedure in Rule 23(e).
 
-This rule applies to an action brought by or against the members of an unincorporated association as a class by naming certain members as representative parties. The action may be maintained only if it appears that those parties will fairly and adequately protect the interests of the association and its members. In conducting the action, the court may issue any appropriate orders corresponding with those in Rule 23(d), and the procedure for settlement, voluntary dismissal, or compromise must correspond with the procedure in Rule 23(e). (As added Feb. 28, 1966, eff. July 1, 1966; amended Apr. 30, 2007, eff. Dec. 1, 2007.)
+<p class="amendment-history">(As added Feb. 28, 1966, eff. July 1, 1966; amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

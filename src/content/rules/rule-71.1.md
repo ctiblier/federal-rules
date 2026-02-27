@@ -13,8 +13,6 @@ source_pdf_page: 110
 versions: ["2025"]
 ---
 
-## Rule 71.1. Condemning Real or Personal Property
-
 **(a) Applicability of Other Rules.** These rules govern proceedings to condemn real and personal property by eminent domain, except as this rule provides otherwise.
 
 **(b) Joinder of Properties.** The plaintiff may join separate pieces of property in a single action, no matter whether they are owned by the same persons or sought for the same use.
@@ -135,4 +133,6 @@ versions: ["2025"]
 
 **(2) Distribution; Adjusting Distribution.** After a deposit, the court and attorneys must expedite the proceedings so as to distribute the deposit and to determine and pay compensation. If the compensation finally awarded to a defendant exceeds the amount distributed to that defendant, the court must enter judgment against the plaintiff for the deficiency. If the compensation awarded to a defendant is less than the amount distributed to that defendant, the court must enter judgment against that defendant for the overpayment.
 
-**(k) Condemnation Under a State ’ s Power of Eminent Domain.** This rule governs an action involving eminent domain under state law. But if state law provides for trying an issue by jury—or for trying the issue of compensation by jury or commission or both— that law governs. ( l) Costs. Costs are not subject to Rule 54(d). (As added Apr. 30, 1951, eff. Aug. 1, 1951; amended Jan. 21, 1963, eff. July 1, 1963; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Pub. L. 100–690, title VII, § 7050, Nov. 18, 1988, 102 Stat. 4401; Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+**(k) Condemnation Under a State ’ s Power of Eminent Domain.** This rule governs an action involving eminent domain under state law. But if state law provides for trying an issue by jury—or for trying the issue of compensation by jury or commission or both— that law governs. ( l) Costs. Costs are not subject to Rule 54(d).
+
+<p class="amendment-history">(As added Apr. 30, 1951, eff. Aug. 1, 1951; amended Jan. 21, 1963, eff. July 1, 1963; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Pub. L. 100–690, title VII, § 7050, Nov. 18, 1988, 102 Stat. 4401; Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

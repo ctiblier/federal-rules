@@ -13,8 +13,6 @@ source_pdf_page: 105
 versions: ["2025"]
 ---
 
-## Rule 62.1. Indicative Ruling on a Motion for Relief That is Barred by a Pending Appeal
-
 **(a) Relief Pending Appeal.** If a timely motion is made for relief that the court lacks authority to grant because of an appeal that has been docketed and is pending, the court may:
 
 **(1)** defer considering the motion;
@@ -25,4 +23,6 @@ versions: ["2025"]
 
 **(b) Notice to the Court of Appeals.** The movant must promptly notify the circuit clerk under Federal Rule of Appellate Procedure 12.1 if the district court states that it would grant the motion or that the motion raises a substantial issue.
 
-**(c) Remand.** The district court may decide the motion if the court of appeals remands for that purpose. (As added Mar. 26, 2009, eff. Dec. 1, 2009.)
+**(c) Remand.** The district court may decide the motion if the court of appeals remands for that purpose.
+
+<p class="amendment-history">(As added Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

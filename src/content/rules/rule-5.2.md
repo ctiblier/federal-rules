@@ -13,8 +13,6 @@ source_pdf_page: 30
 versions: ["2025"]
 ---
 
-## Rule 5.2. Privacy Protection For Filings Made with the Court
-
 **(a) Redacted Filings.** Unless the court orders otherwise, in an electronic or paper filing with the court that contains an individual’s social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, or a financial-account number, a party or nonparty making the filing may include only:
 
 **(1)** the last four digits of the social-security number and taxpayer-identification number;
@@ -61,4 +59,6 @@ versions: ["2025"]
 
 **(g) Option for Filing a Reference List.** A filing that contains redacted information may be filed together with a reference list that identifies each item of redacted information and specifies an appropriate identifier that uniquely corresponds to each item listed. The list must be filed under seal and may be amended as of right. Any reference in the case to a listed identifier will be construed to refer to the corresponding item of information.
 
-**(h) Waiver of Protection of Identifiers.** A person waives the protection of Rule 5.2(a) as to the person’s own information by filing it without redaction and not under seal. (As added Apr. 30, 2007, eff. Dec. 1, 2007.)
+**(h) Waiver of Protection of Identifiers.** A person waives the protection of Rule 5.2(a) as to the person’s own information by filing it without redaction and not under seal.
+
+<p class="amendment-history">(As added Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

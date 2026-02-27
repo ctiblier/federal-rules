@@ -13,8 +13,6 @@ source_pdf_page: 33
 versions: ["2025"]
 ---
 
-## Rule 7.1. Disclosure Statement
-
 **(a) Who Must File; Contents.**
 
 **(1) Nongovernmental Corporations.** A nongovernmental corporate party or a nongovernmental corporation that seeks to intervene must file a statement that:
@@ -33,4 +31,6 @@ versions: ["2025"]
 
 **(1)** file the disclosure statement with its first appearance, pleading, petition, motion, response, or other request addressed to the court; and
 
-**(2)** promptly file a supplemental statement if any required information changes. (As added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 11, 2022, eff. Dec. 1, 2022.)
+**(2)** promptly file a supplemental statement if any required information changes.
+
+<p class="amendment-history">(As added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 11, 2022, eff. Dec. 1, 2022.)</p>

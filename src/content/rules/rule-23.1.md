@@ -13,8 +13,6 @@ source_pdf_page: 54
 versions: ["2025"]
 ---
 
-## Rule 23.1. Derivative Actions
-
 **(a) Prerequisites.** This rule applies when one or more shareholders or members of a corporation or an unincorporated association bring a derivative action to enforce a right that the corporation or association may properly assert but has failed to enforce. The derivative action may not be maintained if it appears that the plaintiff does not fairly and adequately represent the interests of shareholders or members who are similarly situated in enforcing the right of the corporation or association.
 
 **(b) Pleading Requirements.** The complaint must be verified and must:
@@ -29,4 +27,6 @@ versions: ["2025"]
 
 **(B)** the reasons for not obtaining the action or not making the effort.
 
-**(c) Settlement, Dismissal, and Compromise.** A derivative action may be settled, voluntarily dismissed, or compromised only with the court’s approval. Notice of a proposed settlement, voluntary dismissal, or compromise must be given to shareholders or members in the manner that the court orders. (As added Feb. 28, 1966, eff. July 1, 1966; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)
+**(c) Settlement, Dismissal, and Compromise.** A derivative action may be settled, voluntarily dismissed, or compromised only with the court’s approval. Notice of a proposed settlement, voluntary dismissal, or compromise must be given to shareholders or members in the manner that the court orders.
+
+<p class="amendment-history">(As added Feb. 28, 1966, eff. July 1, 1966; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -15,9 +15,8 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 
-// Detect abrogated rules: body has no substantive content beyond the heading
-const bodyText = entry.body?.replace(/^##[^\n]*\n?/, '').trim() ?? '';
-const isAbrogated = bodyText.length < 30;
+// Detect abrogated rules: body is empty (abrogated rules have no content)
+const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 ---
 
 <BaseLayout

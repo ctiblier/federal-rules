@@ -13,8 +13,6 @@ source_pdf_page: 133
 versions: ["2025"]
 ---
 
-## Rule G. Forfeiture Actions In Rem
-
 **(a) Applicability of These Rules.** These rules govern an action under 42 U.S.C. § 405(g) for review on the record of a final decision of the Commissioner of Social Security that presents only an individual claim.
 
 **(b) Federal Rules of Civil Procedure.** The Federal Rules of Civil Procedure also apply to a proceeding under these rules, except to the extent that they are inconsistent with these rules. (As added Apr. 11, 2022, eff. Dec. 1, 2022.) Rule 2. Complaint
