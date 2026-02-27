@@ -62,15 +62,33 @@
       }
     }
 
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) setActive(entry.target.id);
-        });
-      },
-      { rootMargin: '-10% 0% -80% 0%' }
-    );
+    function getActiveId() {
+      // Near bottom of page → activate last section
+      const nearBottom = window.innerHeight + window.scrollY >= document.body.scrollHeight - 50;
+      if (nearBottom) return topLevelParagraphs[topLevelParagraphs.length - 1]?.id;
 
-    topLevelParagraphs.forEach((p) => observer.observe(p));
+      // Find last heading whose top is at or above 120px from viewport top
+      let active = topLevelParagraphs[0]?.id;
+      for (const p of topLevelParagraphs) {
+        const rect = document.getElementById(p.id)?.getBoundingClientRect();
+        if (rect && rect.top <= 120) active = p.id;
+      }
+      return active;
+    }
+
+    let rafPending = false;
+    function onScroll() {
+      if (rafPending) return;
+      rafPending = true;
+      requestAnimationFrame(() => {
+        rafPending = false;
+        const id = getActiveId();
+        if (id) setActive(id);
+      });
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    // Set initial state
+    onScroll();
   })();
 </script>

@@ -80,9 +80,10 @@ export default function rehypeSubsectionAnchors() {
       // Build the id from non-empty path segments joined by hyphens
       const id = path.filter(Boolean).join('-');
 
-      // Attach id to the <p> element
+      // Attach id and data-level to the <p> element
       if (!node.properties) node.properties = {};
       node.properties.id = id;
+      node.properties['data-level'] = String(level);
     });
   };
 }

@@ -36,6 +36,48 @@ html {
   font-weight: 700;
 }
 
+/* Citation hover button */
+.rule-body p[id] { position: relative; }
+.cite-btn {
+  opacity: 0;
+  transition: opacity 0.15s;
+  display: inline;
+  margin-left: 0.5em;
+  font-size: 0.75rem;
+  color: var(--color-gold);
+  background: none;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  padding: 0 0.3em;
+  cursor: pointer;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.rule-body p[id]:hover .cite-btn { opacity: 1; }
+
+/* Section tiering: indentation + faint guide lines */
+.rule-body p[data-level] {
+  padding-left: 0;
+  position: relative;
+}
+.rule-body p[data-level="1"] { padding-left: 1.5rem; }
+.rule-body p[data-level="2"] { padding-left: 3rem; }
+.rule-body p[data-level="3"] { padding-left: 4.5rem; }
+.rule-body p[data-level="4"] { padding-left: 6rem; }
+
+.rule-body p[data-level]::before {
+  content: '';
+  position: absolute;
+  left: 0.5rem;
+  top: 0.25rem;
+  bottom: 0.25rem;
+  width: 1px;
+  background: rgba(28,28,30,0.08);
+}
+.rule-body p[data-level="2"]::before { left: 2rem; }
+.rule-body p[data-level="3"]::before { left: 3.5rem; }
+.rule-body p[data-level="4"]::before { left: 5rem; }
+
 /* Accessible focus ring using gold accent */
 :focus-visible {
   outline: 2px solid var(--color-gold);
