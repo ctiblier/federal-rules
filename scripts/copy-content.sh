@@ -2,28 +2,32 @@
 # Copy rule Markdown files from scraper output to Astro content directory.
 # Usage: ./scripts/copy-content.sh [path/to/FedRules/output/rules]
 #
-# The scraper outputs files as rule-N/current.md.
-# This script copies them to src/content/rules/N.md (filename = rule number).
+# The scraper outputs versioned files as rule-N/current.md, rule-N/2025.md, etc.
+# This script mirrors the folder structure into src/content/rules/rule-N/.
 
 RULES_DIR=${1:-"../FedRules/output/rules"}
 DEST="src/content/rules"
 
 mkdir -p "$DEST"
 
+# Clear existing content so removed rules don't linger
+rm -rf "$DEST"/rule-*/
+# Also clear any legacy flat files from before the folder restructure
+rm -f "$DEST"/*.md "$DEST"/rule-*.md 2>/dev/null
+
 count=0
 for rule_dir in "$RULES_DIR"/rule-*/; do
   rule_num=$(basename "$rule_dir" | sed 's/rule-//')
-  src="$rule_dir/current.md"
-  if [ -f "$src" ]; then
-    # Decimal rules get "rule-" prefix to avoid Astro ID collision
-    if echo "$rule_num" | grep -q '\.'; then
-      dest_file="$DEST/rule-$rule_num.md"
-    else
-      dest_file="$DEST/$rule_num.md"
-    fi
-    cp "$src" "$dest_file"
+  # Replace dots with underscores in folder names to avoid Astro content ID
+  # collisions (e.g. rule-4.1/ would collide with rule-41/ after dot-stripping).
+  safe_num=$(echo "$rule_num" | tr '.' '_')
+  dest_dir="$DEST/rule-$safe_num"
+  mkdir -p "$dest_dir"
+  for src in "$rule_dir"*.md; do
+    [ -f "$src" ] || continue
+    cp "$src" "$dest_dir/"
     count=$((count + 1))
-  fi
+  done
 done
 
-echo "Done. $count rules copied to $DEST."
+echo "Done. $count files copied to $DEST."

@@ -1,0 +1,256 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import RuleTOC from '../../../components/RuleTOC.astro';
+import CopyCitation from '../../../components/CopyCitation.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allEntries = await getCollection('rules');
+  const currentEntries = allEntries.filter((e) => e.id.endsWith('/current.md'));
+  return currentEntries.map((entry) => ({
+    params: { rule: entry.data.rule },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+// Detect abrogated rules: body is empty (abrogated rules have no content)
+const isAbrogated = (entry.body?.trim() ?? '').length < 30;
+---
+
+<BaseLayout
+  title={`Rule ${entry.data.rule}. ${entry.data.title}`}
+  description={`Rule ${entry.data.rule} of the Federal Rules of Civil Procedure: ${entry.data.title}. Current through ${entry.data.last_amended}.`}
+>
+  <div class="flex gap-10 px-6 py-10 max-w-5xl mx-auto">
+    <!-- Main rule content -->
+    <article class="flex-1 min-w-0" data-pagefind-body>
+      <header class="mb-8 pb-6" style="border-bottom: 1px solid rgba(28,28,30,0.1);">
+        <p class="text-xs uppercase tracking-wider mb-2" style="color: #6b7280; font-family: system-ui, sans-serif;">
+          Title {entry.data.title_number} &middot; {entry.data.title_name}
+        </p>
+        <h1
+          class="text-2xl font-bold mb-4 leading-snug"
+          style="font-family: 'Lora', Georgia, serif; color: #1c1c1e;"
+          data-pagefind-meta="title"
+        >
+          Rule {entry.data.rule}. {entry.data.title}
+        </h1>
+        <div class="flex flex-wrap items-center gap-4 text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
+          <span>Amended {entry.data.last_amended}</span>
+          {entry.data.has_deadlines && (
+            <span
+              class="text-[11px] font-semibold uppercase tracking-wide rounded px-2 py-0.5"
+              style="color: #92400e; background-color: #fffbeb; border: 1px solid #fde68a;"
+            >
+              Contains Deadlines
+            </span>
+          )}
+          <CopyCitation ruleNumber={entry.data.rule} />
+        </div>
+      </header>
+
+      {isAbrogated ? (
+        <div class="rounded-lg px-6 py-5" style="border: 1px solid rgba(28,28,30,0.1); background-color: rgba(28,28,30,0.04);">
+          <p class="font-semibold mb-1" style="font-family: system-ui, sans-serif; color: #1c1c1e;">
+            Rule {entry.data.rule} has been abrogated.
+          </p>
+          <p class="text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
+            This rule was removed from the Federal Rules of Civil Procedure and is no longer in effect.
+          </p>
+        </div>
+      ) : (
+        <div class="rule-body">
+          <Content />
+        </div>
+      )}
+
+      <footer class="mt-12 pt-6 text-xs" style="border-top: 1px solid rgba(28,28,30,0.1); color: #6b7280; font-family: system-ui, sans-serif;">
+        Source:&nbsp;
+        <a
+          href={`${entry.data.source_pdf_url}#page=${entry.data.source_pdf_page}`}
+          class="underline underline-offset-2 transition-colors"
+          style="color: #6b7280;"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Official FRCP PDF
+        </a>
+        , p.&nbsp;{entry.data.source_pdf_page}.
+      </footer>
+    </article>
+
+    <!-- Right TOC sidebar (only for non-abrogated rules) -->
+    {!isAbrogated && <RuleTOC />}
+  </div>
+</BaseLayout>
+
+<script define:vars={{ ruleNumber: entry.data.rule }}>
+  // --- Helpers ---
+
+  function idToCitation(id, ruleNum) {
+    const parts = id.split('-').filter(Boolean);
+    const wrapped = parts.map((p) => `(${p})`).join('');
+    return `Fed. R. Civ. P. ${ruleNum}${wrapped}`;
+  }
+
+  // Build a range citation like "Fed. R. Civ. P. 7(a)(1)-(7)".
+  // Finds the longest common prefix of the two ids, then appends
+  // the differing tails with a dash. If same section, returns single cite.
+  function rangeCitation(startId, endId, ruleNum) {
+    if (startId === endId) return idToCitation(startId, ruleNum);
+    const s = startId.split('-');
+    const e = endId.split('-');
+    let common = 0;
+    while (common < s.length && common < e.length && s[common] === e[common]) common++;
+    const prefix = s.slice(0, common).map((p) => `(${p})`).join('');
+    const startSuffix = s.slice(common).map((p) => `(${p})`).join('');
+    const endSuffix = e.slice(common).map((p) => `(${p})`).join('');
+    return `Fed. R. Civ. P. ${ruleNum}${prefix}${startSuffix}-${endSuffix}`;
+  }
+
+  async function copyText(text) {
+    try {
+      await navigator.clipboard.writeText(text);
+    } catch {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.cssText = 'position:fixed;opacity:0;pointer-events:none';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+    }
+  }
+
+  // --- Per-paragraph hover "cite" buttons ---
+
+  document.querySelectorAll('.rule-body p[id]').forEach((p) => {
+    const citation = idToCitation(p.id, ruleNumber);
+
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'cite-btn';
+    btn.dataset.citation = citation;
+    btn.setAttribute('aria-label', `Copy citation: ${citation}`);
+    btn.textContent = 'cite';
+
+    btn.addEventListener('click', async (e) => {
+      e.stopPropagation();
+      await copyText(citation);
+      const orig = btn.textContent;
+      btn.textContent = '✓';
+      setTimeout(() => { btn.textContent = orig; }, 1200);
+    });
+
+    p.appendChild(btn);
+  });
+
+  // --- Selection-based floating cite button ---
+
+  const ruleBody = document.querySelector('.rule-body');
+  const allSections = ruleBody
+    ? Array.from(ruleBody.querySelectorAll('p[id]'))
+    : [];
+
+  // Find the nearest ancestor p[id] for a given node.
+  function nearestSection(node) {
+    let el = node.nodeType === Node.TEXT_NODE ? node.parentElement : node;
+    while (el && el !== ruleBody) {
+      if (el.tagName === 'P' && el.id) return el;
+      el = el.parentElement;
+    }
+    return null;
+  }
+
+  // Create the floating button (once).
+  const selBtn = document.createElement('button');
+  selBtn.type = 'button';
+  selBtn.id = 'sel-cite-btn';
+  selBtn.textContent = 'Copy & Cite';
+  selBtn.style.cssText = [
+    'position:fixed',
+    'z-index:1000',
+    'display:none',
+    'background:#1a2744',
+    'color:#c9a84c',
+    'border:1px solid #c9a84c',
+    'border-radius:4px',
+    'padding:4px 12px',
+    'font-size:12px',
+    'font-family:system-ui,sans-serif',
+    'font-weight:600',
+    'cursor:pointer',
+    'letter-spacing:0.03em',
+    'box-shadow:0 2px 8px rgba(0,0,0,0.25)',
+    'white-space:nowrap',
+  ].join(';');
+  document.body.appendChild(selBtn);
+
+  selBtn.addEventListener('click', async () => {
+    const citation = selBtn.dataset.citation;
+    const selText = selBtn.dataset.selText;
+    if (!citation) return;
+    const payload = selText ? `${selText} ${citation}` : citation;
+    await copyText(payload);
+    const orig = selBtn.textContent;
+    selBtn.textContent = '✓ copied';
+    setTimeout(() => {
+      selBtn.textContent = orig;
+      window.getSelection()?.removeAllRanges();
+      selBtn.style.display = 'none';
+    }, 1200);
+  });
+
+  function positionSelBtn(rect) {
+    const btnW = selBtn.offsetWidth || 110;
+    const x = Math.min(
+      Math.max(rect.left + rect.width / 2 - btnW / 2, 8),
+      window.innerWidth - btnW - 8
+    );
+    const yAbove = rect.top - 38;
+    selBtn.style.left = x + 'px';
+    selBtn.style.top = (yAbove < 8 ? rect.bottom + 8 : yAbove) + 'px';
+  }
+
+  document.addEventListener('selectionchange', () => {
+    const sel = window.getSelection();
+    if (!sel || sel.isCollapsed || sel.rangeCount === 0) {
+      selBtn.style.display = 'none';
+      return;
+    }
+    const range = sel.getRangeAt(0);
+    if (!ruleBody || !ruleBody.contains(range.commonAncestorContainer)) {
+      selBtn.style.display = 'none';
+      return;
+    }
+
+    const startSec = nearestSection(range.startContainer);
+    const endSec = nearestSection(range.endContainer);
+    if (!startSec && !endSec) {
+      selBtn.style.display = 'none';
+      return;
+    }
+
+    const startIdx = allSections.indexOf(startSec ?? endSec);
+    const endIdx = allSections.indexOf(endSec ?? startSec);
+    const first = allSections[Math.min(startIdx, endIdx)];
+    const last = allSections[Math.max(startIdx, endIdx)];
+
+    const citation = rangeCitation(first.id, last.id, ruleNumber);
+    selBtn.dataset.citation = citation;
+    selBtn.dataset.selText = sel.toString().trim();
+    selBtn.setAttribute('aria-label', `Copy selected text with citation: ${citation}`);
+
+    // Show and position
+    selBtn.style.display = 'block';
+    const rect = range.getBoundingClientRect();
+    if (rect.width === 0 && rect.height === 0) {
+      selBtn.style.display = 'none';
+      return;
+    }
+    positionSelBtn(rect);
+  });
+</script>

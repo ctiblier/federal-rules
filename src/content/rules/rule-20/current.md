@@ -1,0 +1,34 @@
+---
+rule: "20"
+title: "Permissive Joinder of Parties"
+title_number: "IV"
+title_name: "Parties"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/file/78323/download"
+source_pdf_page: 49
+versions: ["2025"]
+---
+
+**(a) Persons Who May Join or Be Joined.**
+
+**(1) Plaintiffs.** Persons may join in one action as plaintiffs if:
+
+**(A)** they assert any right to relief jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
+
+**(B)** any question of law or fact common to all plaintiffs will arise in the action.
+
+**(2) Defendants.** Persons—as well as a vessel, cargo, or other property subject to admiralty process in rem—may be joined in one action as defendants if:
+
+**(A)** any right to relief is asserted against them jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
+
+**(B)** any question of law or fact common to all defendants will arise in the action.
+
+**(3) Extent of Relief.** Neither a plaintiff nor a defendant need be interested in obtaining or defending against all the relief demanded. The court may grant judgment to one or more plaintiffs according to their rights, and against one or more defendants according to their liabilities.
+
+**(b) Protective Measures.** The court may issue orders—including an order for separate trials—to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -1,0 +1,18 @@
+---
+rule: "65.1"
+title: "Proceedings Against a Security Provider"
+title_number: "VIII"
+title_name: "Provisional and Final Remedies"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/file/78323/download"
+source_pdf_page: 107
+versions: ["2025"]
+---
+
+Whenever these rules (including the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions) require or allow a party to give security, and security is given with one or more security providers, each provider submits to the court’s jurisdiction and irrevocably appoints the court clerk as its agent for receiving service of any papers that affect its liability on the security. The security provider’s liability may be enforced on motion without an independent action. The motion and any notice that the court orders may be served on the court clerk, who must promptly send a copy of each to every security provider whose address is known.
+
+<p class="amendment-history">(As added Feb. 28, 1966, eff. July 1, 1966; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 26, 2018, eff. Dec. 1, 2018.)</p>

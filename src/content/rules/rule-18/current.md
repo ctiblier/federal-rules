@@ -1,0 +1,20 @@
+---
+rule: "18"
+title: "Joinder of Claims"
+title_number: "IV"
+title_name: "Parties"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/file/78323/download"
+source_pdf_page: 47
+versions: ["2025"]
+---
+
+**(a) In General.** A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
+
+**(b) Joinder of Contingent Claims.** A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties’ relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

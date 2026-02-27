@@ -15,10 +15,12 @@
     "@fontsource/lora": "^5.2.8",
     "@tailwindcss/vite": "^4.2.1",
     "astro": "^5.17.1",
+    "diff-match-patch": "^1.0.5",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
+    "@types/diff-match-patch": "^1.0.36",
     "pagefind": "^1.4.0",
     "rehype-parse": "^9.0.1",
     "rehype-stringify": "^10.0.1",
