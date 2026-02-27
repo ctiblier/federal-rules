@@ -168,7 +168,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
   const selBtn = document.createElement('button');
   selBtn.type = 'button';
   selBtn.id = 'sel-cite-btn';
-  selBtn.textContent = 'Cite selection';
+  selBtn.textContent = 'Copy & Cite';
   selBtn.style.cssText = [
     'position:fixed',
     'z-index:1000',
@@ -190,8 +190,10 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 
   selBtn.addEventListener('click', async () => {
     const citation = selBtn.dataset.citation;
+    const selText = selBtn.dataset.selText;
     if (!citation) return;
-    await copyText(citation);
+    const payload = selText ? `${selText} ${citation}` : citation;
+    await copyText(payload);
     const orig = selBtn.textContent;
     selBtn.textContent = '✓ copied';
     setTimeout(() => {
@@ -238,7 +240,8 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 
     const citation = rangeCitation(first.id, last.id, ruleNumber);
     selBtn.dataset.citation = citation;
-    selBtn.setAttribute('aria-label', `Copy citation: ${citation}`);
+    selBtn.dataset.selText = sel.toString().trim();
+    selBtn.setAttribute('aria-label', `Copy selected text with citation: ${citation}`);
 
     // Show and position
     selBtn.style.display = 'block';
