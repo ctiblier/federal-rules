@@ -60,21 +60,29 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     const observer = new IntersectionObserver((entries) => {
       if (!entries[0].isIntersecting) return;
       observer.disconnect();
-      // Build the path dynamically so Rollup doesn't try to resolve it at build time.
-      const pagefindPath = ['/pagefind', 'pagefind-ui.js'].join('/');
-      import(/* @vite-ignore */ pagefindPath)
-        .then(({ PagefindUI }: { PagefindUI: new (opts: object) => void }) => {
-          new PagefindUI({
-            element: '#pagefind-search',
-            showSubResults: true,
-            resetStyles: false,
-          });
-        })
-        .catch(() => {
-          if (searchEl) {
-            searchEl.innerHTML = '<p style="color: #6b7280; font-size: 0.875rem; font-family: system-ui, sans-serif;">Search available after running <code>npm run build</code>.</p>';
-          }
+
+      // Load Pagefind CSS
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = '/pagefind/pagefind-ui.css';
+      document.head.appendChild(link);
+
+      // Load Pagefind UI via script tag — pagefind-ui.js sets window.PagefindUI
+      const script = document.createElement('script');
+      script.src = '/pagefind/pagefind-ui.js';
+      script.onload = () => {
+        new (window as any).PagefindUI({
+          element: '#pagefind-search',
+          showSubResults: true,
+          resetStyles: false,
         });
+      };
+      script.onerror = () => {
+        if (searchEl) {
+          searchEl.innerHTML = '<p style="color: #6b7280; font-size: 0.875rem; font-family: system-ui, sans-serif;">Search available after running <code>npm run build</code>.</p>';
+        }
+      };
+      document.head.appendChild(script);
     });
     observer.observe(searchEl);
   }
