@@ -1,1 +1,53 @@
+/* Lora font weights */
+@import "@fontsource/lora/400.css";
+@import "@fontsource/lora/400-italic.css";
+@import "@fontsource/lora/700.css";
+
 @import "tailwindcss";
+
+/* Brand design tokens (Tailwind v4 CSS-based config) */
+@theme {
+  --color-navy: #1a2744;
+  --color-off-white: #f8f5f0;
+  --color-gold: #c9a84c;
+  --color-ink: #1c1c1e;
+  --color-muted: #6b7280;
+
+  --font-family-serif: "Lora", "Georgia", serif;
+  --font-family-sans: system-ui, -apple-system, sans-serif;
+}
+
+/* Base styles */
+html {
+  background-color: var(--color-off-white);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Rule body prose — applies to .rule-body container wrapping rendered Markdown */
+.rule-body p {
+  font-family: var(--font-family-serif);
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.rule-body strong {
+  font-weight: 700;
+}
+
+/* Accessible focus ring using gold accent */
+:focus-visible {
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
