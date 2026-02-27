@@ -8,30 +8,24 @@
   <div class="flex items-center justify-between px-6 py-3 max-w-5xl mx-auto">
     <a
       href="/"
-      class="font-bold text-[15px] transition-colors"
+      class="site-name font-bold text-[15px] transition-colors"
       style="font-family: 'Lora', Georgia, serif; color: #1c1c1e;"
-      onmouseover="this.style.color='#1a2744'"
-      onmouseout="this.style.color='#1c1c1e'"
     >
       Federal Rules of Civil Procedure
     </a>
     <nav class="flex items-center gap-5 text-sm" aria-label="Site navigation" style="font-family: system-ui, sans-serif;">
       <a
         href="/rules/"
-        class="transition-colors"
+        class="site-nav-link transition-colors"
         style="color: #6b7280;"
-        onmouseover="this.style.color='#1c1c1e'"
-        onmouseout="this.style.color='#6b7280'"
       >
         All Rules
       </a>
       <a
         href="/#search"
-        class="flex items-center gap-1.5 transition-colors"
+        class="site-nav-link flex items-center gap-1.5 transition-colors"
         style="color: #6b7280;"
         aria-label="Search the rules"
-        onmouseover="this.style.color='#1c1c1e'"
-        onmouseout="this.style.color='#6b7280'"
       >
         <svg width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true">
           <circle cx="6.5" cy="6.5" r="4.5" stroke="currentColor" stroke-width="1.3"/>
@@ -42,3 +36,8 @@
     </nav>
   </div>
 </header>
+
+<style>
+  .site-nav-link:hover { color: #1c1c1e; }
+  .site-name:hover { color: #1a2744; }
+</style>

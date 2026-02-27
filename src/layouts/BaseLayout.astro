@@ -26,6 +26,31 @@ const {
   </head>
   <body class="min-h-screen" style="background-color: #f8f5f0;">
 
+    <!-- Skip to main content link (accessibility - WCAG 2.4.1) -->
+    <a
+      href="#main-content"
+      id="skip-link"
+      style="position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 100; font-family: system-ui, sans-serif; font-size: 0.875rem; font-weight: 500;"
+    >
+      Skip to main content
+    </a>
+    <style>
+      #skip-link:focus {
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 1rem;
+        width: auto;
+        height: auto;
+        overflow: visible;
+        background-color: #1a2744;
+        color: white;
+        padding: 0.5rem 1rem;
+        border-radius: 0.375rem;
+        text-decoration: none;
+      }
+    </style>
+
     <!-- Mobile sidebar toggle -->
     <button
       id="sidebar-toggle"
@@ -81,6 +106,9 @@ const {
         toggle.setAttribute('aria-label', 'Close rule navigation');
         toggle.setAttribute('aria-expanded', 'true');
         document.body.style.overflow = 'hidden';
+        // Move focus into sidebar
+        const firstLink = sidebar.querySelector('a, button, [tabindex="0"]');
+        if (firstLink) firstLink.focus();
       }
 
       function closeSidebar() {
@@ -89,6 +117,8 @@ const {
         toggle.setAttribute('aria-label', 'Open rule navigation');
         toggle.setAttribute('aria-expanded', 'false');
         document.body.style.overflow = '';
+        // Return focus to toggle
+        toggle.focus();
       }
 
       toggle.addEventListener('click', () => {
@@ -97,6 +127,27 @@ const {
       overlay.addEventListener('click', closeSidebar);
       document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') closeSidebar();
+
+        // Focus trap: when sidebar is open, keep Tab within sidebar elements
+        if (e.key === 'Tab' && toggle.getAttribute('aria-expanded') === 'true') {
+          const focusable = Array.from(
+            sidebar.querySelectorAll('a, button, [tabindex="0"], [tabindex="-1"]:not([tabindex="-1"])')
+          ).filter((el) => !el.hasAttribute('disabled') && el.offsetParent !== null);
+          if (focusable.length === 0) return;
+          const first = focusable[0];
+          const last = focusable[focusable.length - 1];
+          if (e.shiftKey) {
+            if (document.activeElement === first) {
+              e.preventDefault();
+              last.focus();
+            }
+          } else {
+            if (document.activeElement === last) {
+              e.preventDefault();
+              first.focus();
+            }
+          }
+        }
       });
     </script>
   </body>

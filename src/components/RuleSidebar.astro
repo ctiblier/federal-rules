@@ -37,7 +37,7 @@ const currentPath = Astro.url.pathname;
   </a>
 
   {Array.from(groups.entries()).map(([titleNum, group]) => {
-    const isSupplemental = titleNum === 'Supp' || !/^\d/.test(titleNum);
+    const isSupplemental = titleNum === '';
     const groupLabel = isSupplemental ? 'Supplemental Rules' : `Title ${titleNum}`;
 
     return (

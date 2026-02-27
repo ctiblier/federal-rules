@@ -71,4 +71,16 @@ describe('rehype-subsection-anchors', () => {
     const result = await process(html);
     expect(result).not.toContain('id=');
   });
+
+  it('treats (v) as roman numeral (level 4), not lowercase letter (level 1)', async () => {
+    const html = `
+      <p><strong>(a) Scope.</strong></p>
+      <p><strong>(1) General.</strong></p>
+      <p><strong>(A)</strong> requirements:</p>
+      <p><strong>(v)</strong> fifth item;</p>
+    `;
+    const result = await process(html);
+    expect(result).toContain('id="a-1-A-v"');
+    expect(result).not.toContain('id="v"');
+  });
 });
