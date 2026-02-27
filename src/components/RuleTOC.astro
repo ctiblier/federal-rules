@@ -1,0 +1,76 @@
+---
+---
+
+<nav
+  id="rule-toc"
+  class="hidden xl:block w-44 shrink-0 sticky top-20 self-start max-h-[calc(100vh-6rem)] overflow-y-auto"
+  aria-label="On this page"
+  style="font-family: system-ui, sans-serif;"
+>
+  <p class="text-[11px] font-bold tracking-widest uppercase mb-3" style="color: #6b7280;">
+    On this page
+  </p>
+  <ul id="toc-list" class="space-y-0.5 text-[13px]"></ul>
+</nav>
+
+<script is:inline>
+  (function () {
+    const container = document.getElementById('rule-toc');
+    const list = document.getElementById('toc-list');
+    if (!container || !list) return;
+
+    // Top-level subsections: id contains no hyphen (e.g. "a", "b", not "a-1")
+    const topLevelParagraphs = Array.from(
+      document.querySelectorAll('.rule-body p[id]')
+    ).filter((p) => !p.id.includes('-'));
+
+    if (topLevelParagraphs.length < 2) {
+      container.classList.add('hidden');
+      return;
+    }
+
+    topLevelParagraphs.forEach((p) => {
+      const strong = p.querySelector('strong');
+      if (!strong) return;
+      const labelText = strong.textContent.trim().split(' ')[0];
+
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = '#' + p.id;
+      a.textContent = labelText;
+      a.dataset.tocId = p.id;
+      a.className = 'block py-0.5 px-2 rounded transition-colors';
+      a.style.color = '#6b7280';
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+
+    // Highlight active section on scroll
+    const links = list.querySelectorAll('a[data-toc-id]');
+
+    function setActive(id) {
+      links.forEach((l) => {
+        l.style.color = '#6b7280';
+        l.style.fontWeight = '';
+        l.style.backgroundColor = '';
+      });
+      const active = list.querySelector(`[data-toc-id="${id}"]`);
+      if (active) {
+        active.style.color = '#c9a84c';
+        active.style.fontWeight = '600';
+        active.style.backgroundColor = 'rgba(201,168,76,0.1)';
+      }
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) setActive(entry.target.id);
+        });
+      },
+      { rootMargin: '-10% 0% -80% 0%' }
+    );
+
+    topLevelParagraphs.forEach((p) => observer.observe(p));
+  })();
+</script>

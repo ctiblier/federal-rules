@@ -1,0 +1,48 @@
+---
+interface Props {
+  ruleNumber: string;
+}
+const { ruleNumber } = Astro.props;
+const citation = `Fed. R. Civ. P. ${ruleNumber}`;
+---
+
+<button
+  class="copy-citation inline-flex items-center gap-1.5 text-xs font-medium transition-colors"
+  data-citation={citation}
+  aria-label={`Copy citation: ${citation}`}
+  type="button"
+  style="font-family: system-ui, sans-serif; color: #c9a84c;"
+>
+  <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true">
+    <rect x="4.5" y="4.5" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.2"/>
+    <path d="M1.5 8.5V1.5h7" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  Copy citation
+</button>
+
+<script is:inline>
+  document.querySelectorAll('.copy-citation').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const citation = btn.dataset.citation;
+      try {
+        await navigator.clipboard.writeText(citation);
+      } catch {
+        // Fallback for browsers without clipboard API
+        const ta = document.createElement('textarea');
+        ta.value = citation;
+        ta.style.cssText = 'position:fixed;opacity:0;pointer-events:none';
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      }
+      const original = btn.innerHTML;
+      btn.textContent = 'Copied!';
+      btn.setAttribute('aria-label', 'Citation copied to clipboard');
+      setTimeout(() => {
+        btn.innerHTML = original;
+        btn.setAttribute('aria-label', `Copy citation: ${citation}`);
+      }, 1500);
+    });
+  });
+</script>
