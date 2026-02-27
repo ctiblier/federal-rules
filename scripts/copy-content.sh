@@ -15,7 +15,13 @@ for rule_dir in "$RULES_DIR"/rule-*/; do
   rule_num=$(basename "$rule_dir" | sed 's/rule-//')
   src="$rule_dir/current.md"
   if [ -f "$src" ]; then
-    cp "$src" "$DEST/$rule_num.md"
+    # Decimal rules get "rule-" prefix to avoid Astro ID collision
+    if echo "$rule_num" | grep -q '\.'; then
+      dest_file="$DEST/rule-$rule_num.md"
+    else
+      dest_file="$DEST/$rule_num.md"
+    fi
+    cp "$src" "$dest_file"
     count=$((count + 1))
   fi
 done
