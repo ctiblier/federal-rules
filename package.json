@@ -1,0 +1,26 @@
+{
+  "name": "federal-rules",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "vitest run",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@fontsource/lora": "^5.2.8",
+    "@tailwindcss/vite": "^4.2.1",
+    "astro": "^5.17.1",
+    "tailwindcss": "^4.2.1"
+  },
+  "devDependencies": {
+    "rehype-parse": "^9.0.1",
+    "rehype-stringify": "^10.0.1",
+    "unified": "^11.0.5",
+    "unist-util-visit": "^5.1.0",
+    "vitest": "^4.0.18"
+  }
+}
