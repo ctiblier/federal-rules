@@ -83,4 +83,19 @@ describe('rehype-subsection-anchors', () => {
     expect(result).toContain('id="a-1-A-v"');
     expect(result).not.toContain('id="v"');
   });
+
+  it('treats (i) as level-1 alphabetical when no level-3 section is active', async () => {
+    // Rule 4(i) is the 9th top-level subsection — alphabetical, not roman numeral.
+    // After (h)(2), path[2] is reset, so (i) must be level-1.
+    const html = `
+      <p><strong>(h) Serving a Corporation.</strong></p>
+      <p><strong>(1) In General.</strong> text;</p>
+      <p><strong>(A)</strong> first way; or</p>
+      <p><strong>(2)</strong> at a place not within;</p>
+      <p><strong>(i) Serving the United States.</strong></p>
+    `;
+    const result = await process(html);
+    expect(result).toContain('id="i"');
+    expect(result).not.toContain('id="h-2-i"');
+  });
 });

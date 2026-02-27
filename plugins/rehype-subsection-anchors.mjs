@@ -14,16 +14,33 @@ const LABEL_PATTERNS = [
  * Extract the label token from the beginning of a strong element's text.
  * Returns { level, labelValue } or null.
  *
+ * path is the current 4-element hierarchy path used for context:
+ * - If path[2] is non-empty (inside a level-3 section), roman numerals like
+ *   (i)/(v)/(x) are level-4.
+ * - If path[2] is empty, those same letters are level-1 alphabetical labels
+ *   (e.g. Rule 4(i) is the 9th top-level subsection, not a roman numeral).
+ *
  * Examples:
  *   "(a) Contents; Amendments." → { level: 1, labelValue: "a" }
  *   "(1) General." → { level: 2, labelValue: "1" }
  *   "(A)" → { level: 3, labelValue: "A" }
- *   "(i)" → { level: 4, labelValue: "i" }
+ *   "(i)" inside (A) → { level: 4, labelValue: "i" }
+ *   "(i)" at top level → { level: 1, labelValue: "i" }
  */
-function detectLabel(text) {
+function detectLabel(text, path) {
   // Extract only the first whitespace-delimited token — the label itself
   const token = text.trim().split(/\s/)[0];
-  for (const { level, re } of LABEL_PATTERNS) {
+  // Context-aware ordering: roman numerals (level 4) only take precedence
+  // over lowercase letters (level 1) when we're inside an active level-3 section.
+  const hasLevel3 = Boolean(path[2]);
+  const patterns = hasLevel3
+    ? LABEL_PATTERNS
+    : [...LABEL_PATTERNS].sort((a, b) => {
+        if (a.level === 1 && b.level === 4) return -1;
+        if (a.level === 4 && b.level === 1) return 1;
+        return 0;
+      });
+  for (const { level, re } of patterns) {
     const m = re.exec(token);
     if (m) {
       return { level, labelValue: m[1] };
@@ -66,7 +83,7 @@ export default function rehypeSubsectionAnchors() {
         .join('');
       if (!strongText) return;
 
-      const detected = detectLabel(strongText);
+      const detected = detectLabel(strongText, path);
       if (!detected) return;
 
       const { level, labelValue } = detected;
