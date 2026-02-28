@@ -89,6 +89,25 @@ html {
 .rule-body p[data-level="3"]::before { left: 3.5rem; }
 .rule-body p[data-level="4"]::before { left: 5rem; }
 
+/* Diff view: inserted/deleted text highlighting */
+ins.diff-ins {
+  background-color: #dcfce7;
+  color: #166534;
+  text-decoration: none;
+}
+del.diff-del {
+  background-color: #fee2e2;
+  color: #991b1b;
+  text-decoration: line-through;
+}
+.diff-content {
+  font-family: var(--font-family-serif);
+  font-size: 0.9375rem;
+  line-height: 1.75;
+  color: #1c1c1e;
+  white-space: pre-wrap;
+}
+
 /* History dropdown links */
 #history-dropdown a:hover { background-color: #f9fafb; color: #1c1c1e !important; }
 

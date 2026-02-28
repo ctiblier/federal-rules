@@ -53,7 +53,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
           Rule {entry.data.rule}. {entry.data.title}
         </h1>
         <div class="flex flex-wrap items-center gap-4 text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
-          <span>Amended {entry.data.last_amended}</span>
+          <span>Amended {entry.data.last_amended} <span style="color: #9ca3af; font-size: 0.75rem;">(current)</span></span>
           {entry.data.has_deadlines && (
             <span
               class="text-[11px] font-semibold uppercase tracking-wide rounded px-2 py-0.5"

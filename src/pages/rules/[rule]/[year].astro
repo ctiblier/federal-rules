@@ -47,19 +47,30 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 const year = Astro.params.year;
 
 // --- Build-time diff vs current ---
+
+// Strip Markdown formatting so the diff compares and displays plain text
+// rather than raw syntax like **bold** or ### headings.
+function stripMarkdown(text: string): string {
+  return text
+    .replace(/\*\*(.+?)\*\*/gs, '$1')   // **bold** → bold
+    .replace(/\*(.+?)\*/gs, '$1')        // *italic* → italic
+    .replace(/^#{1,6}\s+/gm, '')         // ### Heading → Heading
+    .replace(/<[^>]+>/g, '')             // strip HTML tags (e.g. amendment notice)
+    .replace(/\n{3,}/g, '\n\n')          // collapse excess blank lines
+    .trim();
+}
+
 function buildDiffHtml(historical: string, current: string): string {
   const dmp = new diff_match_patch();
-  const diffs = dmp.diff_main(historical, current);
+  const diffs = dmp.diff_main(stripMarkdown(historical), stripMarkdown(current));
   dmp.diff_cleanupSemantic(diffs);
 
   return diffs
     .map(([op, text]) => {
-      // Escape HTML entities and preserve newlines
       const escaped = text
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/\n/g, '\n');
+        .replace(/>/g, '&gt;');
       if (op === DIFF_INSERT) return `<ins class="diff-ins">${escaped}</ins>`;
       if (op === DIFF_DELETE) return `<del class="diff-del">${escaped}</del>`;
       return escaped;
@@ -95,14 +106,16 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
           <option value={y} selected={y === year}>{y}</option>
         ))}
       </select>
-      {hasChanges && (
+      {hasChanges ? (
         <button
           id="diff-toggle"
           type="button"
           style="background: none; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.2rem 0.625rem; font-size: 0.75rem; font-weight: 600; cursor: pointer; font-family: system-ui, sans-serif;"
         >
-          Show diff vs current
+          What changed?
         </button>
+      ) : (
+        <span style="font-size: 0.75rem; color: #92400e; font-style: italic;">Same as current rule</span>
       )}
     </div>
     <a
@@ -181,25 +194,6 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
   </div>
 </BaseLayout>
 
-<style>
-  .diff-ins {
-    background-color: #dcfce7;
-    color: #166534;
-    text-decoration: none;
-  }
-  .diff-del {
-    background-color: #fee2e2;
-    color: #991b1b;
-    text-decoration: line-through;
-  }
-  .diff-content {
-    font-family: 'Lora', Georgia, serif;
-    font-size: 0.9375rem;
-    line-height: 1.75;
-    color: #1c1c1e;
-    white-space: pre-wrap;
-  }
-</style>
 
 <script define:vars={{ ruleNumber: entry.data.rule }}>
   // Version selector navigation
@@ -220,7 +214,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
       if (showingDiff) {
         diffView.style.display = 'none';
         readingView.style.display = '';
-        toggleBtn.textContent = 'Show diff vs current';
+        toggleBtn.textContent = 'What changed?';
       } else {
         readingView.style.display = 'none';
         diffView.style.display = '';
