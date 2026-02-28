@@ -83,10 +83,15 @@ const currentPath = Astro.url.pathname;
                   }
                   aria-current={isActive ? 'page' : undefined}
                 >
-                  <span class="font-mono text-[12px] w-8 shrink-0 text-right" style="color: rgba(255,255,255,0.6);">
+                  <span class="font-mono text-[12px] w-12 shrink-0 text-right" style="color: rgba(255,255,255,0.6);">
                     {rule.data.rule}
                   </span>
-                  <span class="truncate">{rule.data.title}</span>
+                  <span class="truncate flex-1">{rule.data.title}</span>
+                  {rule.data.has_deadlines && (
+                    <span class="shrink-0 text-[9px] font-bold uppercase tracking-wide px-1 rounded" style="background: rgba(201,168,76,0.2); color: #c9a84c; line-height: 1.6;">
+                      D
+                    </span>
+                  )}
                 </a>
               </li>
             );

@@ -8,6 +8,7 @@ export function stripMarkdown(text: string): string {
     .replace(/\*(.+?)\*/gs, '$1')        // *italic* → italic
     .replace(/^#{1,6}\s+/gm, '')         // ### Heading → Heading
     .replace(/<[^>]+>/g, '')             // strip HTML tags
+    .replace(/[—–]/g, '-')              // normalize em-dash/en-dash → hyphen
     .replace(/\n{3,}/g, '\n\n')          // collapse excess blank lines
     .trim();
 }
