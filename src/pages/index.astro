@@ -228,14 +228,17 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 </style>
 
 <script>
-  let selectedRuleset = '';
+  // Multi-select ruleset pills. Empty set = search all rulesets.
+  const selectedRulesets = new Set<string>();
   let pagefindLoaded = false;
 
-  function initSearch(ruleset: string) {
+  function initSearch() {
     const el = document.getElementById('home-search');
     if (!el) return;
     el.innerHTML = '';
-    const filters = ruleset ? { ruleset } : {};
+    const filters = selectedRulesets.size > 0
+      ? { ruleset: [...selectedRulesets] }
+      : {};
     new (window as any).PagefindUI({
       element: '#home-search',
       showSubResults: false,
@@ -244,7 +247,17 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
     });
   }
 
-  // Lazy-load Pagefind when the search div scrolls into view
+  function syncPills() {
+    const anySelected = selectedRulesets.size > 0;
+    document.querySelectorAll<HTMLButtonElement>('.rs-pill').forEach((b) => {
+      const r = b.dataset.ruleset ?? '';
+      const active = r === '' ? !anySelected : selectedRulesets.has(r);
+      b.classList.toggle('rs-pill--active', active);
+      b.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+  }
+
+  // Lazy-load Pagefind when the search section scrolls into view
   const searchEl = document.getElementById('home-search');
   if (searchEl) {
     const observer = new IntersectionObserver((entries) => {
@@ -252,7 +265,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
       observer.disconnect();
       const script = document.createElement('script');
       script.src = '/pagefind/pagefind-ui.js';
-      script.onload = () => { pagefindLoaded = true; initSearch(selectedRuleset); };
+      script.onload = () => { pagefindLoaded = true; initSearch(); };
       script.onerror = () => {
         if (searchEl) searchEl.innerHTML =
           '<p style="color:#6b7280;font-size:0.875rem;font-family:system-ui,sans-serif;">Search available after running <code>npm run build</code>.</p>';
@@ -262,17 +275,22 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
     observer.observe(searchEl);
   }
 
-  // Pill click handler
+  // Pill click: "All" clears selection; individual pills toggle on/off
   document.querySelectorAll<HTMLButtonElement>('.rs-pill').forEach((btn) => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.rs-pill').forEach((b) => {
-        b.classList.remove('rs-pill--active');
-        b.setAttribute('aria-pressed', 'false');
-      });
-      btn.classList.add('rs-pill--active');
-      btn.setAttribute('aria-pressed', 'true');
-      selectedRuleset = btn.dataset.ruleset ?? '';
-      if (pagefindLoaded) initSearch(selectedRuleset);
+      const r = btn.dataset.ruleset ?? '';
+      if (r === '') {
+        // "All" — clear everything
+        selectedRulesets.clear();
+      } else {
+        if (selectedRulesets.has(r)) {
+          selectedRulesets.delete(r);
+        } else {
+          selectedRulesets.add(r);
+        }
+      }
+      syncPills();
+      if (pagefindLoaded) initSearch();
     });
   });
 </script>

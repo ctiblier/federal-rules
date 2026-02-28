@@ -53,6 +53,54 @@ const {
         border-radius: 0.375rem;
         text-decoration: none;
       }
+      /* Cross-reference links — visually distinct, not disruptive */
+      .rule-xref {
+        color: #1a2744 !important;
+        font-weight: 600 !important;
+        text-decoration: underline !important;
+        text-decoration-style: dotted !important;
+        text-underline-offset: 3px !important;
+        text-decoration-color: rgba(26,39,68,0.5) !important;
+        cursor: pointer;
+      }
+      .rule-xref:hover, .rule-xref:focus {
+        color: #8b5c08 !important;
+        text-decoration-style: solid !important;
+        text-decoration-color: #c9a84c !important;
+        outline: none;
+      }
+      .rule-xref:focus-visible {
+        outline: 2px solid #c9a84c;
+        outline-offset: 2px;
+        border-radius: 2px;
+      }
+      /* Hide Pagefind's built-in filter checkboxes site-wide (we use our own controls) */
+      .pagefind-ui__filter-panel { display: none !important; }
+      /* Search sticky: non-sticky on mobile so results scroll naturally */
+      @media (max-width: 767px) {
+        .search-sticky { position: static !important; top: auto !important; }
+      }
+      /* Back to top */
+      #back-to-top {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        z-index: 40;
+        width: 2.5rem;
+        height: 2.5rem;
+        border-radius: 50%;
+        background: #1a2744;
+        color: #c9a84c;
+        border: none;
+        cursor: pointer;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.25);
+        transition: transform 0.15s;
+      }
+      #back-to-top:hover { transform: translateY(-2px); }
+      #back-to-top:focus-visible { outline: 2px solid #c9a84c; outline-offset: 2px; }
     </style>
 
     {!noSidebar && (
@@ -105,9 +153,54 @@ const {
       </div>
     </div>
 
+    <!-- Back to top button -->
+    <button
+      id="back-to-top"
+      type="button"
+      aria-label="Back to top"
+    >
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <path d="M8 13V3M3 8l5-5 5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+
     <script>
-      // Cross-reference auto-linking + side-by-side panel
-      // Exits immediately on any page without a rule body.
+      // ── Back to top ───────────────────────────────────────────────────────
+      const btt = document.getElementById('back-to-top') as HTMLButtonElement | null;
+      if (btt) {
+        window.addEventListener('scroll', () => {
+          btt.style.display = window.scrollY > 400 ? 'flex' : 'none';
+        }, { passive: true });
+        btt.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+      }
+
+      // ── Ruleset filter indicator on ruleset index pages ───────────────────
+      // Shows "Searching: Civil Procedure" above the search box so users know results are pre-filtered.
+      const INDEX_LABELS: Record<string, string> = {
+        civil: 'Civil Procedure',
+        criminal: 'Criminal Procedure',
+        appellate: 'Appellate Procedure',
+        evidence: 'Evidence',
+        bankruptcy: 'Bankruptcy Procedure',
+      };
+      const indexMatch = window.location.pathname.match(/^\/(civil|criminal|appellate|evidence|bankruptcy)\/?$/);
+      if (indexMatch) {
+        const rs = indexMatch[1];
+        const searchSection = document.getElementById('search');
+        if (searchSection && INDEX_LABELS[rs]) {
+          const indicator = document.createElement('p');
+          indicator.style.cssText =
+            'font-size:0.75rem;font-family:system-ui,sans-serif;color:#1a2744;' +
+            'font-weight:600;margin-bottom:0.5rem;display:flex;align-items:center;gap:0.375rem;';
+          indicator.innerHTML =
+            `<span style="display:inline-block;width:0.5rem;height:0.5rem;border-radius:50%;background:#1a2744;flex-shrink:0;" aria-hidden="true"></span>` +
+            `Searching: ${INDEX_LABELS[rs]}`;
+          searchSection.insertAdjacentElement('afterbegin', indicator);
+        }
+      }
+
+      // ── Cross-reference auto-linking + side-by-side panel ────────────────
+      // Only runs on rule pages (pages with .rule-body). Exits early otherwise.
       const ruleBody = document.querySelector<HTMLElement>('.rule-body');
       if (ruleBody) {
         const ruleset = window.location.pathname.split('/').filter(Boolean)[0] ?? '';
@@ -118,11 +211,22 @@ const {
           evidence: 'Evidence',
           bankruptcy: 'Bankruptcy Procedure',
         };
+
         if (RULESETS[ruleset]) {
-          // ── 1. Inject the reference panel ────────────────────────────────
+          // Screen-reader live region for panel state announcements
+          const srAnnounce = document.createElement('div');
+          srAnnounce.setAttribute('aria-live', 'polite');
+          srAnnounce.setAttribute('aria-atomic', 'true');
+          srAnnounce.style.cssText =
+            'clip:rect(0,0,0,0);height:1px;overflow:hidden;position:absolute;width:1px;white-space:nowrap;';
+          document.body.appendChild(srAnnounce);
+
+          // ── Reference panel ─────────────────────────────────────────────
           const panel = document.createElement('aside');
           panel.id = 'rule-ref-panel';
+          panel.setAttribute('role', 'region');
           panel.setAttribute('aria-label', 'Referenced rule');
+          panel.setAttribute('tabindex', '-1');
           panel.style.cssText =
             'position:fixed;right:0;top:0;height:100vh;width:min(46vw,640px);z-index:35;' +
             'background:#f8f5f0;border-left:1px solid rgba(28,28,30,0.15);' +
@@ -141,65 +245,99 @@ const {
                   font-family:'Lora',Georgia,serif;line-height:1.3;"></p>
               </div>
               <div style="display:flex;align-items:center;gap:0.5rem;flex-shrink:0;margin-top:0.1rem;">
-                <a id="rp-link" href="" style="font-size:0.6875rem;font-family:system-ui,sans-serif;
+                <a id="rp-link" href=""
+                  style="font-size:0.6875rem;font-family:system-ui,sans-serif;
                   color:#1a2744;font-weight:600;text-decoration:none;
                   border:1px solid rgba(26,39,68,0.3);padding:0.25rem 0.5rem;
-                  border-radius:0.25rem;white-space:nowrap;transition:background 0.12s;">
+                  border-radius:0.25rem;white-space:nowrap;transition:background 0.12s;"
+                  aria-label="Open full rule page">
                   Full rule ↗
                 </a>
                 <button id="rp-close" type="button" aria-label="Close reference panel"
                   style="font-size:1.125rem;color:#6b7280;background:none;border:none;
-                  cursor:pointer;padding:0.125rem 0.25rem;line-height:1;transition:color 0.12s;">
-                  ✕
-                </button>
+                  cursor:pointer;padding:0.125rem 0.375rem;line-height:1;transition:color 0.12s;
+                  border-radius:0.25rem;">✕</button>
               </div>
             </div>
             <div id="rp-body" style="padding:1.25rem 1.5rem 3rem;"></div>
           `;
           document.body.appendChild(panel);
 
-          const rpClose = document.getElementById('rp-close')!;
+          const rpClose = document.getElementById('rp-close') as HTMLButtonElement;
           const rpLink  = document.getElementById('rp-link') as HTMLAnchorElement;
           const rpTitle = document.getElementById('rp-title')!;
           const rpLabel = document.getElementById('rp-ruleset')!;
           const rpBody  = document.getElementById('rp-body')!;
 
-          function closePanel() { panel.style.display = 'none'; }
+          let panelTrigger: HTMLElement | null = null;
+
+          function closePanel() {
+            panel.style.display = 'none';
+            panelTrigger?.focus(); // return focus to the link that opened the panel
+            panelTrigger = null;
+          }
           rpClose.addEventListener('click', closePanel);
           document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && panel.style.display !== 'none') closePanel();
           });
 
-          // ── 2. Fetch referenced rule and populate panel ───────────────────
-          async function openPanel(ruleNum: string) {
+          // Convert subsection string "(a)(1)" → anchor "#a-1"
+          function toAnchor(subs: string): string {
+            const parts = [...subs.matchAll(/\(([^)]+)\)/g)].map(m => m[1]);
+            return parts.length ? '#' + parts.join('-') : '';
+          }
+
+          // ── Fetch + display a referenced rule ──────────────────────────
+          async function openPanel(ruleNum: string, anchor: string, trigger: HTMLElement) {
+            panelTrigger = trigger;
             const url = `/${ruleset}/${ruleNum}/`;
             rpLink.href = url;
-            rpLabel.textContent = RULESETS[ruleset];
+            rpLabel.textContent = RULESETS[ruleset] ?? '';
             rpTitle.textContent = `Rule ${ruleNum}`;
             rpBody.innerHTML =
-              '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;">Loading…</p>';
+              '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;padding:0.5rem 0;">Loading…</p>';
             panel.style.display = 'block';
             panel.scrollTop = 0;
+            requestAnimationFrame(() => rpClose.focus()); // move focus into panel
+            srAnnounce.textContent = `Opening Rule ${ruleNum}`;
+
             try {
               const res = await fetch(url);
               if (!res.ok) throw new Error(String(res.status));
               const html = await res.text();
               const doc = new DOMParser().parseFromString(html, 'text/html');
               const h1 = doc.querySelector('article h1');
-              if (h1) rpTitle.textContent = h1.textContent ?? `Rule ${ruleNum}`;
+              if (h1) rpTitle.textContent = h1.textContent?.trim() ?? `Rule ${ruleNum}`;
               const body = doc.querySelector('.rule-body');
               rpBody.innerHTML = '';
-              if (body) rpBody.appendChild(document.adoptNode(body));
-              else rpBody.innerHTML =
-                '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;">Content not available.</p>';
+              if (body) {
+                // Prefix all IDs to avoid conflicts with main page element IDs
+                body.querySelectorAll('[id]').forEach(el => { el.id = 'rp-' + el.id; });
+                rpBody.appendChild(document.adoptNode(body));
+                // Scroll to subsection if a specific anchor was requested
+                if (anchor) {
+                  const anchorId = 'rp-' + anchor.slice(1); // "#a-1" → "rp-a-1"
+                  requestAnimationFrame(() => {
+                    const target = rpBody.querySelector<HTMLElement>(`#${CSS.escape(anchorId)}`);
+                    if (target) target.scrollIntoView({ block: 'start', behavior: 'smooth' });
+                  });
+                }
+              } else {
+                rpBody.innerHTML =
+                  '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;">Content not available.</p>';
+              }
+              srAnnounce.textContent = `Rule ${ruleNum} loaded`;
             } catch {
               rpBody.innerHTML =
-                '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;">Could not load rule.</p>';
+                '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;">Could not load rule. Try opening the full rule page.</p>';
+              srAnnounce.textContent = `Could not load Rule ${ruleNum}`;
             }
           }
 
-          // ── 3. Auto-link "Rule N" / "Rule N.N" in the rule body ──────────
-          const RULE_RE = /\bRule\s+(\d+(?:\.\d+)?)\b/g;
+          // ── Auto-link "Rule N(a)(b)..." patterns in rule text ──────────
+          // Captures optional subsection sequence: "Rule 26(a)(1)" → href="/civil/26/#a-1"
+          const RULE_RE = /\bRule\s+(\d+(?:\.\d+)?)\s*((?:\([^)]+\))*)/g;
+
           function linkify(node: Node) {
             if (node.nodeType === Node.TEXT_NODE) {
               const text = node.textContent ?? '';
@@ -207,11 +345,12 @@ const {
               if (!RULE_RE.test(text)) return;
               const wrap = document.createElement('span');
               RULE_RE.lastIndex = 0;
-              wrap.innerHTML = text.replace(RULE_RE, (match, num) =>
-                `<a href="/${ruleset}/${num}/" class="rule-xref" data-rule="${num}"
-                   style="color:inherit;border-bottom:1px dotted rgba(26,39,68,0.5);
-                   text-decoration:none;cursor:pointer;">${match}</a>`
-              );
+              wrap.innerHTML = text.replace(RULE_RE, (match, num, subs) => {
+                const anchor = toAnchor(subs ?? '');
+                const href = `/${ruleset}/${num}/${anchor}`;
+                return `<a href="${href}" class="rule-xref" data-rule="${num}" data-anchor="${anchor}"` +
+                  ` aria-label="${match}: view in side panel">${match}</a>`;
+              });
               node.parentNode?.replaceChild(wrap, node);
             } else if (
               node.nodeType === Node.ELEMENT_NODE &&
@@ -222,13 +361,13 @@ const {
           }
           linkify(ruleBody);
 
-          // Intercept clicks on cross-ref links (desktop only — mobile navigates normally)
+          // On desktop: open side panel. On mobile: follow the href normally.
           ruleBody.addEventListener('click', (e) => {
             if (window.innerWidth < 768) return;
             const link = (e.target as Element).closest<HTMLAnchorElement>('.rule-xref');
             if (!link) return;
             e.preventDefault();
-            openPanel(link.dataset.rule!);
+            openPanel(link.dataset.rule!, link.dataset.anchor ?? '', link);
           });
         }
       }
