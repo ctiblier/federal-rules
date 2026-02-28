@@ -7,7 +7,7 @@ summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
 source_pdf_page: 47
 versions: ["2025"]
@@ -129,4 +129,6 @@ versions: ["2025"]
 
 **(C)** prohibit that party from introducing the undisclosed evidence; or
 
-**(D)** enter any other order that is just under the circumstances. (As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(20)–(28), July 31, 1975, 89 Stat. 374, 375, eff. Dec. 1, 1975; Pub. L. 94–149, § 5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, § 11019(b), Nov. 2, 2002, 117 Stat. 1825, eff. Dec. 1, 2002; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.)
+**(D)** enter any other order that is just under the circumstances.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(20)–(28), July 31, 1975, 89 Stat. 374, 375, eff. Dec. 1, 1975; Pub. L. 94–149, § 5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, § 11019(b), Nov. 2, 2002, 117 Stat. 1825, eff. Dec. 1, 2002; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.)</p>

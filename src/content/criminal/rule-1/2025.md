@@ -75,7 +75,7 @@ versions: ["2025"]
 
 **(8) ‘‘Petty offense’’ is defined in 18 U.S.C. § 19.**
 
-**(9) ‘‘State’’ includes the District of Columbia, and any commonwealth, territory, or possession of the United States.**
+**(9)** ‘‘State’’ includes the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 **(10) ‘‘State or local judicial officer’’ means:**
 

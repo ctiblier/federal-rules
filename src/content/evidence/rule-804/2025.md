@@ -53,4 +53,6 @@ versions: ["2025"]
 
 **(5) [ Other Exceptions. ] [Transferred to Rule 807.]**
 
-**(6) Statement Offered Against a Party That Wrongfully Caused the Declarant’s Unavailability.** A statement offered against a party that wrongfully caused—or acquiesced in wrongfully causing—the declarant’s unavailability as a witness, and did so intending that result. (As amended Pub. L. 94–149, § 1(12), (13), Dec. 12, 1975, 89 Stat. 806; Mar. 2, 1987, eff. Oct. 1, 1987; Pub. L. 100–690, title VII, § 7075(b), Nov. 18, 1988, 102 Stat. 4405; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
+**(6) Statement Offered Against a Party That Wrongfully Caused the Declarant’s Unavailability.** A statement offered against a party that wrongfully caused—or acquiesced in wrongfully causing—the declarant’s unavailability as a witness, and did so intending that result.
+
+<p class="amendment-history">(As amended Pub. L. 94–149, § 1(12), (13), Dec. 12, 1975, 89 Stat. 806; Mar. 2, 1987, eff. Oct. 1, 1987; Pub. L. 100–690, title VII, § 7075(b), Nov. 18, 1988, 102 Stat. 4405; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

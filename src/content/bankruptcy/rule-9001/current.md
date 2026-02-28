@@ -19,13 +19,13 @@ versions: ["2025"]
 
 **(1) ‘‘Bankruptcy clerk’’ means a clerk appointed under 28 U.S.C. § 156(b).**
 
-**(2) ‘‘Clerk’’ means a bankruptcy clerk if one has been appointed; otherwise, it means the district-court clerk.**
+**(2)** ‘‘Clerk’’ means a bankruptcy clerk if one has been appointed; otherwise, it means the district-court clerk.
 
 **(3) ‘‘Code’’ means Title 11 of the United States Code.**
 
 **(4) ‘‘Court’’ or ‘‘judge’’ means the judicial officer who presides over the case or proceeding.**
 
-**(5) ‘‘Debtor,’’ when the debtor is not a natural person and either is required by these rules to perform an act or must appear for examination, includes:**
+**(5)** ‘‘Debtor,’’ when the debtor is not a natural person and either is required by these rules to perform an act or must appear for examination, includes:
 
 **(A)** if the debtor is a corporation and if the court so designates: • any or all of its officers, directors, trustees, or members of a similar controlling body; • a controlling stockholder or member; or • any other person in control; or
 
@@ -37,12 +37,12 @@ versions: ["2025"]
 
 **(8) ‘‘Mail’’ means first-class mail, postage prepaid.**
 
-**(9) ‘‘Notice provider’’ means an entity approved by the Administrative Office of the United States Courts to give notice to creditors under Rule 2002(g)(4).**
+**(9)** ‘‘Notice provider’’ means an entity approved by the Administrative Office of the United States Courts to give notice to creditors under Rule 2002(g)(4).
 
-**(10) ‘‘Regular associate’’ means an attorney regularly employed by, associated with, or counsel to an individual or firm.**
+**(10)** ‘‘Regular associate’’ means an attorney regularly employed by, associated with, or counsel to an individual or firm.
 
 **(11) ‘‘Trustee’’ includes a debtor in possession in a Chapter 11 case.**
 
-**(12) ‘‘United States trustee’’ includes an assistant United States trustee and a United States trustee’s designee.
+**(12)** ‘‘United States trustee’’ includes an assistant United States trustee and a United States trustee’s designee.
 
-<p class="amendment-history">(As amended Mar. 30, 1987, eff.** Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
+<p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

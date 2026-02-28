@@ -23,7 +23,7 @@ versions: ["2025"]
 
 **(c) Record.** When practicable, an illustrative aid used at trial must be entered into the record.
 
-**(d) Summaries of Voluminous Materials Admitted as Evidence .** A summary, chart, or calculation admitted as evidence to prove the content of voluminous admissible evidence is governed by Rule 1006.
+**(d) Summaries of Voluminous Materials Admitted as Evi - dence .** A summary, chart, or calculation admitted as evidence to prove the content of voluminous admissible evidence is governed by Rule 1006.
 
 <p class="amendment-history">(As added Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
 

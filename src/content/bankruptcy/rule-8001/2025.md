@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Scope.** These Part VIII rules govern the procedure in a United States district court and in a bankruptcy appellate panel on appeal from a bankruptcy court’s judgment, order, or decree. They also govern certain procedures on appeal to a United States court of appeals under 28 U.S.C. § 158(d).
 
-**(b) Definition of ‘‘BAP.’’ ‘‘BAP’’ means a bankruptcy appellate panel established by a circuit judicial council and authorized to hear appeals from a bankruptcy court under 28 U.S.C. § 158.**
+**(b)** Definition of ‘‘BAP.’’ ‘‘BAP’’ means a bankruptcy appellate panel established by a circuit judicial council and authorized to hear appeals from a bankruptcy court under 28 U.S.C. § 158.
 
 **(c) Requirement to Send Documents Electronically.** Under these Part VIII rules, a document must be sent electronically, unless:
 

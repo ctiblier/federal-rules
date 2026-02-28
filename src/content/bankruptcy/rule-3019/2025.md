@@ -29,6 +29,6 @@ versions: ["2025"]
 
 **(B) Service.** Any objection must be served on: • the debtor; • the entity proposing the modification; • the trustee; and • any other entity the court designates. A copy of the notice, modification, and objection must also be sent to the United States trustee.
 
-**(c) Modifying a Plan After Confirmation in a Case Under Subchapter Vof Chapter 11. In a case under Subchapter V of Chapter 11, Rule 9014 governs a request to modify the plan under § 1193(b) or (c), and (b) of this rule applies.
+**(c)** Modifying a Plan After Confirmation in a Case Under Subchapter Vof Chapter 11. In a case under Subchapter V of Chapter 11, Rule 9014 governs a request to modify the plan under § 1193(b) or (c), and (b) of this rule applies.
 
-<p class="amendment-history">(As amended Mar. 30, 1987, eff.** Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
+<p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

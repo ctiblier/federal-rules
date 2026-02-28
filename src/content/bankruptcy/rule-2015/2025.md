@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(4)** give notice of the case, as soon as possible after it commences, to the following entities, except those who know or have previously been notified of it:
 
-**(A)** every entity known to be holding money or property subject to the debtor’s withdrawal or order, including every bank, savingsor building-and-loan association, public utility company, and landlord with whom the debtor has a deposit; and
+**(A)** every entity known to be holding money or property subject to the debtor’s withdrawal or order, including every bank, savings- or building-and-loan association, public utility company, and landlord with whom the debtor has a deposit; and
 
 **(B)** every insurance company that has issued a policy with a cash-surrender value payable to the debtor;
 

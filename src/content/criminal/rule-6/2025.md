@@ -7,7 +7,7 @@ summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
 source_pdf_page: 28
 versions: ["2025"]
@@ -41,7 +41,7 @@ versions: ["2025"]
 
 **(A) No obligation of secrecy may be imposed on any person except in accordance with Rule 6(e)(2)(B).**
 
-**(B) Unless these rules provide otherwise, the following persons must not disclose a matter occurring before the grand jury:**
+**(B)** Unless these rules provide otherwise, the following persons must not disclose a matter occurring before the grand jury:
 
 **(i)** a grand juror;
 
@@ -59,7 +59,7 @@ versions: ["2025"]
 
 **(3) Exceptions.**
 
-**(A) Disclosure of a grand-jury matter—other than the grand jury’s deliberations or any grand juror’s vote—may be made to:**
+**(A)** Disclosure of a grand-jury matter—other than the grand jury’s deliberations or any grand juror’s vote—may be made to:
 
 **(i)** an attorney for the government for use in performing that attorney’s duty;
 
@@ -75,11 +75,11 @@ versions: ["2025"]
 
 **(i)** Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
 
-**(ii)**
+**(ii)** Within a reasonable time after disclosure is made under Rule 6(e)(3)(D), an attorney for the government must file, under seal, a notice with the court in the district where the grand jury convened stating that such information was disclosed and the departments, agencies, or entities to which the disclosure was made.
 
-**(iii)**
+**(iii)** As used in Rule 6(e)(3)(D), the term ‘‘foreign intelligence information’’ means: (a) information, whether or not it concerns a United States person, that relates to the ability of the United States to protect against— • actual or potential attack or other grave hostile acts of a foreign power or its agent; • sabotage or international terrorism by a foreign power or its agent; or • clandestine intelligence activities by an intelligence service or network of a foreign power or by its agent; or (b) information, whether or not it concerns a United States person, with respect to a foreign power or foreign territory that relates to— • the national defense or the security of the United States; or • the conduct of the foreign affairs of the United States.
 
-**(E) The court may authorize disclosure—at a time, in a manner, and subject to any other conditions that it directs—of a grand-jury matter:**
+**(E)** The court may authorize disclosure—at a time, in a manner, and subject to any other conditions that it directs—of a grand-jury matter:
 
 **(i)** preliminarily to or in connection with a judicial proceeding;
 
@@ -115,4 +115,6 @@ versions: ["2025"]
 
 **(h) Excusing a Juror.** At any time, for good cause, the court may excuse a juror either temporarily or permanently, and if permanently, the court may impanel an alternate juror in place of the excused juror.
 
-**(i) ‘‘Indian Tribe’’ Defined. ‘‘Indian tribe’’ means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. § 479a–1. (As amended Feb. 28, 1966, eff.** July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, § 2(a), July 30, 1977, 91 Stat. 319, eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, § 215(f), Oct. 12, 1984, 98 Stat. 2016, eff. Nov. 1, 1987; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Pub. L. 107–56, title II, § 203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–296, title VIII, § 895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, § 6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206.)
+**(i)** ‘‘Indian Tribe’’ Defined. ‘‘Indian tribe’’ means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. § 479a–1.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, § 2(a), July 30, 1977, 91 Stat. 319, eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, § 215(f), Oct. 12, 1984, 98 Stat. 2016, eff. Nov. 1, 1987; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Pub. L. 107–56, title II, § 203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–296, title VIII, § 895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, § 6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206.)</p>

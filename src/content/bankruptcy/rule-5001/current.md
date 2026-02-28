@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Courts Always Open.** Bankruptcy courts are considered always open for filing a pleading, motion, or other paper; issuing and returning process; making rules; or entering an order.
 
-**(b) Location for Trials and Hearings; Proceedings in Chambers .** Every trial or hearing must be held in open court—in a regular courtroom if convenient. Except as provided in 28 U.S.C. § 152(c), any other act may be performed—or a proceeding held—in chambers anywhere within or outside the district. But unless it is ex parte, a hearing may be held outside the district only if all affected parties consent.
+**(b) Location for Trials and Hearings; Proceedings in Cham - bers .** Every trial or hearing must be held in open court—in a regular courtroom if convenient. Except as provided in 28 U.S.C. § 152(c), any other act may be performed—or a proceeding held—in chambers anywhere within or outside the district. But unless it is ex parte, a hearing may be held outside the district only if all affected parties consent.
 
 **(c) Clerk ’ s Office Hours.** A clerk’s office—with the clerk or a deputy in attendance—must be open during business hours on all days except Saturdays, Sundays, and the legal holidays listed in Rule 9006(a)(6).
 

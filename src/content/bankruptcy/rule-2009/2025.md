@@ -17,13 +17,13 @@ versions: ["2025"]
 
 **(b) Creditors ’ Right to Elect a Separate Trustee.** Except in a case under Subchapter V of Chapter 7 or Subchapter V of Chapter 11, any debtor’s creditors may elect a separate trustee for the debtor’s estate under § 702—even if the court orders joint administration under Rule 1015(b).
 
-**(c) United States Trustee ’ s Right to Appoint Interim Trustees in Cases with Jointly Administered Estates.**
+**(c)** United States Trustee ’ s Right to Appoint Interim Trust - ees in Cases with Jointly Administered Estates.
 
-**(1) Chapter 7. Except in a case under Subchapter V of Chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in Chapter 7.**
+**(1)** Chapter 7. Except in a case under Subchapter V of Chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in Chapter 7.
 
-**(2) Chapter 11. If the court orders or the Code requires the appointment of a trustee, the United States trustee may appoint one or more trustees for estates being jointly administered in Chapter 11.**
+**(2)** Chapter 11. If the court orders or the Code requires the appointment of a trustee, the United States trustee may appoint one or more trustees for estates being jointly administered in Chapter 11.
 
-**(3) Chapter 12 or 13. The United States trustee may appoint one or more trustees for estates being jointly administered in Chapter 12 or 13.**
+**(3)** Chapter 12 or 13. The United States trustee may appoint one or more trustees for estates being jointly administered in Chapter 12 or 13.
 
 **(d) Conflicts of Interest.** On a showing that a common trustee’s conflicts of interest will prejudice creditors or equity security holders of jointly administered estates, the court must order the selection of separate trustees for the estates.
 

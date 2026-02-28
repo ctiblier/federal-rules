@@ -65,4 +65,6 @@ versions: ["2025"]
 
 **(1) In General.** Rule 26.2(a)–(d) and (f) applies at a detention hearing under 18 U.S.C. § 3142, unless the court for good cause rules otherwise.
 
-**(2) Sanctions for Not Producing a Statement.** If a party disobeys a Rule 26.2 order to produce a witness’s statement, the court must not consider that witness’s testimony at the detention hearing. (As amended Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Pub. L. 98–473, title II, § 209(d), Oct. 12, 1984, 98 Stat. 1987; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Pub. L. 103–322, title XXXIII, § 330003(h), Sept. 13, 1994, 108 Stat. 2141; Apr. 29, 2002, eff. Dec. 1, 2002.)
+**(2) Sanctions for Not Producing a Statement.** If a party disobeys a Rule 26.2 order to produce a witness’s statement, the court must not consider that witness’s testimony at the detention hearing.
+
+<p class="amendment-history">(As amended Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Pub. L. 98–473, title II, § 209(d), Oct. 12, 1984, 98 Stat. 1987; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Pub. L. 103–322, title XXXIII, § 330003(h), Sept. 13, 1994, 108 Stat. 2141; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>

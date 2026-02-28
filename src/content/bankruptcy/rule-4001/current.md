@@ -13,7 +13,7 @@ source_pdf_page: 82
 versions: ["2025"]
 ---
 
-**(a) Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property.**
+**(a) Relief from the Automatic Stay; Prohibiting or Condi - tioning the Use, Sale, or Lease of Property.**
 
 **(1) Motion.** A motion under § 362(d) for relief from the automatic stay—or a motion under § 363(e) to prohibit or condition the use, sale, or lease of property—must comply with Rule 9014. The motion must be served on:
 
@@ -95,7 +95,7 @@ versions: ["2025"]
 
 **(3) Inapplicability in a Chapter 13 Case.** This subdivision (c) does not apply in a Chapter 13 case.
 
-**(d) Various Agreements: Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property ; Providing Adequate Protection; Using Cash Collateral; or Obtaining Credit.**
+**(d)** Various Agreements: Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Prop - erty ; Providing Adequate Protection; Using Cash Collateral; or Obtaining Credit.
 
 **(1) Motion; Content; Service.**
 

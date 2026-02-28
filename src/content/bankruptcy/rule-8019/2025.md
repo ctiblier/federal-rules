@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(d) Order and Content of the Argument.** The appellant opens and concludes the argument. Counsel must not read at length from briefs, the record, or authorities.
 
-**(e) Cross-Appeals and Separate Appeals.** If there is a crossappeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP orders otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
+**(e) Cross -Appeals and Separate Appeals.** If there is a crossappeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP orders otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
 
 **(f) Nonappearance of a Party.** If the appellee fails to appear for argument, the district court or BAP may hear the appellant’s argument. If the appellant fails to appear for argument, the district court or BAP may hear the appellee’s argument. If neither party appears, the case will be decided on the briefs unless the district court or BAP orders otherwise.
 

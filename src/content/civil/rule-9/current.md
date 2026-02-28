@@ -7,7 +7,7 @@ summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/file/78323/download"
 source_pdf_page: 35
 versions: ["2025"]

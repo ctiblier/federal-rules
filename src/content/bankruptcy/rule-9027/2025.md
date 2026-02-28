@@ -33,9 +33,9 @@ versions: ["2025"]
 
 **(3) Time to File When the Claim Is Filed After the Bankruptcy Case Was Commenced.** If a claim or cause of action is asserted in another court after the bankruptcy case was commenced, a party filing a notice of removal must do so within the shorter of these periods:
 
-**(A) 30 days after receiving (by service or otherwise) the initial pleading setting forth the claim or cause of action sought to be removed; or**
+**(A)** 30 days after receiving (by service or otherwise) the initial pleading setting forth the claim or cause of action sought to be removed; or
 
-**(B) 30 days after receiving the summons if the initial pleading has been filed but not served with the summons.**
+**(B)** 30 days after receiving the summons if the initial pleading has been filed but not served with the summons.
 
 **(b) Notice to Other Parties and to the Court from Which the Claim Was Removed.** A party filing a notice of removal must promptly:
 
@@ -71,7 +71,7 @@ versions: ["2025"]
 
 **(2) Time to File an Answer.** In a removed action, a defendant that has not previously done so must file an answer—or present other defenses or objections available under the Part VII rules. The defendant must do so within the longest of these periods:
 
-**(A) 21 days after receiving—by service or otherwise—a copy of the initial pleading that sets forth the claim for relief;**
+**(A)** 21 days after receiving—by service or otherwise—a copy of the initial pleading that sets forth the claim for relief;
 
 **(B) 21 days after a summons on the original pleading was served; or**
 

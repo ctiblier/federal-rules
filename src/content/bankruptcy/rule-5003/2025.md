@@ -47,7 +47,7 @@ versions: ["2025"]
 
 **(B)** a discharge has been entered.
 
-**(e) Register of Mailing Addresses of Federal and State Governmental Units and Certain Taxing Authorities.**
+**(e)** Register of Mailing Addresses of Federal and State Governmental Units and Certain Taxing Authorities.
 
 **(1) In General.** The United States—or a state or a territory where the court is located—may file a statement designating its mailing address. A taxing authority (including a local taxing authority) may also file a statement designating an address for serving requests under § 505(b). The authority’s designation must describe where to find further information about additional requirements for serving a request.
 

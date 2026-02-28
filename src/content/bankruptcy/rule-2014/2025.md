@@ -13,7 +13,7 @@ source_pdf_page: 53
 versions: ["2025"]
 ---
 
-**(a) Order Approving Employment; Application for Employment .**
+**(a) Order Approving Employment; Application for Employ - ment .**
 
 **(1) Order Approving Employment.** The court may approve the employment of an attorney, accountant, appraiser, auctioneer, agent, or other professional under § 327, § 1103, or § 1114 only on the trustee’s or committee’s application.
 

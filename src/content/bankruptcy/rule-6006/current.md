@@ -47,6 +47,6 @@ versions: ["2025"]
 
 **(6)** be limited to no more than 100 executory contracts or unexpired leases.
 
-**(g) Determining the Finality of an Order Regarding an Omnibus Motion.** The finality of an order regarding any executory contract or unexpired lease included in an omnibus motion must be determined as though the contract or lease were the subject of a separate motion.
+**(g) Determining the Finality of an Order Regarding an Omni - bus Motion.** The finality of an order regarding any executory contract or unexpired lease included in an omnibus motion must be determined as though the contract or lease were the subject of a separate motion.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

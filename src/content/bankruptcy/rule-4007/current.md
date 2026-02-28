@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(c) Chapter 7, 11, 12, or 13—Time to File a Complaint Under § 523(c); Notice of Time; Extension.** Except as (d) provides, a complaint to determine whether a debt is dischargeable under § 523(c) must be filed within 60 days after the first date set for the § 341(a) meeting of creditors. The clerk must give all creditors at least 30 days’ notice of the time to file in the manner provided by Rule 2002. On a party in interest’s motion filed before the time expires, the court may, after notice and a hearing and for cause, extend the time to file.
 
-**(d) Chapter 13—Time to File a Complaint Under § 523(a)(6); Notice of Time; Extension.** When a debtor files a motion for a discharge under § 1328(b), the court must set the time to file a complaint under § 523(a)(6) to determine whether a debt is dischargeable. The clerk must give all creditors at least 30 days’ notice of the time to file in the manner provided by Rule 2002. On a party in interest’s motion filed before the time expires, the court may, after notice and a hearing and for cause, extend the time to file.
+**(d) Chapter 13—Time to File a Complaint Under § 523(a)(6); No - tice of Time; Extension.** When a debtor files a motion for a discharge under § 1328(b), the court must set the time to file a complaint under § 523(a)(6) to determine whether a debt is dischargeable. The clerk must give all creditors at least 30 days’ notice of the time to file in the manner provided by Rule 2002. On a party in interest’s motion filed before the time expires, the court may, after notice and a hearing and for cause, extend the time to file.
 
 **(e) Applying Part VII Rules.** The Part VII rules govern a proceeding on a complaint filed under this Rule 4007.
 

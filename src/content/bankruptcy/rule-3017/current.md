@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(b) Court Ruling on the Disclosure Statement.** After the hearing, the court must determine whether the disclosure statement should be approved.
 
-**(c) Time to Accept or Reject a Plan and for the Confirmation Hearing.** At the time or before the disclosure statement is approved, the court:
+**(c) Time to Accept or Reject a Plan and for the Confirma - tion Hearing.** At the time or before the disclosure statement is approved, the court:
 
 **(1)** must set a deadline for the holders of claims and interests to accept or reject the plan; and
 
@@ -59,9 +59,9 @@ versions: ["2025"]
 
 **(C)** the date of the confirmation hearing.
 
-**(4) Definition of ‘‘Creditors’’ and ‘‘Equity Security Holders.’’ In this Rule 3017(d), ‘‘creditors’’ and ‘‘equity security holders’’ include record holders of stock, bonds, debentures, notes, and other securities on the date the order approving the disclosure statement is entered—or another date the court sets for cause and after notice and a hearing.**
+**(4)** Definition of ‘‘Creditors’’ and ‘‘Equity Security Holders.’’ In this Rule 3017(d), ‘‘creditors’’ and ‘‘equity security holders’’ include record holders of stock, bonds, debentures, notes, and other securities on the date the order approving the disclosure statement is entered—or another date the court sets for cause and after notice and a hearing.
 
-**(e) Procedure for Sending Information to Beneficial Holders of Securities.** At the hearing under (a), the court must:
+**(e) Procedure for Sending Information to Beneficial Hold - ers of Securities.** At the hearing under (a), the court must:
 
 **(1)** determine the adequacy of the procedures for sending the documents and information listed in (d)(1) to beneficial holders of stock, bonds, debentures, notes, and other securities; and
 

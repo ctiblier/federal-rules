@@ -15,11 +15,11 @@ versions: ["2025"]
 
 **(a) Time to Object to a Discharge; Notice.**
 
-**(1) Chapter 7. In a Chapter 7 case, a complaint—or a motion under § 727(a)(8) or (9)—objecting to a discharge must be filed within 60 days after the first date set for the § 341(a) meeting of creditors.**
+**(1)** Chapter 7. In a Chapter 7 case, a complaint—or a motion under § 727(a)(8) or (9)—objecting to a discharge must be filed within 60 days after the first date set for the § 341(a) meeting of creditors.
 
-**(2) Chapter 11. In a Chapter 11 case, a complaint objecting to a discharge must be filed on or before the first date set for the hearing on confirmation.**
+**(2)** Chapter 11. In a Chapter 11 case, a complaint objecting to a discharge must be filed on or before the first date set for the hearing on confirmation.
 
-**(3) Chapter 13. In a Chapter 13 case, a motion objecting to a discharge under § 1328(f) must be filed within 60 days after the first date set for the § 341(a) meeting of creditors.**
+**(3)** Chapter 13. In a Chapter 13 case, a motion objecting to a discharge under § 1328(f) must be filed within 60 days after the first date set for the § 341(a) meeting of creditors.
 
 **(4) Notice to the United States Trustee, the Creditors, and the Trustee.** At least 28 days’ notice of the time for filing must be given to: • the United States trustee under Rule 2002(k); • all creditors under Rule 2002(f); • the trustee; and • the trustee’s attorney.
 
@@ -37,7 +37,7 @@ versions: ["2025"]
 
 **(c) Granting a Discharge.**
 
-**(1) Chapter 7. In a Chapter 7 case, when the times to object to discharge and to file a motion to dismiss the case under Rule 1017(e) expire, the court must promptly grant the discharge—except under these circumstances:**
+**(1)** Chapter 7. In a Chapter 7 case, when the times to object to discharge and to file a motion to dismiss the case under Rule 1017(e) expire, the court must promptly grant the discharge—except under these circumstances:
 
 **(A)** the debtor is not an individual;
 
@@ -69,7 +69,7 @@ versions: ["2025"]
 
 **(4) Individual Chapter 11 or Chapter 13 Case.** In a Chapter 11 case in which the debtor is an individual—or in a Chapter 13 case—the court must not grant a discharge if the debtor has not filed a certificate required by Rule 1007(b)(7).
 
-**(d) Applying Part VII Rules and Rule 9014. The Part VII rules govern an objection to a discharge, except that Rule 9014 governs an objection to a discharge under § 727(a)(8) or (9) or § 1328(f).**
+**(d)** Applying Part VII Rules and Rule 9014. The Part VII rules govern an objection to a discharge, except that Rule 9014 governs an objection to a discharge under § 727(a)(8) or (9) or § 1328(f).
 
 **(e) Form of a Discharge Order.** A discharge order must conform to the appropriate Official Form.
 

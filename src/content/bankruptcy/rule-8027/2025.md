@@ -13,6 +13,6 @@ source_pdf_page: 145
 versions: ["2025"]
 ---
 
-**(a) If the district court or BAP has a mediation procedure applicable to bankruptcy appeals, the clerk must, after docketing the appeal, promptly notify the parties of: the requirements of the mediation procedure; and**
+**(a)** If the district court or BAP has a mediation procedure applicable to bankruptcy appeals, the clerk must, after docketing the appeal, promptly notify the parties of: the requirements of the mediation procedure; and
 
 **(b)** any effect it has on the time to file briefs. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)

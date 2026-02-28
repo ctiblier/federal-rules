@@ -21,6 +21,6 @@ versions: ["2025"]
 
 **(3)** protect governmental matters made confidential by statute or regulation.
 
-**(b) Motion to Vacate or Modify an Order Issued Without Notice .** An entity affected by an order issued under (a) without notice may move to vacate or modify it. After notice and a hearing, the court must rule on the motion.
+**(b) Motion to Vacate or Modify an Order Issued Without No - tice .** An entity affected by an order issued under (a) without notice may move to vacate or modify it. After notice and a hearing, the court must rule on the motion.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

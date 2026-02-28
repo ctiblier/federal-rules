@@ -27,6 +27,6 @@ versions: ["2025"]
 
 **(2)** identify the entities that would be subject to the injunction.
 
-**(d) Form of a Disclosure Statement and Plan in a Small Business Case or a Case Under Subchapter Vof Chapter 11. In a small business case or a case under Subchapter V of Chapter 11, the court may approve a disclosure statement that substantially conforms to Form 425B and confirm a plan that substantially conforms to Form 425A—or, in either instance, to a standard form approved by the court.
+**(d)** Form of a Disclosure Statement and Plan in a Small Business Case or a Case Under Subchapter Vof Chapter 11. In a small business case or a case under Subchapter V of Chapter 11, the court may approve a disclosure statement that substantially conforms to Form 425B and confirm a plan that substantially conforms to Form 425A—or, in either instance, to a standard form approved by the court.
 
-<p class="amendment-history">(As amended Mar. 30, 1987, eff.** Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
+<p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

@@ -13,7 +13,7 @@ source_pdf_page: 161
 versions: ["2025"]
 ---
 
-**(a) Except in a Chapter 9 case or when the United States trustee requests otherwise, an entity filing a pleading, motion, objection, or similar document relating to any of the following must send a copy to the United States trustee within the time required for service: a proposed use, sale, or lease of property of the estate other than in the ordinary course of business;**
+**(a)** Except in a Chapter 9 case or when the United States trustee requests otherwise, an entity filing a pleading, motion, objection, or similar document relating to any of the following must send a copy to the United States trustee within the time required for service: a proposed use, sale, or lease of property of the estate other than in the ordinary course of business;
 
 **(b)** the approval of a compromise or settlement of a controversy;
 

@@ -13,7 +13,7 @@ source_pdf_page: 78
 versions: ["2025"]
 ---
 
-**(a) In a case under Subchapter V of Chapter 11 in which § 1125 does not apply, the court must set: a time within which the holders of claims and interests may accept or reject the plan;**
+**(a)** In a case under Subchapter V of Chapter 11 in which § 1125 does not apply, the court must set: a time within which the holders of claims and interests may accept or reject the plan;
 
 **(b)** a date on which an equity security holder or a creditor whose claim is based on a security must be the record holder of the security in order to be eligible to accept or reject the plan;
 

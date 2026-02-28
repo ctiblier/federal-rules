@@ -13,7 +13,7 @@ source_pdf_page: 102
 versions: ["2025"]
 ---
 
-**(a) With or without court approval, the trustee or debtor in possession may: prosecute—or appear in and defend—any pending action or proceeding by or against the debtor; or**
+**(a)** With or without court approval, the trustee or debtor in possession may: prosecute—or appear in and defend—any pending action or proceeding by or against the debtor; or
 
 **(b)** commence and prosecute in any tribunal an action or proceeding on the estate’s behalf.
 

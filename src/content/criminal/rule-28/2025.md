@@ -13,4 +13,6 @@ source_pdf_page: 58
 versions: ["2025"]
 ---
 
-The court may select, appoint, and set the reasonable compensation for an interpreter, including an interpreter for the victim. The compensation must be paid from funds provided by law or by the government, as the court may direct. (As amended Feb. 28, 1966, eff. July 1, 1966; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 114–324, § 2(c), Dec. 16, 2016, 130 Stat. 1948.)
+The court may select, appoint, and set the reasonable compensation for an interpreter, including an interpreter for the victim. The compensation must be paid from funds provided by law or by the government, as the court may direct.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 114–324, § 2(c), Dec. 16, 2016, 130 Stat. 1948.)</p>

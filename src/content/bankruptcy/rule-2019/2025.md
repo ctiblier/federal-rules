@@ -7,7 +7,7 @@ summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-bankruptcy-procedure"
 source_pdf_page: 60
 versions: ["2025"]
@@ -15,9 +15,9 @@ versions: ["2025"]
 
 **(a) Definitions.** In this Rule 2019:
 
-**(1) ‘‘disclosable economic interest’’ means any claim, interest, pledge, lien, option, participation, derivative instrument, or other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest; and**
+**(1)** ‘‘disclosable economic interest’’ means any claim, interest, pledge, lien, option, participation, derivative instrument, or other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest; and
 
-**(2) ‘‘represent’’ or ‘‘represents’’ means to take a position before the court or to solicit votes regarding a plan’s confirmation on another’s behalf.**
+**(2)** ‘‘represent’’ or ‘‘represents’’ means to take a position before the court or to solicit votes regarding a plan’s confirmation on another’s behalf.
 
 **(b) Who Must Disclose.**
 

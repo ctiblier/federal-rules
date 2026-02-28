@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) Chapter 9 or 11. In a Chapter 9 or 11 case, before a hearing on the disclosure statement concludes, a class of secured creditors may elect to apply § 1111(b)(2).** If the disclosure statement is conditionally approved under Rule 3017.1 and a final hearing on it is not held, the election must be made within the time provided in Rule 3017.1(a)(2). In either situation, the court may set another time for the election.
 
-**(2) Subchapter V of Chapter 11. In a case under Subchapter V of Chapter 11 in which § 1125 does not apply, the election may be made no later than a date the court sets.**
+**(2)** Subchapter V of Chapter 11. In a case under Subchapter V of Chapter 11 in which § 1125 does not apply, the election may be made no later than a date the court sets.
 
 **(b) Signed Writing; Binding Effect.** The election must be made in writing and signed, unless made at the hearing on the disclosure statement. An election made by the majorities required by § 1111(b)(1)(A)(i) is binding on all members of the class.
 

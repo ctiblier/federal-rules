@@ -15,11 +15,11 @@ versions: ["2025"]
 
 **(a) Dismissing a Case —In General.** Except as provided in § 707(a)(3), 707(b), 1208(b), or 1307(b), or in Rule 1017(b), (c), or (e), the court must conduct a hearing on notice under Rule 2002 before dismissing a case on the petitioner’s motion, for want of prosecution or other cause, or by the parties’ consent. For the purpose of the notice, a debtor who has not already filed a list of creditors and their addresses must do so before the deadline set by the court. If the debtor fails to timely file the list, the court may order the debtor or another entity to do so.
 
-**(b) Dismissing a Case for Failure to Pay an Installment Toward the Filing Fee.** If the debtor fails to pay any installment toward the filing fee, the court may dismiss the case after a hearing on notice to the debtor and trustee. If the court dismisses or closes the case without full payment of the filing fee, previous installment payments must be distributed as if full payment had been made.
+**(b) Dismissing a Case for Failure to Pay an Installment To - ward the Filing Fee.** If the debtor fails to pay any installment toward the filing fee, the court may dismiss the case after a hearing on notice to the debtor and trustee. If the court dismisses or closes the case without full payment of the filing fee, previous installment payments must be distributed as if full payment had been made.
 
 **(c) Dismissing a Voluntary Chapter 7 or Chapter 13Case for Failure to File a Document on Time.** On motion of the United States trustee, the court may dismiss a voluntary Chapter 7 case under § 707(a)(3), or a Chapter 13 case under § 1307(c)(9), for a failure to timely file the information required by § 521(a)(1). But the court may do so only after a hearing on notice served by the United States trustee on the debtor, trustee, and any other entity as the court orders.
 
-**(d) Dismissing a Case or Suspending Proceedings Under § 305. The court may dismiss a case or suspend proceedings under § 305 only after a hearing on notice under Rule 2002(a).**
+**(d)** Dismissing a Case or Suspending Proceedings Under § 305. The court may dismiss a case or suspend proceedings under § 305 only after a hearing on notice under Rule 2002(a).
 
 **(e) Dismissing an Individual Debtor ’ s Chapter 7 Case for Abuse or Converting It to Chapter 11 or 13.**
 

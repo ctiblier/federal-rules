@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(4) Temporarily Allowing a Claim or Interest.** Even if an objection to a claim or interest has been filed, the court may, after notice and a hearing, temporarily allow a claim or interest in an amount that the court considers proper for voting to accept or reject a plan.
 
-**(b) Treatment of Acceptances or Rejections Obtained Before the Petition Was Filed.**
+**(b) Treatment of Acceptances or Rejections Obtained Be - fore the Petition Was Filed.**
 
 **(1) Acceptance or Rejection by a Nonholder of Record.** An equity security holder or creditor who accepted or rejected a plan before the petition was filed will not be considered to have accepted or rejected the plan under § 1126(b) if the equity security holder or creditor:
 

@@ -13,7 +13,7 @@ source_pdf_page: 90
 versions: ["2025"]
 ---
 
-**(a) The clerk must promptly notify in the manner provided by Rule 2002(f) all parties in interest of an order: denying a discharge;**
+**(a)** The clerk must promptly notify in the manner provided by Rule 2002(f) all parties in interest of an order: denying a discharge;
 
 **(b)** revoking a discharge;
 

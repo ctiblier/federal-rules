@@ -37,7 +37,7 @@ versions: ["2025"]
 
 **(2) Response.** Within 14 days after the motion for leave is served, a party may file with the district or BAP clerk a response in opposition or a cross-motion.
 
-**(c) Sending the Notice of Appeal and Motion for Leave to Appeal; Docketing the Appeal; Oral Argument Not Required.**
+**(c)** Sending the Notice of Appeal and Motion for Leave to Appeal; Docketing the Appeal; Oral Argument Not Required.
 
 **(1) Sending to the District Court or BAP.** If a BAP has been established to hear appeals from that district—and an appellant has not elected to have the appeal heard in the district court— the bankruptcy clerk must promptly send to the BAP clerk the notice of appeal and the motion for leave to appeal. Otherwise, the bankruptcy clerk must promptly send the notice and motion to the district clerk.
 

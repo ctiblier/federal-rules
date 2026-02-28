@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Consolidating Cases Involving the Same Debtor.** The court may consolidate two or more cases that are regarding or brought by or against the same debtor and that are pending in its district.
 
-**(b) Jointly Administering Cases Involving Related Debtors; Exemptions of Spouses; Protective Orders to Avoid Conflicts of Interest.**
+**(b)** Jointly Administering Cases Involving Related Debtors; Exemptions of Spouses; Protective Orders to Avoid Conflicts of Interest.
 
 **(1) In General.** The court may order joint administration of the estates in a joint case or in two or more cases pending in the court if they are brought by or against:
 
