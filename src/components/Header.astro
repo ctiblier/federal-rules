@@ -12,11 +12,14 @@ const { noSearch = false } = Astro.props;
   <div class="flex items-center justify-between px-4 sm:px-6 py-3 max-w-5xl mx-auto">
     <a
       href="/"
-      class="site-name font-bold text-[15px] transition-colors pl-10 md:pl-0 truncate mr-4"
+      class="site-name font-bold text-[15px] transition-colors pl-10 md:pl-0 truncate mr-4 flex items-center gap-2"
       style="font-family: 'Lora', Georgia, serif; color: #1c1c1e;"
     >
-      <span class="hidden sm:inline">Federal Rules</span>
-      <span class="sm:hidden">Federal Rules</span>
+      <svg width="22" height="22" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="shrink-0">
+        <circle cx="16" cy="16" r="16" fill="#1a2744"/>
+        <text x="16" y="22.5" text-anchor="middle" font-size="19" font-family="Georgia,serif" font-weight="bold" fill="#c9a84c">§</text>
+      </svg>
+      Federal Rules
     </a>
     <nav class="flex items-center gap-4 text-sm shrink-0" aria-label="Site navigation" style="font-family: system-ui, sans-serif;">
       {!noSearch && (
