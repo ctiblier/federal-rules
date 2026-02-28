@@ -26,7 +26,6 @@ const {
     <meta name="description" content={description} />
     <title>{title} — Federal Rules</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
   </head>
   <body class="min-h-screen" style="background-color: #f8f5f0;">
 
@@ -78,9 +77,6 @@ const {
         outline-offset: 2px;
         border-radius: 2px;
       }
-
-      /* Hide Pagefind's built-in filter checkboxes (we use our own controls) */
-      .pagefind-ui__filter-panel { display: none !important; }
 
       /* Search sticky: non-sticky on mobile so results scroll naturally */
       @media (max-width: 767px) {

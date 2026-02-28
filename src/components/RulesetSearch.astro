@@ -1,0 +1,225 @@
+---
+/**
+ * RulesetSearch — search input + ruleset filter pills using Pagefind JS API.
+ * The current ruleset is pre-selected; users can add others.
+ */
+interface Props {
+  ruleset: 'civil' | 'criminal' | 'appellate' | 'evidence' | 'bankruptcy';
+}
+const { ruleset } = Astro.props;
+
+const LABELS: Record<string, string> = {
+  civil:      'Civil',
+  criminal:   'Criminal',
+  appellate:  'Appellate',
+  evidence:   'Evidence',
+  bankruptcy: 'Bankruptcy',
+};
+
+const RULESETS = ['civil', 'criminal', 'appellate', 'evidence', 'bankruptcy'] as const;
+---
+
+<section id="search" aria-label={`Search ${LABELS[ruleset]} rules`}>
+  <div class="rss-root" data-ruleset={ruleset}>
+    <!-- Input -->
+    <div style="position: relative;">
+      <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true"
+        style="position: absolute; left: 0.7rem; top: 50%; transform: translateY(-50%); color: #9ca3af; pointer-events: none;">
+        <circle cx="6.5" cy="6.5" r="4.5" stroke="currentColor" stroke-width="1.4"/>
+        <path d="M10.5 10.5l3.5 3.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+      </svg>
+      <input
+        type="search"
+        class="rss-input"
+        placeholder={`Search ${LABELS[ruleset]} rules…`}
+        autocomplete="off"
+        aria-label={`Search ${LABELS[ruleset]} rules`}
+        style="width: 100%; padding: 0.55rem 1rem 0.55rem 2.25rem; border: 1px solid rgba(28,28,30,0.2); border-radius: 0.375rem; font-family: system-ui, sans-serif; font-size: 0.9375rem; color: #1c1c1e; background: white; box-sizing: border-box; -webkit-appearance: none; appearance: none;"
+      />
+    </div>
+
+    <!-- Ruleset filter pills -->
+    <div role="group" aria-label="Filter by ruleset" style="display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem;">
+      {RULESETS.map((rs) => (
+        <button
+          class={`rss-pill${rs === ruleset ? ' rss-pill--active' : ''}`}
+          data-rs={rs}
+          aria-pressed={rs === ruleset ? 'true' : 'false'}
+        >
+          {LABELS[rs]}
+        </button>
+      ))}
+    </div>
+
+    <!-- Results -->
+    <div class="rss-results" role="region" aria-label="Search results" aria-live="polite"></div>
+  </div>
+</section>
+
+<style>
+  .rss-pill {
+    font-family: system-ui, sans-serif;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    border: 1px solid rgba(28,28,30,0.18);
+    background: white;
+    color: #6b7280;
+    cursor: pointer;
+    transition: background-color 0.12s, color 0.12s, border-color 0.12s;
+    line-height: 1.6;
+  }
+  .rss-pill:hover {
+    border-color: #1a2744;
+    color: #1a2744;
+  }
+  .rss-pill--active {
+    background-color: #1a2744;
+    color: white;
+    border-color: #1a2744;
+  }
+  .rss-pill--active:hover {
+    color: white;
+  }
+  .rss-input:focus {
+    outline: none;
+    border-color: #1a2744;
+    box-shadow: 0 0 0 3px rgba(26,39,68,0.12);
+  }
+</style>
+
+<style is:global>
+  /* Result cards are JS-created so need global scope */
+  .rss-result {
+    display: block;
+    padding: 0.75rem 1rem;
+    border-radius: 0.375rem;
+    border: 1px solid rgba(28,28,30,0.12);
+    background: white;
+    text-decoration: none;
+    margin-top: 0.5rem;
+    transition: border-color 0.12s, box-shadow 0.12s;
+  }
+  .rss-result:hover {
+    border-color: rgba(28,28,30,0.28);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .rss-result mark {
+    background: #fde68a;
+    color: #1c1c1e;
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+</style>
+
+<script>
+  // ─── Find this page's instance ────────────────────────────────────────────
+  const root = document.querySelector<HTMLElement>('.rss-root');
+  if (root) {
+    const defaultRuleset = root.dataset.ruleset ?? '';
+    const selectedRulesets = new Set<string>([defaultRuleset]);
+
+    const input = root.querySelector<HTMLInputElement>('.rss-input')!;
+    const resultsEl = root.querySelector<HTMLElement>('.rss-results')!;
+
+    // ─── Pagefind loader ────────────────────────────────────────────────────
+    let pfPromise: Promise<any> | null = null;
+    function loadPagefind(): Promise<any> {
+      if (!pfPromise) pfPromise = (import as any)('/pagefind/pagefind.js').catch(() => null);
+      return pfPromise!;
+    }
+    loadPagefind(); // start loading immediately in background
+
+    // ─── Helpers ──────────────────────────────────────────────────────────
+    const RULESET_LABELS: Record<string, string> = {
+      civil: 'Civil', criminal: 'Criminal', appellate: 'Appellate',
+      evidence: 'Evidence', bankruptcy: 'Bankruptcy',
+    };
+
+    function esc(s: string): string {
+      return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function rulesetFromUrl(url: string): string {
+      const m = url.match(/^\/(civil|criminal|appellate|evidence|bankruptcy)\//);
+      return m ? m[1] : '';
+    }
+
+    // ─── Search ─────────────────────────────────────────────────────────────
+    async function runSearch(query: string) {
+      query = query.trim();
+      if (!query) { resultsEl.innerHTML = ''; return; }
+
+      const pf = await loadPagefind();
+      if (!pf) {
+        resultsEl.innerHTML =
+          '<p style="font-family:system-ui,sans-serif;font-size:0.875rem;color:#6b7280;padding:0.75rem 0;">' +
+          'Search is available after running <code>npm run build</code>.</p>';
+        return;
+      }
+
+      const filters = { ruleset: [...selectedRulesets] };
+      const search = await pf.search(query, { filters });
+
+      if (!search?.results.length) {
+        resultsEl.innerHTML =
+          `<p style="font-family:system-ui,sans-serif;font-size:0.875rem;color:#6b7280;padding:0.75rem 0;">` +
+          `No results for "<strong>${esc(query)}</strong>".</p>`;
+        return;
+      }
+
+      const items = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
+
+      resultsEl.innerHTML = items.map((item: any) => {
+        const rs = rulesetFromUrl(item.url);
+        const label = RULESET_LABELS[rs] ?? '';
+        const title = esc((item.meta?.title ?? '').replace(/\s*\|\s*Federal Rules.*$/, ''));
+        const excerpt: string = item.excerpt ?? ''; // contains <mark> — our own build output
+        const url = esc(item.url);
+        // Show ruleset badge only when multiple rulesets are in scope or result is cross-ruleset
+        const showLabel = selectedRulesets.size > 1 || rs !== defaultRuleset;
+        return (
+          `<a href="${url}" class="rss-result">` +
+          `<div style="display:flex;align-items:baseline;gap:0.5rem;margin-bottom:0.2rem;">` +
+          (showLabel && label ? `<span style="font-family:system-ui,sans-serif;font-size:0.6875rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;color:#1a2744;flex-shrink:0;">${label}</span>` : '') +
+          `<span style="font-family:'Lora',Georgia,serif;font-size:0.9375rem;font-weight:700;color:#1c1c1e;">${title}</span>` +
+          `</div>` +
+          `<p style="font-family:system-ui,sans-serif;font-size:0.8125rem;color:#6b7280;margin:0;line-height:1.5;">${excerpt}</p>` +
+          `</a>`
+        );
+      }).join('');
+    }
+
+    // ─── Input debounce ──────────────────────────────────────────────────────
+    let debounceTimer: ReturnType<typeof setTimeout> | null = null;
+    input.addEventListener('input', () => {
+      if (debounceTimer !== null) clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => runSearch(input.value), 250);
+    });
+
+    // ─── Pills ───────────────────────────────────────────────────────────────
+    function syncPills() {
+      root.querySelectorAll<HTMLButtonElement>('.rss-pill').forEach((b) => {
+        const rs = b.dataset.rs ?? '';
+        const active = selectedRulesets.has(rs);
+        b.classList.toggle('rss-pill--active', active);
+        b.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+    }
+
+    root.querySelectorAll<HTMLButtonElement>('.rss-pill').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const rs = btn.dataset.rs ?? '';
+        if (selectedRulesets.has(rs)) {
+          // Keep at least one ruleset selected
+          if (selectedRulesets.size > 1) selectedRulesets.delete(rs);
+        } else {
+          selectedRulesets.add(rs);
+        }
+        syncPills();
+        if (input.value.trim()) runSearch(input.value);
+      });
+    });
+  }
+</script>

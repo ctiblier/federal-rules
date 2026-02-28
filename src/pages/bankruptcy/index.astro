@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import RulesetSearch from '../../components/RulesetSearch.astro';
 
 const allEntries = await getCollection('bankruptcy');
 const rules = allEntries.filter((e) => e.id.endsWith('/current.md'));
@@ -37,11 +38,9 @@ const total = rules.length;
       </p>
     </header>
 
-    <!-- Pagefind search — sticky on scroll -->
+    <!-- Search — sticky on scroll -->
     <div class="search-sticky" style="position: sticky; top: 3.25rem; z-index: 10; background-color: #f8f5f0; padding-bottom: 1rem; margin-bottom: 1rem;">
-      <section id="search" aria-label="Search bankruptcy rules">
-        <div id="pagefind-search"></div>
-      </section>
+      <RulesetSearch ruleset="bankruptcy" />
     </div>
 
     {Array.from(groups.values()).map((group) => (
@@ -76,24 +75,3 @@ const total = rules.length;
   .rule-index-link:hover { background-color: rgba(28,28,30,0.04); }
 </style>
 
-<script>
-  const searchEl = document.getElementById('pagefind-search');
-  if (searchEl) {
-    const script = document.createElement('script');
-    script.src = '/pagefind/pagefind-ui.js';
-    script.onload = () => {
-      new (window as any).PagefindUI({
-        element: '#pagefind-search',
-        showSubResults: true,
-        resetStyles: false,
-        filters: { ruleset: 'bankruptcy' },
-      });
-    };
-    script.onerror = () => {
-      if (searchEl) {
-        searchEl.innerHTML = '<p style="color: #6b7280; font-size: 0.875rem; font-family: system-ui, sans-serif;">Search available after running <code>npm run build</code>.</p>';
-      }
-    };
-    document.head.appendChild(script);
-  }
-</script>
