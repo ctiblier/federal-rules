@@ -1,7 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 
-const rules = await getCollection('rules');
+const allEntries = await getCollection('rules');
+const rules = allEntries.filter((e) => e.id.endsWith('/current.md'));
 
 // Sort: numeric rules by float value, supplemental letters (A-G) go last
 const sorted = rules.sort((a, b) => {

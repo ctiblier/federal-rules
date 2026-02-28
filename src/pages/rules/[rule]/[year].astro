@@ -18,18 +18,29 @@ export async function getStaticPaths() {
   // Historical entries are everything that is not "current"
   const historical = allEntries.filter((e) => !e.id.endsWith('/current.md'));
 
+  // Pre-compute sorted year list per rule folder
+  const yearsByFolder = new Map<string, string[]>();
+  for (const e of historical) {
+    const folder = e.id.split('/')[0];
+    const year = e.id.split('/')[1].replace(/\.md$/, '');
+    if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
+    yearsByFolder.get(folder)!.push(year);
+  }
+  for (const years of yearsByFolder.values()) years.sort();
+
   return historical.map((entry) => {
     const folderName = entry.id.split('/')[0];                 // e.g. "rule-26"
     const year = entry.id.split('/')[1].replace(/\.md$/, ''); // e.g. "2015"
     const currentEntry = currentMap.get(folderName);
+    const allYears = yearsByFolder.get(folderName) ?? [];
     return {
       params: { rule: entry.data.rule, year },
-      props: { entry, currentEntry },
+      props: { entry, currentEntry, allYears },
     };
   });
 }
 
-const { entry, currentEntry } = Astro.props;
+const { entry, currentEntry, allYears } = Astro.props;
 const { Content } = await entry.render();
 
 const isAbrogated = (entry.body?.trim() ?? '').length < 30;
@@ -71,28 +82,35 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
   <!-- Amber banner -->
   <div
     class="historical-banner"
-    style="background-color: #fffbeb; border-bottom: 1px solid #fde68a; padding: 0.625rem 1.5rem; font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #92400e; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;"
+    style="background-color: #fffbeb; border-bottom: 1px solid #fde68a; padding: 0.5rem 1.5rem; font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #92400e; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;"
   >
-    <span>
-      You're viewing the <strong>{year}</strong> version of this rule.
-    </span>
-    <div style="display: flex; align-items: center; gap: 1rem;">
+    <div style="display: flex; align-items: center; gap: 0.75rem;">
+      <span style="font-weight: 600;">Historical version:</span>
+      <select
+        id="version-select"
+        style="background-color: #fffbeb; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.2rem 0.5rem; font-size: 0.75rem; font-family: system-ui, sans-serif; cursor: pointer;"
+        aria-label="Select version year"
+      >
+        {allYears.map((y) => (
+          <option value={y} selected={y === year}>{y}</option>
+        ))}
+      </select>
       {hasChanges && (
         <button
           id="diff-toggle"
           type="button"
-          style="background: none; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.25rem 0.625rem; font-size: 0.75rem; font-weight: 600; cursor: pointer; font-family: system-ui, sans-serif;"
+          style="background: none; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.2rem 0.625rem; font-size: 0.75rem; font-weight: 600; cursor: pointer; font-family: system-ui, sans-serif;"
         >
           Show diff vs current
         </button>
       )}
-      <a
-        href={`/rules/${entry.data.rule}/`}
-        style="font-weight: 600; color: #92400e; text-decoration: underline; text-underline-offset: 2px;"
-      >
-        View current version →
-      </a>
     </div>
+    <a
+      href={`/rules/${entry.data.rule}/`}
+      style="font-weight: 600; color: #92400e; text-decoration: underline; text-underline-offset: 2px; white-space: nowrap;"
+    >
+      View current (2025) →
+    </a>
   </div>
 
   <div class="flex gap-10 px-6 py-10 max-w-5xl mx-auto">
@@ -183,7 +201,15 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
   }
 </style>
 
-<script>
+<script define:vars={{ ruleNumber: entry.data.rule }}>
+  // Version selector navigation
+  const versionSelect = document.getElementById('version-select');
+  if (versionSelect) {
+    versionSelect.addEventListener('change', (e) => {
+      window.location.href = `/rules/${ruleNumber}/${e.target.value}/`;
+    });
+  }
+
   const toggleBtn = document.getElementById('diff-toggle');
   const readingView = document.getElementById('reading-view');
   const diffView = document.getElementById('diff-view');
