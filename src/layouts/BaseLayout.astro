@@ -39,6 +39,7 @@ const {
       Skip to main content
     </a>
     <style>
+      /* Scoped: only applies to template elements that get the Astro scope attr */
       #skip-link:focus {
         position: fixed;
         left: 50%;
@@ -53,34 +54,40 @@ const {
         border-radius: 0.375rem;
         text-decoration: none;
       }
-      /* Cross-reference links — visually distinct, not disruptive */
+    </style>
+    <style is:global>
+      /* Global: applies to JS-created elements and third-party components */
+
+      /* Cross-reference links */
       .rule-xref {
         color: #1a2744 !important;
         font-weight: 600 !important;
         text-decoration: underline !important;
         text-decoration-style: dotted !important;
         text-underline-offset: 3px !important;
-        text-decoration-color: rgba(26,39,68,0.5) !important;
+        text-decoration-color: rgba(26,39,68,0.55) !important;
         cursor: pointer;
       }
-      .rule-xref:hover, .rule-xref:focus {
+      .rule-xref:hover {
         color: #8b5c08 !important;
         text-decoration-style: solid !important;
         text-decoration-color: #c9a84c !important;
-        outline: none;
       }
       .rule-xref:focus-visible {
         outline: 2px solid #c9a84c;
         outline-offset: 2px;
         border-radius: 2px;
       }
-      /* Hide Pagefind's built-in filter checkboxes site-wide (we use our own controls) */
+
+      /* Hide Pagefind's built-in filter checkboxes (we use our own controls) */
       .pagefind-ui__filter-panel { display: none !important; }
+
       /* Search sticky: non-sticky on mobile so results scroll naturally */
       @media (max-width: 767px) {
         .search-sticky { position: static !important; top: auto !important; }
       }
-      /* Back to top */
+
+      /* Back to top — always in layout, fades in/out */
       #back-to-top {
         position: fixed;
         bottom: 1.5rem;
@@ -93,14 +100,27 @@ const {
         color: #c9a84c;
         border: none;
         cursor: pointer;
-        display: none;
+        display: flex;
         align-items: center;
         justify-content: center;
         box-shadow: 0 2px 10px rgba(0,0,0,0.25);
-        transition: transform 0.15s;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.2s, transform 0.15s;
+      }
+      #back-to-top.is-visible {
+        opacity: 1;
+        pointer-events: auto;
       }
       #back-to-top:hover { transform: translateY(-2px); }
       #back-to-top:focus-visible { outline: 2px solid #c9a84c; outline-offset: 2px; }
+
+      /* Deadline paragraph marker — subtle left accent */
+      .deadline-para {
+        border-left: 2px solid #fde68a;
+        padding-left: 0.6rem;
+        margin-left: -0.6rem;
+      }
     </style>
 
     {!noSidebar && (
@@ -169,7 +189,7 @@ const {
       const btt = document.getElementById('back-to-top') as HTMLButtonElement | null;
       if (btt) {
         window.addEventListener('scroll', () => {
-          btt.style.display = window.scrollY > 400 ? 'flex' : 'none';
+          btt.classList.toggle('is-visible', window.scrollY > 200);
         }, { passive: true });
         btt.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
       }
@@ -314,12 +334,19 @@ const {
                 // Prefix all IDs to avoid conflicts with main page element IDs
                 body.querySelectorAll('[id]').forEach(el => { el.id = 'rp-' + el.id; });
                 rpBody.appendChild(document.adoptNode(body));
-                // Scroll to subsection if a specific anchor was requested
+                // Scroll to subsection, offset below the sticky header
                 if (anchor) {
                   const anchorId = 'rp-' + anchor.slice(1); // "#a-1" → "rp-a-1"
                   requestAnimationFrame(() => {
                     const target = rpBody.querySelector<HTMLElement>(`#${CSS.escape(anchorId)}`);
-                    if (target) target.scrollIntoView({ block: 'start', behavior: 'smooth' });
+                    if (target) {
+                      const headerHeight = document.getElementById('rp-header')?.offsetHeight ?? 56;
+                      const panelTop = panel.getBoundingClientRect().top;
+                      const targetTop = target.getBoundingClientRect().top;
+                      // panel.scrollTop is 0 here (reset on open), so this positions target
+                      // just below the sticky header with a little breathing room.
+                      panel.scrollTop = Math.max(0, targetTop - panelTop - headerHeight - 16);
+                    }
                   });
                 }
               } else {
@@ -360,6 +387,50 @@ const {
             }
           }
           linkify(ruleBody);
+
+          // ── "Contains Deadlines" badge → click to jump to first deadline ──
+          // Finds paragraphs with time-period language, marks them, and wires
+          // the badge in the rule header to scroll to the first one.
+          const deadlineBadge = Array.from(
+            document.querySelectorAll<HTMLElement>('article header span')
+          ).find(el => el.textContent?.trim() === 'Contains Deadlines');
+
+          if (deadlineBadge) {
+            const DEADLINE_RE =
+              /\b\d+\s*(?:calendar\s+|business\s+|court\s+)?(?:days?|hours?|months?|years?|weeks?)\b/i;
+            let firstDeadlinePara: HTMLElement | null = null;
+
+            for (const p of ruleBody.querySelectorAll<HTMLElement>('p')) {
+              if (DEADLINE_RE.test(p.textContent ?? '')) {
+                p.classList.add('deadline-para');
+                if (!firstDeadlinePara) firstDeadlinePara = p;
+              }
+            }
+
+            if (firstDeadlinePara) {
+              // Style the badge as a button
+              deadlineBadge.style.cursor = 'pointer';
+              deadlineBadge.setAttribute('role', 'button');
+              deadlineBadge.setAttribute('tabindex', '0');
+              deadlineBadge.setAttribute('aria-label', 'Jump to first deadline in this rule');
+              deadlineBadge.title = 'Click to jump to first deadline';
+
+              const scrollToDeadline = () => {
+                firstDeadlinePara!.scrollIntoView({ block: 'start', behavior: 'smooth' });
+                // Offset for sticky header after scroll settles
+                const headerEl = document.querySelector('header.sticky');
+                const offset = headerEl?.getBoundingClientRect().bottom ?? 0;
+                if (offset > 0) {
+                  setTimeout(() => window.scrollBy({ top: -offset - 8, behavior: 'smooth' }), 300);
+                }
+              };
+
+              deadlineBadge.addEventListener('click', scrollToDeadline);
+              deadlineBadge.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); scrollToDeadline(); }
+              });
+            }
+          }
 
           // On desktop: open side panel. On mobile: follow the href normally.
           ruleBody.addEventListener('click', (e) => {
