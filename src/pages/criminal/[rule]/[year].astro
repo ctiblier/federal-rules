@@ -1,0 +1,216 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import RuleTOC from '../../../components/RuleTOC.astro';
+import { getCollection } from 'astro:content';
+import { diff_match_patch, DIFF_INSERT, DIFF_DELETE, DIFF_EQUAL } from 'diff-match-patch';
+import { stripMarkdown, hasChanged } from '../../../utils/markdown';
+
+export async function getStaticPaths() {
+  const allEntries = await getCollection('criminal');
+
+  // Build a map from folder name (e.g. "rule-26") → current entry
+  const currentMap = new Map(
+    allEntries
+      .filter((e) => e.id.endsWith('/current.md'))
+      .map((e) => [e.id.split('/')[0], e])
+  );
+
+  // Historical entries are everything that is not "current"
+  const historical = allEntries.filter((e) => !e.id.endsWith('/current.md'));
+
+  // Pre-compute sorted year list per rule folder, filtered to years with changes vs current
+  const yearsByFolder = new Map<string, string[]>();
+  for (const e of historical) {
+    const folder = e.id.split('/')[0];
+    const year = e.id.split('/')[1].replace(/\.md$/, '');
+    const current = currentMap.get(folder);
+    if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
+    if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
+    yearsByFolder.get(folder)!.push(year);
+  }
+  for (const years of yearsByFolder.values()) years.sort();
+
+  return historical.map((entry) => {
+    const folderName = entry.id.split('/')[0];
+    const year = entry.id.split('/')[1].replace(/\.md$/, '');
+    const currentEntry = currentMap.get(folderName);
+    const allYears = yearsByFolder.get(folderName) ?? [];
+    return {
+      params: { rule: entry.data.rule, year },
+      props: { entry, currentEntry, allYears },
+    };
+  });
+}
+
+const { entry, currentEntry, allYears } = Astro.props;
+const { Content } = await entry.render();
+
+const isAbrogated = (entry.body?.trim() ?? '').length < 30;
+const year = Astro.params.year;
+
+// --- Build-time diff vs current ---
+
+function buildDiffHtml(historical: string, current: string): string {
+  const dmp = new diff_match_patch();
+  const diffs = dmp.diff_main(stripMarkdown(historical), stripMarkdown(current));
+  dmp.diff_cleanupSemantic(diffs);
+
+  return diffs
+    .map(([op, text]) => {
+      const escaped = text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+      if (op === DIFF_INSERT) return `<ins class="diff-ins">${escaped}</ins>`;
+      if (op === DIFF_DELETE) return `<del class="diff-del">${escaped}</del>`;
+      return escaped;
+    })
+    .join('');
+}
+
+const diffHtml = currentEntry
+  ? buildDiffHtml(entry.body ?? '', currentEntry.body ?? '')
+  : '';
+
+// Detect whether anything actually changed
+const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('class="diff-del"');
+---
+
+<BaseLayout
+  title={`Rule ${entry.data.rule}. ${entry.data.title} (${year})`}
+  description={`Rule ${entry.data.rule} of the Federal Rules of Criminal Procedure as in effect ${year}: ${entry.data.title}.`}
+  ruleset="criminal"
+>
+  <!-- Amber banner -->
+  <div
+    class="historical-banner"
+    style="background-color: #fffbeb; border-bottom: 1px solid #fde68a; padding: 0.5rem 1rem; font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #92400e; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;"
+  >
+    <div style="display: flex; align-items: center; gap: 0.75rem;">
+      <span style="font-weight: 600;">Historical version:</span>
+      <select
+        id="version-select"
+        style="background-color: #fffbeb; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.2rem 0.5rem; font-size: 0.75rem; font-family: system-ui, sans-serif; cursor: pointer;"
+        aria-label="Select version year"
+      >
+        {allYears.map((y) => (
+          <option value={y} selected={y === year}>{y}</option>
+        ))}
+      </select>
+      {hasChanges ? (
+        <button
+          id="diff-toggle"
+          type="button"
+          style="background: none; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.2rem 0.625rem; font-size: 0.75rem; font-weight: 600; cursor: pointer; font-family: system-ui, sans-serif;"
+        >
+          What changed?
+        </button>
+      ) : (
+        <span style="font-size: 0.75rem; color: #92400e; font-style: italic;">Same as current rule</span>
+      )}
+    </div>
+    <a
+      href={`/criminal/${entry.data.rule}/`}
+      style="font-weight: 600; color: #92400e; text-decoration: underline; text-underline-offset: 2px; white-space: nowrap;"
+    >
+      View current (2025) →
+    </a>
+  </div>
+
+  <div class="flex gap-10 px-4 sm:px-6 py-6 md:py-10 max-w-5xl mx-auto">
+    <!-- Main rule content -->
+    <article class="flex-1 min-w-0">
+      <header class="mb-8 pb-6" style="border-bottom: 1px solid rgba(28,28,30,0.1);">
+        <p class="text-xs uppercase tracking-wider mb-2" style="color: #6b7280; font-family: system-ui, sans-serif;">
+          Title {entry.data.title_number} &middot; {entry.data.title_name}
+        </p>
+        <h1
+          class="text-xl sm:text-2xl font-bold mb-4 leading-snug"
+          style="font-family: 'Lora', Georgia, serif; color: #1c1c1e;"
+        >
+          Rule {entry.data.rule}. {entry.data.title}
+        </h1>
+        <div class="flex flex-wrap items-center gap-4 text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
+          <span>Version effective {year}</span>
+        </div>
+      </header>
+
+      {isAbrogated ? (
+        <div class="rounded-lg px-6 py-5" style="border: 1px solid rgba(28,28,30,0.1); background-color: rgba(28,28,30,0.04);">
+          <p class="font-semibold mb-1" style="font-family: system-ui, sans-serif; color: #1c1c1e;">
+            Rule {entry.data.rule} has been abrogated.
+          </p>
+          <p class="text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
+            This rule was removed from the Federal Rules of Criminal Procedure and is no longer in effect.
+          </p>
+        </div>
+      ) : (
+        <>
+          <!-- Reading view -->
+          <div id="reading-view" class="rule-body">
+            <Content />
+          </div>
+
+          <!-- Diff view (hidden by default) -->
+          {hasChanges && (
+            <div id="diff-view" class="rule-body diff-body" style="display:none;">
+              <p style="font-size: 0.75rem; color: #6b7280; font-family: system-ui, sans-serif; margin-bottom: 1.25rem; padding: 0.5rem 0.75rem; background: rgba(28,28,30,0.04); border-radius: 0.25rem;">
+                <span style="background:#dcfce7; color:#166534; padding: 0.125rem 0.25rem; border-radius: 2px; margin-right: 0.5rem;">added in current</span>
+                <span style="background:#fee2e2; color:#991b1b; padding: 0.125rem 0.25rem; border-radius: 2px; text-decoration: line-through; margin-right: 0.5rem;">removed in current</span>
+                Compared to current version (2025).
+              </p>
+              <div class="diff-content" set:html={diffHtml} />
+            </div>
+          )}
+        </>
+      )}
+
+      <footer class="mt-12 pt-6 text-xs" style="border-top: 1px solid rgba(28,28,30,0.1); color: #6b7280; font-family: system-ui, sans-serif;">
+        Source:&nbsp;
+        <a
+          href={`${entry.data.source_pdf_url}#page=${entry.data.source_pdf_page}`}
+          class="underline underline-offset-2 transition-colors"
+          style="color: #6b7280;"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Official FRCrP PDF
+        </a>
+        , p.&nbsp;{entry.data.source_pdf_page}.
+      </footer>
+    </article>
+
+    <!-- Right TOC (only for non-abrogated rules in reading view) -->
+    {!isAbrogated && <RuleTOC />}
+  </div>
+</BaseLayout>
+
+
+<script define:vars={{ ruleNumber: entry.data.rule }}>
+  // Version selector navigation
+  const versionSelect = document.getElementById('version-select');
+  if (versionSelect) {
+    versionSelect.addEventListener('change', (e) => {
+      window.location.href = `/criminal/${ruleNumber}/${e.target.value}/`;
+    });
+  }
+
+  const toggleBtn = document.getElementById('diff-toggle');
+  const readingView = document.getElementById('reading-view');
+  const diffView = document.getElementById('diff-view');
+
+  if (toggleBtn && readingView && diffView) {
+    toggleBtn.addEventListener('click', () => {
+      const showingDiff = diffView.style.display !== 'none';
+      if (showingDiff) {
+        diffView.style.display = 'none';
+        readingView.style.display = '';
+        toggleBtn.textContent = 'What changed?';
+      } else {
+        readingView.style.display = 'none';
+        diffView.style.display = '';
+        toggleBtn.textContent = 'Show rule text';
+      }
+    });
+  }
+</script>

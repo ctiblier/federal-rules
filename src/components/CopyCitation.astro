@@ -1,9 +1,10 @@
 ---
 interface Props {
   ruleNumber: string;
+  citationBase?: string;
 }
-const { ruleNumber } = Astro.props;
-const citation = `Fed. R. Civ. P. ${ruleNumber}`;
+const { ruleNumber, citationBase = 'Fed. R. Civ. P.' } = Astro.props;
+const citation = `${citationBase} ${ruleNumber}`;
 ---
 
 <button

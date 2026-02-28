@@ -1,0 +1,18 @@
+---
+rule: "61"
+title: "Title"
+title_number: "IX"
+title_name: "General Provisions"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
+source_pdf_page: 93
+versions: ["2025"]
+---
+
+These rules may be known and cited as the Federal Rules of Criminal Procedure.
+
+<p class="amendment-history">(As amended Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1. 2008.)</p>

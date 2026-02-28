@@ -1,12 +1,12 @@
 #!/bin/bash
 # Copy rule Markdown files from scraper output to Astro content directory.
-# Usage: ./scripts/copy-content.sh [path/to/FedRules/output/rules]
+# Usage: ./scripts/copy-content.sh [path/to/output/rules] [dest-content-dir]
 #
 # The scraper outputs versioned files as rule-N/current.md, rule-N/2025.md, etc.
-# This script mirrors the folder structure into src/content/rules/rule-N/.
+# This script mirrors the folder structure into the destination content directory.
 
 RULES_DIR=${1:-"../FedRules/output/rules"}
-DEST="src/content/rules"
+DEST=${2:-"src/content/civil"}
 
 mkdir -p "$DEST"
 

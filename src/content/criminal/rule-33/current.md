@@ -1,0 +1,24 @@
+---
+rule: "33"
+title: "New Trial"
+title_number: "VII"
+title_name: "Post-Conviction Procedures"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: true
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
+source_pdf_page: 70
+versions: ["2025"]
+---
+
+**(a) Defendant’s Motion.** Upon the defendant’s motion, the court may vacate any judgment and grant a new trial if the interest of justice so requires. If the case was tried without a jury, the court may take additional testimony and enter a new judgment.
+
+**(b) Time to File.**
+
+**(1) Newly Discovered Evidence.** Any motion for a new trial grounded on newly discovered evidence must be filed within 3 years after the verdict or finding of guilty. If an appeal is pending, the court may not grant a motion for a new trial until the appellate court remands the case.
+
+**(2) Other Grounds.** Any motion for a new trial grounded on any reason other than newly discovered evidence must be filed within 14 days after the verdict or finding of guilty.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

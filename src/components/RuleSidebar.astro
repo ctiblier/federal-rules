@@ -1,10 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
 
-const allEntries = await getCollection('rules');
+interface Props {
+  ruleset: 'civil' | 'criminal';
+}
+const { ruleset } = Astro.props;
+const basePath = `/${ruleset}`;
+const label = ruleset === 'civil' ? 'All FRCP rules' : 'All FRCrP rules';
+
+const allEntries = await getCollection(ruleset);
 const rules = allEntries.filter((e) => e.id.endsWith('/current.md'));
 
-// Sort: numeric rules by float value, supplemental letters (A-G) go last
 const sorted = rules.sort((a, b) => {
   const aIsLetter = /^[A-G]$/.test(a.data.rule);
   const bIsLetter = /^[A-G]$/.test(b.data.rule);
@@ -14,7 +20,6 @@ const sorted = rules.sort((a, b) => {
   return parseFloat(a.data.rule) - parseFloat(b.data.rule);
 });
 
-// Group by title_number
 type GroupValue = { title_name: string; rules: typeof sorted };
 const groups = new Map<string, GroupValue>();
 for (const rule of sorted) {
@@ -28,7 +33,7 @@ for (const rule of sorted) {
 const currentPath = Astro.url.pathname;
 ---
 
-<nav class="py-2" aria-label="All FRCP rules">
+<nav class="py-2" aria-label={label}>
   <a
     href="/"
     class="flex items-center gap-2 px-4 py-3 text-sm font-bold border-b"
@@ -54,8 +59,8 @@ const currentPath = Astro.url.pathname;
         </summary>
         <ul>
           {group.rules.map((rule) => {
-            const href = `/rules/${rule.data.rule}/`;
-            const isActive = currentPath === href || currentPath === `/rules/${rule.data.rule}`;
+            const href = `${basePath}/${rule.data.rule}/`;
+            const isActive = currentPath === href || currentPath === `${basePath}/${rule.data.rule}`;
             return (
               <li>
                 <a

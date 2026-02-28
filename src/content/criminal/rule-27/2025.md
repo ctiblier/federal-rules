@@ -1,0 +1,18 @@
+---
+rule: "27"
+title: "Proving an Official Record"
+title_number: "VI"
+title_name: "Trial"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
+source_pdf_page: 58
+versions: ["2025"]
+---
+
+A party may prove an official record, an entry in such a record, or the lack of a record or entry in the same manner as in a civil action.
+
+<p class="amendment-history">(As amended Apr. 29, 2002, eff. Dec, 1, 2002.)</p>

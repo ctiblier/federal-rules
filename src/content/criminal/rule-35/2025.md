@@ -1,0 +1,34 @@
+---
+rule: "35"
+title: "Correcting or Reducing a Sentence"
+title_number: "VII"
+title_name: "Post-Conviction Procedures"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: true
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
+source_pdf_page: 71
+versions: ["2025"]
+---
+
+**(a) Correcting Clear Error.** Within 14 days after sentencing, the court may correct a sentence that resulted from arithmetical, technical, or other clear error.
+
+**(b) Reducing a Sentence for Substantial Assistance.**
+
+**(1) In General.** Upon the government’s motion made within one year of sentencing, the court may reduce a sentence if the defendant, after sentencing, provided substantial assistance in investigating or prosecuting another person.
+
+**(2) Later Motion.** Upon the government’s motion made more than one year after sentencing, the court may reduce a sentence if the defendant’s substantial assistance involved:
+
+**(A)** information not known to the defendant until one year or more after sentencing;
+
+**(B)** information provided by the defendant to the government within one year of sentencing, but which did not become useful to the government until more than one year after sentencing; or
+
+**(C)** information the usefulness of which could not reasonably have been anticipated by the defendant until more than one year after sentencing and which was promptly provided to the government after its usefulness was reasonably apparent to the defendant.
+
+**(3) Evaluating Substantial Assistance.** In evaluating whether the defendant has provided substantial assistance, the court may consider the defendant’s presentence assistance.
+
+**(4) Below Statutory Minimum.** When acting under Rule 35(b), the court may reduce the sentence to a level below the minimum sentence established by statute.
+
+**(c) ‘‘Sentencing’’ Defined.** As used in this rule, ‘‘sentencing’’ means the oral announcement of the sentence. (As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, § 215(b), Oct. 12, 1984, 98 Stat. 2015, eff. Nov. 1, 1987; Apr. 29, 1985, eff. Aug. 1, 1985; Pub. L. 99–570, title I, § 1009(a), Oct. 27, 1986, 100 Stat. 3207–8, eff. Nov. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
