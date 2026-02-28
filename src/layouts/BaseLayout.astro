@@ -111,11 +111,21 @@ const {
       #back-to-top:hover { transform: translateY(-2px); }
       #back-to-top:focus-visible { outline: 2px solid #c9a84c; outline-offset: 2px; }
 
-      /* Deadline paragraph marker — subtle left accent */
-      .deadline-para {
-        border-left: 2px solid #fde68a;
-        padding-left: 0.6rem;
-        margin-left: -0.6rem;
+      /* Deadline paragraph — base class (just primes border-radius for animation) */
+      .deadline-para { border-radius: 3px; }
+
+      /* Blink then settle to faint gold — applied when badge is clicked */
+      @keyframes dl-blink {
+        0%   { background-color: transparent; }
+        15%  { background-color: rgba(201, 168, 76, 0.28); }
+        38%  { background-color: rgba(201, 168, 76, 0.10); }
+        58%  { background-color: rgba(201, 168, 76, 0.24); }
+        78%  { background-color: rgba(201, 168, 76, 0.10); }
+        100% { background-color: rgba(201, 168, 76, 0.14); }
+      }
+      .deadline-active {
+        animation: dl-blink 2.4s ease-out forwards;
+        border-radius: 3px;
       }
 
       /* Cross-ref panel: blink the target subsection to draw the eye */
@@ -325,11 +335,12 @@ const {
           }
 
           // ── Fetch + display a referenced rule ──────────────────────────
-          async function openPanel(ruleNum: string, anchor: string, trigger: HTMLElement) {
+          async function openPanel(ruleNum: string, anchor: string, trigger: HTMLElement, xrRuleset?: string) {
             panelTrigger = trigger;
-            const url = `/${ruleset}/${ruleNum}/`;
+            const targetRS = xrRuleset ?? ruleset;
+            const url = `/${targetRS}/${ruleNum}/`;
             rpLink.href = url;
-            rpLabel.textContent = RULESETS[ruleset] ?? '';
+            rpLabel.textContent = RULESETS[targetRS] ?? '';
             rpTitle.textContent = `Rule ${ruleNum}`;
             rpBody.innerHTML =
               '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;padding:0.5rem 0;">Loading…</p>';
@@ -385,23 +396,52 @@ const {
             }
           }
 
-          // ── Auto-link "Rule N(a)(b)..." patterns in rule text ──────────
-          // Captures optional subsection sequence: "Rule 26(a)(1)" → href="/civil/26/#a-1"
+          // ── Auto-link rule citations in rule text ──────────────────────
+          // Handles two forms:
+          //   "Rule N(a)(b)"           → same-ruleset link  (e.g. /civil/26/#a-1)
+          //   "Fed. R. Civ. P. N(a)"  → cross-ruleset link (e.g. /civil/4/#e)
           const RULE_RE = /\bRule\s+(\d+(?:\.\d+)?)\s*((?:\([^)]+\))*)/g;
+
+          // Bluebook citation regex: "Fed. R. Xxx. P. N(a)(b)"
+          const BLUEBOOK_RE = /\bFed\.\s+R\.\s+(Civ\.\s+P\.|Crim\.\s+P\.|App\.\s+P\.|Evid\.|Bankr\.\s+P\.)\s+(\d+(?:\.\d+)?)\s*((?:\([^)]+\))*)/g;
+          const BLUEBOOK_RULESET: Record<string, string> = {
+            'Civ. P.':   'civil',
+            'Crim. P.':  'criminal',
+            'App. P.':   'appellate',
+            'Evid.':     'evidence',
+            'Bankr. P.': 'bankruptcy',
+          };
 
           function linkify(node: Node) {
             if (node.nodeType === Node.TEXT_NODE) {
               const text = node.textContent ?? '';
               RULE_RE.lastIndex = 0;
-              if (!RULE_RE.test(text)) return;
-              const wrap = document.createElement('span');
+              BLUEBOOK_RE.lastIndex = 0;
+              if (!RULE_RE.test(text) && !BLUEBOOK_RE.test(text)) return;
+
+              // Apply Bluebook replacements first (more specific pattern)
+              BLUEBOOK_RE.lastIndex = 0;
+              let replaced = text.replace(BLUEBOOK_RE, (match, abbrev, num, subs) => {
+                const key = abbrev.trim().replace(/\s+/g, ' ');
+                const targetRS = BLUEBOOK_RULESET[key] ?? ruleset;
+                const anchor = toAnchor(subs ?? '');
+                const href = `/${targetRS}/${num}/${anchor}`;
+                const safeMatch = match.replace(/"/g, '&quot;');
+                return `<a href="${href}" class="rule-xref" data-rule="${num}" data-anchor="${anchor}"` +
+                  ` data-xref-ruleset="${targetRS}" aria-label="${safeMatch}: view in side panel">${match}</a>`;
+              });
+
+              // Then apply same-ruleset "Rule N" replacements
               RULE_RE.lastIndex = 0;
-              wrap.innerHTML = text.replace(RULE_RE, (match, num, subs) => {
+              replaced = replaced.replace(RULE_RE, (match, num, subs) => {
                 const anchor = toAnchor(subs ?? '');
                 const href = `/${ruleset}/${num}/${anchor}`;
                 return `<a href="${href}" class="rule-xref" data-rule="${num}" data-anchor="${anchor}"` +
                   ` aria-label="${match}: view in side panel">${match}</a>`;
               });
+
+              const wrap = document.createElement('span');
+              wrap.innerHTML = replaced;
               node.parentNode?.replaceChild(wrap, node);
             } else if (
               node.nodeType === Node.ELEMENT_NODE &&
@@ -412,9 +452,9 @@ const {
           }
           linkify(ruleBody);
 
-          // ── "Contains Deadlines" badge → click to jump to first deadline ──
-          // Finds paragraphs with time-period language, marks them, and wires
-          // the badge in the rule header to scroll to the first one.
+          // ── "Contains Deadlines" badge → click to blink + highlight all deadlines ──
+          // Finds paragraphs with time-period language, marks them with .deadline-para,
+          // and wires the badge to toggle a persistent faint gold highlight on all of them.
           const deadlineBadge = Array.from(
             document.querySelectorAll<HTMLElement>('article header span')
           ).find(el => el.textContent?.trim() === 'Contains Deadlines');
@@ -422,36 +462,50 @@ const {
           if (deadlineBadge) {
             const DEADLINE_RE =
               /\b\d+\s*(?:calendar\s+|business\s+|court\s+)?(?:days?|hours?|months?|years?|weeks?)\b/i;
-            let firstDeadlinePara: HTMLElement | null = null;
+            const deadlineParas: HTMLElement[] = [];
 
             for (const p of ruleBody.querySelectorAll<HTMLElement>('p')) {
               if (DEADLINE_RE.test(p.textContent ?? '')) {
                 p.classList.add('deadline-para');
-                if (!firstDeadlinePara) firstDeadlinePara = p;
+                deadlineParas.push(p);
               }
             }
 
-            if (firstDeadlinePara) {
-              // Style the badge as a button
+            if (deadlineParas.length) {
               deadlineBadge.style.cursor = 'pointer';
               deadlineBadge.setAttribute('role', 'button');
               deadlineBadge.setAttribute('tabindex', '0');
-              deadlineBadge.setAttribute('aria-label', 'Jump to first deadline in this rule');
-              deadlineBadge.title = 'Click to jump to first deadline';
+              deadlineBadge.setAttribute('aria-label', 'Highlight deadlines in this rule');
+              deadlineBadge.title = 'Click to highlight deadlines';
 
-              const scrollToDeadline = () => {
-                firstDeadlinePara!.scrollIntoView({ block: 'start', behavior: 'smooth' });
-                // Offset for sticky header after scroll settles
-                const headerEl = document.querySelector('header.sticky');
-                const offset = headerEl?.getBoundingClientRect().bottom ?? 0;
-                if (offset > 0) {
-                  setTimeout(() => window.scrollBy({ top: -offset - 8, behavior: 'smooth' }), 300);
+              let deadlinesActive = false;
+
+              const toggleDeadlines = () => {
+                deadlinesActive = !deadlinesActive;
+                if (deadlinesActive) {
+                  // Blink all deadline paragraphs and let the animation settle
+                  // to a faint persistent gold (animation-fill-mode: forwards).
+                  deadlineParas.forEach(p => {
+                    p.classList.remove('deadline-active');
+                    void p.offsetWidth; // force reflow to restart animation
+                    p.classList.add('deadline-active');
+                  });
+                  // Scroll to first deadline
+                  deadlineParas[0].scrollIntoView({ block: 'start', behavior: 'smooth' });
+                  const headerEl = document.querySelector('header.sticky');
+                  const offset = headerEl?.getBoundingClientRect().bottom ?? 0;
+                  if (offset > 0) {
+                    setTimeout(() => window.scrollBy({ top: -offset - 8, behavior: 'smooth' }), 300);
+                  }
+                } else {
+                  // Remove highlight — class removal drops the fill-mode background
+                  deadlineParas.forEach(p => p.classList.remove('deadline-active'));
                 }
               };
 
-              deadlineBadge.addEventListener('click', scrollToDeadline);
+              deadlineBadge.addEventListener('click', toggleDeadlines);
               deadlineBadge.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); scrollToDeadline(); }
+                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleDeadlines(); }
               });
             }
           }
@@ -462,7 +516,7 @@ const {
             const link = (e.target as Element).closest<HTMLAnchorElement>('.rule-xref');
             if (!link) return;
             e.preventDefault();
-            openPanel(link.dataset.rule!, link.dataset.anchor ?? '', link);
+            openPanel(link.dataset.rule!, link.dataset.anchor ?? '', link, link.dataset.xrefRuleset);
           });
         }
       }
