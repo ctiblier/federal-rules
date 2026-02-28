@@ -13,7 +13,7 @@ source_pdf_page: 105
 versions: ["2025"]
 ---
 
-**(a)** by a Pending Appeal Relief Pending Appeal. If a timely motion is made for relief that the court lacks authority to grant because of an appeal that has been docketed and is pending, the court may:
+**(a) Relief Pending Appeal.** If a timely motion is made for relief that the court lacks authority to grant because of an appeal that has been docketed and is pending, the court may:
 
 **(1)** defer considering the motion;
 

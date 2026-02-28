@@ -13,7 +13,7 @@ source_pdf_page: 38
 versions: ["2025"]
 ---
 
-**(a)** tion for Judgment on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing Time to Serve a Responsive Pleading. Unless another time is specified by a federal statute, the time for serving a responsive pleading is as follows:
+**(a) Time to Serve a Responsive Pleading.** Unless another time is specified by a federal statute, the time for serving a responsive pleading is as follows:
 
 **(1) In General.**
 
