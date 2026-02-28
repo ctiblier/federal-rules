@@ -14,12 +14,12 @@ const sorted = rules.sort((a, b) => {
   return parseFloat(a.data.rule) - parseFloat(b.data.rule);
 });
 
-type GroupValue = { title_name: string; rules: typeof sorted };
+type GroupValue = { title_number: string; title_name: string; rules: typeof sorted };
 const groups = new Map<string, GroupValue>();
 for (const rule of sorted) {
   const key = `${rule.data.title_number}||${rule.data.title_name}`;
   if (!groups.has(key)) {
-    groups.set(key, { title_name: rule.data.title_name, rules: [] });
+    groups.set(key, { title_number: rule.data.title_number, title_name: rule.data.title_name, rules: [] });
   }
   groups.get(key)!.rules.push(rule);
 }
@@ -42,15 +42,17 @@ const total = rules.length;
       </p>
     </header>
 
-    <!-- Pagefind search -->
-    <section id="search" aria-label="Search criminal rules" style="margin-bottom: 2rem;">
-      <div id="pagefind-search"></div>
-    </section>
+    <!-- Pagefind search — sticky on scroll -->
+    <div class="search-sticky" style="position: sticky; top: 3.25rem; z-index: 10; background-color: #f8f5f0; padding-bottom: 1rem; margin-bottom: 1rem;">
+      <section id="search" aria-label="Search criminal rules">
+        <div id="pagefind-search"></div>
+      </section>
+    </div>
 
     {Array.from(groups.values()).map((group) => (
       <section style="margin-bottom: 2.5rem;">
         <h2 style="font-size: 0.6875rem; font-family: system-ui, sans-serif; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #6b7280; margin-bottom: 0.75rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(28,28,30,0.1);">
-          {group.title_name}
+          {group.title_number ? `Title ${group.title_number} · ` : ''}{group.title_name}
         </h2>
         <ul>
           {group.rules.map((rule) => (

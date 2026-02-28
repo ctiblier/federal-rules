@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="About"
+  description="About Federal Rules — a professional reference for the Federal Rules of Procedure."
+  noSidebar={true}
+>
+  <div style="max-width: 640px; margin: 0 auto; padding: 4rem 1.5rem 6rem; font-family: 'Lora', Georgia, serif;">
+    <header style="margin-bottom: 2.5rem;">
+      <h1 style="font-size: 1.75rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.75rem;">About</h1>
+    </header>
+
+    <div style="font-size: 1rem; color: #374151; line-height: 1.75;">
+      <p style="margin-bottom: 1.25rem;">
+        <strong>Federal Rules</strong> is a free, clean reference for the Federal Rules of Procedure. Our goal is to make official legal rules more accessible — searchable, citable, and readable — for practicing attorneys, law students, and anyone who needs to look up a rule.
+      </p>
+      <p style="margin-bottom: 1.25rem;">
+        We publish the Federal Rules of Civil Procedure, Criminal Procedure, Appellate Procedure, Evidence, and Bankruptcy Procedure, with version history going back to 2004. Rules are sourced directly from the official U.S. Courts PDFs and updated annually after December 1 amendments take effect.
+      </p>
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-top: 2rem; margin-bottom: 0.75rem;">Features</h2>
+      <ul style="padding-left: 1.25rem; margin-bottom: 1.25rem;">
+        <li style="margin-bottom: 0.5rem;">Full-text search within each ruleset</li>
+        <li style="margin-bottom: 0.5rem;">One-click Bluebook citation copy (<em>Fed. R. Civ. P. 26(a)(1)</em>)</li>
+        <li style="margin-bottom: 0.5rem;">Version history and diff view for amended rules</li>
+        <li style="margin-bottom: 0.5rem;">Mobile-friendly reading experience</li>
+        <li style="margin-bottom: 0.5rem;">No login, no paywalls, no tracking</li>
+      </ul>
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-top: 2rem; margin-bottom: 0.75rem;">Accuracy</h2>
+      <p style="margin-bottom: 1.25rem;">
+        Rule text is extracted programmatically from official U.S. Courts publications. While we strive for accuracy, this site is not a substitute for official sources. Always verify against <a href="https://www.uscourts.gov/rules-policies/current-rules-practice-procedure" target="_blank" rel="noopener noreferrer" style="color: #1a2744; text-decoration: underline;">uscourts.gov</a> for legal proceedings.
+      </p>
+    </div>
+
+    <div style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid rgba(28,28,30,0.1);">
+      <a href="/" style="font-family: system-ui, sans-serif; font-size: 0.875rem; color: #6b7280; text-decoration: none;">← Back to home</a>
+    </div>
+  </div>
+</BaseLayout>

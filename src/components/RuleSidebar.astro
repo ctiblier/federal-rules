@@ -2,12 +2,19 @@
 import { getCollection } from 'astro:content';
 
 interface Props {
-  ruleset: 'civil' | 'criminal';
+  ruleset: 'civil' | 'criminal' | 'appellate' | 'evidence' | 'bankruptcy';
 }
 const { ruleset } = Astro.props;
 const basePath = `/${ruleset}`;
-const label = ruleset === 'civil' ? 'All FRCP rules' : 'All FRCrP rules';
 
+const RULESET_LABELS: Record<string, { short: string; full: string }> = {
+  civil:      { short: 'FRCP',  full: 'Federal Rules of Civil Procedure' },
+  criminal:   { short: 'FRCrP', full: 'Federal Rules of Criminal Procedure' },
+  appellate:  { short: 'FRAP',  full: 'Federal Rules of Appellate Procedure' },
+  evidence:   { short: 'FRE',   full: 'Federal Rules of Evidence' },
+  bankruptcy: { short: 'FRBP',  full: 'Federal Rules of Bankruptcy Procedure' },
+};
+const label = RULESET_LABELS[ruleset]?.full ?? 'Federal Rules';
 const allEntries = await getCollection(ruleset);
 const rules = allEntries.filter((e) => e.id.endsWith('/current.md'));
 
@@ -20,12 +27,15 @@ const sorted = rules.sort((a, b) => {
   return parseFloat(a.data.rule) - parseFloat(b.data.rule);
 });
 
-type GroupValue = { title_name: string; rules: typeof sorted };
+// Group prefix varies by ruleset: evidence uses "Article", bankruptcy uses "Part", others use "Title"
+const groupPrefix = ruleset === 'evidence' ? 'Article' : ruleset === 'bankruptcy' ? 'Part' : 'Title';
+
+type GroupValue = { title_number: string; title_name: string; rules: typeof sorted };
 const groups = new Map<string, GroupValue>();
 for (const rule of sorted) {
   const key = rule.data.title_number;
   if (!groups.has(key)) {
-    groups.set(key, { title_name: rule.data.title_name, rules: [] });
+    groups.set(key, { title_number: rule.data.title_number, title_name: rule.data.title_name, rules: [] });
   }
   groups.get(key)!.rules.push(rule);
 }
@@ -34,17 +44,18 @@ const currentPath = Astro.url.pathname;
 ---
 
 <nav class="py-2" aria-label={label}>
-  <a
-    href="/"
-    class="flex items-center gap-2 px-4 py-3 text-sm font-bold border-b"
-    style="color: #c9a84c; border-color: rgba(255,255,255,0.1); font-family: system-ui, sans-serif;"
-  >
-    Federal Rules
-  </a>
+  <div class="px-4 py-3 border-b" style="border-color: rgba(255,255,255,0.1);">
+    <a href="/" class="text-[10px] font-semibold uppercase tracking-widest transition-opacity opacity-60 hover:opacity-100" style="color: #c9a84c; font-family: system-ui, sans-serif;">
+      ← All Rulesets
+    </a>
+    <p class="mt-1 text-[12px] font-bold leading-tight" style="color: white; font-family: system-ui, sans-serif;">
+      {label}
+    </p>
+  </div>
 
   {Array.from(groups.entries()).map(([titleNum, group]) => {
     const isSupplemental = titleNum === '';
-    const groupLabel = isSupplemental ? 'Supplemental Rules' : `Title ${titleNum}`;
+    const groupLabel = isSupplemental ? 'Supplemental Rules' : `${groupPrefix} ${titleNum}`;
 
     return (
       <details open>

@@ -34,7 +34,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
         Federal Rules, finally readable.
       </h1>
       <p style="font-family: 'Lora', Georgia, serif; font-size: 1.0625rem; color: #6b7280; line-height: 1.7; max-width: 520px;">
-        The complete Federal Rules of Procedure — civil, criminal, appellate, evidence, and bankruptcy — with search, version history, and one-click citation.
+        The complete Federal Rules of Procedure — with search, version history, and one-click citation.
       </p>
     </header>
 
@@ -95,7 +95,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
         <!-- Appellate Procedure -->
         <a
-          href="/appellate/1/"
+          href="/appellate/"
           class="ruleset-card"
           style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.15); background-color: white; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s;"
         >
@@ -119,7 +119,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
         <!-- Evidence -->
         <a
-          href="/evidence/101/"
+          href="/evidence/"
           class="ruleset-card"
           style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.15); background-color: white; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s;"
         >
@@ -143,7 +143,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
         <!-- Bankruptcy Procedure -->
         <a
-          href="/bankruptcy/1001/"
+          href="/bankruptcy/"
           class="ruleset-card"
           style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.15); background-color: white; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s;"
         >
@@ -168,6 +168,14 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
       </div>
     </section>
   </div>
+
+  <!-- Footer -->
+  <footer style="border-top: 1px solid rgba(28,28,30,0.1); padding: 1.5rem; text-align: center;">
+    <nav aria-label="Footer" style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #9ca3af; display: flex; justify-content: center; gap: 1.5rem;">
+      <a href="/about/" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;" onmouseover="this.style.color='#374151'" onmouseout="this.style.color='#9ca3af'">About</a>
+      <a href="/privacy/" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;" onmouseover="this.style.color='#374151'" onmouseout="this.style.color='#9ca3af'">Privacy</a>
+    </nav>
+  </footer>
 </BaseLayout>
 
 <style>

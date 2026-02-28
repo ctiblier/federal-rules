@@ -6,7 +6,7 @@ import Header from '../components/Header.astro';
 interface Props {
   title: string;
   description?: string;
-  ruleset?: 'civil' | 'criminal';
+  ruleset?: 'civil' | 'criminal' | 'appellate' | 'evidence' | 'bankruptcy';
   noSidebar?: boolean;
 }
 
@@ -98,7 +98,7 @@ const {
 
       <!-- Main content column -->
       <div class="flex-1 min-w-0 flex flex-col">
-        <Header />
+        <Header noSearch={noSidebar} />
         <main id="main-content" tabindex="-1">
           <slot />
         </main>

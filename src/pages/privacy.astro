@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy policy for Federal Rules."
+  noSidebar={true}
+>
+  <div style="max-width: 640px; margin: 0 auto; padding: 4rem 1.5rem 6rem; font-family: 'Lora', Georgia, serif;">
+    <header style="margin-bottom: 2.5rem;">
+      <h1 style="font-size: 1.75rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.75rem;">Privacy Policy</h1>
+      <p style="font-size: 0.875rem; color: #6b7280; font-family: system-ui, sans-serif;">Effective: March 1, 2026</p>
+    </header>
+
+    <div style="font-size: 1rem; color: #374151; line-height: 1.75;">
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.75rem;">We don't track you</h2>
+      <p style="margin-bottom: 1.25rem;">
+        Federal Rules does not use cookies, analytics trackers, advertising networks, or any third-party tracking technology. We don't collect personal information, and we don't sell or share any data.
+      </p>
+
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-top: 2rem; margin-bottom: 0.75rem;">What we do collect</h2>
+      <p style="margin-bottom: 1.25rem;">
+        Standard web server logs (IP address, request path, timestamp) may be retained temporarily by our hosting provider (Cloudflare Pages) for operational purposes. These logs are not used to identify individual users and are not retained indefinitely.
+      </p>
+
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-top: 2rem; margin-bottom: 0.75rem;">Search</h2>
+      <p style="margin-bottom: 1.25rem;">
+        Search is powered by <a href="https://pagefind.app" target="_blank" rel="noopener noreferrer" style="color: #1a2744; text-decoration: underline;">Pagefind</a>, which runs entirely in your browser. Your search queries are never sent to any server.
+      </p>
+
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-top: 2rem; margin-bottom: 0.75rem;">External links</h2>
+      <p style="margin-bottom: 1.25rem;">
+        Links to official government sources (uscourts.gov) open in a new tab. Those sites have their own privacy policies.
+      </p>
+
+      <h2 style="font-size: 1.125rem; font-weight: 700; color: #1c1c1e; margin-top: 2rem; margin-bottom: 0.75rem;">Changes</h2>
+      <p style="margin-bottom: 1.25rem;">
+        If this policy changes materially, we'll update the effective date above.
+      </p>
+    </div>
+
+    <div style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid rgba(28,28,30,0.1);">
+      <a href="/" style="font-family: system-ui, sans-serif; font-size: 0.875rem; color: #6b7280; text-decoration: none;">← Back to home</a>
+    </div>
+  </div>
+</BaseLayout>
