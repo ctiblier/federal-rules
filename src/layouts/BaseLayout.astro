@@ -461,7 +461,7 @@ const {
 
           if (deadlineBadge) {
             const DEADLINE_RE =
-              /\b\d+\s*(?:calendar\s+|business\s+|court\s+)?(?:days?|hours?|months?|years?|weeks?)\b/i;
+              /\b\d+\s*(?:calendar\s+|business\s+|court\s+)?(?:days?|hours?|months?|years?|weeks?)\b(?!\s+(?:old\b|of\s+age))/i;
             const deadlineParas: HTMLElement[] = [];
 
             for (const p of ruleBody.querySelectorAll<HTMLElement>('p')) {
@@ -471,7 +471,11 @@ const {
               }
             }
 
-            if (deadlineParas.length) {
+            // If no deadline paragraphs found, the badge is a scraper false positive —
+            // hide it so users aren't misled (e.g. "within 100 miles" triggering detection).
+            if (!deadlineParas.length) {
+              deadlineBadge.style.display = 'none';
+            } else {
               deadlineBadge.style.cursor = 'pointer';
               deadlineBadge.setAttribute('role', 'button');
               deadlineBadge.setAttribute('tabindex', '0');
