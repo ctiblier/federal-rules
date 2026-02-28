@@ -47,7 +47,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
   title={`Rule ${entry.data.rule}. ${entry.data.title}`}
   description={`Rule ${entry.data.rule} of the Federal Rules of Civil Procedure: ${entry.data.title}. Current through ${entry.data.last_amended}.`}
 >
-  <div class="flex gap-10 px-6 py-10 max-w-5xl mx-auto">
+  <div class="flex gap-10 px-4 sm:px-6 py-6 md:py-10 max-w-5xl mx-auto">
     <!-- Main rule content -->
     <article class="flex-1 min-w-0" data-pagefind-body>
       <header class="mb-8 pb-6" style="border-bottom: 1px solid rgba(28,28,30,0.1);">
@@ -55,7 +55,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
           Title {entry.data.title_number} &middot; {entry.data.title_name}
         </p>
         <h1
-          class="text-2xl font-bold mb-4 leading-snug"
+          class="text-xl sm:text-2xl font-bold mb-4 leading-snug"
           style="font-family: 'Lora', Georgia, serif; color: #1c1c1e;"
           data-pagefind-meta="title"
         >
@@ -91,7 +91,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
               <div
                 id="history-dropdown"
                 class="absolute left-0 z-20 rounded-lg shadow-lg overflow-hidden"
-                style="top: calc(100% + 6px); min-width: 90px; background: white; border: 1px solid rgba(28,28,30,0.12); display: none;"
+                style="top: calc(100% + 6px); right: 0; min-width: 90px; background: white; border: 1px solid rgba(28,28,30,0.12); display: none;"
                 role="menu"
               >
                 {allYears.map((year) => (

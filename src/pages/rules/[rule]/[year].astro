@@ -84,7 +84,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
   <!-- Amber banner -->
   <div
     class="historical-banner"
-    style="background-color: #fffbeb; border-bottom: 1px solid #fde68a; padding: 0.5rem 1.5rem; font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #92400e; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;"
+    style="background-color: #fffbeb; border-bottom: 1px solid #fde68a; padding: 0.5rem 1rem; font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #92400e; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;"
   >
     <div style="display: flex; align-items: center; gap: 0.75rem;">
       <span style="font-weight: 600;">Historical version:</span>
@@ -117,7 +117,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
     </a>
   </div>
 
-  <div class="flex gap-10 px-6 py-10 max-w-5xl mx-auto">
+  <div class="flex gap-10 px-4 sm:px-6 py-6 md:py-10 max-w-5xl mx-auto">
     <!-- Main rule content -->
     <article class="flex-1 min-w-0">
       <header class="mb-8 pb-6" style="border-bottom: 1px solid rgba(28,28,30,0.1);">
@@ -125,7 +125,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
           Title {entry.data.title_number} &middot; {entry.data.title_name}
         </p>
         <h1
-          class="text-2xl font-bold mb-4 leading-snug"
+          class="text-xl sm:text-2xl font-bold mb-4 leading-snug"
           style="font-family: 'Lora', Georgia, serif; color: #1c1c1e;"
         >
           Rule {entry.data.rule}. {entry.data.title}

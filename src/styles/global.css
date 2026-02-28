@@ -111,6 +111,25 @@ del.diff-del {
 /* History dropdown links */
 #history-dropdown a:hover { background-color: #f9fafb; color: #1c1c1e !important; }
 
+/* Touch devices: hide hover-only UI elements */
+@media (hover: none) and (pointer: coarse) {
+  /* Per-paragraph cite buttons are hover-only — hide on touch */
+  .cite-btn { display: none; }
+  /* Floating selection-based cite button — hide on touch */
+  #sel-cite-btn { display: none !important; }
+}
+
+/* Touch target minimum size for interactive elements */
+@media (hover: none) and (pointer: coarse) {
+  #history-btn,
+  #diff-toggle,
+  #version-select {
+    min-height: 44px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+
 /* Accessible focus ring using gold accent */
 :focus-visible {
   outline: 2px solid var(--color-gold);
