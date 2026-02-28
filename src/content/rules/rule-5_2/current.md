@@ -37,7 +37,7 @@ versions: ["2025"]
 
 **(6)** a pro se filing in an action brought under 28 U.S.C. §§ 2241, 2254, or 2255.
 
-**(c) Limitations on Remote Access to Electronic Files; Social Security Appeals and Immigration Cases.** Unless the court orders otherwise, in an action for benefits under the Social Security Act, and in an action or proceeding relating to an order of removal, to relief from removal, or to immigration benefits or detention, access to an electronic file is authorized as follows:
+**(c) Limitations on Remote Access to Electronic Files; SocialSecurity Appeals and Immigration Cases.** Unless the court orders otherwise, in an action for benefits under the Social Security Act, and in an action or proceeding relating to an order of removal, to relief from removal, or to immigration benefits or detention, access to an electronic file is authorized as follows:
 
 **(1)** the parties and their attorneys may have remote electronic access to any part of the case file, including the administrative record;
 
