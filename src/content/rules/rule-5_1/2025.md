@@ -13,7 +13,7 @@ source_pdf_page: 30
 versions: ["2025"]
 ---
 
-**(a) Notice by a Party.** A party that files a pleading, written motion, or other paper drawing into question the constitutionality of a federal or state statute must promptly:
+**(a)** cation, and Intervention Notice by a Party. A party that files a pleading, written motion, or other paper drawing into question the constitutionality of a federal or state statute must promptly:
 
 **(1)** file a notice of constitutional question stating the question and identifying the paper that raises it, if:
 

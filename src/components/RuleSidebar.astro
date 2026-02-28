@@ -80,3 +80,8 @@ const currentPath = Astro.url.pathname;
     );
   })}
 </nav>
+
+<script>
+  const active = document.querySelector('#rule-sidebar a[aria-current="page"]');
+  if (active) active.scrollIntoView({ block: 'center' });
+</script>

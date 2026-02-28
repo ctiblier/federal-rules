@@ -89,6 +89,9 @@ html {
 .rule-body p[data-level="3"]::before { left: 3.5rem; }
 .rule-body p[data-level="4"]::before { left: 5rem; }
 
+/* History dropdown links */
+#history-dropdown a:hover { background-color: #f9fafb; color: #1c1c1e !important; }
+
 /* Accessible focus ring using gold accent */
 :focus-visible {
   outline: 2px solid var(--color-gold);
