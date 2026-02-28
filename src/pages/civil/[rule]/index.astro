@@ -43,10 +43,20 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 ---
 
 <BaseLayout
-  title={`Rule ${entry.data.rule}. ${entry.data.title}`}
+  title={`Rule ${entry.data.rule} — Federal Rules of Civil Procedure`}
   description={`Rule ${entry.data.rule} of the Federal Rules of Civil Procedure: ${entry.data.title}. Current through ${entry.data.last_amended}.`}
   ruleset="civil"
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Legislation",
+    "name": `Rule ${entry.data.rule}. ${entry.data.title}`,
+    "legislationType": "Rule",
+    "jurisdiction": { "@type": "AdministrativeArea", "name": "United States" },
+    "datePublished": entry.data.last_amended,
+    "isPartOf": { "@type": "Legislation", "name": "Federal Rules of Civil Procedure" },
+    "url": `https://federal-rules.com/civil/${entry.data.rule}/`
+  })} />
   <div class="flex gap-10 px-4 sm:px-6 py-6 md:py-10 max-w-5xl mx-auto">
     <!-- Main rule content -->
     <article class="flex-1 min-w-0" data-pagefind-body data-pagefind-filter="ruleset:civil">

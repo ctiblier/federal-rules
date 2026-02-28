@@ -31,9 +31,16 @@ const total = rules.length;
 
 <BaseLayout
   title="Federal Rules of Civil Procedure"
-  description="Complete index of all Federal Rules of Civil Procedure, grouped by title."
+  description="Complete text of all Federal Rules of Civil Procedure, current through December 1, 2024. Search, version history, and Bluebook citation."
   ruleset="civil"
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Federal Rules of Civil Procedure",
+    "url": "https://federal-rules.com/civil/",
+    "description": "Complete text of all Federal Rules of Civil Procedure, current through December 1, 2024. Search, version history, and Bluebook citation."
+  })} />
   <div class="max-w-3xl mx-auto px-6 py-12">
     <header style="margin-bottom: 2.5rem;">
       <h1 style="font-family: 'Lora', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.5rem;">

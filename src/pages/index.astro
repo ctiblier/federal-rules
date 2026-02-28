@@ -27,6 +27,18 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   description="Federal Rules of Civil, Criminal, Appellate, Evidence, and Bankruptcy Procedure — professional reference for attorneys and law students."
   noSidebar={true}
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Federal Rules",
+    "url": "https://federal-rules.com",
+    "description": "Federal Rules of Civil, Criminal, Appellate, Evidence, and Bankruptcy Procedure — professional reference for attorneys and law students.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://federal-rules.com/search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  })} />
   <div style="max-width: 680px; margin: 0 auto; padding: 5rem 1.5rem 6rem;">
     <!-- Hero -->
     <header style="margin-bottom: 3.5rem;">
