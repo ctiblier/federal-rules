@@ -296,6 +296,12 @@ const {
           document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && panel.style.display !== 'none') closePanel();
           });
+          // Close when the user clicks anywhere outside the panel (back to main content)
+          document.addEventListener('click', (e) => {
+            if (panel.style.display === 'none') return;
+            const target = e.target as Element;
+            if (!panel.contains(target) && !target.closest('.rule-xref')) closePanel();
+          });
 
           // Convert subsection string "(a)(1)" → anchor "#a-1"
           function toAnchor(subs: string): string {
