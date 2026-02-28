@@ -38,6 +38,23 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
       </p>
     </header>
 
+    <!-- Search -->
+    <section id="search" aria-label="Search all rules" style="margin-bottom: 3.5rem;">
+      <h2 style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #6b7280; margin-bottom: 0.875rem;">
+        Search
+      </h2>
+      <!-- Ruleset pills -->
+      <div id="ruleset-pills" role="group" aria-label="Filter by ruleset" style="display: flex; flex-wrap: wrap; gap: 0.375rem; margin-bottom: 0.875rem;">
+        <button class="rs-pill rs-pill--active" data-ruleset="" aria-pressed="true">All</button>
+        <button class="rs-pill" data-ruleset="civil" aria-pressed="false">Civil</button>
+        <button class="rs-pill" data-ruleset="criminal" aria-pressed="false">Criminal</button>
+        <button class="rs-pill" data-ruleset="appellate" aria-pressed="false">Appellate</button>
+        <button class="rs-pill" data-ruleset="evidence" aria-pressed="false">Evidence</button>
+        <button class="rs-pill" data-ruleset="bankruptcy" aria-pressed="false">Bankruptcy</button>
+      </div>
+      <div id="home-search"></div>
+    </section>
+
     <!-- Ruleset cards -->
     <section aria-label="Available rulesets" style="margin-bottom: 4rem;">
       <h2 style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #6b7280; margin-bottom: 0.875rem;">
@@ -183,4 +200,79 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
     border-color: rgba(28,28,30,0.3);
     box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   }
+  .rs-pill {
+    font-family: system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid rgba(28,28,30,0.2);
+    background: white;
+    color: #6b7280;
+    cursor: pointer;
+    transition: background-color 0.12s, color 0.12s, border-color 0.12s;
+    line-height: 1.6;
+  }
+  .rs-pill:hover {
+    border-color: #1a2744;
+    color: #1a2744;
+  }
+  .rs-pill--active {
+    background-color: #1a2744;
+    color: white;
+    border-color: #1a2744;
+  }
+  .rs-pill--active:hover {
+    color: white;
+  }
 </style>
+
+<script>
+  let selectedRuleset = '';
+  let pagefindLoaded = false;
+
+  function initSearch(ruleset: string) {
+    const el = document.getElementById('home-search');
+    if (!el) return;
+    el.innerHTML = '';
+    const filters = ruleset ? { ruleset } : {};
+    new (window as any).PagefindUI({
+      element: '#home-search',
+      showSubResults: false,
+      resetStyles: false,
+      filters,
+    });
+  }
+
+  // Lazy-load Pagefind when the search div scrolls into view
+  const searchEl = document.getElementById('home-search');
+  if (searchEl) {
+    const observer = new IntersectionObserver((entries) => {
+      if (!entries[0].isIntersecting) return;
+      observer.disconnect();
+      const script = document.createElement('script');
+      script.src = '/pagefind/pagefind-ui.js';
+      script.onload = () => { pagefindLoaded = true; initSearch(selectedRuleset); };
+      script.onerror = () => {
+        if (searchEl) searchEl.innerHTML =
+          '<p style="color:#6b7280;font-size:0.875rem;font-family:system-ui,sans-serif;">Search available after running <code>npm run build</code>.</p>';
+      };
+      document.head.appendChild(script);
+    });
+    observer.observe(searchEl);
+  }
+
+  // Pill click handler
+  document.querySelectorAll<HTMLButtonElement>('.rs-pill').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.rs-pill').forEach((b) => {
+        b.classList.remove('rs-pill--active');
+        b.setAttribute('aria-pressed', 'false');
+      });
+      btn.classList.add('rs-pill--active');
+      btn.setAttribute('aria-pressed', 'true');
+      selectedRuleset = btn.dataset.ruleset ?? '';
+      if (pagefindLoaded) initSearch(selectedRuleset);
+    });
+  });
+</script>
