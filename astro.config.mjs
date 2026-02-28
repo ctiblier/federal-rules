@@ -8,6 +8,9 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   output: 'static',
+  build: {
+    concurrency: 2,
+  },
   markdown: {
     rehypePlugins: [rehypeSubsectionAnchors],
   },
