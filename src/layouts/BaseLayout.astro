@@ -117,6 +117,21 @@ const {
         padding-left: 0.6rem;
         margin-left: -0.6rem;
       }
+
+      /* Cross-ref panel: blink the target subsection to draw the eye */
+      @keyframes rp-blink {
+        0%   { background-color: transparent; }
+        12%  { background-color: rgba(201, 168, 76, 0.28); }
+        28%  { background-color: transparent; }
+        48%  { background-color: rgba(201, 168, 76, 0.18); }
+        65%  { background-color: transparent; }
+        80%  { background-color: rgba(201, 168, 76, 0.08); }
+        100% { background-color: transparent; }
+      }
+      .rp-highlight {
+        animation: rp-blink 2s ease-out;
+        border-radius: 3px;
+      }
     </style>
 
     {!noSidebar && (
@@ -348,6 +363,13 @@ const {
                       // panel.scrollTop is 0 here (reset on open), so this positions target
                       // just below the sticky header with a little breathing room.
                       panel.scrollTop = Math.max(0, targetTop - panelTop - headerHeight - 16);
+                      // Blink the target section to draw the user's eye to it
+                      target.classList.remove('rp-highlight'); // reset if already animating
+                      void target.offsetWidth;                 // force reflow to restart animation
+                      target.classList.add('rp-highlight');
+                      target.addEventListener('animationend', () => {
+                        target.classList.remove('rp-highlight');
+                      }, { once: true });
                     }
                   });
                 }
