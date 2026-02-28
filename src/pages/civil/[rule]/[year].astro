@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import RuleTOC from '../../../components/RuleTOC.astro';
 import { getCollection } from 'astro:content';
 import { diff_match_patch, DIFF_INSERT, DIFF_DELETE, DIFF_EQUAL } from 'diff-match-patch';
 import { stripMarkdown, hasChanged } from '../../../utils/markdown';
@@ -81,6 +80,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
   title={`Rule ${entry.data.rule}. ${entry.data.title} (${year})`}
   description={`Rule ${entry.data.rule} of the Federal Rules of Civil Procedure as in effect ${year}: ${entry.data.title}.`}
   ruleset="civil"
+  noIndex={true}
 >
   <!-- Amber banner -->
   <div
@@ -181,8 +181,6 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
       </footer>
     </article>
 
-    <!-- Right TOC (only for non-abrogated rules in reading view) -->
-    {!isAbrogated && <RuleTOC />}
   </div>
 </BaseLayout>
 

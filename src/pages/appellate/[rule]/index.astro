@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import RuleTOC from '../../../components/RuleTOC.astro';
 import CopyCitation from '../../../components/CopyCitation.astro';
 import { getCollection } from 'astro:content';
 import { hasChanged } from '../../../utils/markdown';
@@ -80,7 +79,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
                 type="button"
                 class="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wide rounded px-2 py-0.5 transition-colors"
                 style="color: #6b7280; border: 1px solid rgba(28,28,30,0.2); background: transparent; cursor: pointer;"
-                aria-haspopup="true"
+                aria-haspopup="listbox"
                 aria-expanded="false"
               >
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
@@ -93,14 +92,13 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
                 id="history-dropdown"
                 class="absolute left-0 z-20 rounded-lg shadow-lg overflow-hidden"
                 style="top: calc(100% + 6px); right: 0; min-width: 90px; background: white; border: 1px solid rgba(28,28,30,0.12); display: none;"
-                role="menu"
+                aria-label="Version history"
               >
                 {allYears.map((year) => (
                   <a
                     href={`/appellate/${entry.data.rule}/${year}/`}
                     class="block px-3 py-1.5 text-sm transition-colors"
                     style="color: #374151; font-family: system-ui, sans-serif;"
-                    role="menuitem"
                   >
                     {year}
                   </a>
@@ -141,8 +139,6 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
       </footer>
     </article>
 
-    <!-- Right TOC sidebar (only for non-abrogated rules) -->
-    {!isAbrogated && <RuleTOC />}
   </div>
 </BaseLayout>
 
@@ -160,6 +156,13 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     document.addEventListener('click', () => {
       historyDropdown.style.display = 'none';
       historyBtn.setAttribute('aria-expanded', 'false');
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && historyDropdown.style.display !== 'none') {
+        historyDropdown.style.display = 'none';
+        historyBtn.setAttribute('aria-expanded', 'false');
+        historyBtn.focus();
+      }
     });
   }
 </script>

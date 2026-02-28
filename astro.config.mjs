@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import rehypeSubsectionAnchors from './plugins/rehype-subsection-anchors.mjs';
 
 export default defineConfig({
+  site: 'https://federal-rules.com',
   vite: {
     plugins: [tailwindcss()],
   },

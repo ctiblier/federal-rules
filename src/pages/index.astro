@@ -23,7 +23,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 ---
 
 <BaseLayout
-  title="Home"
+  title="Federal Rules"
   description="Federal Rules of Civil, Criminal, Appellate, Evidence, and Bankruptcy Procedure — professional reference for attorneys and law students."
   noSidebar={true}
 >
@@ -65,8 +65,18 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
             placeholder="Search rules…"
             autocomplete="off"
             aria-label="Search federal rules"
-            style="width: 100%; padding: 0.6rem 1rem 0.6rem 2.5rem; border: 1px solid rgba(28,28,30,0.2); border-radius: 0.375rem; font-family: system-ui, sans-serif; font-size: 0.9375rem; color: #1c1c1e; background: white; box-sizing: border-box; -webkit-appearance: none; appearance: none;"
+            style="width: 100%; padding: 0.6rem 2rem 0.6rem 2.5rem; border: 1px solid rgba(28,28,30,0.2); border-radius: 0.375rem; font-family: system-ui, sans-serif; font-size: 0.9375rem; color: #1c1c1e; background: white; box-sizing: border-box; -webkit-appearance: none; appearance: none;"
           />
+          <button
+            id="hs-clear"
+            type="button"
+            aria-label="Clear search"
+            style="display: none; position: absolute; right: 0.5rem; top: 50%; transform: translateY(-50%); background: none; border: none; cursor: pointer; color: #9ca3af; padding: 0.25rem; line-height: 0;"
+          >
+            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 3l8 8M11 3l-8 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+          </button>
         </div>
         <div id="hs-results" role="region" aria-label="Search results" aria-live="polite" style="margin-top: 0.5rem;"></div>
       </div>
@@ -206,8 +216,8 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   <!-- Footer -->
   <footer style="border-top: 1px solid rgba(28,28,30,0.1); padding: 1.5rem; text-align: center;">
     <nav aria-label="Footer" style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #9ca3af; display: flex; justify-content: center; gap: 1.5rem;">
-      <a href="/about/" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;" onmouseover="this.style.color='#374151'" onmouseout="this.style.color='#9ca3af'">About</a>
-      <a href="/privacy/" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;" onmouseover="this.style.color='#374151'" onmouseout="this.style.color='#9ca3af'">Privacy</a>
+      <a href="/about/" class="footer-link" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;">About</a>
+      <a href="/privacy/" class="footer-link" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;">Privacy</a>
     </nav>
   </footer>
 </BaseLayout>
@@ -242,6 +252,10 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   .rs-pill--active:hover {
     color: white;
   }
+  .footer-link:hover,
+  .footer-link:focus-visible {
+    color: #374151;
+  }
 </style>
 
 <style is:global>
@@ -259,6 +273,9 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
     outline: none;
     border-color: #1a2744;
     box-shadow: 0 0 0 3px rgba(26,39,68,0.12);
+  }
+  #hs-clear:hover {
+    color: #374151;
   }
 </style>
 
@@ -283,6 +300,18 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
   function rulesetFromUrl(url: string): string {
     const m = url.match(/^\/(civil|criminal|appellate|evidence|bankruptcy)\//);
+    return m ? m[1] : '';
+  }
+
+  // ─── Rule-number boost ──────────────────────────────────────────────────
+  // Extract "26" from queries like "Rule 26", "rule 26(a)(1)", or just "26".
+  function queryRuleNum(q: string): string {
+    const m = q.trim().match(/^(?:rule\s+)?(\d+(?:\.\d+)?)\b/i);
+    return m ? m[1] : '';
+  }
+  // Extract rule number from a Pagefind result URL, e.g. "/civil/26/" → "26".
+  function urlRuleNum(url: string): string {
+    const m = url.match(/\/(?:civil|criminal|appellate|evidence|bankruptcy)\/(\d+(?:\.\d+)?)\//);
     return m ? m[1] : '';
   }
 
@@ -328,6 +357,16 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
     const items = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
 
+    // Boost: exact rule-number matches float to the top.
+    const qNum = queryRuleNum(query);
+    if (qNum) {
+      items.sort((a: any, b: any) => {
+        const aMatch = urlRuleNum(a.url) === qNum ? 0 : 1;
+        const bMatch = urlRuleNum(b.url) === qNum ? 0 : 1;
+        return aMatch - bMatch;
+      });
+    }
+
     resultsEl.innerHTML = items.map((item: any) => {
       const rs = rulesetFromUrl(item.url);
       const label = RULESET_LABELS[rs] ?? '';
@@ -348,10 +387,39 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
   // ─── Input handler ────────────────────────────────────────────────────────
   const hsInput = document.getElementById('hs-input') as HTMLInputElement | null;
+  const hsClear = document.getElementById('hs-clear') as HTMLButtonElement | null;
+  const hsResults = document.getElementById('hs-results');
+
+  function syncClearBtn() {
+    if (hsClear) hsClear.style.display = hsInput?.value ? 'block' : 'none';
+  }
+
   if (hsInput) {
     hsInput.addEventListener('input', () => {
+      syncClearBtn();
       if (debounceTimer !== null) clearTimeout(debounceTimer);
       debounceTimer = setTimeout(() => runSearch(hsInput.value), 250);
+    });
+  }
+
+  // ─── Clear button ────────────────────────────────────────────────────────
+  if (hsClear && hsInput && hsResults) {
+    hsClear.addEventListener('click', () => {
+      hsInput.value = '';
+      hsResults.innerHTML = '';
+      syncClearBtn();
+      hsInput.focus();
+    });
+  }
+
+  // ─── Click outside closes results ────────────────────────────────────────
+  const hsSearchArea = document.getElementById('home-search');
+  const hsSection = document.getElementById('search');
+  if (hsSection && hsResults) {
+    document.addEventListener('click', (e) => {
+      if (!hsSection.contains(e.target as Node) && hsResults.innerHTML) {
+        hsResults.innerHTML = '';
+      }
     });
   }
 
