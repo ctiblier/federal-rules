@@ -1,0 +1,58 @@
+---
+rule: "6004"
+title: "Use, Sale, or Lease of Property"
+title_number: "VI"
+title_name: "Collecting and Liquidating the Estate"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: true
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-bankruptcy-procedure"
+source_pdf_page: 99
+versions: ["2025"]
+---
+
+**(a) Notice.**
+
+**(1) In General.** Notice of a proposed use, sale, or lease of property that is not in the ordinary course of business must be given:
+
+**(A)** under Rule 2002(a)(2), (c)(1), (i), and (k); and
+
+**(B)** in accordance with § 363(b)(2), if applicable.
+
+**(2) Exceptions.** Notice is not required if (d) applies or the proposal involves cash collateral only.
+
+**(b) Objection.** Except as provided in (c) and (d), an objection to a proposed use, sale, or lease of property must be filed and served at least 7 days before the date set for the proposed action or within the time set by the court. Rule 9014 governs the objection.
+
+**(c) Motion to Sell Property Free and Clear of Liens and Other Interests; Objection.** A motion for authority to sell property free and clear of liens or other interests must be made in accordance with Rule 9014 and served on the parties who have the liens or other interests. The notice required by (a) must include:
+
+**(1)** the date of the hearing on the motion; and
+
+**(2)** the time to file and serve an objection on the debtor in possession or trustee.
+
+**(d) Notice of an Intent to Sell Property Valued at Less Than $2,500; Objection.** If all the nonexempt property of the estate—in the aggregate—has a gross value less than $2,500, a notice of an intent to sell the property that is not in the ordinary course of business must be given to: • all creditors; • all indenture trustees; • any committees appointed or elected under the Code; • the United States trustee; and • other persons as the court orders. A party in interest may file and serve an objection within 14 days after the notice is mailed or within the time set by the court. Rule 9014 governs the objection.
+
+**(e) Notice of a Hearing on an Objection.** The date of a hearing on an objection under (b) or (d) may be set in the notice under (a).
+
+**(f) Conducting a Sale That Is Not in the Ordinary Course of Business.**
+
+**(1) Public Auction or Private Sale.**
+
+**(A) Itemized Statement Required.** A sale that is not in the ordinary course of business may be made by public auction or private sale. Unless it is impracticable, when the sale is completed, an itemized statement must be filed that shows: • the property sold; • the name of each purchaser; and • the consideration received for each item or lot or, if sold in bulk, for the entire property.
+
+**(B) If by an Auctioneer.** If the property is sold by an auctioneer, the auctioneer must file the itemized statement and send a copy to the United States trustee and to either the trustee, debtor in possession, or Chapter 13 debtor.
+
+**(C) If Not by an Auctioneer.** If the property is not sold by an auctioneer, the trustee, debtor in possession, or Chapter 13 debtor must file the itemized statement and send a copy to the United States trustee.
+
+**(2) Signing the Sale Documents.** When a sale is complete, the debtor, trustee, or debtor in possession must sign any document that is necessary or court-ordered to transfer the property to the purchaser.
+
+**(g) Selling Personally Identifiable Information.**
+
+**(1) Request for a Consumer-Privacy Ombudsman.** A motion for authority to sell or lease personally identifiable information under § 363(b)(1)(B) must include a request for an order directing the United States trustee to appoint a consumer-privacy ombudsman under § 332. Rule 9014 governs the motion. It must be sent to the United States trustee and served on: • any committee elected under § 705 or appointed under § 1102; • in a Chapter 11 case in which no committee of unsecured creditors has been appointed under § 1102, on the creditors included on the list filed under Rule 1007(d); and • other entities as the court orders.
+
+**(2) Notice That an Ombudsman Has Been Appointed.** If a consumer-privacy ombudsman is appointed, the United States trustee must give notice of the appointment at least 7 days before the hearing on any motion under § 363(b)(1)(B). The notice must give the name and address of the person appointed and include the person’s verified statement that sets forth any connection with: • the debtor, creditors, or any other party in interest; • their respective attorneys and accountants; • the United States trustee; and • any person employed in the United States trustee’s office.
+
+**(h) Staying an Order Authorizing the Use, Sale, or Lease of Property.** Unless the court orders otherwise, an order authorizing the use, sale, or lease of property (other than cash collateral) is stayed for 14 days after the order is entered.
+
+<p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

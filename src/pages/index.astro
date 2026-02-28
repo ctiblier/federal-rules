@@ -4,18 +4,27 @@ import { getCollection } from 'astro:content';
 
 const civilEntries = await getCollection('civil');
 const criminalEntries = await getCollection('criminal');
+const appellateEntries = await getCollection('appellate');
+const evidenceEntries = await getCollection('evidence');
+const bankruptcyEntries = await getCollection('bankruptcy');
 
 const civilCurrent = civilEntries.filter(e => e.id.endsWith('/current.md'));
 const criminalCurrent = criminalEntries.filter(e => e.id.endsWith('/current.md'));
+const appellateCurrent = appellateEntries.filter(e => e.id.endsWith('/current.md'));
+const evidenceCurrent = evidenceEntries.filter(e => e.id.endsWith('/current.md'));
+const bankruptcyCurrent = bankruptcyEntries.filter(e => e.id.endsWith('/current.md'));
 
 // Get last amended date from any current entry
 const civilLastAmended = civilCurrent[0]?.data.last_amended ?? '';
 const criminalLastAmended = criminalCurrent[0]?.data.last_amended ?? '';
+const appellateLastAmended = appellateCurrent[0]?.data.last_amended ?? '';
+const evidenceLastAmended = evidenceCurrent[0]?.data.last_amended ?? '';
+const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 ---
 
 <BaseLayout
   title="Home"
-  description="Federal Rules of Civil and Criminal Procedure — professional reference for attorneys and law students."
+  description="Federal Rules of Civil, Criminal, Appellate, Evidence, and Bankruptcy Procedure — professional reference for attorneys and law students."
   noSidebar={true}
 >
   <div style="max-width: 680px; margin: 0 auto; padding: 5rem 1.5rem 6rem;">
@@ -25,7 +34,7 @@ const criminalLastAmended = criminalCurrent[0]?.data.last_amended ?? '';
         Federal Rules, finally readable.
       </h1>
       <p style="font-family: 'Lora', Georgia, serif; font-size: 1.0625rem; color: #6b7280; line-height: 1.7; max-width: 520px;">
-        The complete Federal Rules of Procedure — civil, criminal, and more — with search, version history, and one-click citation.
+        The complete Federal Rules of Procedure — civil, criminal, appellate, evidence, and bankruptcy — with search, version history, and one-click citation.
       </p>
     </header>
 
@@ -84,25 +93,77 @@ const criminalLastAmended = criminalCurrent[0]?.data.last_amended ?? '';
           </div>
         </a>
 
-        <!-- Evidence (coming soon) -->
-        <div
-          style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.08); background-color: transparent;"
-          aria-disabled="true"
+        <!-- Appellate Procedure -->
+        <a
+          href="/appellate/1/"
+          class="ruleset-card"
+          style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.15); background-color: white; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s;"
         >
           <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem;">
             <div>
-              <p style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #9ca3af; margin-bottom: 0.375rem;">
-                Evidence
+              <p style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #1a2744; margin-bottom: 0.375rem;">
+                Appellate Procedure
               </p>
-              <p style="font-family: 'Lora', Georgia, serif; font-size: 1rem; font-weight: 700; color: #9ca3af; line-height: 1.3;">
-                Federal Rules of Evidence
+              <p style="font-family: 'Lora', Georgia, serif; font-size: 1rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.375rem; line-height: 1.3;">
+                Federal Rules of Appellate Procedure
+              </p>
+              <p style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #6b7280;">
+                Last amended {appellateLastAmended}
               </p>
             </div>
-            <span style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #9ca3af; flex-shrink: 0; margin-top: 0.25rem;">
-              Coming soon
-            </span>
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true" style="color: #1a2744; flex-shrink: 0; margin-top: 0.25rem;">
+              <path d="M3 9h12M10 4l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
           </div>
-        </div>
+        </a>
+
+        <!-- Evidence -->
+        <a
+          href="/evidence/101/"
+          class="ruleset-card"
+          style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.15); background-color: white; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s;"
+        >
+          <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem;">
+            <div>
+              <p style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #1a2744; margin-bottom: 0.375rem;">
+                Evidence
+              </p>
+              <p style="font-family: 'Lora', Georgia, serif; font-size: 1rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.375rem; line-height: 1.3;">
+                Federal Rules of Evidence
+              </p>
+              <p style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #6b7280;">
+                Last amended {evidenceLastAmended}
+              </p>
+            </div>
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true" style="color: #1a2744; flex-shrink: 0; margin-top: 0.25rem;">
+              <path d="M3 9h12M10 4l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </a>
+
+        <!-- Bankruptcy Procedure -->
+        <a
+          href="/bankruptcy/1001/"
+          class="ruleset-card"
+          style="display: block; padding: 1.25rem 1.5rem; border-radius: 0.5rem; border: 1px solid rgba(28,28,30,0.15); background-color: white; text-decoration: none; transition: border-color 0.15s, box-shadow 0.15s;"
+        >
+          <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem;">
+            <div>
+              <p style="font-family: system-ui, sans-serif; font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #1a2744; margin-bottom: 0.375rem;">
+                Bankruptcy Procedure
+              </p>
+              <p style="font-family: 'Lora', Georgia, serif; font-size: 1rem; font-weight: 700; color: #1c1c1e; margin-bottom: 0.375rem; line-height: 1.3;">
+                Federal Rules of Bankruptcy Procedure
+              </p>
+              <p style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #6b7280;">
+                Last amended {bankruptcyLastAmended}
+              </p>
+            </div>
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true" style="color: #1a2744; flex-shrink: 0; margin-top: 0.25rem;">
+              <path d="M3 9h12M10 4l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </a>
 
       </div>
     </section>

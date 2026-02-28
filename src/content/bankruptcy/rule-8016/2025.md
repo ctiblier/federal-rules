@@ -1,0 +1,66 @@
+---
+rule: "8016"
+title: "Cross-Appeals"
+title_number: "VIII"
+title_name: "Appeal to a District Court or a Bankruptcy Appellate Panel"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: true
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-bankruptcy-procedure"
+source_pdf_page: 135
+versions: ["2025"]
+---
+
+**(a) Applicability.** This rule applies to a case in which a crossappeal is filed. Rules 8014(a)–(c), 8015(a)(7)(A)–(B), and 8018(a)(1)–(3) do not apply to such a case, unless this rule states otherwise.
+
+**(b) Designation of Appellant.** The party who files a notice of appeal first is the appellant for purposes of this rule and Rule 8018(a)(4) and (b) and Rule 8019. If notices are filed on the same day, the plaintiff, petitioner, applicant, or movant in the proceeding below is the appellant. These designations may be modified by the parties’ agreement or by court order.
+
+**(c) Briefs.** In a case involving a cross-appeal:
+
+**(1) Appellant’s Principal Brief.** The appellant must file a principal brief in the appeal. That brief must comply with Rule 8014(a).
+
+**(2) Appellee’s Principal and Response Brief.** The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That brief must comply with Rule 8014(a), but the brief need not include a statement of the case unless the appellee is dissatisfied with the appellant’s statement.
+
+**(3) Appellant’s Response and Reply Brief.** The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 8014(a)(2)–(8) and (10), but none of the following need appear unless the appellant is dissatisfied with the appellee’s statement in the cross-appeal:
+
+**(A)** the jurisdictional statement;
+
+**(B)** the statement of the issues;
+
+**(C)** the statement of the case; and
+
+**(D)** the statement of the applicable standard of appellate review.
+
+**(4) Appellee’s Reply Brief.** The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 8014(a)(2)–(3) and (10) and must be limited to the issues presented by the cross-appeal.
+
+**(d) Length.**
+
+**(1) Page Limitation.** Unless it complies with (2), the appellant’s principal brief must not exceed 30 pages; the appellee’s principal and response brief, 35 pages; the appellant’s response and reply brief, 30 pages; and the appellee’s reply brief, 15 pages.
+
+**(2) Type-Volume Limitation.**
+
+**(A) Appellant’s Brief.** The appellant’s principal brief or the appellant’s response and reply brief is acceptable if it includes a certificate under Rule 8015(h) and:
+
+**(i)** contains no more than 13,000 words; or
+
+**(ii)** uses a monospaced face and contains no more than 1,300 lines of text.
+
+**(B) Appellee’s Principal and Response Brief.** The appellee’s principal and response brief is acceptable if it includes a certificate under Rule 8015(h) and:
+
+**(i)** contains no more than 15,300 words; or
+
+**(ii)** uses a monospaced face and contains no more than 1,500 lines of text.
+
+**(C) Appellee’s Reply Brief.** The appellee’s reply brief is acceptable if it includes a certificate under Rule 8015(h) and contains no more than half the type volume specified in (A).
+
+**(e) Time to Serve and File a Brief.** Briefs must be served and filed as follows, unless the district court or BAP by order in a particular case excuses the filing of briefs or sets different time limits:
+
+**(1)** the appellant’s principal brief, within 30 days after the docketing of a notice that the record has been sent or is available electronically;
+
+**(2)** the appellee’s principal and response brief, within 30 days after the appellant’s principal brief is served;
+
+**(3)** the appellant’s response and reply brief, within 30 days after the appellee’s principal and response brief is served; and
+
+**(4)** the appellee’s reply brief, within 14 days after the appellant’s response and reply brief is served but at least 7 days before scheduled argument—unless the district court or BAP, for cause, allows a later filing. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)

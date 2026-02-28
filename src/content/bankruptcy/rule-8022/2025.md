@@ -1,0 +1,38 @@
+---
+rule: "8022"
+title: "Motion for Rehearing"
+title_number: "VIII"
+title_name: "Appeal to a District Court or a Bankruptcy Appellate Panel"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: true
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-bankruptcy-procedure"
+source_pdf_page: 142
+versions: ["2025"]
+---
+
+**(a) Time to File; Content; Response; Action by the District Court or BAP If Granted.**
+
+**(1) Time.** Unless the time is shortened or extended by order or local rule, any motion for rehearing by the district court or BAP must be filed within 14 days after a judgment on appeal is entered.
+
+**(2) Content.** The motion must state with particularity each point of law or fact that the movant believes the district court or BAP has overlooked or misapprehended and must argue in support of the motion.
+
+**(3) Response.** Unless the district court or BAP requests, no response to a motion for rehearing is permitted. But ordinarily, rehearing will not be granted without such a request.
+
+**(4) No Oral Argument.** Oral argument is not permitted.
+
+**(5) Action by the District Court or BAP.** If a motion for rehearing is granted, the district court or BAP may do any of the following:
+
+**(A)** make a final disposition of the appeal without reargument;
+
+**(B)** restore the case to the calendar for reargument or resubmission; or
+
+**(C)** issue any other appropriate order.
+
+**(b) Form; Length.** A motion for rehearing must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as Rule 8011 provides. Except by the district court’s or BAP’s permission:
+
+**(1)** a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 3,900 words; and
+
+**(2)** a handwritten or typewritten motion must not exceed 15 pages. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)

@@ -1,0 +1,18 @@
+---
+rule: "105"
+title: "Limiting Evidence That Is Not Admissible Against Other Parties or for Other Purposes"
+title_number: "I"
+title_name: "General Provisions"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-evidence"
+source_pdf_page: 17
+versions: ["2025"]
+---
+
+If the court admits evidence that is admissible against a party or for a purpose—but not against another party or for another purpose—the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly.
+
+<p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

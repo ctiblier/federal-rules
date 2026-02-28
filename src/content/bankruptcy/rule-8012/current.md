@@ -1,0 +1,34 @@
+---
+rule: "8012"
+title: "Disclosure Statement"
+title_number: "VIII"
+title_name: "Appeal to a District Court or a Bankruptcy Appellate Panel"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-bankruptcy-procedure"
+source_pdf_page: 129
+versions: ["2025"]
+---
+
+**(a) Disclosure by a Nongovernmental Corporation.** Any nongovernmental corporation that is a party to a district-court or BAP proceeding or that seeks to intervene must file a statement that:
+
+**(1)** identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock; or
+
+**(2)** states that there is no such corporation.
+
+**(b) Disclosure About the Debtor.** The debtor, the trustee, or, if neither is a party, the appellant must file a statement that:
+
+**(1)** identifies each debtor not named in the caption; and
+
+**(2)** for each debtor that is a corporation, discloses the information required by (a).
+
+**(c) Time to File; Supplemental Filing.** A Rule 8012 statement must:
+
+**(1)** be filed with the principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first—unless a local rule requires earlier filing;
+
+**(2)** be included before the table of contents in the principal brief; and
+
+**(3)** be supplemented whenever the information required by this rule changes. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)

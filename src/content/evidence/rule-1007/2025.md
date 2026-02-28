@@ -1,0 +1,18 @@
+---
+rule: "1007"
+title: "Testimony or Statement of a Party to Prove Content"
+title_number: "X"
+title_name: "Contents of Writings, Recordings, and Photographs"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-evidence"
+source_pdf_page: 43
+versions: ["2025"]
+---
+
+The proponent may prove the content of a writing, recording, or photograph by the testimony, deposition, or written statement of the party against whom the evidence is offered. The proponent need not account for the original.
+
+<p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

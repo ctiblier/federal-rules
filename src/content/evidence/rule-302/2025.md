@@ -1,0 +1,22 @@
+---
+rule: "302"
+title: "Applying State Law to Presumptions in Civil Cases"
+title_number: "III"
+title_name: "Presumptions in Civil Cases"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-evidence"
+source_pdf_page: 19
+versions: ["2025"]
+---
+
+In a civil case, state law governs the effect of a presumption regarding a claim or defense for which state law supplies the rule of decision.
+
+<p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
+
+## Appended Forms
+
+ARTICLE IV. RELEVANCE AND ITS LIMITS

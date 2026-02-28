@@ -21,4 +21,7 @@ const rulesCollection = defineCollection({ type: 'content', schema: ruleSchema }
 export const collections = {
   civil: rulesCollection,
   criminal: rulesCollection,
+  appellate: rulesCollection,
+  evidence: rulesCollection,
+  bankruptcy: rulesCollection,
 };

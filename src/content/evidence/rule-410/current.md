@@ -1,0 +1,30 @@
+---
+rule: "410"
+title: "Pleas, Plea Discussions, and Related Statements"
+title_number: "IV"
+title_name: "Relevance and Its Limits"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-evidence"
+source_pdf_page: 21
+versions: ["2025"]
+---
+
+**(a) Prohibited Uses.** In a civil or criminal case, evidence of the following is not admissible against the defendant who made the plea or participated in the plea discussions:
+
+**(1)** a guilty plea that was later withdrawn;
+
+**(2)** a nolo contendere plea;
+
+**(3)** a statement made during a proceeding on either of those pleas under Federal Rule of Criminal Procedure 11 or a comparable state procedure; or
+
+**(4)** a statement made during plea discussions with an attorney for the prosecuting authority if the discussions did not result in a guilty plea or they resulted in a later-withdrawn guilty plea.
+
+**(b) Exceptions.** The court may admit a statement described in Rule 410(a)(3) or (4):
+
+**(1)** in any proceeding in which another statement made during the same plea or plea discussions has been introduced, if in fairness the statements ought to be considered together; or
+
+**(2)** in a criminal proceeding for perjury or false statement, if the defendant made the statement under oath, on the record, and with counsel present. (As amended Pub. L. 94–149, § 1(9), Dec. 12, 1975, 89 Stat. 805; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 26, 2011, eff. Dec. 1, 2011.)

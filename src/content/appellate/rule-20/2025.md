@@ -1,0 +1,18 @@
+---
+rule: "20"
+title: "Applicability of Rules to the Review or Enforcement of an Agency Order"
+title_number: "IV"
+title_name: "Review or Enforcement of an Agency Order"
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-appellate-procedure"
+source_pdf_page: 36
+versions: ["2025"]
+---
+
+All provisions of these rules, except Rules 3–14 and 22–23, apply to the review or enforcement of an agency order. In these rules, ‘‘appellant’’ includes a petitioner or applicant, and ‘‘appellee’’ includes a respondent.
+
+<p class="amendment-history">(As amended Apr. 24, 1998, eff. Dec. 1, 1998.)</p>
