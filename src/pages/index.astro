@@ -289,7 +289,7 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   // ─── Pagefind loader ──────────────────────────────────────────────────────
   function loadPagefind(): Promise<any> {
     if (!pfPromise) {
-      pfPromise = (import(/* @vite-ignore */ '/pagefind/pagefind.js') as Promise<any>).catch(() => null);
+      pfPromise = (new Function('return import("/pagefind/pagefind.js")')() as Promise<any>).catch(() => null);
     }
     return pfPromise!;
   }

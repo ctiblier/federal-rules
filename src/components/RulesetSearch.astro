@@ -126,7 +126,7 @@ const RULESETS = ['civil', 'criminal', 'appellate', 'evidence', 'bankruptcy'] as
     // ─── Pagefind loader ────────────────────────────────────────────────────
     let pfPromise: Promise<any> | null = null;
     function loadPagefind(): Promise<any> {
-      if (!pfPromise) pfPromise = (import(/* @vite-ignore */ '/pagefind/pagefind.js') as Promise<any>).catch(() => null);
+      if (!pfPromise) pfPromise = (new Function('return import("/pagefind/pagefind.js")')() as Promise<any>).catch(() => null);
       return pfPromise!;
     }
     loadPagefind(); // start loading immediately in background
