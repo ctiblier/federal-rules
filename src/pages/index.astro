@@ -52,7 +52,24 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
         <button class="rs-pill" data-ruleset="evidence" aria-pressed="false">Evidence</button>
         <button class="rs-pill" data-ruleset="bankruptcy" aria-pressed="false">Bankruptcy</button>
       </div>
-      <div id="home-search"></div>
+      <div id="home-search">
+        <div style="position: relative;">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"
+            style="position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: #9ca3af; pointer-events: none;">
+            <circle cx="6.5" cy="6.5" r="4.5" stroke="currentColor" stroke-width="1.4"/>
+            <path d="M10.5 10.5l3.5 3.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+          </svg>
+          <input
+            type="search"
+            id="hs-input"
+            placeholder="Search rules…"
+            autocomplete="off"
+            aria-label="Search federal rules"
+            style="width: 100%; padding: 0.6rem 1rem 0.6rem 2.5rem; border: 1px solid rgba(28,28,30,0.2); border-radius: 0.375rem; font-family: system-ui, sans-serif; font-size: 0.9375rem; color: #1c1c1e; background: white; box-sizing: border-box; -webkit-appearance: none; appearance: none;"
+          />
+        </div>
+        <div id="hs-results" role="region" aria-label="Search results" aria-live="polite" style="margin-top: 0.5rem;"></div>
+      </div>
     </section>
 
     <!-- Ruleset cards -->
@@ -227,26 +244,118 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   }
 </style>
 
-<script>
-  // Multi-select ruleset pills. Empty set = search all rulesets.
-  const selectedRulesets = new Set<string>();
-  let pagefindLoaded = false;
+<style is:global>
+  .hs-result:hover {
+    border-color: rgba(28,28,30,0.28) !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .hs-result mark {
+    background: #fde68a;
+    color: #1c1c1e;
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+  #hs-input:focus {
+    outline: none;
+    border-color: #1a2744;
+    box-shadow: 0 0 0 3px rgba(26,39,68,0.12);
+  }
+</style>
 
-  function initSearch() {
-    const el = document.getElementById('home-search');
-    if (!el) return;
-    el.innerHTML = '';
-    const filters = selectedRulesets.size > 0
-      ? { ruleset: [...selectedRulesets] }
-      : {};
-    new (window as any).PagefindUI({
-      element: '#home-search',
-      showSubResults: false,
-      resetStyles: false,
-      filters,
+<script>
+  // ─── State ────────────────────────────────────────────────────────────────
+  const selectedRulesets = new Set<string>();
+  let pfPromise: Promise<any> | null = null;
+  let debounceTimer: ReturnType<typeof setTimeout> | null = null;
+
+  // ─── Helpers ──────────────────────────────────────────────────────────────
+  const RULESET_LABELS: Record<string, string> = {
+    civil:      'Civil',
+    criminal:   'Criminal',
+    appellate:  'Appellate',
+    evidence:   'Evidence',
+    bankruptcy: 'Bankruptcy',
+  };
+
+  function esc(s: string): string {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function rulesetFromUrl(url: string): string {
+    const m = url.match(/^\/(civil|criminal|appellate|evidence|bankruptcy)\//);
+    return m ? m[1] : '';
+  }
+
+  // ─── Pagefind loader ──────────────────────────────────────────────────────
+  function loadPagefind(): Promise<any> {
+    if (!pfPromise) {
+      pfPromise = (import as any)('/pagefind/pagefind.js').catch(() => null);
+    }
+    return pfPromise!;
+  }
+
+  // Eagerly start loading in the background so it's ready when the user types
+  loadPagefind();
+
+  // ─── Search ───────────────────────────────────────────────────────────────
+  async function runSearch(query: string) {
+    const resultsEl = document.getElementById('hs-results');
+    if (!resultsEl) return;
+
+    query = query.trim();
+    if (!query) {
+      resultsEl.innerHTML = '';
+      return;
+    }
+
+    const pf = await loadPagefind();
+    if (!pf) {
+      resultsEl.innerHTML =
+        '<p style="font-family:system-ui,sans-serif;font-size:0.875rem;color:#6b7280;padding:0.75rem 0;">' +
+        'Search is available after running <code>npm run build</code>.</p>';
+      return;
+    }
+
+    const filters = selectedRulesets.size > 0 ? { ruleset: [...selectedRulesets] } : {};
+    const search = await pf.search(query, { filters });
+
+    if (!search || !search.results.length) {
+      resultsEl.innerHTML =
+        `<p style="font-family:system-ui,sans-serif;font-size:0.875rem;color:#6b7280;padding:0.75rem 0;">` +
+        `No results for "<strong>${esc(query)}</strong>".</p>`;
+      return;
+    }
+
+    const items = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
+
+    resultsEl.innerHTML = items.map((item: any) => {
+      const rs = rulesetFromUrl(item.url);
+      const label = RULESET_LABELS[rs] ?? '';
+      const title = esc((item.meta?.title ?? '').replace(/\s*\|\s*Federal Rules.*$/, ''));
+      const excerpt: string = item.excerpt ?? '';  // contains <mark> — our own build content
+      const url = esc(item.url);
+      return (
+        `<a href="${url}" class="hs-result" style="display:block;padding:0.75rem 1rem;border-radius:0.375rem;border:1px solid rgba(28,28,30,0.12);background:white;text-decoration:none;margin-top:0.5rem;">` +
+        `<div style="display:flex;align-items:baseline;gap:0.5rem;margin-bottom:0.2rem;">` +
+        (label ? `<span style="font-family:system-ui,sans-serif;font-size:0.6875rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;color:#1a2744;flex-shrink:0;">${label}</span>` : '') +
+        `<span style="font-family:'Lora',Georgia,serif;font-size:0.9375rem;font-weight:700;color:#1c1c1e;">${title}</span>` +
+        `</div>` +
+        `<p style="font-family:system-ui,sans-serif;font-size:0.8125rem;color:#6b7280;margin:0;line-height:1.5;">${excerpt}</p>` +
+        `</a>`
+      );
+    }).join('');
+  }
+
+  // ─── Input handler ────────────────────────────────────────────────────────
+  const hsInput = document.getElementById('hs-input') as HTMLInputElement | null;
+  if (hsInput) {
+    hsInput.addEventListener('input', () => {
+      if (debounceTimer !== null) clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => runSearch(hsInput.value), 250);
     });
   }
 
+  // ─── Pills ────────────────────────────────────────────────────────────────
   function syncPills() {
     const anySelected = selectedRulesets.size > 0;
     document.querySelectorAll<HTMLButtonElement>('.rs-pill').forEach((b) => {
@@ -257,40 +366,17 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
     });
   }
 
-  // Lazy-load Pagefind when the search section scrolls into view
-  const searchEl = document.getElementById('home-search');
-  if (searchEl) {
-    const observer = new IntersectionObserver((entries) => {
-      if (!entries[0].isIntersecting) return;
-      observer.disconnect();
-      const script = document.createElement('script');
-      script.src = '/pagefind/pagefind-ui.js';
-      script.onload = () => { pagefindLoaded = true; initSearch(); };
-      script.onerror = () => {
-        if (searchEl) searchEl.innerHTML =
-          '<p style="color:#6b7280;font-size:0.875rem;font-family:system-ui,sans-serif;">Search available after running <code>npm run build</code>.</p>';
-      };
-      document.head.appendChild(script);
-    });
-    observer.observe(searchEl);
-  }
-
-  // Pill click: "All" clears selection; individual pills toggle on/off
   document.querySelectorAll<HTMLButtonElement>('.rs-pill').forEach((btn) => {
     btn.addEventListener('click', () => {
       const r = btn.dataset.ruleset ?? '';
       if (r === '') {
-        // "All" — clear everything
         selectedRulesets.clear();
       } else {
-        if (selectedRulesets.has(r)) {
-          selectedRulesets.delete(r);
-        } else {
-          selectedRulesets.add(r);
-        }
+        if (selectedRulesets.has(r)) selectedRulesets.delete(r);
+        else selectedRulesets.add(r);
       }
       syncPills();
-      if (pagefindLoaded) initSearch();
+      if (hsInput?.value.trim()) runSearch(hsInput.value);
     });
   });
 </script>
