@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(B) Serving Others.** The notice and objection must also be served, by mail (or other permitted means), on: • the debtor or debtor in possession; • the trustee; and • if applicable, the entity that filed the proof of claim under Rule 3005.
 
-**(b) Demanding Relief That Requires an Adversary Proceed - ing Not Permitted.** In objecting to a claim, a party in interest must not include a demand for a type of relief specified in Rule 7001 but may include the objection in an adversary proceeding.
+**(b) Demanding Relief That Requires an Adversary Proceeding Not Permitted.** In objecting to a claim, a party in interest must not include a demand for a type of relief specified in Rule 7001 but may include the objection in an adversary proceeding.
 
 **(c) Limit on Omnibus Objections.** Unless the court orders otherwise or (d) permits, objections to more than one claim may not be joined in a single objection.
 

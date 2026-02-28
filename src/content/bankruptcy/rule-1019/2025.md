@@ -13,13 +13,13 @@ source_pdf_page: 33
 versions: ["2025"]
 ---
 
-**(a) Filing Various Documents; Filing a Statement of Inten - tion .**
+**(a) Filing Various Documents; Filing a Statement of Intention .**
 
 **(1) Lists, Inventories, Schedules, Statements of Financial Affairs.** Unless the court orders otherwise, when a Chapter 11, 12, or 13 case is converted or reconverted to Chapter 7, the lists, inventories, schedules, and statements of financial affairs previously filed are considered filed in the Chapter 7 case. If they have not been previously filed, the debtor must comply with Rule 1007 as if an order for relief had been entered on an involuntary petition on the same date as the order directing that the case continue under Chapter 7.
 
 **(2) Statement of Intention.** A statement of intention, if required, must be filed within 30 days after the conversion order is entered or before the first date set for the meeting of creditors, whichever is earlier. The court may, for cause, extend the time to file only on motion filed—or on oral request made during a hearing—before the time has expired. Notice of an extension must be given to the United States trustee and to any committee, trustee, or other party as the court orders.
 
-**(b) New Time to File a § 707(b) or (c) Motion, a Proof of Claim, a Complaint Objecting to Discharge, or a Complaint to Deter - mine Dischargeability.**
+**(b) New Time to File a § 707(b) or (c) Motion, a Proof of Claim, a Complaint Objecting to Discharge, or a Complaint to Determine Dischargeability.**
 
 **(1) When a New Time Begins.** When a case is converted to Chapter 7, a new time begins under Rule 1017, 3002, 4004, or 4007 to file:
 
@@ -43,7 +43,7 @@ versions: ["2025"]
 
 **(d) Turning Over Documents and Property.** Unless the court orders otherwise, after a trustee in the Chapter 7 case qualifies or assumes duties, the debtor in possession—or the previously acting trustee—must promptly turn over to the Chapter 7 trustee all documents and property of the estate that are in its possession or control.
 
-**(e) Final Report and Account; Schedule of Unpaid Post - petition Debts.**
+**(e) Final Report and Account; Schedule of Unpaid Postpetition Debts.**
 
 **(1) In a Chapter 11 or Chapter 12 Case.** Unless the court orders otherwise, when a Chapter 11 or 12 case is converted to Chapter 7, the debtor in possession or, if the debtor is not a debtor in possession, the trustee serving at the time of conversion must:
 

@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Issuing, Delivering, and Personally Serving a Summons and Complaint.**
 
-**(1) In General.** Except as provided in (2), Fed. R. Civ. P. 4(a), (b), (c)(1), (d)(5), (e)–(j), ( l), and (m) applies in an adversary proceeding.
+**(1) In General.** Except as provided in (2), Fed. R. Civ. P. 4(a), (b), (c)(1), (d)(5), (e)–(j), (l), and (m) applies in an adversary proceeding.
 
 **(2) Issuing and Delivering a Summons.** The clerk may:
 
@@ -81,7 +81,7 @@ versions: ["2025"]
 
 **(10)** a United States trustee who is the trustee in the case and service is made upon the United States trustee solely as trustee—by addressing the mail to the United States trustee’s office or other place that the United States trustee designates within the district.
 
-**(c) Service by Publication in an Adversary Proceeding In - volving Property Rights.** If a party to an adversary proceeding to determine or protect rights in property in the court’s custody cannot be served under (b) or Fed. R. Civ. P. 4(e)–(j), the court may order the summons and complaint to be served by:
+**(c) Service by Publication in an Adversary Proceeding Involving Property Rights.** If a party to an adversary proceeding to determine or protect rights in property in the court’s custody cannot be served under (b) or Fed. R. Civ. P. 4(e)–(j), the court may order the summons and complaint to be served by:
 
 **(1)** first-class mail, postage prepaid, to the party’s last known address; and
 

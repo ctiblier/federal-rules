@@ -85,6 +85,6 @@ versions: ["2025"]
 
 **(f) Additional Time After Certain Service.** When a party may or must act within a specified time after being served and service is made by mail or under Fed. R. Civ. P. 5(b)(2)(D) (leaving with the clerk) or (F) (other means consented to), 3 days are added after the period would otherwise expire under (a).
 
-**(g) Grain -Storage Facility.** This rule does not limit the court’s authority under § 557 to issue an order governing procedures in a case in which the debtor owns or operates a grain-storage facility.
+**(g) Grain-Storage Facility.** This rule does not limit the court’s authority under § 557 to issue an order governing procedures in a case in which the debtor owns or operates a grain-storage facility.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

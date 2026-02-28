@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(b) Creditors ’ Right to Elect a Separate Trustee.** Except in a case under Subchapter V of Chapter 7 or Subchapter V of Chapter 11, any debtor’s creditors may elect a separate trustee for the debtor’s estate under § 702—even if the court orders joint administration under Rule 1015(b).
 
-**(c) United States Trustee ’ s Right to Appoint Interim Trust - ees in Cases with Jointly Administered Estates.**
+**(c) United States Trustee ’ s Right to Appoint Interim Trustees in Cases with Jointly Administered Estates.**
 
 **(1) Chapter 7. Except in a case under Subchapter V of Chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in Chapter 7.**
 

@@ -19,10 +19,10 @@ versions: ["2025"]
 
 **(c) Effect of a Motion.** Serving a motion under Fed. R. Civ. P. 12(b) extends the time to file and serve an answer as Fed. R. Civ. P. 12(a) permits.
 
-**(d) Limitation on Asserting a Debtor ’ s Claim Against a Peti - tioning Creditor.** A debtor’s answer must not assert a claim against a petitioning creditor except to defeat the petition.
+**(d) Limitation on Asserting a Debtor ’ s Claim Against a Petitioning Creditor.** A debtor’s answer must not assert a claim against a petitioning creditor except to defeat the petition.
 
 **(e) Limit on Pleadings.** No pleading other than an answer to the petition is allowed, but the court may order a reply to an answer and set the time for filing and service.
 
-**(f) Corporate -Ownership Statement.** A corporation that responds to the petition must file a corporate-ownership statement containing the information described in Rule 7007.1. The corporation must do so with its first appearance, pleading, motion, or response, or other first request to the court.
+**(f) Corporate-Ownership Statement.** A corporation that responds to the petition must file a corporate-ownership statement containing the information described in Rule 7007.1. The corporation must do so with its first appearance, pleading, motion, or response, or other first request to the court.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

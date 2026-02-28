@@ -33,7 +33,7 @@ versions: ["2025"]
 
 **(3) Copy to the United States Trustee.** Except in a Chapter 9 case, the applicant must send a copy of the application to the United States trustee.
 
-**(b) Disclosing Compensation Paid or Promised to the Debt - or ’ s Attorney.**
+**(b) Disclosing Compensation Paid or Promised to the Debtor ’ s Attorney.**
 
 **(1) Basic Requirements.** Within 14 days after the order for relief—or at another time as the court orders—every debtor’s attorney (whether or not applying for compensation) must file and send to the United States trustee the statement required by § 329. The statement must:
 
@@ -43,7 +43,7 @@ versions: ["2025"]
 
 **(2) Supplemental Statement.** Within 14 days after any payment or agreement to pay not previously disclosed, the attorney must file and send to the United States trustee a supplemental statement.
 
-**(c) Disclosing Compensation Paid or Promised to a Bank - ruptcy -Petition Preparer.**
+**(c) Disclosing Compensation Paid or Promised to a Bankruptcy-Petition Preparer.**
 
 **(1) Basic Requirements.** Before a petition is filed, every bankruptcy-petition preparer for a debtor must deliver to the debtor the declaration under penalty of perjury required by § 110(h)(2). The declaration must:
 

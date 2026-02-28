@@ -53,8 +53,8 @@ versions: ["2025"]
 
 **(c) Reply Brief.** The appellant may file a brief in reply to the appellee’s brief. A reply brief must comply with (a)(2)–(3).
 
-**(d) Setting Out Statutes, Rules, Regulations, or Similar Au - thorities .** If the court’s determination of the issues presented requires the study of the Code or other statutes, rules, regulations, or similar authority, the relevant parts must be set out in the brief or in an addendum.
+**(d) Setting Out Statutes, Rules, Regulations, or Similar Authorities .** If the court’s determination of the issues presented requires the study of the Code or other statutes, rules, regulations, or similar authority, the relevant parts must be set out in the brief or in an addendum.
 
-**(e) Briefs in a Case Involving Multiple Appellants or Appel - lees .** In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another’s brief. Parties may also join in reply briefs.
+**(e) Briefs in a Case Involving Multiple Appellants or Appellees .** In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another’s brief. Parties may also join in reply briefs.
 
 **(f) Citation of Supplemental Authorities.** If pertinent and significant authorities come to a party’s attention after the party’s brief has been filed—or after oral argument but before a decision— a party may promptly advise the district or BAP clerk by a signed submission, with a copy to all other parties, setting forth the citations. The submission must state the reasons for the supplemental citations, referring either to the pertinent page of a brief or to a point argued orally. The body of the submission must not exceed 350 words. Any response must be similarly limited, and it must be made within 7 days after service unless the court orders otherwise. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)

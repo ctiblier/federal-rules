@@ -117,11 +117,11 @@ versions: ["2025"]
 
 **(e) Chapter 9 Lists.** In a Chapter 9 case, the court must set the time for the debtor to file the list required by (a). If a proposed plan requires real estate assessments to be revised so that the proportion of special assessments or special taxes for some property will be different from the proportion in effect when the petition is filed, the debtor must also file a list that shows—for each adversely affected property—the name and address of each known holder of title, both legal and equitable. On motion and for cause, the court may modify the requirements of this Rule 1007(e) and those of (a).
 
-**(f) Social -Security Number.** In a voluntary case, an individual debtor must submit with the petition a verified statement that gives the debtor’s social-security number or states that the debtor does not have one (Form 121). In an involuntary case, the debtor must submit the statement within 14 days after the order for relief is entered.
+**(f) Social-Security Number.** In a voluntary case, an individual debtor must submit with the petition a verified statement that gives the debtor’s social-security number or states that the debtor does not have one (Form 121). In an involuntary case, the debtor must submit the statement within 14 days after the order for relief is entered.
 
 **(g) Partnership Case.** The general partners of a debtor partnership must file for the partnership the list required by (a) and the documents required by (b)(1)(A)–(D). The court may order any general partner to file a statement of personal assets and liabilities and may set the deadline for doing so.
 
-**(h) Interests in Property Acquired or Arising After a Peti - tion Is Filed.** After the petition is filed in a Chapter 7, 11, 12, or 13 case, if the debtor acquires—or becomes entitled to acquire—an interest in property described in § 541(a)(5), the debtor must file a supplemental schedule and include any claimed exemption. Unless the court allows additional time, the debtor must file the schedule within 14 days after learning about the property interest. This duty continues even after the case is closed but does not apply to property acquired after an order is entered:
+**(h) Interests in Property Acquired or Arising After a Petition Is Filed.** After the petition is filed in a Chapter 7, 11, 12, or 13 case, if the debtor acquires—or becomes entitled to acquire—an interest in property described in § 541(a)(5), the debtor must file a supplemental schedule and include any claimed exemption. Unless the court allows additional time, the debtor must file the schedule within 14 days after learning about the property interest. This duty continues even after the case is closed but does not apply to property acquired after an order is entered:
 
 **(1)** confirming a Chapter 11 plan (other than one confirmed under § 1191(b)); or
 
@@ -145,7 +145,7 @@ versions: ["2025"]
 
 **(1)** that the trustee, a petitioning creditor, a committee, or other party do so within the time set by the court; and
 
-**(2)** that the cost incurred be reimbursed as an administrative expense. ( l) Copies to the United States Trustee. The clerk must promptly send to the United States trustee a copy of every list, schedule, or statement filed under (a)(1), (a)(2), (b), (d), or (h).
+**(2)** that the cost incurred be reimbursed as an administrative expense. (l) Copies to the United States Trustee. The clerk must promptly send to the United States trustee a copy of every list, schedule, or statement filed under (a)(1), (a)(2), (b), (d), or (h).
 
 **(m) Infant or Incompetent Person.** If a debtor knows that a person named in a list of creditors or in a schedule is an infant or is incompetent, the debtor must also include the name, address, and legal relationship of anyone on whom process would be served in an adversary proceeding against that person under Rule 7004(b)(2).
 

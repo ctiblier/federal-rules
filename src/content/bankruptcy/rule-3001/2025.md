@@ -55,7 +55,7 @@ versions: ["2025"]
 
 **(B) Copy to a Party in Interest.** On a party in interest’s written request, the creditor must send a copy of the writing described in (1) to that party within 30 days after the request is sent.
 
-**(d) Claim Based on a Security Interest in the Debtor ’ s Prop - erty .** If a creditor claims a security interest in the debtor’s property, the proof of claim must be accompanied by evidence that the security interest has been perfected.
+**(d) Claim Based on a Security Interest in the Debtor ’ s Property .** If a creditor claims a security interest in the debtor’s property, the proof of claim must be accompanied by evidence that the security interest has been perfected.
 
 **(e) Transferred Claim.**
 

@@ -23,7 +23,7 @@ versions: ["2025"]
 
 **(2)** a representative of the state where the debtor is located may intervene in any matter the court specifies.
 
-**(d) Intervention by a Labor Union or an Association Rep - resenting the Debtor ’ s Employees.** In a Chapter 9, 11, or 12 case, a labor union or an association representing the debtor’s employees has the right to be heard on the economic soundness of a plan affecting the employees’ interests. Unless otherwise permitted by law, the labor union or employees’ association exercising that right may not appeal any judgment, order, or decree related to the plan.
+**(d) Intervention by a Labor Union or an Association Representing the Debtor ’ s Employees.** In a Chapter 9, 11, or 12 case, a labor union or an association representing the debtor’s employees has the right to be heard on the economic soundness of a plan affecting the employees’ interests. Unless otherwise permitted by law, the labor union or employees’ association exercising that right may not appeal any judgment, order, or decree related to the plan.
 
 **(e) Serving Entities Covered by This Rule.** The court may issue orders governing the service of notice and documents on entities permitted to intervene or be heard under this Rule 2018.
 

@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(2)** within 30 days after the filing, no objection to the report has been filed by the United States trustee or a party in interest.
 
-**(b) Chapter 7 or 13—Notice of a Failure to File a Certificate of Completion for a Course on Personal Financial Manage - ment .** This subdivision (b) applies if an individual debtor in a Chapter 7 or 13 case is required to file a certificate under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under § 341(a). The clerk must promptly notify the debtor that the case will be closed without entering a discharge if the certificate is not filed within the time prescribed by Rule 1007(c).
+**(b) Chapter 7 or 13—Notice of a Failure to File a Certificate of Completion for a Course on Personal Financial Management .** This subdivision (b) applies if an individual debtor in a Chapter 7 or 13 case is required to file a certificate under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under § 341(a). The clerk must promptly notify the debtor that the case will be closed without entering a discharge if the certificate is not filed within the time prescribed by Rule 1007(c).
 
 **(c) Closing a Chapter 15 Case.**
 

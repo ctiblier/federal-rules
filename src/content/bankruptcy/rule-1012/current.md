@@ -17,4 +17,4 @@ versions: ["2025"]
 
 **(b) Time to File a Response.** Unless the court sets a different time, a response to the petition must be filed at least 7 days before the date set for a hearing on the petition.
 
-**(c) Corporate -Ownership Statement.** A corporation that responds to the petition must file a corporate-ownership statement containing the information described in Rule 7007.1. The corporation must do so with its first appearance, pleading, motion, or response, or other first request to the court. (Added Apr. 28, 2016, eff. Dec. 1, 2016; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+**(c) Corporate-Ownership Statement.** A corporation that responds to the petition must file a corporate-ownership statement containing the information described in Rule 7007.1. The corporation must do so with its first appearance, pleading, motion, or response, or other first request to the court. (Added Apr. 28, 2016, eff. Dec. 1, 2016; amended Apr. 2, 2024, eff. Dec. 1, 2024.)

@@ -13,7 +13,7 @@ source_pdf_page: 123
 versions: ["2025"]
 ---
 
-**(a) Designating the Record on Appeal; Statement of the Is - sues ; Content of the Record.**
+**(a) Designating the Record on Appeal; Statement of the Issues ; Content of the Record.**
 
 **(1) Appellant’s Designation and Statement of the Issues.** The appellant must:
 

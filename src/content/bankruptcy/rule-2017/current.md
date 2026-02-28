@@ -13,7 +13,7 @@ source_pdf_page: 59
 versions: ["2025"]
 ---
 
-**(a) Payments or Transfers to an Attorney Made in Con - templation of Filing a Petition or Before the Order for Re - lief .** On a party in interest’s motion, or on its own, the court may, after notice and a hearing, determine whether a debtor’s direct or indirect payment of money or transfer of property to an attorney for services rendered or to be rendered was excessive if it was made:
+**(a) Payments or Transfers to an Attorney Made in Contemplation of Filing a Petition or Before the Order for Relief .** On a party in interest’s motion, or on its own, the court may, after notice and a hearing, determine whether a debtor’s direct or indirect payment of money or transfer of property to an attorney for services rendered or to be rendered was excessive if it was made:
 
 **(1)** in contemplation of the filing of a bankruptcy petition by or against the debtor; or
 

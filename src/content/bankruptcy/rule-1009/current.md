@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(b) Amending a Statement of Intention.** A debtor may amend a statement of intention at any time before the time provided in § 521(a)(2) expires. The debtor must give notice of the amendment to the trustee and any affected entity.
 
-**(c) Amending a Statement of Social -Security Number.** If a debtor learns that a social-security number shown on the statement submitted under Rule 1007(f) is incorrect, the debtor must:
+**(c) Amending a Statement of Social-Security Number.** If a debtor learns that a social-security number shown on the statement submitted under Rule 1007(f) is incorrect, the debtor must:
 
 **(1)** promptly submit an amended verified statement with the correct number (Form 121); and
 

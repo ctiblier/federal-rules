@@ -13,7 +13,7 @@ source_pdf_page: 29
 versions: ["2025"]
 ---
 
-**(a) Showing or Disclosing the Statement During Examina - tion .** When examining a witness about the witness’s prior statement, a party need not show it or disclose its contents to the witness. But the party must, on request, show it or disclose its contents to an adverse party’s attorney.
+**(a) Showing or Disclosing the Statement During Examination .** When examining a witness about the witness’s prior statement, a party need not show it or disclose its contents to the witness. But the party must, on request, show it or disclose its contents to an adverse party’s attorney.
 
 **(b) Extrinsic Evidence of a Prior Inconsistent Statement.** Unless the court orders otherwise, extrinsic evidence of a witness’s prior inconsistent statement may not be admitted until after the witness is given an opportunity to explain or deny the statement and an adverse party is given an opportunity to examine the witness about it. This subdivision (b) does not apply to an opposing party’s statement under Rule 801(d)(2).
 

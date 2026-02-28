@@ -13,7 +13,7 @@ source_pdf_page: 95
 versions: ["2025"]
 ---
 
-**(a) Filing Original Notes, Tape Recordings, and Other Origi - nal Records of a Proceeding; Transcripts.**
+**(a) Filing Original Notes, Tape Recordings, and Other Original Records of a Proceeding; Transcripts.**
 
 **(1) Records.** The reporter or operator of a recording device must certify the original notes of testimony, any tape recordings, and other original records of a proceeding and must promptly file them with the clerk.
 
