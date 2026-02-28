@@ -3,16 +3,25 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import RuleTOC from '../../../components/RuleTOC.astro';
 import CopyCitation from '../../../components/CopyCitation.astro';
 import { getCollection } from 'astro:content';
+import { hasChanged } from '../../../utils/markdown';
 
 export async function getStaticPaths() {
   const allEntries = await getCollection('rules');
   const currentEntries = allEntries.filter((e) => e.id.endsWith('/current.md'));
 
-  // Build sorted year list (newest first) for each rule folder
+  // Build lookup: folder → current entry (for body comparison)
+  const currentMap = new Map(
+    currentEntries.map((e) => [e.id.split('/')[0], e])
+  );
+
+  // Build sorted year list (newest first), only for years where the rule
+  // content actually differs from current.
   const yearsByFolder = new Map<string, string[]>();
   for (const e of allEntries.filter((e) => !e.id.endsWith('/current.md'))) {
     const folder = e.id.split('/')[0];
     const year = e.id.split('/')[1].replace(/\.md$/, '');
+    const current = currentMap.get(folder);
+    if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
     if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
     yearsByFolder.get(folder)!.push(year);
   }

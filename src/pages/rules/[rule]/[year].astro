@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import RuleTOC from '../../../components/RuleTOC.astro';
 import { getCollection } from 'astro:content';
 import { diff_match_patch, DIFF_INSERT, DIFF_DELETE, DIFF_EQUAL } from 'diff-match-patch';
+import { stripMarkdown, hasChanged } from '../../../utils/markdown';
 
 export async function getStaticPaths() {
   const allEntries = await getCollection('rules');
@@ -18,11 +19,13 @@ export async function getStaticPaths() {
   // Historical entries are everything that is not "current"
   const historical = allEntries.filter((e) => !e.id.endsWith('/current.md'));
 
-  // Pre-compute sorted year list per rule folder
+  // Pre-compute sorted year list per rule folder, filtered to years with changes vs current
   const yearsByFolder = new Map<string, string[]>();
   for (const e of historical) {
     const folder = e.id.split('/')[0];
     const year = e.id.split('/')[1].replace(/\.md$/, '');
+    const current = currentMap.get(folder);
+    if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
     if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
     yearsByFolder.get(folder)!.push(year);
   }
@@ -47,18 +50,6 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 const year = Astro.params.year;
 
 // --- Build-time diff vs current ---
-
-// Strip Markdown formatting so the diff compares and displays plain text
-// rather than raw syntax like **bold** or ### headings.
-function stripMarkdown(text: string): string {
-  return text
-    .replace(/\*\*(.+?)\*\*/gs, '$1')   // **bold** → bold
-    .replace(/\*(.+?)\*/gs, '$1')        // *italic* → italic
-    .replace(/^#{1,6}\s+/gm, '')         // ### Heading → Heading
-    .replace(/<[^>]+>/g, '')             // strip HTML tags (e.g. amendment notice)
-    .replace(/\n{3,}/g, '\n\n')          // collapse excess blank lines
-    .trim();
-}
 
 function buildDiffHtml(historical: string, current: string): string {
   const dmp = new diff_match_patch();
