@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { computeHasDeadlines } from '../utils/hasDeadlines';
 
 interface Props {
   ruleset: 'civil' | 'criminal' | 'appellate' | 'evidence' | 'bankruptcy';
@@ -44,13 +45,13 @@ const currentPath = Astro.url.pathname;
 ---
 
 <nav class="py-2" aria-label={label}>
-  <div class="px-4 py-3 border-b" style="border-color: rgba(255,255,255,0.1);">
-    <a href="/" class="text-[10px] font-semibold uppercase tracking-widest transition-opacity opacity-60 hover:opacity-100" style="color: #c9a84c; font-family: system-ui, sans-serif;">
+  <div class="px-4 py-3 pt-14 md:pt-3 pb-3 border-b" style="border-color: rgba(255,255,255,0.1);">
+    <a href="/" class="text-[10px] font-semibold uppercase tracking-widest transition-opacity opacity-85 hover:opacity-100" style="color: #c9a84c; font-family: system-ui, sans-serif;">
       ← All Rulesets
     </a>
-    <p class="mt-1 text-[12px] font-bold leading-tight" style="color: white; font-family: system-ui, sans-serif;">
+    <a href={basePath} class="mt-1 text-[12px] font-bold leading-tight block transition-opacity hover:opacity-80" style="color: white; font-family: system-ui, sans-serif; text-decoration: none;">
       {label}
-    </p>
+    </a>
   </div>
 
   {Array.from(groups.entries()).map(([titleNum, group]) => {
@@ -87,7 +88,7 @@ const currentPath = Astro.url.pathname;
                     {rule.data.rule}
                   </span>
                   <span class="truncate flex-1">{rule.data.title}</span>
-                  {rule.data.has_deadlines && (
+                  {computeHasDeadlines(rule) && (
                     <span class="shrink-0 text-[9px] font-bold uppercase tracking-wide px-1 rounded" style="background: rgba(201,168,76,0.2); color: #c9a84c; line-height: 1.6;">
                       D
                     </span>
