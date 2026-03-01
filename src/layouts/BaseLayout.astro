@@ -46,6 +46,8 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="Federal Rules" />
     <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title === 'Federal Rules' ? title : `${title} | Federal Rules`} />
+    <meta name="twitter:description" content={description} />
     {noIndex && <meta name="robots" content="noindex, follow" />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -116,8 +118,8 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
         bottom: 1.5rem;
         right: 1.5rem;
         z-index: 40;
-        width: 2.5rem;
-        height: 2.5rem;
+        width: 2.75rem;
+        height: 2.75rem;
         border-radius: 50%;
         background: #1a2744;
         color: #c9a84c;
@@ -179,7 +181,7 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
         aria-expanded="false"
         aria-controls="rule-sidebar"
         class="fixed top-3 left-3 z-50 p-2 rounded shadow-md md:hidden"
-        style="background-color: #1a2744; color: white;"
+        style="background-color: #1a2744; color: white; min-width: 44px; min-height: 44px;"
       >
         <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
           <path d="M2 4.5h14M2 9h14M2 13.5h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
@@ -235,6 +237,10 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
       </div>
     </div>
 
+    <!-- Screen-reader announcement region for cite copy and other actions -->
+    <div id="sr-announce" class="sr-only" aria-live="polite" aria-atomic="true"
+      style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;"></div>
+
     <!-- Back to top button -->
     <button
       id="back-to-top"
@@ -253,7 +259,10 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
         window.addEventListener('scroll', () => {
           btt.classList.toggle('is-visible', window.scrollY > 200);
         }, { passive: true });
-        btt.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+        btt.addEventListener('click', () => {
+          const motion = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+          window.scrollTo({ top: 0, behavior: motion as ScrollBehavior });
+        });
       }
 
       // ── Ruleset filter indicator on ruleset index pages ───────────────────
@@ -295,13 +304,8 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
         };
 
         if (RULESETS[ruleset]) {
-          // Screen-reader live region for panel state announcements
-          const srAnnounce = document.createElement('div');
-          srAnnounce.setAttribute('aria-live', 'polite');
-          srAnnounce.setAttribute('aria-atomic', 'true');
-          srAnnounce.style.cssText =
-            'clip:rect(0,0,0,0);height:1px;overflow:hidden;position:absolute;width:1px;white-space:nowrap;';
-          document.body.appendChild(srAnnounce);
+          // Reuse the global screen-reader live region for panel state announcements
+          const srAnnounce = document.getElementById('sr-announce')!;
 
           // ── Reference panel ─────────────────────────────────────────────
           const panel = document.createElement('aside');
@@ -355,12 +359,34 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
 
           function closePanel() {
             panel.style.display = 'none';
+            srAnnounce.textContent = 'Reference panel closed';
             panelTrigger?.focus(); // return focus to the link that opened the panel
             panelTrigger = null;
           }
           rpClose.addEventListener('click', closePanel);
           document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && panel.style.display !== 'none') closePanel();
+
+            // Focus trap: keep Tab within the reference panel while it's open
+            if (e.key === 'Tab' && panel.style.display !== 'none') {
+              const focusable = Array.from(
+                panel.querySelectorAll('a, button, input, [tabindex="0"]')
+              ).filter((el) => !(el as HTMLElement).hasAttribute('disabled') && (el as HTMLElement).offsetParent !== null) as HTMLElement[];
+              if (focusable.length === 0) return;
+              const first = focusable[0];
+              const last = focusable[focusable.length - 1];
+              if (e.shiftKey) {
+                if (document.activeElement === first) {
+                  e.preventDefault();
+                  last.focus();
+                }
+              } else {
+                if (document.activeElement === last) {
+                  e.preventDefault();
+                  first.focus();
+                }
+              }
+            }
           });
           // Close when the user clicks anywhere outside the panel (back to main content)
           document.addEventListener('click', (e) => {
@@ -536,11 +562,12 @@ const showBreadcrumb = ruleset != null && !isRulesetIndex;
                     p.classList.add('deadline-active');
                   });
                   // Scroll to first deadline
-                  deadlineParas[0].scrollIntoView({ block: 'start', behavior: 'smooth' });
+                  const dlMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+                  deadlineParas[0].scrollIntoView({ block: 'start', behavior: dlMotion as ScrollBehavior });
                   const headerEl = document.querySelector('header.sticky');
                   const offset = headerEl?.getBoundingClientRect().bottom ?? 0;
                   if (offset > 0) {
-                    setTimeout(() => window.scrollBy({ top: -offset - 8, behavior: 'smooth' }), 300);
+                    setTimeout(() => window.scrollBy({ top: -offset - 8, behavior: dlMotion as ScrollBehavior }), 300);
                   }
                 } else {
                   // Remove highlight — class removal drops the fill-mode background

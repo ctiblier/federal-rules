@@ -77,7 +77,7 @@ const currentPath = Astro.url.pathname;
               <li>
                 <a
                   href={href}
-                  class="flex items-baseline gap-2 px-4 py-1.5 text-[13px] transition-colors"
+                  class="sidebar-link flex items-baseline gap-2 px-4 py-1.5 text-[13px] transition-colors"
                   style={isActive
                     ? 'background-color: rgba(201,168,76,0.2); color: #c9a84c; font-weight: 600; font-family: system-ui, sans-serif;'
                     : 'color: rgba(255,255,255,0.9); font-family: system-ui, sans-serif;'
@@ -103,7 +103,15 @@ const currentPath = Astro.url.pathname;
   })}
 </nav>
 
+<style>
+  @media (pointer: coarse) {
+    .sidebar-link { min-height: 44px; display: flex; align-items: center; }
+  }
+</style>
+
 <script>
   const active = document.querySelector('#rule-sidebar a[aria-current="page"]');
-  if (active) active.scrollIntoView({ block: 'center' });
+  if (active && window.innerWidth >= 768) {
+    active.scrollIntoView({ block: 'center' });
+  }
 </script>

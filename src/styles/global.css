@@ -93,7 +93,7 @@ html {
 ins.diff-ins {
   background-color: #dcfce7;
   color: #166534;
-  text-decoration: none;
+  text-decoration: underline;
 }
 del.diff-del {
   background-color: #fee2e2;
@@ -144,4 +144,22 @@ del.diff-del {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+/* Print styles — hide chrome, expand content */
+@media print {
+  #rule-sidebar,
+  header,
+  #back-to-top,
+  .cite-btn,
+  #sel-cite-btn,
+  #rule-ref-panel,
+  #sidebar-toggle,
+  #history-container,
+  aside:not(#rule-sidebar) { display: none !important; }
+  body { background: white !important; }
+  main, .rule-body { max-width: 100% !important; width: 100% !important; margin: 0 !important; padding: 1rem !important; }
+  a { color: inherit !important; text-decoration: underline !important; }
+  a[href]::after { content: " (" attr(href) ")"; font-size: 0.75em; color: #666; }
+  .rule-xref::after { content: none; }
 }

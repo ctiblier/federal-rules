@@ -1,41 +1,48 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CopyCitation from '../../../components/CopyCitation.astro';
-import { getCollection } from 'astro:content';
 import { hasChanged } from '../../../utils/markdown';
+import { getCollectionByName } from '../../../utils/getCollectionByName';
+import { RULESETS } from '../../../data/rulesets';
 
 export async function getStaticPaths() {
-  const allEntries = await getCollection('appellate');
-  const currentEntries = allEntries.filter((e) => e.id.endsWith('/current.md'));
+  const paths = [];
 
-  // Build lookup: folder → current entry (for body comparison)
-  const currentMap = new Map(
-    currentEntries.map((e) => [e.id.split('/')[0], e])
-  );
+  for (const [slug, config] of Object.entries(RULESETS)) {
+    const allEntries = await getCollectionByName(config.collection);
+    const currentEntries = allEntries.filter((e) => e.id.endsWith('/current.md'));
 
-  // Build sorted year list (newest first), only for years where the rule
-  // content actually differs from current.
-  const yearsByFolder = new Map<string, string[]>();
-  for (const e of allEntries.filter((e) => !e.id.endsWith('/current.md'))) {
-    const folder = e.id.split('/')[0];
-    const year = e.id.split('/')[1].replace(/\.md$/, '');
-    const current = currentMap.get(folder);
-    if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
-    if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
-    yearsByFolder.get(folder)!.push(year);
+    // Build lookup: folder -> current entry (for body comparison)
+    const currentMap = new Map(
+      currentEntries.map((e) => [e.id.split('/')[0], e])
+    );
+
+    // Build sorted year list (newest first), only for years where the rule
+    // content actually differs from current.
+    const yearsByFolder = new Map<string, string[]>();
+    for (const e of allEntries.filter((e) => !e.id.endsWith('/current.md'))) {
+      const folder = e.id.split('/')[0];
+      const year = e.id.split('/')[1].replace(/\.md$/, '');
+      const current = currentMap.get(folder);
+      if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
+      if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
+      yearsByFolder.get(folder)!.push(year);
+    }
+    for (const years of yearsByFolder.values()) years.sort((a, b) => Number(b) - Number(a));
+
+    for (const entry of currentEntries) {
+      const folder = entry.id.split('/')[0];
+      paths.push({
+        params: { ruleset: slug, rule: entry.data.rule },
+        props: { entry, allYears: yearsByFolder.get(folder) ?? [], config },
+      });
+    }
   }
-  for (const years of yearsByFolder.values()) years.sort((a, b) => Number(b) - Number(a));
 
-  return currentEntries.map((entry) => {
-    const folder = entry.id.split('/')[0];
-    return {
-      params: { rule: entry.data.rule },
-      props: { entry, allYears: yearsByFolder.get(folder) ?? [] },
-    };
-  });
+  return paths;
 }
 
-const { entry, allYears } = Astro.props;
+const { entry, allYears, config } = Astro.props;
 const { Content } = await entry.render();
 
 // Detect abrogated rules: body is empty (abrogated rules have no content)
@@ -43,9 +50,9 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 ---
 
 <BaseLayout
-  title={`Rule ${entry.data.rule} — Federal Rules of Appellate Procedure`}
-  description={`Rule ${entry.data.rule} of the Federal Rules of Appellate Procedure: ${entry.data.title}. Current through ${entry.data.last_amended}.`}
-  ruleset="appellate"
+  title={`Rule ${entry.data.rule} — ${config.fullName}`}
+  description={`Rule ${entry.data.rule} of the ${config.fullName}: ${entry.data.title}. Current through ${entry.data.last_amended}.`}
+  ruleset={config.urlSegment}
 >
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -54,15 +61,15 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     "legislationType": "Rule",
     "jurisdiction": { "@type": "AdministrativeArea", "name": "United States" },
     "datePublished": entry.data.last_amended,
-    "isPartOf": { "@type": "Legislation", "name": "Federal Rules of Appellate Procedure" },
-    "url": `https://federal-rules.com/appellate/${entry.data.rule}/`
+    "isPartOf": { "@type": "Legislation", "name": config.fullName },
+    "url": `https://federal-rules.com/${config.urlSegment}/${entry.data.rule}/`
   })} />
   <div class="flex gap-10 px-4 sm:px-6 py-6 md:py-10 max-w-5xl mx-auto">
     <!-- Main rule content -->
-    <article class="flex-1 min-w-0" data-pagefind-body data-pagefind-filter="ruleset:appellate">
+    <article class="flex-1 min-w-0" data-pagefind-body data-pagefind-filter={`ruleset:${config.urlSegment}`}>
       <header class="mb-8 pb-6" style="border-bottom: 1px solid rgba(28,28,30,0.1);">
         <p class="text-xs uppercase tracking-wider mb-2" style="color: #6b7280; font-family: system-ui, sans-serif;">
-          Title {entry.data.title_number} &middot; {entry.data.title_name}
+          {config.groupLabel} {entry.data.title_number} &middot; {entry.data.title_name}
         </p>
         <h1
           class="text-xl sm:text-2xl font-bold mb-4 leading-snug"
@@ -82,7 +89,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
               Contains Deadlines
             </span>
           )}
-          <CopyCitation ruleNumber={entry.data.rule} citationBase="Fed. R. App. P." />
+          <CopyCitation ruleNumber={entry.data.rule} citationBase={config.citationBase} />
           {allYears.length > 0 && (
             <div class="relative" id="history-container">
               <button
@@ -90,7 +97,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
                 type="button"
                 class="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wide rounded px-2 py-0.5 transition-colors"
                 style="color: #6b7280; border: 1px solid rgba(28,28,30,0.2); background: transparent; cursor: pointer;"
-                aria-haspopup="listbox"
+                aria-haspopup="true"
                 aria-expanded="false"
               >
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
@@ -103,13 +110,15 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
                 id="history-dropdown"
                 class="absolute left-0 z-20 rounded-lg shadow-lg overflow-hidden"
                 style="top: calc(100% + 6px); right: 0; min-width: 90px; background: white; border: 1px solid rgba(28,28,30,0.12); display: none;"
+                role="menu"
                 aria-label="Version history"
               >
                 {allYears.map((year) => (
                   <a
-                    href={`/appellate/${entry.data.rule}/${year}/`}
-                    class="block px-3 py-1.5 text-sm transition-colors"
+                    href={`/${config.urlSegment}/${entry.data.rule}/${year}/`}
+                    class="block px-3 py-2.5 text-sm transition-colors"
                     style="color: #374151; font-family: system-ui, sans-serif;"
+                    role="menuitem"
                   >
                     {year}
                   </a>
@@ -126,7 +135,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
             Rule {entry.data.rule} has been abrogated.
           </p>
           <p class="text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
-            This rule was removed from the Federal Rules of Appellate Procedure and is no longer in effect.
+            This rule was removed from the {config.fullName} and is no longer in effect.
           </p>
         </div>
       ) : (
@@ -144,7 +153,8 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fed. R. App. P. {entry.data.rule}
+          {config.sourceLabel} {entry.data.rule}
+          <span class="sr-only">(opens in new tab)</span>
         </a>
         , pdf p.&nbsp;{entry.data.source_pdf_page}.
       </footer>
@@ -154,40 +164,22 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
 </BaseLayout>
 
 <script>
-  // --- History dropdown toggle ---
-  const historyBtn = document.getElementById('history-btn');
-  const historyDropdown = document.getElementById('history-dropdown');
-  if (historyBtn && historyDropdown) {
-    historyBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const open = historyDropdown.style.display !== 'none';
-      historyDropdown.style.display = open ? 'none' : 'block';
-      historyBtn.setAttribute('aria-expanded', String(!open));
-    });
-    document.addEventListener('click', () => {
-      historyDropdown.style.display = 'none';
-      historyBtn.setAttribute('aria-expanded', 'false');
-    });
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && historyDropdown.style.display !== 'none') {
-        historyDropdown.style.display = 'none';
-        historyBtn.setAttribute('aria-expanded', 'false');
-        historyBtn.focus();
-      }
-    });
-  }
+  import { initHistoryDropdown } from '../../../scripts/history-dropdown';
+  initHistoryDropdown();
 </script>
 
-<script define:vars={{ ruleNumber: entry.data.rule }}>
+<script define:vars={{ ruleNumber: entry.data.rule, citationBase: config.citationBase }}>
   // --- Helpers ---
 
   function idToCitation(id, ruleNum) {
     const parts = id.split('-').filter(Boolean);
     const wrapped = parts.map((p) => `(${p})`).join('');
-    return `Fed. R. App. P. ${ruleNum}${wrapped}`;
+    return `${citationBase} ${ruleNum}${wrapped}`;
   }
 
-  // Build a range citation like "Fed. R. App. P. 7(a)(1)-(7)".
+  // Build a range citation like "Fed. R. Civ. P. 7(a)(1)-(7)".
+  // Finds the longest common prefix of the two ids, then appends
+  // the differing tails with a dash. If same section, returns single cite.
   function rangeCitation(startId, endId, ruleNum) {
     if (startId === endId) return idToCitation(startId, ruleNum);
     const s = startId.split('-');
@@ -197,7 +189,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     const prefix = s.slice(0, common).map((p) => `(${p})`).join('');
     const startSuffix = s.slice(common).map((p) => `(${p})`).join('');
     const endSuffix = e.slice(common).map((p) => `(${p})`).join('');
-    return `Fed. R. App. P. ${ruleNum}${prefix}${startSuffix}-${endSuffix}`;
+    return `${citationBase} ${ruleNum}${prefix}${startSuffix}-${endSuffix}`;
   }
 
   async function copyText(text) {
@@ -212,6 +204,22 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
       document.execCommand('copy');
       document.body.removeChild(ta);
     }
+  }
+
+  // --- SR announcement helper ---
+  let srAnnounce = document.getElementById('sr-announce');
+  if (!srAnnounce) {
+    srAnnounce = document.createElement('div');
+    srAnnounce.id = 'sr-announce';
+    srAnnounce.setAttribute('role', 'status');
+    srAnnounce.setAttribute('aria-live', 'polite');
+    srAnnounce.className = 'sr-only';
+    document.body.appendChild(srAnnounce);
+  }
+
+  function announce(message) {
+    srAnnounce.textContent = '';
+    requestAnimationFrame(() => { srAnnounce.textContent = message; });
   }
 
   // --- Per-paragraph hover "cite" buttons ---
@@ -229,8 +237,9 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     btn.addEventListener('click', async (e) => {
       e.stopPropagation();
       await copyText(citation);
+      announce(`Copied citation: ${citation}`);
       const orig = btn.textContent;
-      btn.textContent = '✓';
+      btn.textContent = '\u2713';
       setTimeout(() => { btn.textContent = orig; }, 1200);
     });
 
@@ -244,6 +253,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     ? Array.from(ruleBody.querySelectorAll('p[id]'))
     : [];
 
+  // Find the nearest ancestor p[id] for a given node.
   function nearestSection(node) {
     let el = node.nodeType === Node.TEXT_NODE ? node.parentElement : node;
     while (el && el !== ruleBody) {
@@ -253,10 +263,12 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     return null;
   }
 
+  // Create the floating button (once).
   const selBtn = document.createElement('button');
   selBtn.type = 'button';
   selBtn.id = 'sel-cite-btn';
   selBtn.textContent = 'Copy & Cite';
+  selBtn.tabIndex = 0;
   selBtn.style.cssText = [
     'position:fixed',
     'z-index:1000',
@@ -282,13 +294,22 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     if (!citation) return;
     const payload = selText ? `${selText} ${citation}` : citation;
     await copyText(payload);
+    announce(`Copied text with citation: ${citation}`);
     const orig = selBtn.textContent;
-    selBtn.textContent = '✓ copied';
+    selBtn.textContent = '\u2713 copied';
     setTimeout(() => {
       selBtn.textContent = orig;
       window.getSelection()?.removeAllRanges();
       selBtn.style.display = 'none';
     }, 1200);
+  });
+
+  // Ctrl+Shift+C keyboard shortcut for copy & cite
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey && e.shiftKey && e.key === 'C' && selBtn.style.display !== 'none') {
+      e.preventDefault();
+      selBtn.click();
+    }
   });
 
   function positionSelBtn(rect) {
@@ -331,6 +352,7 @@ const isAbrogated = (entry.body?.trim() ?? '').length < 30;
     selBtn.dataset.selText = sel.toString().trim();
     selBtn.setAttribute('aria-label', `Copy selected text with citation: ${citation}`);
 
+    // Show and position
     selBtn.style.display = 'block';
     const rect = range.getBoundingClientRect();
     if (rect.width === 0 && rect.height === 0) {

@@ -181,6 +181,8 @@ const RULESETS = ['civil', 'criminal', 'appellate', 'evidence', 'bankruptcy'] as
       query = query.trim();
       if (!query) { resultsEl.innerHTML = ''; return; }
 
+      resultsEl.innerHTML = '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;padding:0.75rem 0;">Searching\u2026</p>';
+
       const pf = await loadPagefind();
       if (!pf) {
         resultsEl.innerHTML =
@@ -260,7 +262,9 @@ const RULESETS = ['civil', 'criminal', 'appellate', 'evidence', 'bankruptcy'] as
     if (searchSection) {
       document.addEventListener('click', (e) => {
         if (!searchSection.contains(e.target as Node) && resultsEl.innerHTML) {
-          resultsEl.innerHTML = '';
+          if (!input?.value.trim()) {
+            resultsEl.innerHTML = '';
+          }
         }
       });
     }

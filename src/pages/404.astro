@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page Not Found"
+  description="The page you're looking for doesn't exist."
+  noSidebar={true}
+>
+  <div style="max-width: 480px; margin: 0 auto; padding: 6rem 1.5rem 8rem; text-align: center;">
+    <p style="font-family: 'Lora', Georgia, serif; font-size: 5rem; font-weight: 700; color: #1a2744; margin-bottom: 0.5rem; line-height: 1;">
+      404
+    </p>
+    <h1 style="font-family: 'Lora', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #1c1c1e; margin-bottom: 1rem;">
+      Page not found
+    </h1>
+    <p style="font-family: 'Lora', Georgia, serif; font-size: 1rem; color: #6b7280; line-height: 1.7; margin-bottom: 2rem;">
+      The page you requested doesn't exist or may have been moved.
+    </p>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 0.75rem; font-family: system-ui, sans-serif; font-size: 0.9375rem;">
+      <a href="/" style="color: #c9a84c; text-decoration: none; font-weight: 600; transition: color 0.15s;">
+        &larr; Browse all rulesets
+      </a>
+      <a href="/#search" style="color: #c9a84c; text-decoration: none; transition: color 0.15s;">
+        or try searching
+      </a>
+    </div>
+  </div>
+</BaseLayout>

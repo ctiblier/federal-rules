@@ -3,6 +3,7 @@ interface Props {
   noSearch?: boolean;
 }
 const { noSearch = false } = Astro.props;
+const isAbout = Astro.url.pathname.startsWith('/about');
 ---
 
 <header
@@ -36,12 +37,13 @@ const { noSearch = false } = Astro.props;
           <span class="hidden sm:inline">Search</span>
         </a>
       )}
-      <a href="/about/" class="site-nav-link transition-colors" style="color: #6b7280; font-size: 0.8125rem;">About</a>
+      <a href="/about/" class:list={['site-nav-link transition-colors', { 'site-nav-link--active': isAbout }]} style={`font-size: 0.8125rem;${isAbout ? ' color: #1c1c1e; font-weight: 600;' : ' color: #6b7280;'}`}>About</a>
     </nav>
   </div>
 </header>
 
 <style>
   .site-nav-link:hover { color: #1c1c1e; }
+  .site-nav-link--active { border-bottom: 2px solid #c9a84c; padding-bottom: 2px; }
   .site-name:hover { color: #1a2744; }
 </style>

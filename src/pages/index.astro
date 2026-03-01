@@ -227,9 +227,9 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
 
   <!-- Footer -->
   <footer style="border-top: 1px solid rgba(28,28,30,0.1); padding: 1.5rem; text-align: center;">
-    <nav aria-label="Footer" style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #9ca3af; display: flex; justify-content: center; gap: 1.5rem;">
-      <a href="/about/" class="footer-link" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;">About</a>
-      <a href="/privacy/" class="footer-link" style="color: #9ca3af; text-decoration: none; transition: color 0.15s;">Privacy</a>
+    <nav aria-label="Footer" style="font-family: system-ui, sans-serif; font-size: 0.8125rem; color: #6b7280; display: flex; justify-content: center; gap: 1.5rem;">
+      <a href="/about/" class="footer-link" style="color: #6b7280; text-decoration: none; transition: color 0.15s;">About</a>
+      <a href="/privacy/" class="footer-link" style="color: #6b7280; text-decoration: none; transition: color 0.15s;">Privacy</a>
     </nav>
   </footer>
 </BaseLayout>
@@ -255,6 +255,10 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   .rs-pill:hover {
     border-color: #1a2744;
     color: #1a2744;
+  }
+  .rs-pill:focus-visible {
+    outline: 2px solid #c9a84c;
+    outline-offset: 2px;
   }
   .rs-pill--active {
     background-color: #1a2744;
@@ -349,6 +353,8 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
       return;
     }
 
+    resultsEl.innerHTML = '<p style="color:#6b7280;font-family:system-ui,sans-serif;font-size:0.875rem;padding:0.75rem 0;">Searching\u2026</p>';
+
     const pf = await loadPagefind();
     if (!pf) {
       resultsEl.innerHTML =
@@ -382,25 +388,56 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
       });
     }
 
-    // Show top 8 after sorting.
-    items.splice(8);
+    const totalCount = items.length;
+    const initialItems = items.slice(0, 8);
 
-    resultsEl.innerHTML = items.map((item: any) => {
-      const rs = rulesetFromUrl(item.url);
-      const label = RULESET_LABELS[rs] ?? '';
-      const title = esc((item.meta?.title ?? '').replace(/\s*\|\s*Federal Rules.*$/, ''));
-      const excerpt: string = item.excerpt ?? '';  // contains <mark> — our own build content
-      const url = esc(item.url);
-      return (
-        `<a href="${url}" class="hs-result" style="display:block;padding:0.75rem 1rem;border-radius:0.375rem;border:1px solid rgba(28,28,30,0.12);background:white;text-decoration:none;margin-top:0.5rem;">` +
-        `<div style="display:flex;align-items:baseline;gap:0.5rem;margin-bottom:0.2rem;">` +
-        (label ? `<span style="font-family:system-ui,sans-serif;font-size:0.6875rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;color:#1a2744;flex-shrink:0;">${label}</span>` : '') +
-        `<span style="font-family:'Lora',Georgia,serif;font-size:0.9375rem;font-weight:700;color:#1c1c1e;">${title}</span>` +
-        `</div>` +
-        `<p style="font-family:system-ui,sans-serif;font-size:0.8125rem;color:#6b7280;margin:0;line-height:1.5;">${excerpt}</p>` +
-        `</a>`
-      );
-    }).join('');
+    function renderItems(list: any[]) {
+      return list.map((item: any) => {
+        const rs = rulesetFromUrl(item.url);
+        const label = RULESET_LABELS[rs] ?? '';
+        const title = esc((item.meta?.title ?? '').replace(/\s*\|\s*Federal Rules.*$/, ''));
+        const excerpt: string = item.excerpt ?? '';  // contains <mark> — our own build content
+        const url = esc(item.url);
+        return (
+          `<a href="${url}" class="hs-result" style="display:block;padding:0.75rem 1rem;border-radius:0.375rem;border:1px solid rgba(28,28,30,0.12);background:white;text-decoration:none;margin-top:0.5rem;">` +
+          `<div style="display:flex;align-items:baseline;gap:0.5rem;margin-bottom:0.2rem;">` +
+          (label ? `<span style="font-family:system-ui,sans-serif;font-size:0.6875rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;color:#1a2744;flex-shrink:0;">${label}</span>` : '') +
+          `<span style="font-family:'Lora',Georgia,serif;font-size:0.9375rem;font-weight:700;color:#1c1c1e;">${title}</span>` +
+          `</div>` +
+          `<p style="font-family:system-ui,sans-serif;font-size:0.8125rem;color:#6b7280;margin:0;line-height:1.5;">${excerpt}</p>` +
+          `</a>`
+        );
+      }).join('');
+    }
+
+    let html = renderItems(initialItems);
+
+    if (totalCount > 8) {
+      const remaining = Math.min(totalCount, 25);
+      html += `<button id="hs-show-more" style="display:block;width:100%;margin-top:0.75rem;padding:0.5rem;background:none;border:1px solid rgba(28,28,30,0.15);border-radius:0.375rem;cursor:pointer;font-family:system-ui,sans-serif;font-size:0.8125rem;font-weight:600;color:#c9a84c;transition:border-color 0.15s;">Show all ${remaining} results</button>`;
+    }
+
+    resultsEl.innerHTML = html;
+
+    if (totalCount > 8) {
+      const showMoreBtn = document.getElementById('hs-show-more');
+      if (showMoreBtn) {
+        showMoreBtn.addEventListener('click', async () => {
+          // Fetch up to 25 results total
+          const allItems = await Promise.all(search.results.slice(0, 25).map((r: any) => r.data()));
+          if (qNum) {
+            allItems.sort((a: any, b: any) => {
+              const aNum = urlRuleNum(a.url);
+              const bNum = urlRuleNum(b.url);
+              const aRank = aNum === qNum ? 0 : aNum.startsWith(qNum + '.') ? 1 : 2;
+              const bRank = bNum === qNum ? 0 : bNum.startsWith(qNum + '.') ? 1 : 2;
+              return aRank - bRank;
+            });
+          }
+          resultsEl.innerHTML = renderItems(allItems.slice(0, 25));
+        });
+      }
+    }
   }
 
   // ─── Input handler ────────────────────────────────────────────────────────
@@ -436,7 +473,9 @@ const bankruptcyLastAmended = bankruptcyCurrent[0]?.data.last_amended ?? '';
   if (hsSection && hsResults) {
     document.addEventListener('click', (e) => {
       if (!hsSection.contains(e.target as Node) && hsResults.innerHTML) {
-        hsResults.innerHTML = '';
+        if (!hsInput?.value.trim()) {
+          hsResults.innerHTML = '';
+        }
       }
     });
   }

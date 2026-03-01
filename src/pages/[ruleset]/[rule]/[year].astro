@@ -1,47 +1,54 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
 import { diff_match_patch, DIFF_INSERT, DIFF_DELETE, DIFF_EQUAL } from 'diff-match-patch';
 import { stripMarkdown, hasChanged } from '../../../utils/markdown';
+import { getCollectionByName } from '../../../utils/getCollectionByName';
+import { RULESETS } from '../../../data/rulesets';
 
 export async function getStaticPaths() {
-  const allEntries = await getCollection('appellate');
+  const paths = [];
 
-  // Build a map from folder name (e.g. "rule-26") → current entry
-  const currentMap = new Map(
-    allEntries
-      .filter((e) => e.id.endsWith('/current.md'))
-      .map((e) => [e.id.split('/')[0], e])
-  );
+  for (const [slug, config] of Object.entries(RULESETS)) {
+    const allEntries = await getCollectionByName(config.collection);
 
-  // Historical entries are everything that is not "current"
-  const historical = allEntries.filter((e) => !e.id.endsWith('/current.md'));
+    // Build a map from folder name (e.g. "rule-26") -> current entry
+    const currentMap = new Map(
+      allEntries
+        .filter((e) => e.id.endsWith('/current.md'))
+        .map((e) => [e.id.split('/')[0], e])
+    );
 
-  // Pre-compute sorted year list per rule folder, filtered to years with changes vs current
-  const yearsByFolder = new Map<string, string[]>();
-  for (const e of historical) {
-    const folder = e.id.split('/')[0];
-    const year = e.id.split('/')[1].replace(/\.md$/, '');
-    const current = currentMap.get(folder);
-    if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
-    if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
-    yearsByFolder.get(folder)!.push(year);
+    // Historical entries are everything that is not "current"
+    const historical = allEntries.filter((e) => !e.id.endsWith('/current.md'));
+
+    // Pre-compute sorted year list per rule folder, filtered to years with changes vs current
+    const yearsByFolder = new Map<string, string[]>();
+    for (const e of historical) {
+      const folder = e.id.split('/')[0];
+      const year = e.id.split('/')[1].replace(/\.md$/, '');
+      const current = currentMap.get(folder);
+      if (!current || !hasChanged(e.body ?? '', current.body ?? '')) continue;
+      if (!yearsByFolder.has(folder)) yearsByFolder.set(folder, []);
+      yearsByFolder.get(folder)!.push(year);
+    }
+    for (const years of yearsByFolder.values()) years.sort();
+
+    for (const entry of historical) {
+      const folderName = entry.id.split('/')[0];
+      const year = entry.id.split('/')[1].replace(/\.md$/, '');
+      const currentEntry = currentMap.get(folderName);
+      const allYears = yearsByFolder.get(folderName) ?? [];
+      paths.push({
+        params: { ruleset: slug, rule: entry.data.rule, year },
+        props: { entry, currentEntry, allYears, config },
+      });
+    }
   }
-  for (const years of yearsByFolder.values()) years.sort();
 
-  return historical.map((entry) => {
-    const folderName = entry.id.split('/')[0];
-    const year = entry.id.split('/')[1].replace(/\.md$/, '');
-    const currentEntry = currentMap.get(folderName);
-    const allYears = yearsByFolder.get(folderName) ?? [];
-    return {
-      params: { rule: entry.data.rule, year },
-      props: { entry, currentEntry, allYears },
-    };
-  });
+  return paths;
 }
 
-const { entry, currentEntry, allYears } = Astro.props;
+const { entry, currentEntry, allYears, config } = Astro.props;
 const { Content } = await entry.render();
 
 const isAbrogated = (entry.body?.trim() ?? '').length < 30;
@@ -77,8 +84,8 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
 
 <BaseLayout
   title={`Rule ${entry.data.rule}. ${entry.data.title} (${year})`}
-  description={`Rule ${entry.data.rule} of the Federal Rules of Appellate Procedure as in effect ${year}: ${entry.data.title}.`}
-  ruleset="appellate"
+  description={`Rule ${entry.data.rule} of the ${config.fullName} as in effect ${year}: ${entry.data.title}.`}
+  ruleset={config.urlSegment}
   noIndex={true}
 >
   <!-- Amber banner -->
@@ -102,6 +109,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
           id="diff-toggle"
           type="button"
           style="background: none; border: 1px solid #d97706; border-radius: 0.25rem; color: #92400e; padding: 0.2rem 0.625rem; font-size: 0.75rem; font-weight: 600; cursor: pointer; font-family: system-ui, sans-serif;"
+          aria-pressed="false"
         >
           What changed?
         </button>
@@ -110,19 +118,22 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
       )}
     </div>
     <a
-      href={`/appellate/${entry.data.rule}/`}
+      href={`/${config.urlSegment}/${entry.data.rule}/`}
       style="font-weight: 600; color: #92400e; text-decoration: underline; text-underline-offset: 2px; white-space: nowrap;"
     >
-      View current (2025) →
+      View current (2025) &rarr;
     </a>
   </div>
+
+  <!-- Diff status announcer for screen readers -->
+  <div id="diff-status" class="sr-only" role="status" aria-live="polite"></div>
 
   <div class="flex gap-10 px-4 sm:px-6 py-6 md:py-10 max-w-5xl mx-auto">
     <!-- Main rule content -->
     <article class="flex-1 min-w-0">
       <header class="mb-8 pb-6" style="border-bottom: 1px solid rgba(28,28,30,0.1);">
         <p class="text-xs uppercase tracking-wider mb-2" style="color: #6b7280; font-family: system-ui, sans-serif;">
-          Title {entry.data.title_number} &middot; {entry.data.title_name}
+          {config.groupLabel} {entry.data.title_number} &middot; {entry.data.title_name}
         </p>
         <h1
           class="text-xl sm:text-2xl font-bold mb-4 leading-snug"
@@ -141,7 +152,7 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
             Rule {entry.data.rule} has been abrogated.
           </p>
           <p class="text-sm" style="color: #6b7280; font-family: system-ui, sans-serif;">
-            This rule was removed from the Federal Rules of Appellate Procedure and is no longer in effect.
+            This rule was removed from the {config.fullName} and is no longer in effect.
           </p>
         </div>
       ) : (
@@ -174,7 +185,8 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fed. R. App. P. {entry.data.rule}
+          {config.sourceLabel} {entry.data.rule}
+          <span class="sr-only">(opens in new tab)</span>
         </a>
         , pdf p.&nbsp;{entry.data.source_pdf_page}.
       </footer>
@@ -184,18 +196,19 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
 </BaseLayout>
 
 
-<script define:vars={{ ruleNumber: entry.data.rule }}>
+<script define:vars={{ ruleNumber: entry.data.rule, rulesetSlug: config.urlSegment }}>
   // Version selector navigation
   const versionSelect = document.getElementById('version-select');
   if (versionSelect) {
     versionSelect.addEventListener('change', (e) => {
-      window.location.href = `/appellate/${ruleNumber}/${e.target.value}/`;
+      window.location.href = `/${rulesetSlug}/${ruleNumber}/${e.target.value}/`;
     });
   }
 
   const toggleBtn = document.getElementById('diff-toggle');
   const readingView = document.getElementById('reading-view');
   const diffView = document.getElementById('diff-view');
+  const diffStatus = document.getElementById('diff-status');
 
   if (toggleBtn && readingView && diffView) {
     toggleBtn.addEventListener('click', () => {
@@ -204,10 +217,14 @@ const hasChanges = diffHtml.includes('class="diff-ins"') || diffHtml.includes('c
         diffView.style.display = 'none';
         readingView.style.display = '';
         toggleBtn.textContent = 'What changed?';
+        toggleBtn.setAttribute('aria-pressed', 'false');
+        if (diffStatus) diffStatus.textContent = 'Showing original text';
       } else {
         readingView.style.display = 'none';
         diffView.style.display = '';
         toggleBtn.textContent = 'Show rule text';
+        toggleBtn.setAttribute('aria-pressed', 'true');
+        if (diffStatus) diffStatus.textContent = 'Showing differences';
       }
     });
   }
