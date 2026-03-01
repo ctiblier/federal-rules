@@ -199,17 +199,23 @@ const RULESETS = ['civil', 'criminal', 'appellate', 'evidence', 'bankruptcy'] as
         return;
       }
 
-      const items = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
+      // Fetch extra candidates so rule-number boost can promote relevant matches.
+      const items = await Promise.all(search.results.slice(0, 20).map((r: any) => r.data()));
 
-      // Boost: exact rule-number matches float to the top.
+      // Tiered boost: exact rule number > starts-with > other.
       const qNum = queryRuleNum(query);
       if (qNum) {
         items.sort((a: any, b: any) => {
-          const aMatch = urlRuleNum(a.url) === qNum ? 0 : 1;
-          const bMatch = urlRuleNum(b.url) === qNum ? 0 : 1;
-          return aMatch - bMatch;
+          const aNum = urlRuleNum(a.url);
+          const bNum = urlRuleNum(b.url);
+          const aRank = aNum === qNum ? 0 : aNum.startsWith(qNum + '.') ? 1 : 2;
+          const bRank = bNum === qNum ? 0 : bNum.startsWith(qNum + '.') ? 1 : 2;
+          return aRank - bRank;
         });
       }
+
+      // Show top 8 after sorting.
+      items.splice(8);
 
       resultsEl.innerHTML = items.map((item: any) => {
         const rs = rulesetFromUrl(item.url);
