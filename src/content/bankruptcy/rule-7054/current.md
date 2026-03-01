@@ -15,11 +15,11 @@ versions: ["2025"]
 
 **(a) Judgment.** Fed. R. Civ. P. 54(a)–(c) applies in an adversary proceeding.
 
-**(b) Costs and Attorney ’ s Fees.**
+**(b) Costs and Attorney's Fees.**
 
-**(1) Costs Other Than Attorney’s Fees.** The court may allow costs to the prevailing party, unless a federal statute or these rules provide otherwise. Costs against the United States, its officers, and its agencies may be imposed only to the extent permitted by law. The clerk, on 14 days’ notice, may tax costs, and the court, on motion served within the next 7 days, may review the clerk’s action.
+**(1) Costs Other Than Attorney's Fees.** The court may allow costs to the prevailing party, unless a federal statute or these rules provide otherwise. Costs against the United States, its officers, and its agencies may be imposed only to the extent permitted by law. The clerk, on 14 days' notice, may tax costs, and the court, on motion served within the next 7 days, may review the clerk's action.
 
-**(2) Attorney’s Fees.**
+**(2) Attorney's Fees.**
 
 **(A) In General.** Fed. R. Civ. P. 54(d)(2)(A)–(C) and (E) applies in an adversary proceeding—except for the reference in 54(d)(2)(C) to Civil Rule 78.
 

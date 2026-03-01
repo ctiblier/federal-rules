@@ -13,6 +13,6 @@ source_pdf_page: 26
 versions: ["2025"]
 ---
 
-Before testifying, a witness must give an oath or affirmation to testify truthfully. It must be in a form designed to impress that duty on the witness’s conscience.
+Before testifying, a witness must give an oath or affirmation to testify truthfully. It must be in a form designed to impress that duty on the witness's conscience.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

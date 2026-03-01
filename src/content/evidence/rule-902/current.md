@@ -13,7 +13,7 @@ source_pdf_page: 40
 versions: ["2025"]
 ---
 
-**(1) The following items of evidence are self-authenticating; they require no extrinsic evidence of authenticity in order to be admitted: Domestic Public Documents That Are Sealed and Signed.** A document that bears:
+**(1)** The following items of evidence are self-authenticating; they require no extrinsic evidence of authenticity in order to be admitted: Domestic Public Documents That Are Sealed and Signed. A document that bears:
 
 **(A)** a seal purporting to be that of the United States; any state, district, commonwealth, territory, or insular possession of the United States; the former Panama Canal Zone; the Trust Territory of the Pacific Islands; a political subdivision of any of these entities; or a department, agency, or officer of any entity named above; and
 
@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(B)** another public officer who has a seal and official duties within that same entity certifies under seal—or its equivalent—that the signer has the official capacity and that the signature is genuine.
 
-**(3) Foreign Public Documents.** A document that purports to be signed or attested by a person who is authorized by a foreign country’s law to do so. The document must be accompanied by a final certification that certifies the genuineness of the signature and official position of the signer or attester—or of any foreign official whose certificate of genuineness relates to the signature or attestation or is in a chain of certificates of genuineness relating to the signature or attestation. The certification may be made by a secretary of a United States embassy or legation; by a consul general, vice consul, or consular agent of the United States; or by a diplomatic or consular official of the foreign country assigned or accredited to the United States. If all parties have been given a reasonable opportunity to investigate the document’s authenticity and accuracy, the court may, for good cause, either:
+**(3) Foreign Public Documents.** A document that purports to be signed or attested by a person who is authorized by a foreign country's law to do so. The document must be accompanied by a final certification that certifies the genuineness of the signature and official position of the signer or attester—or of any foreign official whose certificate of genuineness relates to the signature or attestation or is in a chain of certificates of genuineness relating to the signature or attestation. The certification may be made by a secretary of a United States embassy or legation; by a consul general, vice consul, or consular agent of the United States; or by a diplomatic or consular official of the foreign country assigned or accredited to the United States. If all parties have been given a reasonable opportunity to investigate the document's authenticity and accuracy, the court may, for good cause, either:
 
 **(A)** order that it be treated as presumptively authentic without final certification; or
 

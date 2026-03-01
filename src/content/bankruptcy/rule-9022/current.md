@@ -27,6 +27,6 @@ versions: ["2025"]
 
 **(2) Lack of Notice; Time to Appeal.** Except as permitted by Rule 8002, lack of notice of the entry does not affect the time to appeal or relieve—or authorize the court to relieve—a party for failing to appeal within the time allowed.
 
-**(b) Issued by a District Judge.** Notice of a district judge’s judgment or order is governed by Fed. R. Civ. P. 77(d). Except in a Chapter 9 case, the clerk must promptly send a copy of the judgment or order to the United States trustee.
+**(b) Issued by a District Judge.** Notice of a district judge's judgment or order is governed by Fed. R. Civ. P. 77(d). Except in a Chapter 9 case, the clerk must promptly send a copy of the judgment or order to the United States trustee.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

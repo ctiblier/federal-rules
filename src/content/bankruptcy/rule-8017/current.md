@@ -15,13 +15,13 @@ versions: ["2025"]
 
 **(a) During the Initial Consideration of a Case on the Merits.**
 
-**(1) Applicability.** This subdivision (a) governs amicus filings during a court’s initial consideration of a case on the merits.
+**(1) Applicability.** This subdivision (a) governs amicus filings during a court's initial consideration of a case on the merits.
 
-**(2) When Permitted.** The United States, its officer or agency, or a state may file an amicus brief without the parties’ consent or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a district court or BAP may prohibit the filing of or may strike an amicus brief that would result in a judge’s disqualification. On its own, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
+**(2) When Permitted.** The United States, its officer or agency, or a state may file an amicus brief without the parties' consent or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a district court or BAP may prohibit the filing of or may strike an amicus brief that would result in a judge's disqualification. On its own, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
 
 **(3) Motion for Leave to File.** A motion for leave must be accompanied by the proposed brief and state:
 
-**(A)** the movant’s interest; and
+**(A)** the movant's interest; and
 
 **(B)** the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the appeal.
 
@@ -35,9 +35,9 @@ versions: ["2025"]
 
 **(D)** unless the amicus curiae is one listed in the first sentence of (2), a statement that indicates whether:
 
-**(i)** a party’s counsel authored the brief in whole or in part;
+**(i)** a party's counsel authored the brief in whole or in part;
 
-**(ii)** a party or a party’s counsel contributed money that was intended to fund preparing or submitting the brief; and
+**(ii)** a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
 
 **(iii)** a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
 
@@ -45,19 +45,19 @@ versions: ["2025"]
 
 **(F)** a certificate of compliance, if required by Rule 8015(h).
 
-**(5) Length.** Except by the district court’s or BAP’s permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party’s principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
+**(5) Length.** Except by the district court's or BAP's permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
 
-**(6) Time for Filing.** An amicus curiae must file its brief—accompanied by a motion for leave to file when required—within 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief within 7 days after the appellant’s principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
+**(6) Time for Filing.** An amicus curiae must file its brief—accompanied by a motion for leave to file when required—within 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief within 7 days after the appellant's principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
 
-**(7) Reply Brief.** Except by the district court’s or BAP’s permission, an amicus curiae may not file a reply brief.
+**(7) Reply Brief.** Except by the district court's or BAP's permission, an amicus curiae may not file a reply brief.
 
-**(8) Oral Argument.** An amicus curiae may participate in oral argument only with the district court’s or BAP’s permission.
+**(8) Oral Argument.** An amicus curiae may participate in oral argument only with the district court's or BAP's permission.
 
 **(b) During Consideration of Whether to Grant Rehearing.**
 
-**(1) Applicability.** This subdivision (b) governs amicus filings during a district court’s or BAP’s consideration of whether to grant rehearing, unless a local rule or order in a particular case provides otherwise.
+**(1) Applicability.** This subdivision (b) governs amicus filings during a district court's or BAP's consideration of whether to grant rehearing, unless a local rule or order in a particular case provides otherwise.
 
-**(2) When Permitted.** The United States, its officer or agency, or a state may file an amicus brief without the parties’ consent or leave of court. Any other amicus curiae may file a brief only by leave of court.
+**(2) When Permitted.** The United States, its officer or agency, or a state may file an amicus brief without the parties' consent or leave of court. Any other amicus curiae may file a brief only by leave of court.
 
 **(3) Motion for Leave to File.** Paragraph (a)(3) applies to a motion for leave to file.
 

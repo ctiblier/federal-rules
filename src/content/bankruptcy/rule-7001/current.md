@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(b)** a proceeding to determine the validity, priority, or extent of a lien or other interest in property—except a proceeding under Rule 3012 or Rule 4003(d);
 
-**(c)** a proceeding to obtain authority under § 363(h) to sell both the estate’s interest in property and that of a co-owner;
+**(c)** a proceeding to obtain authority under § 363(h) to sell both the estate's interest in property and that of a co-owner;
 
 **(d)** a proceeding to revoke or object to a discharge—except an objection under § 727(a)(8) or (a)(9), or § 1328(f);
 

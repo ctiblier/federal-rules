@@ -23,7 +23,7 @@ versions: ["2025"]
 
 **(C)** be kept current and open for public examination without charge.
 
-**(2) Meaning of ‘‘Trustee.’’ As used in this rule, ‘‘trustee’’ does not include a debtor in possession.**
+**(2) Meaning of ''Trustee.''As used in this rule, ''trustee'' does not include a debtor in possession.**
 
 **(b) Annual Summary of the Record.** At the end of each year, the clerk must prepare a summary of the public record, by individual or firm name, showing the total fees awarded during the year. The summary must be open for public examination without charge. The clerk must send a copy of the summary to the United States trustee.
 

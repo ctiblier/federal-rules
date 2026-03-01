@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(2)** to amend or make additional findings under Rule 52(b);
 
-**(3)** for attorney’s fees under Rule 54;
+**(3)** for attorney's fees under Rule 54;
 
 **(4)** for a new trial, or to alter or amend the judgment, under Rule 59; or
 
@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(b) Entering Judgment.**
 
-**(1) Without the Court’s Direction.** Subject to Rule 54(b) and unless the court orders otherwise, the clerk must, without awaiting the court’s direction, promptly prepare, sign, and enter the judgment when:
+**(1) Without the Court's Direction.** Subject to Rule 54(b) and unless the court orders otherwise, the clerk must, without awaiting the court's direction, promptly prepare, sign, and enter the judgment when:
 
 **(A)** the jury returns a general verdict;
 
@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(C)** the court denies all relief.
 
-**(2) Court’s Approval Required.** Subject to Rule 54(b), the court must promptly approve the form of the judgment, which the clerk must promptly enter, when:
+**(2) Court's Approval Required.** Subject to Rule 54(b), the court must promptly approve the form of the judgment, which the clerk must promptly enter, when:
 
 **(A)** the jury returns a special verdict or a general verdict with answers to written questions; or
 
@@ -53,6 +53,6 @@ versions: ["2025"]
 
 **(d) Request for Entry.** A party may request that judgment be set out in a separate document as required by Rule 58(a).
 
-**(e) Cost or Fee Awards.** Ordinarily, the entry of judgment may not be delayed, nor the time for appeal extended, in order to tax costs or award fees. But if a timely motion for attorney’s fees is made under Rule 54(d)(2), the court may act before a notice of appeal has been filed and become effective to order that the motion have the same effect under Federal Rule of Appellate Procedure 4(a)(4) as a timely motion under Rule 59.
+**(e) Cost or Fee Awards.** Ordinarily, the entry of judgment may not be delayed, nor the time for appeal extended, in order to tax costs or award fees. But if a timely motion for attorney's fees is made under Rule 54(d)(2), the court may act before a notice of appeal has been filed and become effective to order that the motion have the same effect under Federal Rule of Appellate Procedure 4(a)(4) as a timely motion under Rule 59.
 
 <p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -1,108 +1,104 @@
 ---
 rule: "5"
-title: "Initial Appearance"
+title: "Serving and Filing Pleadings and Other Papers"
 title_number: "II"
 title_name: "Preliminary Proceedings"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 25
+source_pdf_page: 27
 versions: ["2025"]
 ---
 
-**(a) In General.**
+**(a) Service: When Required.**
 
-**(1) Appearance Upon an Arrest.**
+**(1) In General.** Unless these rules provide otherwise, each of the following papers must be served on every party:
 
-**(A)** A person making an arrest within the United States must take the defendant without unnecessary delay before a magistrate judge, or before a state or local judicial officer as Rule 5(c) provides, unless a statute provides otherwise.
+**(A)** an order stating that service is required;
 
-**(B)** A person making an arrest outside the United States must take the defendant without unnecessary delay before a magistrate judge, unless a statute provides otherwise.
+**(B)** a pleading filed after the original complaint, unless the court orders otherwise under Rule 5(c) because there are numerous defendants;
 
-**(2) Exceptions.**
+**(C)** a discovery paper required to be served on a party, unless the court orders otherwise;
 
-**(A)** An officer making an arrest under a warrant issued upon a complaint charging solely a violation of 18 U.S.C. § 1073 need not comply with this rule if:
+**(D)** a written motion, except one that may be heard ex parte; and
 
-**(i)** the person arrested is transferred without unnecessary delay to the custody of appropriate state or local authorities in the district of arrest; and
+**(E)** a written notice, appearance, demand, or offer of judgment, or any similar paper.
 
-**(ii)** an attorney for the government moves promptly, in the district where the warrant was issued, to dismiss the complaint.
+**(2) If a Party Fails to Appear.** No service is required on a party who is in default for failing to appear. But a pleading that asserts a new claim for relief against such a party must be served on that party under Rule 4.
 
-**(B) If a defendant is arrested for violating probation or supervised release, Rule 32.1 applies.**
+**(3) Seizing Property.** If an action is begun by seizing property and no person is or need be named as a defendant, any service required before the filing of an appearance, answer, or claim must be made on the person who had custody or possession of the property when it was seized.
 
-**(C) If a defendant is arrested for failing to appear in another district, Rule 40 applies.**
+**(b) Service: How Made.**
 
-**(3) Appearance Upon a Summons.** When a defendant appears in response to a summons under Rule 4, a magistrate judge must proceed under Rule 5(d) or (e), as applicable.
+**(1) Serving an Attorney.** If a party is represented by an attorney, service under this rule must be made on the attorney unless the court orders service on the party.
 
-**(b) Arrest Without a Warrant.** If a defendant is arrested without a warrant, a complaint meeting Rule 4(a)’s requirement of probable cause must be promptly filed in the district where the offense was allegedly committed.
+**(2) Service in General.** A paper is served under this rule by:
 
-**(c) Place of Initial Appearance; Transfer to Another District.**
+**(A)** handing it to the person;
 
-**(1) Arrest in the District Where the Offense Was Allegedly Committed.** If the defendant is arrested in the district where the offense was allegedly committed:
+**(B)** leaving it:
 
-**(A)** the initial appearance must be in that district; and
+**(i)** at the person's office with a clerk or other person in charge or, if no one is in charge, in a conspicuous place in the office; or
 
-**(B)** if a magistrate judge is not reasonably available, the initial appearance may be before a state or local judicial officer.
+**(ii)** if the person has no office or the office is closed, at the person's dwelling or usual place of abode with someone of suitable age and discretion who resides there;
 
-**(2) Arrest in a District Other Than Where the Offense Was Allegedly Committed.** If the defendant was arrested in a district other than where the offense was allegedly committed, the initial appearance must be:
+**(C)** mailing it to the person's last known address—in which event service is complete upon mailing;
 
-**(A)** in the district of arrest; or
+**(D)** leaving it with the court clerk if the person has no known address;
 
-**(B)** in an adjacent district if:
+**(E)** sending it to a registered user by filing it with the court's electronic-filing system or sending it by other electronic means that the person consented to in writing—in either of which events service is complete upon filing or sending, but is not effective if the filer or sender learns that it did not reach the person to be served; or
 
-**(i)** the appearance can occur more promptly there; or
+**(F)** delivering it by any other means that the person consented to in writing—in which event service is complete when the person making service delivers it to the agency designated to make delivery.
 
-**(ii)** the offense was allegedly committed there and the initial appearance will occur on the day of arrest.
+**(3) Using Court Facilities. [Abrogated (Apr. 26, 2018, eff.** Dec. 1, 2018.)]
 
-**(3) Procedures in a District Other Than Where the Offense Was Allegedly Committed.** If the initial appearance occurs in a district other than where the offense was allegedly committed, the following procedures apply:
+**(c) Serving Numerous Defendants.**
 
-**(A)** the magistrate judge must inform the defendant about the provisions of Rule 20;
+**(1) In General.** If an action involves an unusually large number of defendants, the court may, on motion or on its own, order that:
 
-**(B)** if the defendant was arrested without a warrant, the district court where the offense was allegedly committed must first issue a warrant before the magistrate judge transfers the defendant to that district;
+**(A)** defendants' pleadings and replies to them need not be served on other defendants;
 
-**(C)** the magistrate judge must conduct a preliminary hearing if required by Rule 5.1;
+**(B)** any crossclaim, counterclaim, avoidance, or affirmative defense in those pleadings and replies to them will be treated as denied or avoided by all other parties; and
 
-**(D)** the magistrate judge must transfer the defendant to the district where the offense was allegedly committed if:
+**(C)** filing any such pleading and serving it on the plaintiff constitutes notice of the pleading to all parties.
 
-**(i)** the government produces the warrant, a certified copy of the warrant, or a reliable electronic form of either; and
+**(2) Notifying Parties.** A copy of every such order must be served on the parties as the court directs.
 
-**(ii)** the judge finds that the defendant is the same person named in the indictment, information, or warrant; and
+**(d) Filing.**
 
-**(E)** when a defendant is transferred and discharged, the clerk must promptly transmit the papers and any bail to the clerk in the district where the offense was allegedly committed.
+**(1) Required Filings; Certificate of Service.**
 
-**(4) Procedure for Persons Extradited to the United States.** If the defendant is surrendered to the United States in accordance with a request for the defendant’s extradition, the initial appearance must be in the district (or one of the districts) where the offense is charged.
+**(A) Papers after the Complaint.** Any paper after the complaint that is required to be served must be filed no later than a reasonable time after service. But disclosures under Rule 26(a)(1) or (2) and the following discovery requests and responses must not be filed until they are used in the proceeding or the court orders filing: depositions, interrogatories, requests for documents or tangible things or to permit entry onto land, and requests for admission.
 
-**(d) Procedure in a Felony Case.**
+**(B) Certificate of Service.** No certificate of service is required when a paper is served by filing it with the court's electronic-filing system. When a paper that is required to be served is served by other means:
 
-**(1) Advice.** If the defendant is charged with a felony, the judge must inform the defendant of the following:
+**(i)** if the paper is filed, a certificate of service must be filed with it or within a reasonable time after service; and
 
-**(A)** the complaint against the defendant, and any affidavit filed with it;
+**(ii)** if the paper is not filed, a certificate of service need not be filed unless filing is required by court order or by local rule.
 
-**(B)** the defendant’s right to retain counsel or to request that counsel be appointed if the defendant cannot obtain counsel;
+**(2) Nonelectronic Filing.** A paper not filed electronically is filed by delivering it:
 
-**(C)** the circumstances, if any, under which the defendant may secure pretrial release;
+**(A)** to the clerk; or
 
-**(D)** any right to a preliminary hearing;
+**(B)** to a judge who agrees to accept it for filing, and who must then note the filing date on the paper and promptly send it to the clerk.
 
-**(E)** the defendant’s right not to make a statement, and that any statement made may be used against the defendant; and
+**(3) Electronic Filing and Signing.**
 
-**(F)** that a defendant who is not a United States citizen may request that an attorney for the government or a federal law enforcement official notify a consular officer from the defendant’s country of nationality that the defendant has been arrested—but that even without the defendant’s request, a treaty or other international agreement may require consular notification.
+**(A) By a Represented Person—Generally Required; Exceptions.** A person represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
 
-**(2) Consulting with Counsel.** The judge must allow the defendant reasonable opportunity to consult with counsel.
+**(B) By an Unrepresented Person—When Allowed or Required.** A person not represented by an attorney:
 
-**(3) Detention or Release.** The judge must detain or release the defendant as provided by statute or these rules.
+**(i)** may file electronically only if allowed by court order or by local rule; and
 
-**(4) Plea.** A defendant may be asked to plead only under Rule 10.
+**(ii)** may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
 
-**(e) Procedure in a Misdemeanor Case.** If the defendant is charged with a misdemeanor only, the judge must inform the defendant in accordance with Rule 58(b)(2).
+**(C) Signing.** A filing made through a person's electronicfiling account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
 
-**(f) Reminder of Prosecutorial Obligation.**
+**(D) Same as a Written Paper.** A paper filed electronically is a written paper for purposes of these rules.
 
-**(1) In General.** In all criminal proceedings, on the first scheduled court date when both prosecutor and defense counsel are present, the judge shall issue an oral and written order to prosecution and defense counsel that confirms the disclosure obligation of the prosecutor under Brady v. Maryland, 373 U.S. 83 (1963) and its progeny, and the possible consequences of violating such order under applicable law.
+**(4) Acceptance by the Clerk.** The clerk must not refuse to file a paper solely because it is not in the form prescribed by these rules or by a local rule or practice.
 
-**(2) Formation of Order.** Each judicial council in which a district court is located shall promulgate a model order for the purpose of paragraph (1) that the court may use as it determines is appropriate.
-
-**(g) Video Teleconferencing.** Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
-
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; Pub. L. 98–473, title II, § 209(a), Oct. 12, 1984, 98 Stat. 1986; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014; Pub. L. 116–182, § 2, Oct. 21, 2020, 134 Stat. 894.)</p>
+<p class="amendment-history">(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 26, 2018, eff. Dec. 1, 2018.)</p>

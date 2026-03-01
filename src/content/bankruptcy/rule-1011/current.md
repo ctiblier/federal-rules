@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(c) Effect of a Motion.** Serving a motion under Fed. R. Civ. P. 12(b) extends the time to file and serve an answer as Fed. R. Civ. P. 12(a) permits.
 
-**(d) Limitation on Asserting a Debtor ’ s Claim Against a Peti - tioning Creditor.** A debtor’s answer must not assert a claim against a petitioning creditor except to defeat the petition.
+**(d) Limitation on Asserting a Debtor's Claim Against a Petitioning Creditor.** A debtor's answer must not assert a claim against a petitioning creditor except to defeat the petition.
 
 **(e) Limit on Pleadings.** No pleading other than an answer to the petition is allowed, but the court may order a reply to an answer and set the time for filing and service.
 

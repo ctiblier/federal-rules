@@ -15,11 +15,11 @@ versions: ["2025"]
 
 **(a) Before an Action Is Filed.**
 
-**(1) Petition.** A person who wants to perpetuate testimony about any matter cognizable in a United States court may file a verified petition in the district court for the district where any expected adverse party resides. The petition must ask for an order authorizing the petitioner to depose the named persons in order to perpetuate their testimony. The petition must be titled in the petitioner’s name and must show:
+**(1) Petition.** A person who wants to perpetuate testimony about any matter cognizable in a United States court may file a verified petition in the district court for the district where any expected adverse party resides. The petition must ask for an order authorizing the petitioner to depose the named persons in order to perpetuate their testimony. The petition must be titled in the petitioner's name and must show:
 
 **(A)** that the petitioner expects to be a party to an action cognizable in a United States court but cannot presently bring it or cause it to be brought;
 
-**(B)** the subject matter of the expected action and the petitioner’s interest;
+**(B)** the subject matter of the expected action and the petitioner's interest;
 
 **(C)** the facts that the petitioner wants to establish by the proposed testimony and the reasons to perpetuate it;
 
@@ -45,6 +45,6 @@ versions: ["2025"]
 
 **(3) Court Order.** If the court finds that perpetuating the testimony may prevent a failure or delay of justice, the court may permit the depositions to be taken and may issue orders like those authorized by Rules 34 and 35. The depositions may be taken and used as any other deposition taken in a pending district-court action.
 
-**(c) Perpetuation by an Action.** This rule does not limit a court’s power to entertain an action to perpetuate testimony.
+**(c) Perpetuation by an Action.** This rule does not limit a court's power to entertain an action to perpetuate testimony.
 
 <p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 1, 1971, eff. July 1, 1971; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

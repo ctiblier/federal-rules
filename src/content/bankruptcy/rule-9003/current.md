@@ -13,7 +13,7 @@ source_pdf_page: 147
 versions: ["2025"]
 ---
 
-**(a) In General.** Unless permitted by applicable law, the following persons must refrain from ex parte meetings and communications with the court about matters affecting a particular case or proceeding: • an examiner; • a party in interest; • a party in interest’s attorney, accountant, or employee; and • the United States trustee and any of its assistants, agents, or employees.
+**(a) In General.** Unless permitted by applicable law, the following persons must refrain from ex parte meetings and communications with the court about matters affecting a particular case or proceeding: • an examiner; • a party in interest; • a party in interest's attorney, accountant, or employee; and • the United States trustee and any of its assistants, agents, or employees.
 
 **(b) Exception for a United States Trustee.** A United States trustee and any of its assistants, agents, or employees are not prohibited from communicating with the court about general administrative problems and improving bankruptcy administration—including the operation of the United States trustee system.
 

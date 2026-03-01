@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Entry.** A judgment is entered when it is noted on the docket. The clerk must prepare, sign, and enter the judgment:
 
-**(1)** after receiving the court’s opinion—but if settlement of the judgment’s form is required, after final settlement; or
+**(1)** after receiving the court's opinion—but if settlement of the judgment's form is required, after final settlement; or
 
 **(2)** if a judgment is rendered without an opinion, as the court instructs.
 

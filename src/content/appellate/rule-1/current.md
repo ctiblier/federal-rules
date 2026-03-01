@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(2)** When these rules provide for filing a motion or other document in the district court, the procedure must comply with the practice of the district court.
 
-**(b) Definition.** In these rules, ‘state’ includes the District of Columbia and any United States commonwealth or territory.
+**(b) Definition.** In these rules, 'state'includes the District of Columbia and any United States commonwealth or territory.
 
 **(c) Title.** These rules are to be known as the Federal Rules of Appellate Procedure.
 

@@ -19,6 +19,6 @@ versions: ["2025"]
 
 **(2)** the debtor is removed as debtor in possession in a Chapter 12 case or in a case under Subchapter V of Chapter 11.
 
-**(b) Successor Trustee.** If a trustee dies, resigns, is removed, or otherwise ceases to hold office while a bankruptcy case is pending, the successor trustee is automatically substituted as a party in any pending action, proceeding, or matter. The successor trustee must prepare, file, and send to the United States trustee an accounting of the estate’s prior administration.
+**(b) Successor Trustee.** If a trustee dies, resigns, is removed, or otherwise ceases to hold office while a bankruptcy case is pending, the successor trustee is automatically substituted as a party in any pending action, proceeding, or matter. The successor trustee must prepare, file, and send to the United States trustee an accounting of the estate's prior administration.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

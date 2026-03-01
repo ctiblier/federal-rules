@@ -31,6 +31,6 @@ versions: ["2025"]
 
 **(i)** the confirmation of a plan;
 
-**(j)** an objection to, or waiver or revocation of, the debtor’s discharge; or
+**(j)** an objection to, or waiver or revocation of, the debtor's discharge; or
 
 **(k)** any other matter in which the United States trustee requests copies of filed documents or the court orders copies sent to the United States trustee. (Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 2, 2024, eff. Dec. 1, 2024.)

@@ -17,6 +17,6 @@ versions: ["2025"]
 
 **(b) Verdict.** Unless the parties stipulate otherwise, the verdict must be unanimous and must be returned by a jury of at least 6 members.
 
-**(c) Polling.** After a verdict is returned but before the jury is discharged, the court must on a party’s request, or may on its own, poll the jurors individually. If the poll reveals a lack of unanimity or lack of assent by the number of jurors that the parties stipulated to, the court may direct the jury to deliberate further or may order a new trial.
+**(c) Polling.** After a verdict is returned but before the jury is discharged, the court must on a party's request, or may on its own, poll the jurors individually. If the poll reveals a lack of unanimity or lack of assent by the number of jurors that the parties stipulated to, the court may direct the jury to deliberate further or may order a new trial.
 
 <p class="amendment-history">(As amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

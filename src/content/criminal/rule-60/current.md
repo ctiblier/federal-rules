@@ -1,44 +1,48 @@
 ---
 rule: "60"
-title: "Victim’s Rights"
+title: "Relief from a Judgment or Order"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 92
+source_pdf_page: 103
 versions: ["2025"]
 ---
 
-**(a) In General.**
+**(a) Corrections Based on Clerical Mistakes; Oversights and Omissions.** The court may correct a clerical mistake or a mistake arising from oversight or omission whenever one is found in a judgment, order, or other part of the record. The court may do so on motion or on its own, with or without notice. But after an appeal has been docketed in the appellate court and while it is pending, such a mistake may be corrected only with the appellate court's leave.
 
-**(1) Notice of a Proceeding.** The government must use its best efforts to give the victim reasonable, accurate, and timely notice of any public court proceeding involving the crime.
+**(b) Grounds for Relief from a Final Judgment, Order, or Proceeding.** On motion and just terms, the court may relieve a party or its legal representative from a final judgment, order, or proceeding for the following reasons:
 
-**(2) Attending the Proceeding.** The court must not exclude a victim from a public court proceeding involving the crime, unless the court determines by clear and convincing evidence that the victim’s testimony would be materially altered if the victim heard other testimony at that proceeding. In determining whether to exclude a victim, the court must make every effort to permit the fullest attendance possible by the victim and must consider reasonable alternatives to exclusion. The reasons for any exclusion must be clearly stated on the record.
+**(1)** mistake, inadvertence, surprise, or excusable neglect;
 
-**(3) Right to Be Heard on Release, a Plea, or Sentencing.** The court must permit a victim to be reasonably heard at any public proceeding in the district court concerning release, plea, or sentencing involving the crime.
+**(2)** newly discovered evidence that, with reasonable diligence, could not have been discovered in time to move for a new trial under Rule 59(b);
 
-**(b) Enforcement and Limitations.**
+**(3)** fraud (whether previously called intrinsic or extrinsic), misrepresentation, or misconduct by an opposing party;
 
-**(1) Time for Deciding a Motion.** The court must promptly decide any motion asserting a victim’s rights described in these rules.
+**(4)** the judgment is void;
 
-**(2) Who May Assert the Rights.** A victim’s rights described in these rules may be asserted by the victim, the victim’s lawful representative, the attorney for the government, or any other person as authorized by 18 U.S.C. § 3771(d) and (e).
+**(5)** the judgment has been satisfied, released, or discharged; it is based on an earlier judgment that has been reversed or vacated; or applying it prospectively is no longer equitable; or
 
-**(3) Multiple Victims.** If the court finds that the number of victims makes it impracticable to accord all of them their rights described in these rules, the court must fashion a reasonable procedure that gives effect to these rights without unduly complicating or prolonging the proceedings.
+**(6)** any other reason that justifies relief.
 
-**(4) Where Rights May Be Asserted.** A victim’s rights described in these rules must be asserted in the district where a defendant is being prosecuted for the crime.
+**(c) Timing and Effect of the Motion.**
 
-**(5) Limitations on Relief.** A victim may move to reopen a plea or sentence only if:
+**(1) Timing.** A motion under Rule 60(b) must be made within a reasonable time—and for reasons (1), (2), and (3) no more than a year after the entry of the judgment or order or the date of the proceeding.
 
-**(A)** the victim asked to be heard before or during the proceeding at issue, and the request was denied;
+**(2) Effect on Finality.** The motion does not affect the judgment's finality or suspend its operation.
 
-**(B)** the victim petitions the court of appeals for a writ of mandamus within 10 days after the denial, and the writ is granted; and
+**(d) Other Powers to Grant Relief.** This rule does not limit a court's power to:
 
-**(C)** in the case of plea, the accused has not pleaded to the highest offense charged.
+**(1)** entertain an independent action to relieve a party from a judgment, order, or proceeding;
 
-**(6) No New Trial.** A failure to afford a victim any right described in these rules is not grounds for a new trial.
+**(2)** grant relief under 28 U.S.C. § 1655 to a defendant who was not personally notified of the action; or
 
-<p class="amendment-history">(As added Apr. 23, 2008, eff. Dec. 1, 2008.)</p>
+**(3)** set aside a judgment for fraud on the court.
+
+**(e) Bills and Writs Abolished.** The following are abolished: bills of review, bills in the nature of bills of review, and writs of coram nobis, coram vobis, and audita querela.
+
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

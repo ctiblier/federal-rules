@@ -13,6 +13,14 @@ source_pdf_page: 42
 versions: ["2025"]
 ---
 
-In this article: (a) A ‘‘writing’’ consists of letters, words, numbers, or their equivalent set down in any form. (b) A ‘‘recording’’ consists of letters, words, numbers, or their equivalent recorded in any manner. (c) A ‘‘photograph’’ means a photographic image or its equivalent stored in any form. (d) An ‘‘original’’ of a writing or recording means the writing or recording itself or any counterpart intended to have the same effect by the person who executed or issued it. For electronically stored information, ‘‘original’’ means any printout—or other output readable by sight—if it accurately reflects the information. An ‘‘original’’ of a photograph includes the negative or a print from it. (e) A ‘‘duplicate’’ means a counterpart produced by a mechanical, photographic, chemical, electronic, or other equivalent process or technique that accurately reproduces the original.
+**(a)** In this article: A ''writing'' consists of letters, words, numbers, or their equivalent set down in any form.
+
+**(b) A ''recording'' consists of letters, words, numbers, or their equivalent recorded in any manner.**
+
+**(c) A ''photograph'' means a photographic image or its equivalent stored in any form.**
+
+**(d)** An ''original'' of a writing or recording means the writing or recording itself or any counterpart intended to have the same effect by the person who executed or issued it. For electronically stored information, ''original'' means any printout—or other output readable by sight—if it accurately reflects the information. An ''original'' of a photograph includes the negative or a print from it.
+
+**(e)** A ''duplicate'' means a counterpart produced by a mechanical, photographic, chemical, electronic, or other equivalent process or technique that accurately reproduces the original.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

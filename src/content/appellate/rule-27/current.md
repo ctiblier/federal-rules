@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(ii)**
 
-**(iii)** A motion seeking substantive relief must include a copy of the trial court’s opinion or agency’s decision as a separate exhibit.
+**(iii)** A motion seeking substantive relief must include a copy of the trial court's opinion or agency's decision as a separate exhibit.
 
 **(C) Documents barred or not required.**
 
@@ -45,7 +45,7 @@ versions: ["2025"]
 
 **(4) Reply to Response.** Any reply to a response must be filed within 7 days after service of the response. A reply must not present matters that do not relate to the response.
 
-**(b) Disposition of a Motion for a Procedural Order.** The court may act on a motion for a procedural order—including a motion under Rule 26(b)—at any time without awaiting a response, and may, by rule or by order in a particular case, authorize its clerk to act on specified types of procedural motions. A party adversely affected by the court’s, or the clerk’s, action may file a motion to reconsider, vacate, or modify that action. Timely opposition filed after the motion is granted in whole or in part does not constitute a request to reconsider, vacate, or modify the disposition; a motion requesting that relief must be filed.
+**(b) Disposition of a Motion for a Procedural Order.** The court may act on a motion for a procedural order—including a motion under Rule 26(b)—at any time without awaiting a response, and may, by rule or by order in a particular case, authorize its clerk to act on specified types of procedural motions. A party adversely affected by the court's, or the clerk's, action may file a motion to reconsider, vacate, or modify that action. Timely opposition filed after the motion is granted in whole or in part does not constitute a request to reconsider, vacate, or modify the disposition; a motion requesting that relief must be filed.
 
 **(c) Power of a Single Judge to Entertain a Motion.** A circuit judge may act alone on any motion, but may not dismiss or otherwise determine an appeal or other proceeding. A court of appeals may provide by rule or by order in a particular case that only the court may act on any motion or class of motions. The court may review the action of a single judge.
 
@@ -63,7 +63,7 @@ versions: ["2025"]
 
 **(E) Typeface and type styles.** The document must comply with the typeface requirements of Rule 32(a)(5) and the type-style requirements of Rule 32(a)(6).
 
-**(2) Length Limits.** Except by the court’s permission, and excluding the accompanying documents authorized by Rule 27(a)(2)(B):
+**(2) Length Limits.** Except by the court's permission, and excluding the accompanying documents authorized by Rule 27(a)(2)(B):
 
 **(A)** a motion or response to a motion produced using a computer must not exceed 5,200 words;
 

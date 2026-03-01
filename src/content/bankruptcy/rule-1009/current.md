@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) By a Debtor.** A debtor may amend a voluntary petition, list, schedule, or statement at any time before the case is closed. The debtor must give notice of the amendment to the trustee and any affected entity.
 
-**(2) By a Party in Interest.** On a party in interest’s motion and after notice and a hearing, the court may order a voluntary petition, list, schedule, or statement to be amended. The clerk must give notice of the amendment to entities that the court designates.
+**(2) By a Party in Interest.** On a party in interest's motion and after notice and a hearing, the court may order a voluntary petition, list, schedule, or statement to be amended. The clerk must give notice of the amendment to entities that the court designates.
 
 **(b) Amending a Statement of Intention.** A debtor may amend a statement of intention at any time before the time provided in § 521(a)(2) expires. The debtor must give notice of the amendment to the trustee and any affected entity.
 

@@ -31,31 +31,31 @@ versions: ["2025"]
 
 **(C)** if the period would end on a Saturday, Sunday, or legal holiday, the period continues to run until the same time on the next day that is not a Saturday, Sunday, or legal holiday.
 
-**(3) Inaccessibility of the Clerk’s Office.** Unless the court orders otherwise, if the clerk’s office is inaccessible:
+**(3) Inaccessibility of the Clerk's Office.** Unless the court orders otherwise, if the clerk's office is inaccessible:
 
 **(A)** on the last day for filing under Rule 26(a)(1), then the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or legal holiday; or
 
 **(B)** during the last hour for filing under Rule 26(a)(2), then the time for filing is extended to the same time on the first accessible day that is not a Saturday, Sunday, or legal holiday.
 
-**(4) ‘‘Last Day’’ Defined.** Unless a different time is set by a statute, local rule, or court order, the last day ends:
+**(4) ''Last Day'' Defined.** Unless a different time is set by a statute, local rule, or court order, the last day ends:
 
-**(A)** for electronic filing in the district court, at midnight in the court’s time zone;
+**(A)** for electronic filing in the district court, at midnight in the court's time zone;
 
-**(B)** for electronic filing in the court of appeals, at midnight in the time zone of the circuit clerk’s principal office;
+**(B)** for electronic filing in the court of appeals, at midnight in the time zone of the circuit clerk's principal office;
 
 **(C)** for filing under Rules 4(c)(1), 25(a)(2)(A)(ii), and 25(a)(2)(A)(iii)—and filing by mail under Rule 13(a)(2)—at the latest time for the method chosen for delivery to the post office, third-party commercial carrier, or prison mailing system; and
 
-**(D)** for filing by other means, when the clerk’s office is scheduled to close.
+**(D)** for filing by other means, when the clerk's office is scheduled to close.
 
-**(5) ‘‘Next Day’’ Defined.** The ‘‘next day’’ is determined by continuing to count forward when the period is measured after an event and backward when measured before an event.
+**(5) ''Next Day'' Defined.** The ''next day'' is determined by continuing to count forward when the period is measured after an event and backward when measured before an event.
 
-**(6) ‘‘Legal Holiday’’ Defined. ‘‘Legal holiday’’ means:**
+**(6) ''Legal Holiday'' Defined.''Legal holiday'' means:**
 
-**(A)** the day set aside by statute for observing New Year’s Day, Martin Luther King Jr.’s Birthday, Washington’s Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans’ Day, Thanksgiving Day, or Christmas Day;
+**(A)** the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
 
 **(B)** any day declared a holiday by the President or Congress; and
 
-**(C)** for periods that are measured after an event, any other day declared a holiday by the state where either of the following is located: the district court that rendered the challenged judgment or order, or the circuit clerk’s principal office.
+**(C)** for periods that are measured after an event, any other day declared a holiday by the state where either of the following is located: the district court that rendered the challenged judgment or order, or the circuit clerk's principal office.
 
 **(b) Extending Time.** For good cause, the court may extend the time prescribed by these rules or by its order to perform any act, or may permit an act to be done after that time expires. But the court may not extend the time to file:
 

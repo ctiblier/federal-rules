@@ -21,13 +21,13 @@ versions: ["2025"]
 
 **(A)** file requests for instructions on issues that could not reasonably have been anticipated by an earlier time that the court set for requests; and
 
-**(B)** with the court’s permission, file untimely requests for instructions on any issue.
+**(B)** with the court's permission, file untimely requests for instructions on any issue.
 
 **(b) Instructions.** The court:
 
 **(1)** must inform the parties of its proposed instructions and proposed action on the requests before instructing the jury and before final jury arguments;
 
-**(2)** must give the parties an opportunity to object on the record and out of the jury’s hearing before the instructions and arguments are delivered; and
+**(2)** must give the parties an opportunity to object on the record and out of the jury's hearing before the instructions and arguments are delivered; and
 
 **(3)** may instruct the jury at any time before the jury is discharged.
 

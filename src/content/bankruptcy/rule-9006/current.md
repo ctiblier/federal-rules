@@ -31,27 +31,27 @@ versions: ["2025"]
 
 **(C)** if the period would end on a Saturday, Sunday, or legal holiday, then continue the period until the same time on the next day that is not a Saturday, Sunday, or legal holiday.
 
-**(3) Inaccessibility of the Clerk’s Office When a Filing Is Due.** Unless the court orders otherwise, if the clerk’s office is inaccessible:
+**(3) Inaccessibility of the Clerk's Office When a Filing Is Due.** Unless the court orders otherwise, if the clerk's office is inaccessible:
 
 **(A)** on the last day for filing under (1), then the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or legal holiday; or
 
 **(B)** during the last hour for filing under (2), then the time for filing is extended to the same time on the first accessible day that is not a Saturday, Sunday, or legal holiday.
 
-**(4) ‘‘Last Day’’ Defined.** Unless a different time is set by statute, local rule, or order in a case, the last day ends:
+**(4) ''Last Day'' Defined.** Unless a different time is set by statute, local rule, or order in a case, the last day ends:
 
-**(A)** for electronic filing, at midnight in the court’s time zone; and
+**(A)** for electronic filing, at midnight in the court's time zone; and
 
-**(B)** for filing by other means, when the clerk’s office is scheduled to close.
+**(B)** for filing by other means, when the clerk's office is scheduled to close.
 
-**(5) ‘‘Next Day’’ Defined.** The ‘‘next day’’ is determined by continuing to count forward when the period is measured after an event, and backward when measured before an event.
+**(5) ''Next Day'' Defined.** The ''next day'' is determined by continuing to count forward when the period is measured after an event, and backward when measured before an event.
 
-**(6) ‘‘Legal Holiday’’ Defined. ‘‘Legal holiday’’ means:**
+**(6) ''Legal Holiday'' Defined. ''Legal holiday'' means:**
 
-**(A)** the day set aside by statute for observing New Year’s Day, Birthday of Martin Luther King Jr., Washington’s Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veteran’s Day, Thanksgiving Day, or Christmas Day;
+**(A)** the day set aside by statute for observing New Year's Day, Birthday of Martin Luther King Jr., Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veteran's Day, Thanksgiving Day, or Christmas Day;
 
 **(B)** any day declared a holiday by the President or Congress; and
 
-**(C)** for periods that are measured after an event, any other day declared a holiday by the state where the district court is located. (In this rule, ‘‘state’’ includes the District of Columbia and any United States commonwealth or territory.)
+**(C)** for periods that are measured after an event, any other day declared a holiday by the state where the district court is located. (In this rule, ''state'' includes the District of Columbia and any United States commonwealth or territory.)
 
 **(b) Extending Time.**
 
@@ -85,6 +85,6 @@ versions: ["2025"]
 
 **(f) Additional Time After Certain Service.** When a party may or must act within a specified time after being served and service is made by mail or under Fed. R. Civ. P. 5(b)(2)(D) (leaving with the clerk) or (F) (other means consented to), 3 days are added after the period would otherwise expire under (a).
 
-**(g) Grain -Storage Facility.** This rule does not limit the court’s authority under § 557 to issue an order governing procedures in a case in which the debtor owns or operates a grain-storage facility.
+**(g) Grain -Storage Facility.** This rule does not limit the court's authority under § 557 to issue an order governing procedures in a case in which the debtor owns or operates a grain-storage facility.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

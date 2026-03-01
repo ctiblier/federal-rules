@@ -23,11 +23,11 @@ versions: ["2025"]
 
 **(B)** sets forth the consideration for the transfer and its terms.
 
-**(b) Joining Other Creditors After Filing.** If an involuntary petition is filed by fewer than 3 creditors and the debtor’s answer alleges the existence of 12 or more creditors as provided in § 303(b), the debtor must attach to the answer:
+**(b) Joining Other Creditors After Filing.** If an involuntary petition is filed by fewer than 3 creditors and the debtor's answer alleges the existence of 12 or more creditors as provided in § 303(b), the debtor must attach to the answer:
 
 **(1)** the names and addresses of all creditors; and
 
-**(2)** a brief statement of the nature and amount of each creditor’s claim.
+**(2)** a brief statement of the nature and amount of each creditor's claim.
 
 **(c) Additional Time to Join.** If there appear to be 12 or more creditors, the court must allow a reasonable time for other creditors to join the petition before holding a hearing on it.
 

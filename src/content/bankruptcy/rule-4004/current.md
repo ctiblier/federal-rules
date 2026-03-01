@@ -21,11 +21,11 @@ versions: ["2025"]
 
 **(3)** Chapter 13. In a Chapter 13 case, a motion objecting to a discharge under § 1328(f) must be filed within 60 days after the first date set for the § 341(a) meeting of creditors.
 
-**(4) Notice to the United States Trustee, the Creditors, and the Trustee.** At least 28 days’ notice of the time for filing must be given to: • the United States trustee under Rule 2002(k); • all creditors under Rule 2002(f); • the trustee; and • the trustee’s attorney.
+**(4) Notice to the United States Trustee, the Creditors, and the Trustee.** At least 28 days' notice of the time for filing must be given to: • the United States trustee under Rule 2002(k); • all creditors under Rule 2002(f); • the trustee; and • the trustee's attorney.
 
 **(b) Extending the Time to File an Objection.**
 
-**(1) Motion Before the Time Expires.** On a party in interest’s motion and after notice and a hearing, the court may, for cause, extend the time to object to a discharge. The motion must be filed before the time has expired.
+**(1) Motion Before the Time Expires.** On a party in interest's motion and after notice and a hearing, the court may, for cause, extend the time to object to a discharge. The motion must be filed before the time has expired.
 
 **(2) Motion After the Time Has Expired.** After the time to object has expired and before a discharge is granted, a party in interest may file a motion to extend the time if:
 
@@ -63,7 +63,7 @@ versions: ["2025"]
 
 **(L)** a motion is pending to delay discharge because the debtor has not filed with the court all tax documents required to be filed under § 521(f).
 
-**(2) Delay in Entering a Discharge in General.** On the debtor’s motion, the court may delay entering a discharge for 30 days and, on a motion made within that time, delay entry to a date certain.
+**(2) Delay in Entering a Discharge in General.** On the debtor's motion, the court may delay entering a discharge for 30 days and, on a motion made within that time, delay entry to a date certain.
 
 **(3) Delaying Entry Because of Rule 1007(b)(8).** If the debtor is required to file a statement under Rule 1007(b)(8), the court must not grant a discharge until at least 30 days after the statement is filed.
 

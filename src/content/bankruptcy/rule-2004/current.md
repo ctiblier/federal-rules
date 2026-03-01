@@ -13,19 +13,19 @@ source_pdf_page: 44
 versions: ["2025"]
 ---
 
-**(a) In General.** On a party in interest’s motion, the court may order the examination of any entity.
+**(a) In General.** On a party in interest's motion, the court may order the examination of any entity.
 
 **(b) Scope of the Examination.**
 
 **(1) In General.** The examination of an entity under this Rule 2004, or of a debtor under § 343, may relate only to:
 
-**(A)** the debtor’s acts, conduct, or property;
+**(A)** the debtor's acts, conduct, or property;
 
-**(B)** the debtor’s liabilities and financial condition;
+**(B)** the debtor's liabilities and financial condition;
 
-**(C)** any matter that may affect the administration of the debtor’s estate; or
+**(C)** any matter that may affect the administration of the debtor's estate; or
 
-**(D)** the debtor’s right to a discharge.
+**(D)** the debtor's right to a discharge.
 
 **(2) Other Topics in Certain Cases.** In a Chapter 12 or 13 case, or in a Chapter 11 case that is not a railroad reorganization, the examination may also relate to:
 
@@ -41,9 +41,9 @@ versions: ["2025"]
 
 **(e) Witness Fees and Mileage.**
 
-**(1) For a Nondebtor Witness.** An entity, except the debtor, may be required to attend as a witness only if the lawful mileage and witness fee for 1 day’s attendance are first tendered.
+**(1) For a Nondebtor Witness.** An entity, except the debtor, may be required to attend as a witness only if the lawful mileage and witness fee for 1 day's attendance are first tendered.
 
-**(2) For a Debtor Witness.** A debtor who is required to appear for examination more than 100 miles from the debtor’s residence must be tendered a mileage fee. The fee need cover only the distance exceeding 100 miles from the nearer of where the debtor resides:
+**(2) For a Debtor Witness.** A debtor who is required to appear for examination more than 100 miles from the debtor's residence must be tendered a mileage fee. The fee need cover only the distance exceeding 100 miles from the nearer of where the debtor resides:
 
 **(A)** when the first petition was filed; or
 

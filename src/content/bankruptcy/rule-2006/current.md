@@ -17,9 +17,9 @@ versions: ["2025"]
 
 **(b) Definitions.**
 
-**(1) Proxy.** A ‘‘proxy’’ is a written power of attorney that authorizes an entity to vote the claim or otherwise act as the holder’s attorney-in-fact in connection with the administration of the estate.
+**(1) Proxy.** A ''proxy'' is a written power of attorney that authorizes an entity to vote the claim or otherwise act as the holder's attorney-in-fact in connection with the administration of the estate.
 
-**(2) Soliciting a Proxy. ‘‘Soliciting a proxy’’ means any communication by which a creditor is asked, directly or indirectly, to give a proxy after or in contemplation of a Chapter 7 petition filed by or against the debtor.** But such a communication is not considered soliciting a proxy if it comes from an attorney to a claim owner who is a regular client or who has requested the attorney’s representation.
+**(2)** Soliciting a Proxy. ''Soliciting a proxy'' means any communication by which a creditor is asked, directly or indirectly, to give a proxy after or in contemplation of a Chapter 7 petition filed by or against the debtor. But such a communication is not considered soliciting a proxy if it comes from an attorney to a claim owner who is a regular client or who has requested the attorney's representation.
 
 **(c) Who May Solicit a Proxy.** A proxy may be solicited only in writing and only by:
 
@@ -33,11 +33,11 @@ versions: ["2025"]
 
 **(B)** are not disqualified from voting under § 702(a); and
 
-**(C)** were present or represented at a creditors’ meeting where:
+**(C)** were present or represented at a creditors' meeting where:
 
-**(i)** all creditors with claims over $500—or the 100 creditors with the largest claims—had at least 7 days’ written notice; and
+**(i)** all creditors with claims over $500—or the 100 creditors with the largest claims—had at least 7 days' written notice; and
 
-**(ii)** written minutes are available that report the voting creditors’ names and the amounts of their claims; or
+**(ii)** written minutes are available that report the voting creditors' names and the amounts of their claims; or
 
 **(4)** a bona fide trade or credit association, which may solicit only creditors who, on the petition date:
 
@@ -61,7 +61,7 @@ versions: ["2025"]
 
 **(D)** a transferee holding a claim for collection purposes only.
 
-**(e) Duties of Holders of Multiple Proxies.** Before voting begins at any meeting of creditors under § 341(a)—or at any other time the court orders—a holder of 2 or more proxies must file and send to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances regarding each proxy’s execution and delivery. The statement must include:
+**(e) Duties of Holders of Multiple Proxies.** Before voting begins at any meeting of creditors under § 341(a)—or at any other time the court orders—a holder of 2 or more proxies must file and send to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances regarding each proxy's execution and delivery. The statement must include:
 
 **(1)** a copy of the solicitation;
 
@@ -75,7 +75,7 @@ versions: ["2025"]
 
 **(ii)** that the committee was organized under (c)(2) or (c)(3);
 
-**(iii)** the committee’s members;
+**(iii)** the committee's members;
 
 **(iv)** the amounts of their claims;
 
@@ -83,7 +83,7 @@ versions: ["2025"]
 
 **(vi)** the amounts paid for the claims; and
 
-**(vii)** the extent to which the committee members’ claims are secured or entitled to priority;
+**(vii)** the extent to which the committee members' claims are secured or entitled to priority;
 
 **(3)** a statement that the proxyholder has neither paid nor promised any consideration for the proxy;
 
@@ -91,7 +91,7 @@ versions: ["2025"]
 
 **(A)** pay any consideration related to voting the proxy; or
 
-**(B)** share with any entity (except a member or regular associate of the proxyholder’s law firm) compensation that may be allowed to:
+**(B)** share with any entity (except a member or regular associate of the proxyholder's law firm) compensation that may be allowed to:
 
 **(i)** the trustee or any entity for services rendered in the case; or
 
@@ -101,15 +101,15 @@ versions: ["2025"]
 
 **(A)** confirming that no consideration has been paid or promised for the proxy;
 
-**(B)** addressing whether there is any agreement—and, if so, giving its particulars—between the solicitor or forwarder and any other entity to pay any consideration related to voting the proxy or to share with any entity (except a member or regular associate of the solicitor’s or forwarder’s law firm) compensation that may be allowed to:
+**(B)** addressing whether there is any agreement—and, if so, giving its particulars—between the solicitor or forwarder and any other entity to pay any consideration related to voting the proxy or to share with any entity (except a member or regular associate of the solicitor's or forwarder's law firm) compensation that may be allowed to:
 
 **(i)** the trustee or any entity for services rendered in the case; or
 
 **(ii)** any person employed by the estate; and
 
-**(6)** if the solicitor, forwarder, or proxyholder is a committee, a statement signed and verified by each member disclosing the amount and source of any consideration paid or to be paid to the member in connection with the case, except a dividend on the member’s claim.
+**(6)** if the solicitor, forwarder, or proxyholder is a committee, a statement signed and verified by each member disclosing the amount and source of any consideration paid or to be paid to the member in connection with the case, except a dividend on the member's claim.
 
-**(f) Enforcing Restrictions on Soliciting Proxies.** On a party in interest’s motion or on its own, the court may determine whether there has been a failure to comply with this Rule 2006 or any other impropriety related to soliciting or voting a proxy. After notice and a hearing, the court may:
+**(f) Enforcing Restrictions on Soliciting Proxies.** On a party in interest's motion or on its own, the court may determine whether there has been a failure to comply with this Rule 2006 or any other impropriety related to soliciting or voting a proxy. After notice and a hearing, the court may:
 
 **(1)** reject a proxy for cause;
 

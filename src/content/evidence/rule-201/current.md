@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(b) Kinds of Facts That May Be Judicially Noticed.** The court may judicially notice a fact that is not subject to reasonable dispute because it:
 
-**(1)** is generally known within the trial court’s territorial jurisdiction; or
+**(1)** is generally known within the trial court's territorial jurisdiction; or
 
 **(2)** can be accurately and readily determined from sources whose accuracy cannot reasonably be questioned.
 

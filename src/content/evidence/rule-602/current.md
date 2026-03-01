@@ -13,6 +13,6 @@ source_pdf_page: 26
 versions: ["2025"]
 ---
 
-A witness may testify to a matter only if evidence is introduced sufficient to support a finding that the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s own testimony. This rule does not apply to a witness’s expert testimony under Rule 703.
+A witness may testify to a matter only if evidence is introduced sufficient to support a finding that the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness's own testimony. This rule does not apply to a witness's expert testimony under Rule 703.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

@@ -13,6 +13,6 @@ source_pdf_page: 36
 versions: ["2025"]
 ---
 
-All provisions of these rules, except Rules 3–14 and 22–23, apply to the review or enforcement of an agency order. In these rules, ‘‘appellant’’ includes a petitioner or applicant, and ‘‘appellee’’ includes a respondent.
+All provisions of these rules, except Rules 3–14 and 22–23, apply to the review or enforcement of an agency order. In these rules, ''appellant'' includes a petitioner or applicant, and ''appellee'' includes a respondent.
 
 <p class="amendment-history">(As amended Apr. 24, 1998, eff. Dec. 1, 1998.)</p>

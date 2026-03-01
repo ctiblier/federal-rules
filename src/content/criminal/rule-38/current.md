@@ -1,52 +1,30 @@
 ---
 rule: "38"
-title: "Staying a Sentence or a Disability"
+title: "Right to a Jury Trial; Demand"
 title_number: "VII"
 title_name: "Post-Conviction Procedures"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 72
+source_pdf_page: 83
 versions: ["2025"]
 ---
 
-**(a) Death Sentence.** The court must stay a death sentence if the defendant appeals the conviction or sentence.
+**(a) Right Preserved.** The right of trial by jury as declared by the Seventh Amendment to the Constitution—or as provided by a federal statute—is preserved to the parties inviolate.
 
-**(b) Imprisonment.**
+**(b) Demand.** On any issue triable of right by a jury, a party may demand a jury trial by:
 
-**(1) Stay Granted.** If the defendant is released pending appeal, the court must stay a sentence of imprisonment.
+**(1)** serving the other parties with a written demand—which may be included in a pleading—no later than 14 days after the last pleading directed to the issue is served; and
 
-**(2) Stay Denied; Place of Confinement.** If the defendant is not released pending appeal, the court may recommend to the Attorney General that the defendant be confined near the place of the trial or appeal for a period reasonably necessary to permit the defendant to assist in preparing the appeal.
+**(2)** filing the demand in accordance with Rule 5(d).
 
-**(c) Fine.** If the defendant appeals, the district court, or the court of appeals under Federal Rule of Appellate Procedure 8, may stay a sentence to pay a fine or a fine and costs. The court may stay the sentence on any terms considered appropriate and may require the defendant to:
+**(c) Specifying Issues.** In its demand, a party may specify the issues that it wishes to have tried by a jury; otherwise, it is considered to have demanded a jury trial on all the issues so triable. If the party has demanded a jury trial on only some issues, any other party may—within 14 days after being served with the demand or within a shorter time ordered by the court—serve a demand for a jury trial on any other or all factual issues triable by jury.
 
-**(1)** deposit all or part of the fine and costs into the district court’s registry pending appeal;
+**(d) Waiver; Withdrawal.** A party waives a jury trial unless its demand is properly served and filed. A proper demand may be withdrawn only if the parties consent.
 
-**(2)** post a bond to pay the fine and costs; or
+**(e) Admiralty and Maritime Claims.** These rules do not create a right to a jury trial on issues in a claim that is an admiralty or maritime claim under Rule 9(h).
 
-**(3)** submit to an examination concerning the defendant’s assets and, if appropriate, order the defendant to refrain from dissipating assets.
-
-**(d) Probation.** If the defendant appeals, the court may stay a sentence of probation. The court must set the terms of any stay.
-
-**(e) Restitution and Notice to Victims.**
-
-**(1) In General.** If the defendant appeals, the district court, or the court of appeals under Federal Rule of Appellate Procedure 8, may stay—on any terms considered appropriate—any sentence providing for restitution under 18 U.S.C. § 3556 or notice under 18 U.S.C. § 3555.
-
-**(2) Ensuring Compliance.** The court may issue any order reasonably necessary to ensure compliance with a restitution order or a notice order after disposition of an appeal, including:
-
-**(A)** a restraining order;
-
-**(B)** an injunction;
-
-**(C)** an order requiring the defendant to deposit all or part of any monetary restitution into the district court’s registry; or
-
-**(D)** an order requiring the defendant to post a bond.
-
-**(f) Forfeiture.** A stay of a forfeiture order is governed by Rule 32.2(d).
-
-**(g) Disability.** If the defendant’s conviction or sentence creates a civil or employment disability under federal law, the district court, or the court of appeals under Federal Rule of Appellate Procedure 8, may stay the disability pending appeal on any terms considered appropriate. The court may issue any order reasonably necessary to protect the interest represented by the disability pending appeal, including a restraining order or an injunction.
-
-<p class="amendment-history">(As amended Dec. 27, 1948, eff. Jan. 1, 1949; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Apr. 24, 1972, eff. Oct. 1, 1972; Pub. L. 98–473, title II, § 215(c), Oct. 12, 1984, 98 Stat. 2016, eff. Nov. 1, 1987; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

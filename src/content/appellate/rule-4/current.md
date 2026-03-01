@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(iii)** a United States officer or employee sued in an official capacity; or
 
-**(iv)** a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States’ behalf—including all instances in which the United States represents that person when the judgment or order is entered or files the appeal for that person.
+**(iv)** a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf—including all instances in which the United States represents that person when the judgment or order is entered or files the appeal for that person.
 
 **(C)** An appeal from an order granting or denying an application for a writ of error coram nobis is an appeal in a civil case for purposes of Rule 4(a).
 
@@ -43,7 +43,7 @@ versions: ["2025"]
 
 **(ii)** to amend or make additional factual findings under Rule 52(b), whether or not granting the motion would alter the judgment;
 
-**(iii)** for attorney’s fees under Rule 54 if the district court extends the time to appeal under Rule 58;
+**(iii)** for attorney's fees under Rule 54 if the district court extends the time to appeal under Rule 58;
 
 **(iv)** to alter or amend the judgment under Rule 59;
 
@@ -51,7 +51,11 @@ versions: ["2025"]
 
 **(vi)** for relief under Rule 60 if the motion is filed within the time allowed for filing a motion under Rule 59.
 
-**(B)** (i) If a party files a notice of appeal after the court announces or enters a judgment—but before it disposes of any motion listed in Rule 4(a)(4)(A)—the notice becomes effective to appeal a judgment or order, in whole or in part, when the order disposing of the last such remaining motion is entered. (ii) A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment’s alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion. (iii) No additional fee is required to file an amended notice.
+**(B)** (i) If a party files a notice of appeal after the court announces or enters a judgment—but before it disposes of any motion listed in Rule 4(a)(4)(A)—the notice becomes effective to appeal a judgment or order, in whole or in part, when the order disposing of the last such remaining motion is entered.
+
+**(ii)** A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment's alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion.
+
+**(iii) No additional fee is required to file an amended notice.**
 
 **(5) Motion for Extension of Time.**
 
@@ -61,7 +65,7 @@ versions: ["2025"]
 
 **(ii)** regardless of whether its motion is filed before or during the 30 days after the time prescribed by this Rule 4(a) expires, that party shows excusable neglect or good cause.
 
-**(B) A motion filed before the expiration of the time prescribed in Rule 4(a)(1) or (3) may be ex parte unless the court requires otherwise.** If the motion is filed after the expiration of the prescribed time, notice must be given to the other parties in accordance with local rules.
+**(B)** A motion filed before the expiration of the time prescribed in Rule 4(a)(1) or (3) may be ex parte unless the court requires otherwise. If the motion is filed after the expiration of the prescribed time, notice must be given to the other parties in accordance with local rules.
 
 **(C)** No extension under this Rule 4(a)(5) may exceed 30 days after the prescribed time or 14 days after the date when the order granting the motion is entered, whichever is later.
 
@@ -87,11 +91,11 @@ versions: ["2025"]
 
 **(1) Time for Filing a Notice of Appeal.**
 
-**(A)** In a criminal case, a defendant’s notice of appeal must be filed in the district court within 14 days after the later of:
+**(A)** In a criminal case, a defendant's notice of appeal must be filed in the district court within 14 days after the later of:
 
 **(i)** the entry of either the judgment or the order being appealed; or
 
-**(ii)** the filing of the government’s notice of appeal.
+**(ii)** the filing of the government's notice of appeal.
 
 **(B)** When the government is entitled to appeal, its notice of appeal must be filed in the district court within 30 days after the later of:
 
@@ -103,7 +107,7 @@ versions: ["2025"]
 
 **(3) Effect of a Motion on a Notice of Appeal.**
 
-**(A) If a defendant timely makes any of the following motions under the Federal Rules of Criminal Procedure, the notice of appeal from a judgment of conviction must be filed within 14 days after the entry of the order disposing of the last such remaining motion, or within 14 days after the entry of the judgment of conviction, whichever period ends later.** This provision applies to a timely motion:
+**(A)** If a defendant timely makes any of the following motions under the Federal Rules of Criminal Procedure, the notice of appeal from a judgment of conviction must be filed within 14 days after the entry of the order disposing of the last such remaining motion, or within 14 days after the entry of the judgment of conviction, whichever period ends later. This provision applies to a timely motion:
 
 **(i)** for judgment of acquittal under Rule 29;
 
@@ -127,7 +131,7 @@ versions: ["2025"]
 
 **(c) Appeal by an Inmate Confined in an Institution.**
 
-**(1) If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 4(c)(1).** If an inmate files a notice of appeal in either a civil or a criminal case, the notice is timely if it is deposited in the institution’s internal mail system on or before the last day for filing and:
+**(1)** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 4(c)(1). If an inmate files a notice of appeal in either a civil or a criminal case, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
 
 **(A)** it is accompanied by:
 
@@ -139,7 +143,7 @@ versions: ["2025"]
 
 **(2)** If an inmate files the first notice of appeal in a civil case under this Rule 4(c), the 14-day period provided in Rule 4(a)(3) for another party to file a notice of appeal runs from the date when the district court dockets the first notice.
 
-**(3)** When a defendant in a criminal case files a notice of appeal under this Rule 4(c), the 30-day period for the government to file its notice of appeal runs from the entry of the judgment or order appealed from or from the district court’s docketing of the defendant’s notice of appeal, whichever is later.
+**(3)** When a defendant in a criminal case files a notice of appeal under this Rule 4(c), the 30-day period for the government to file its notice of appeal runs from the entry of the judgment or order appealed from or from the district court's docketing of the defendant's notice of appeal, whichever is later.
 
 **(d) Mistaken Filing in the Court of Appeals.** If a notice of appeal in either a civil or a criminal case is mistakenly filed in the court of appeals, the clerk of that court must note on the notice the date when it was received and send it to the district clerk. The notice is then considered filed in the district court on the date so noted.
 

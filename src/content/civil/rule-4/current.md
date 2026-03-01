@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(B)** be directed to the defendant;
 
-**(C)** state the name and address of the plaintiff’s attorney or—if unrepresented—of the plaintiff;
+**(C)** state the name and address of the plaintiff's attorney or—if unrepresented—of the plaintiff;
 
 **(D)** state the time within which the defendant must appear and defend;
 
@@ -29,7 +29,7 @@ versions: ["2025"]
 
 **(F)** be signed by the clerk; and
 
-**(G)** bear the court’s seal.
+**(G)** bear the court's seal.
 
 **(2) Amendments.** The court may permit a summons to be amended.
 
@@ -41,7 +41,7 @@ versions: ["2025"]
 
 **(2) By Whom.** Any person who is at least 18 years old and not a party may serve a summons and complaint.
 
-**(3) By a Marshal or Someone Specially Appointed.** At the plaintiff’s request, the court may order that service be made by a United States marshal or deputy marshal or by a person specially appointed by the court. The court must so order if the plaintiff is authorized to proceed in forma pauperis under 28 U.S.C. § 1915 or as a seaman under 28 U.S.C. § 1916.
+**(3) By a Marshal or Someone Specially Appointed.** At the plaintiff's request, the court may order that service be made by a United States marshal or deputy marshal or by a person specially appointed by the court. The court must so order if the plaintiff is authorized to proceed in forma pauperis under 28 U.S.C. § 1915 or as a seaman under 28 U.S.C. § 1916.
 
 **(d) Waiving Service.**
 
@@ -69,7 +69,7 @@ versions: ["2025"]
 
 **(A)** the expenses later incurred in making service; and
 
-**(B)** the reasonable expenses, including attorney’s fees, of any motion required to collect those service expenses.
+**(B)** the reasonable expenses, including attorney's fees, of any motion required to collect those service expenses.
 
 **(3) Time to Answer After a Waiver.** A defendant who, before being served with process, timely returns a waiver need not serve an answer to the complaint until 60 days after the request was sent—or until 90 days after it was sent to the defendant outside any judicial district of the United States.
 
@@ -85,7 +85,7 @@ versions: ["2025"]
 
 **(A)** delivering a copy of the summons and of the complaint to the individual personally;
 
-**(B)** leaving a copy of each at the individual’s dwelling or usual place of abode with someone of suitable age and discretion who resides there; or
+**(B)** leaving a copy of each at the individual's dwelling or usual place of abode with someone of suitable age and discretion who resides there; or
 
 **(C)** delivering a copy of each to an agent authorized by appointment or by law to receive service of process.
 
@@ -95,11 +95,11 @@ versions: ["2025"]
 
 **(2)** if there is no internationally agreed means, or if an international agreement allows but does not specify other means, by a method that is reasonably calculated to give notice:
 
-**(A)** as prescribed by the foreign country’s law for service in that country in an action in its courts of general jurisdiction;
+**(A)** as prescribed by the foreign country's law for service in that country in an action in its courts of general jurisdiction;
 
 **(B)** as the foreign authority directs in response to a letter rogatory or letter of request; or
 
-**(C)** unless prohibited by the foreign country’s law, by:
+**(C)** unless prohibited by the foreign country's law, by:
 
 **(i)** delivering a copy of the summons and of the complaint to the individual personally; or
 
@@ -109,7 +109,7 @@ versions: ["2025"]
 
 **(g) Serving a Minor or an Incompetent Person.** A minor or an incompetent person in a judicial district of the United States must be served by following state law for serving a summons or like process on such a defendant in an action brought in the courts of general jurisdiction of the state where service is made. A minor or an incompetent person who is not within any judicial district of the United States must be served in the manner prescribed by Rule 4(f)(2)(A), (f)(2)(B), or (f)(3).
 
-**(h) Serving a Corporation, Partnership, or Association.** Unless federal law provides otherwise or the defendant’s waiver has been filed, a domestic or foreign corporation, or a partnership or other unincorporated association that is subject to suit under a common name, must be served:
+**(h) Serving a Corporation, Partnership, or Association.** Unless federal law provides otherwise or the defendant's waiver has been filed, a domestic or foreign corporation, or a partnership or other unincorporated association that is subject to suit under a common name, must be served:
 
 **(1)** in a judicial district of the United States:
 
@@ -119,11 +119,13 @@ versions: ["2025"]
 
 **(2)** at a place not within any judicial district of the United States, in any manner prescribed by Rule 4(f) for serving an individual, except personal delivery under (f)(2)(C)(i).
 
-**(i) Serving the United States and Its Agencies, Corpora - tions , Officers, or Employees.**
+**(i) Serving the United States and Its Agencies, Corporations, Officers, or Employees.**
 
 **(1) United States.** To serve the United States, a party must:
 
-**(A)** (i) deliver a copy of the summons and of the complaint to the United States attorney for the district where the action is brought—or to an assistant United States attorney or clerical employee whom the United States attorney designates in a writing filed with the court clerk—or (ii) send a copy of each by registered or certified mail to the civil-process clerk at the United States attorney’s office;
+**(A)** (i) deliver a copy of the summons and of the complaint to the United States attorney for the district where the action is brought—or to an assistant United States attorney or clerical employee whom the United States attorney designates in a writing filed with the court clerk—or
+
+**(ii)** send a copy of each by registered or certified mail to the civil-process clerk at the United States attorney's office;
 
 **(B)** send a copy of each by registered or certified mail to the Attorney General of the United States at Washington, D.C.; and
 
@@ -131,7 +133,7 @@ versions: ["2025"]
 
 **(2) Agency; Corporation; Officer or Employee Sued in an Official Capacity.** To serve a United States agency or corporation, or a United States officer or employee sued only in an official capacity, a party must serve the United States and also send a copy of the summons and of the complaint by registered or certified mail to the agency, corporation, officer, or employee.
 
-**(3) Officer or Employee Sued Individually.** To serve a United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States’ behalf (whether or not the officer or employee is also sued in an official capacity), a party must serve the United States and also serve the officer or employee under Rule 4(e), (f), or (g).
+**(3) Officer or Employee Sued Individually.** To serve a United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf (whether or not the officer or employee is also sued in an official capacity), a party must serve the United States and also serve the officer or employee under Rule 4(e), (f), or (g).
 
 **(4) Extending Time.** The court must allow a party a reasonable time to cure its failure to:
 
@@ -147,7 +149,7 @@ versions: ["2025"]
 
 **(A)** delivering a copy of the summons and of the complaint to its chief executive officer; or
 
-**(B)** serving a copy of each in the manner prescribed by that state’s law for serving a summons or like process on such a defendant.
+**(B)** serving a copy of each in the manner prescribed by that state's law for serving a summons or like process on such a defendant.
 
 **(k) Territorial Limits of Effective Service.**
 
@@ -161,13 +163,13 @@ versions: ["2025"]
 
 **(2) Federal Claim Outside State-Court Jurisdiction.** For a claim that arises under federal law, serving a summons or filing a waiver of service establishes personal jurisdiction over a defendant if:
 
-**(A)** the defendant is not subject to jurisdiction in any state’s courts of general jurisdiction; and
+**(A)** the defendant is not subject to jurisdiction in any state's courts of general jurisdiction; and
 
 **(B)** exercising jurisdiction is consistent with the United States Constitution and laws.
 
 **(l) Proving Service.**
 
-**(1) Affidavit Required.** Unless service is waived, proof of service must be made to the court. Except for service by a United States marshal or deputy marshal, proof must be by the server’s affidavit.
+**(1) Affidavit Required.** Unless service is waived, proof of service must be made to the court. Except for service by a United States marshal or deputy marshal, proof must be by the server's affidavit.
 
 **(2) Service Outside the United States.** Service not within any judicial district of the United States must be proved as follows:
 
@@ -183,7 +185,7 @@ versions: ["2025"]
 
 **(1) Federal Law.** The court may assert jurisdiction over property if authorized by a federal statute. Notice to claimants of the property must be given as provided in the statute or by serving a summons under this rule.
 
-**(2) State Law.** On a showing that personal jurisdiction over a defendant cannot be obtained in the district where the action is brought by reasonable efforts to serve a summons under this rule, the court may assert jurisdiction over the defendant’s assets found in the district. Jurisdiction is acquired by seizing the assets under the circumstances and in the manner provided by state law in that district.
+**(2) State Law.** On a showing that personal jurisdiction over a defendant cannot be obtained in the district where the action is brought by reasonable efforts to serve a summons under this rule, the court may assert jurisdiction over the defendant's assets found in the district. Jurisdiction is acquired by seizing the assets under the circumstances and in the manner provided by state law in that district.
 
 <p class="amendment-history">(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, § 2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.)</p>
 
@@ -195,8 +197,8 @@ versions: ["2025"]
 
 ### Rule 4 Waiver of the Service of Summons
 
-(Caption) To (name the plaintiff’s attorney or the unrepresented plaintiff): I have received your request to waive service of a summons in this action along with a copy of the complaint, two copies of this waiver form, and a prepaid means of returning one signed copy of the form to you. I, or the entity I represent, agree to save the expense of serving a summons and complaint in this case. I understand that I, or the entity I represent, will keep all defenses or objections to the lawsuit, the court’s jurisdiction, and the venue of the action, but that I waive any objections to the absence of a summons or of service. I also understand that I, or the entity I represent, must file and serve an answer or a motion under Rule 12 within 60 days from __________________________, the date when this request was sent (or 90 days if it was sent outside the United States). If I fail to do so, a default judgment will be entered against me or the entity I represent. Date: __________________________ __________________________ (Signature of the attorney or unrepresented party) __________________________ (Printed name) __________________________ (Address) __________________________ (E-mail address) __________________________ (Telephone number) (Attach the following)
+(Caption) To (name the plaintiff's attorney or the unrepresented plaintiff): I have received your request to waive service of a summons in this action along with a copy of the complaint, two copies of this waiver form, and a prepaid means of returning one signed copy of the form to you. I, or the entity I represent, agree to save the expense of serving a summons and complaint in this case. I understand that I, or the entity I represent, will keep all defenses or objections to the lawsuit, the court's jurisdiction, and the venue of the action, but that I waive any objections to the absence of a summons or of service. I also understand that I, or the entity I represent, must file and serve an answer or a motion under Rule 12 within 60 days from __________________________, the date when this request was sent (or 90 days if it was sent outside the United States). If I fail to do so, a default judgment will be entered against me or the entity I represent. Date: __________________________ __________________________ (Signature of the attorney or unrepresented party) __________________________ (Printed name) __________________________ (Address) __________________________ (E-mail address) __________________________ (Telephone number) (Attach the following)
 
 ### Duty to Avoid Unnecessary Expenses
 
-OF Serving a Summons Rule 4 of the Federal Rules of Civil Procedure requires certain defendants to cooperate in saving unnecessary expenses of serving a summons and complaint. A defendant who is located in the United States and who fails to return a signed waiver of service requested by a plaintiff located in the United States will be re- quired to pay the expenses of service, unless the defendant shows good cause for the failure. ‘‘Good cause’’ does not include a belief that the lawsuit is groundless, or that it has been brought in an improper venue, or that the court has no jurisdiction over this matter or over the de- fendant or the defendant’s property. If the waiver is signed and returned, you can still make these and all other defenses and objections, but you cannot object to the absence of a summons or of service. If you waive service, then you must, within the time specified on the waiver form, serve an answer or a motion under Rule 12 on the plaintiff and file a copy with the court. By signing and return- ing the waiver form, you are allowed more time to respond than if a summons had been served.
+OF Serving a Summons Rule 4 of the Federal Rules of Civil Procedure requires certain defendants to cooperate in saving unnecessary expenses of serving a summons and complaint. A defendant who is located in the United States and who fails to return a signed waiver of service requested by a plaintiff located in the United States will be re- quired to pay the expenses of service, unless the defendant shows good cause for the failure. ''Good cause'' does not include a belief that the lawsuit is groundless, or that it has been brought in an improper venue, or that the court has no jurisdiction over this matter or over the de- fendant or the defendant's property. If the waiver is signed and returned, you can still make these and all other defenses and objections, but you cannot object to the absence of a summons or of service. If you waive service, then you must, within the time specified on the waiver form, serve an answer or a motion under Rule 12 on the plaintiff and file a copy with the court. By signing and return- ing the waiver form, you are allowed more time to respond than if a summons had been served.

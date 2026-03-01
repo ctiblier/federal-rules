@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(C)** any other order the court designates.
 
-**(2) Indexing with the District Court.** On a prevailing party’s request, a copy of the following must be kept and indexed with the district court’s civil judgments:
+**(2) Indexing with the District Court.** On a prevailing party's request, a copy of the following must be kept and indexed with the district court's civil judgments:
 
 **(A)** every final judgment or order affecting title to, or a lien on, real or personal property; and
 
@@ -41,7 +41,7 @@ versions: ["2025"]
 
 **(1) Index of Cases.** The clerk must keep an index of cases and adversary proceedings in the form and manner prescribed by the Director of the Administrative Office of the United States Courts.
 
-**(2) Searching the Index; Certificate of Search.** On request, the clerk must search the index and papers in the clerk’s custody and certify whether:
+**(2) Searching the Index; Certificate of Search.** On request, the clerk must search the index and papers in the clerk's custody and certify whether:
 
 **(A)** a case or proceeding has been filed in or transferred to the court; or
 
@@ -49,7 +49,7 @@ versions: ["2025"]
 
 **(e)** Register of Mailing Addresses of Federal and State Governmental Units and Certain Taxing Authorities.
 
-**(1) In General.** The United States—or a state or a territory where the court is located—may file a statement designating its mailing address. A taxing authority (including a local taxing authority) may also file a statement designating an address for serving requests under § 505(b). The authority’s designation must describe where to find further information about additional requirements for serving a request.
+**(1) In General.** The United States—or a state or a territory where the court is located—may file a statement designating its mailing address. A taxing authority (including a local taxing authority) may also file a statement designating an address for serving requests under § 505(b). The authority's designation must describe where to find further information about additional requirements for serving a request.
 
 **(2) Register of Mailing Address.**
 

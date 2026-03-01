@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) In General.** A party may serve on any other party a request within the scope of Rule 26(b):
 
-**(1)** to produce and permit the requesting party or its representative to inspect, copy, test, or sample the following items in the responding party’s possession, custody, or control:
+**(1)** to produce and permit the requesting party or its representative to inspect, copy, test, or sample the following items in the responding party's possession, custody, or control:
 
 **(A)** any designated documents or electronically stored information—including writings, drawings, graphs, charts, photographs, sound recordings, images, and other data or data compilations—stored in any medium from which information can be obtained either directly or, if necessary, after translation by the responding party into a reasonably usable form; or
 
@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(2) Responses and Objections.**
 
-**(A) Time to Respond.** The party to whom the request is directed must respond in writing within 30 days after being served or—if the request was delivered under Rule 26(d)(2)—within 30 days after the parties’ first Rule 26(f) conference. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
+**(A) Time to Respond.** The party to whom the request is directed must respond in writing within 30 days after being served or—if the request was delivered under Rule 26(d)(2)—within 30 days after the parties' first Rule 26(f) conference. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
 
 **(B) Responding to Each Item.** For each item or category, the response must either state that inspection and related activities will be permitted as requested or state with specificity the grounds for objecting to the request, including the reasons. The responding party may state that it will produce copies of documents or of electronically stored information instead of permitting inspection. The production must then be completed no later than the time for inspection specified in the request or another reasonable time specified in the response.
 

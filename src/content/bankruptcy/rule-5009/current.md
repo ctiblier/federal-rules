@@ -19,17 +19,17 @@ versions: ["2025"]
 
 **(2)** within 30 days after the filing, no objection to the report has been filed by the United States trustee or a party in interest.
 
-**(b) Chapter 7 or 13—Notice of a Failure to File a Certificate of Completion for a Course on Personal Financial Manage - ment .** This subdivision (b) applies if an individual debtor in a Chapter 7 or 13 case is required to file a certificate under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under § 341(a). The clerk must promptly notify the debtor that the case will be closed without entering a discharge if the certificate is not filed within the time prescribed by Rule 1007(c).
+**(b)** Chapter 7 or 13—Notice of a Failure to File a Certificate of Completion for a Course on Personal Financial Management. This subdivision (b) applies if an individual debtor in a Chapter 7 or 13 case is required to file a certificate under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under § 341(a). The clerk must promptly notify the debtor that the case will be closed without entering a discharge if the certificate is not filed within the time prescribed by Rule 1007(c).
 
 **(c) Closing a Chapter 15 Case.**
 
-**(1) Foreign Representative’s Final Report.** In a proceeding recognized under § 1517, when the purpose of a foreign representative’s appearance is completed, the representative must file a final report describing the nature and results of the representative’s activities in the court.
+**(1) Foreign Representative's Final Report.** In a proceeding recognized under § 1517, when the purpose of a foreign representative's appearance is completed, the representative must file a final report describing the nature and results of the representative's activities in the court.
 
 **(2) Giving Notice of the Report.** The representative must send a copy of the report to the United States trustee, give notice of its filing, and file a certificate indicating that the notice has been given to:
 
 **(A)** the debtor;
 
-**(B)** all persons or bodies authorized to administer the debtor’s foreign proceedings;
+**(B)** all persons or bodies authorized to administer the debtor's foreign proceedings;
 
 **(C)** all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and
 

@@ -13,7 +13,7 @@ source_pdf_page: 120
 versions: ["2025"]
 ---
 
-**(a) Conditions for an Emergency.** The Judicial Conference of the United States may declare a Civil Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court’s ability to perform its functions in compliance with these rules.
+**(a) Conditions for an Emergency.** The Judicial Conference of the United States may declare a Civil Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court's ability to perform its functions in compliance with these rules.
 
 **(b) Declaring an Emergency.**
 
@@ -41,7 +41,7 @@ versions: ["2025"]
 
 **(i)** if the court denies an extension, the time to file an appeal runs for all parties from the date the order denying the motion to extend is entered;
 
-**(ii)** if the court grants an extension, a motion authorized by the court and filed within the extended period is, for purposes of Appellate Rule 4(a)(4)(A), filed ‘‘within the time allowed by’’ the Federal Rules of Civil Procedure; and
+**(ii)** if the court grants an extension, a motion authorized by the court and filed within the extended period is, for purposes of Appellate Rule 4(a)(4)(A), filed ''within the time allowed by'' the Federal Rules of Civil Procedure; and
 
 **(iii)** if the court grants an extension and no motion authorized by the court is made within the extended period, the time to file an appeal runs for all parties from the expiration of the extended period.
 

@@ -1,6 +1,6 @@
 ---
 rule: "2"
-title: "Interpretation"
+title: "One Form of Action"
 title_number: "I"
 title_name: "Applicability"
 summary: ""
@@ -9,10 +9,10 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 21
+source_pdf_page: 20
 versions: ["2025"]
 ---
 
-These rules are to be interpreted to provide for the just determination of every criminal proceeding, to secure simplicity in procedure and fairness in administration, and to eliminate unjustifiable expense and delay.
+There is one form of action—the civil action.
 
-<p class="amendment-history">(As amended Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

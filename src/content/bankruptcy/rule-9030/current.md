@@ -13,6 +13,6 @@ source_pdf_page: 160
 versions: ["2025"]
 ---
 
-These rules must not be construed to extend or limit the courts’ jurisdiction or the venue of any matters.
+These rules must not be construed to extend or limit the courts' jurisdiction or the venue of any matters.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

@@ -33,7 +33,7 @@ versions: ["2025"]
 
 **(A) Generally.** The United States trustee must preside at the meeting of creditors. The meeting must include an examination of the debtor under oath. The presiding officer has the authority to administer oaths.
 
-**(B) Chapter 7 Cases.** In a Chapter 7 case, the meeting may include the election of a creditors’ committee; and if the case is not under Subchapter V, the meeting may include electing a trustee.
+**(B) Chapter 7 Cases.** In a Chapter 7 case, the meeting may include the election of a creditors' committee; and if the case is not under Subchapter V, the meeting may include electing a trustee.
 
 **(2) At a Meeting of Equity Security Holders.** If the United States trustee convenes a meeting of equity security holders under § 341(b), the United States trustee must set a date for the meeting and preside over it.
 
@@ -47,9 +47,9 @@ versions: ["2025"]
 
 **(iii)** no objection is made to the claim.
 
-**(B) In a Partnership Case.** A creditor in a partnership case may file a proof of claim or a writing evidencing a right to vote for a trustee for the general partner’s estate even if a trustee for the partnership’s estate has previously qualified.
+**(B) In a Partnership Case.** A creditor in a partnership case may file a proof of claim or a writing evidencing a right to vote for a trustee for the general partner's estate even if a trustee for the partnership's estate has previously qualified.
 
-**(C) Objecting to the Amount or Allowability of a Claim for Voting Purposes.** Unless the court orders otherwise, if there is an objection to the amount or allowability of a claim for voting purposes, the United States trustee must tabulate the votes for each alternative presented by the dispute. If resolving the dispute is necessary to determine the election’s result, the United States trustee must report to the court the tabulations for each alternative.
+**(C) Objecting to the Amount or Allowability of a Claim for Voting Purposes.** Unless the court orders otherwise, if there is an objection to the amount or allowability of a claim for voting purposes, the United States trustee must tabulate the votes for each alternative presented by the dispute. If resolving the dispute is necessary to determine the election's result, the United States trustee must report to the court the tabulations for each alternative.
 
 **(c) Recording the Proceedings.** At the meeting of creditors under § 341(a), the United States trustee must:
 
@@ -57,15 +57,15 @@ versions: ["2025"]
 
 **(2)** preserve the recording and make it available for public access for 2 years after the meeting concludes; and
 
-**(3)** upon request, certify and provide a copy or transcript of the recording to any entity at that entity’s expense.
+**(3)** upon request, certify and provide a copy or transcript of the recording to any entity at that entity's expense.
 
 **(d) Reporting Election Results in a Chapter 7 Case.**
 
-**(1) Undisputed Election.** In a Chapter 7 case, if the election of a trustee or a member of a creditors’ committee is undisputed, the United States trustee must promptly file a report of the election. The report must include the name and address of the person or entity elected and a statement that the election was undisputed.
+**(1) Undisputed Election.** In a Chapter 7 case, if the election of a trustee or a member of a creditors' committee is undisputed, the United States trustee must promptly file a report of the election. The report must include the name and address of the person or entity elected and a statement that the election was undisputed.
 
 **(2) Disputed Election.**
 
-**(A) United States Trustee’s Report.** If the election is disputed, the United States trustee must:
+**(A) United States Trustee's Report.** If the election is disputed, the United States trustee must:
 
 **(i)** promptly file a report informing the court of the nature of the dispute and listing the name and address of any candidate elected under any alternative presented by the dispute; and
 
@@ -77,6 +77,6 @@ versions: ["2025"]
 
 **(f) Special Meetings of Creditors.** The United States trustee may call a special meeting of creditors or may do so on request of a party in interest.
 
-**(g) Final Meeting of Creditors.** If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk must give notice of the meeting to the creditors. The notice must include a summary of the trustee’s final account and a statement of the amount of the claims allowed. The trustee must attend the meeting and, if requested, report on the estate’s administration.
+**(g) Final Meeting of Creditors.** If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk must give notice of the meeting to the creditors. The notice must include a summary of the trustee's final account and a statement of the amount of the claims allowed. The trustee must attend the meeting and, if requested, report on the estate's administration.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

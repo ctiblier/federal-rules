@@ -13,7 +13,7 @@ source_pdf_page: 155
 versions: ["2025"]
 ---
 
-**(a) Approving a Compromise or Settlement.** On the trustee’s motion and after notice and a hearing, the court may approve a compromise or settlement. Notice must be given to: • all creditors; • the United States trustee; • the debtor; • all indenture trustees as provided in Rule 2002; and • any other entity the court designates.
+**(a) Approving a Compromise or Settlement.** On the trustee's motion and after notice and a hearing, the court may approve a compromise or settlement. Notice must be given to: • all creditors; • the United States trustee; • the debtor; • all indenture trustees as provided in Rule 2002; and • any other entity the court designates.
 
 **(b) Compromising or Settling Controversies in Classes.** After a hearing on such notice as the court may order, the court may:
 

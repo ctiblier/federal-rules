@@ -15,11 +15,11 @@ versions: ["2025"]
 
 **(a) In General.** A debtor, creditor, equity security holder, indenture trustee, committee, or other party may:
 
-**(1)** appear in a case and act either on the entity’s own behalf or through an attorney authorized to practice in the court; and
+**(1)** appear in a case and act either on the entity's own behalf or through an attorney authorized to practice in the court; and
 
 **(2)** perform any act not constituting the practice of law, by an authorized agent, attorney-in-fact, or proxy.
 
-**(b) Attorney ’ s Notice of Appearance.** An attorney appearing for a party in a case must file a notice of appearance containing the attorney’s name, office address, and telephone number—unless the appearance is already noted in the record.
+**(b) Attorney's Notice of Appearance.** An attorney appearing for a party in a case must file a notice of appearance containing the attorney's name, office address, and telephone number—unless the appearance is already noted in the record.
 
 **(c) Power of Attorney to Represent a Creditor.** The authority of an agent, attorney-in-fact, or proxy to represent a creditor—for any purpose other than executing and filing a proof of claim or accepting or rejecting a plan—must be evidenced by a power of attorney that substantially conforms to the appropriate version of Form 411. A power of attorney must be acknowledged before:
 

@@ -1,24 +1,22 @@
 ---
 rule: "47"
-title: "Motions and Supporting Affidavits"
+title: "Selecting Jurors"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 83
+source_pdf_page: 91
 versions: ["2025"]
 ---
 
-**(a) In General.** A party applying to the court for an order must do so by motion.
+**(a) Examining Jurors.** The court may permit the parties or their attorneys to examine prospective jurors or may itself do so. If the court examines the jurors, it must permit the parties or their attorneys to make any further inquiry it considers proper, or must itself ask any of their additional questions it considers proper.
 
-**(b) Form and Content of a Motion.** A motion—except when made during a trial or hearing—must be in writing, unless the court permits the party to make the motion by other means. A motion must state the grounds on which it is based and the relief or order sought. A motion may be supported by affidavit.
+**(b) Peremptory Challenges.** The court must allow the number of peremptory challenges provided by 28 U.S.C. § 1870.
 
-**(c) Timing of a Motion.** A party must serve a written motion— other than one that the court may hear ex parte—and any hearing notice at least 7 days before the hearing date, unless a rule or court order sets a different period. For good cause, the court may set a different period upon ex parte application.
+**(c) Excusing a Juror.** During trial or deliberation, the court may excuse a juror for good cause.
 
-**(d) Affidavit Supporting a Motion.** The moving party must serve any supporting affidavit with the motion. A responding party must serve any opposing affidavit at least one day before the hearing, unless the court permits later service.
-
-<p class="amendment-history">(As amended Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

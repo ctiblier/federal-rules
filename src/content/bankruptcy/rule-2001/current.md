@@ -13,15 +13,15 @@ source_pdf_page: 36
 versions: ["2025"]
 ---
 
-**(a) Appointing an Interim Trustee.** After an involuntary Chapter 7 case commences but before an order for relief, the court may, on a party in interest’s motion, order the United States trustee to appoint an interim trustee under § 303(g). The motion must set forth the need for the appointment and may be granted only after a hearing on notice to: • the debtor; • the petitioning creditors; • the United States trustee; and • other parties in interest as the court orders.
+**(a) Appointing an Interim Trustee.** After an involuntary Chapter 7 case commences but before an order for relief, the court may, on a party in interest's motion, order the United States trustee to appoint an interim trustee under § 303(g). The motion must set forth the need for the appointment and may be granted only after a hearing on notice to: • the debtor; • the petitioning creditors; • the United States trustee; and • other parties in interest as the court orders.
 
-**(b) Bond Required.** An interim trustee may be appointed only if the movant furnishes a bond, in an amount that the court approves, to indemnify the debtor for any costs, attorney’s fees, expenses, and damages allowable under § 303(i).
+**(b) Bond Required.** An interim trustee may be appointed only if the movant furnishes a bond, in an amount that the court approves, to indemnify the debtor for any costs, attorney's fees, expenses, and damages allowable under § 303(i).
 
-**(c) The Order ’ s Content.** The court’s order must state the reason the appointment is needed and specify the trustee’s duties.
+**(c) The Order's Content.** The court's order must state the reason the appointment is needed and specify the trustee's duties.
 
-**(d) The Interim Trustee ’ s Final Report.** Unless the court orders otherwise, after the qualification of a trustee selected under § 702, the interim trustee must:
+**(d) The Interim Trustee's Final Report.** Unless the court orders otherwise, after the qualification of a trustee selected under § 702, the interim trustee must:
 
-**(1)** promptly deliver to the trustee all the records and property of the estate that are in the interim trustee’s possession or under its control; and
+**(1)** promptly deliver to the trustee all the records and property of the estate that are in the interim trustee's possession or under its control; and
 
 **(2)** within 30 days after the trustee qualifies, file a final report and account.
 

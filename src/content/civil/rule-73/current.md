@@ -17,12 +17,12 @@ versions: ["2025"]
 
 **(b) Consent Procedure.**
 
-**(1) In General.** When a magistrate judge has been designated to conduct civil actions or proceedings, the clerk must give the parties written notice of their opportunity to consent under 28 U.S.C. § 636(c). To signify their consent, the parties must jointly or separately file a statement consenting to the referral. A district judge or magistrate judge may be informed of a party’s response to the clerk’s notice only if all parties have consented to the referral.
+**(1) In General.** When a magistrate judge has been designated to conduct civil actions or proceedings, the clerk must give the parties written notice of their opportunity to consent under 28 U.S.C. § 636(c). To signify their consent, the parties must jointly or separately file a statement consenting to the referral. A district judge or magistrate judge may be informed of a party's response to the clerk's notice only if all parties have consented to the referral.
 
-**(2) Reminding the Parties About Consenting.** A district judge, magistrate judge, or other court official may remind the parties of the magistrate judge’s availability, but must also advise them that they are free to withhold consent without adverse substantive consequences.
+**(2) Reminding the Parties About Consenting.** A district judge, magistrate judge, or other court official may remind the parties of the magistrate judge's availability, but must also advise them that they are free to withhold consent without adverse substantive consequences.
 
 **(3) Vacating a Referral.** On its own for good cause—or when a party shows extraordinary circumstances—the district judge may vacate a referral to a magistrate judge under this rule.
 
-**(c) Appealing a Judgment.** In accordance with 28 U.S.C. § 636(c)(3), an appeal from a judgment entered at a magistrate judge’s direction may be taken to the court of appeals as would any other appeal from a district-court judgment.
+**(c) Appealing a Judgment.** In accordance with 28 U.S.C. § 636(c)(3), an appeal from a judgment entered at a magistrate judge's direction may be taken to the court of appeals as would any other appeal from a district-court judgment.
 
 <p class="amendment-history">(As added Apr. 28, 1983, eff. Aug. 1, 1983; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

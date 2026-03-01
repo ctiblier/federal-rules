@@ -13,21 +13,21 @@ source_pdf_page: 61
 versions: ["2025"]
 ---
 
-**(a) Definition and Form.** A proof of claim is a written statement of a creditor’s claim. It must substantially conform to Form 410.
+**(a) Definition and Form.** A proof of claim is a written statement of a creditor's claim. It must substantially conform to Form 410.
 
-**(b) Who May Sign a Proof of Claim.** Only a creditor or the creditor’s agent may sign a proof of claim—except as provided in Rules 3004 and 3005.
+**(b) Who May Sign a Proof of Claim.** Only a creditor or the creditor's agent may sign a proof of claim—except as provided in Rules 3004 and 3005.
 
 **(c) Required Supporting Information.**
 
-**(1) Claim or Interest Based on a Writing.** If a claim or an interest in the debtor’s property securing the claim is based on a writing, the creditor must file a copy with the proof of claim— except for a claim based on a consumer-credit agreement under (4). If the writing has been lost or destroyed, a statement explaining the loss or destruction must be filed with the claim.
+**(1) Claim or Interest Based on a Writing.** If a claim or an interest in the debtor's property securing the claim is based on a writing, the creditor must file a copy with the proof of claim— except for a claim based on a consumer-credit agreement under (4). If the writing has been lost or destroyed, a statement explaining the loss or destruction must be filed with the claim.
 
-**(2) Additional Information in an Individual Debtor’s Case.** If the debtor is an individual, the creditor must file with the proof of claim:
+**(2) Additional Information in an Individual Debtor's Case.** If the debtor is an individual, the creditor must file with the proof of claim:
 
 **(A)** an itemized statement of the principal amount and any interest, fees, expenses, or other charges incurred before the petition was filed;
 
-**(B)** for any claimed security interest in the debtor’s property, the amount needed to cure any default as of the date the petition was filed; and
+**(B)** for any claimed security interest in the debtor's property, the amount needed to cure any default as of the date the petition was filed; and
 
-**(C)** for any claimed security interest in the debtor’s principal residence:
+**(C)** for any claimed security interest in the debtor's principal residence:
 
 **(i)**
 
@@ -37,15 +37,15 @@ versions: ["2025"]
 
 **(A)** preclude the holder from presenting the information in any form as evidence in any contested matter or adversary proceeding in the case—unless the court determines that the failure is substantially justified or is harmless; and
 
-**(B)** award other appropriate relief, including reasonable expenses and attorney’s fees caused by the failure.
+**(B)** award other appropriate relief, including reasonable expenses and attorney's fees caused by the failure.
 
 **(4) Claim Based on an Open-End or Revolving Consumer-Credit Agreement.**
 
-**(A) Required Statement.** Except when the claim is secured by an interest in the debtor’s real property, a proof of claim for a claim based on an open-end or revolving consumer-credit agreement must be accompanied by a statement that shows the following information about the credit account:
+**(A) Required Statement.** Except when the claim is secured by an interest in the debtor's real property, a proof of claim for a claim based on an open-end or revolving consumer-credit agreement must be accompanied by a statement that shows the following information about the credit account:
 
 **(i)** the name of the entity from whom the creditor purchased the account;
 
-**(ii)** the name of the entity to whom the debt was owed at the time of an account holder’s last transaction on the account;
+**(ii)** the name of the entity to whom the debt was owed at the time of an account holder's last transaction on the account;
 
 **(iii)** the date of that last transaction;
 
@@ -53,9 +53,9 @@ versions: ["2025"]
 
 **(v)** the date that the account was charged to profit and loss.
 
-**(B) Copy to a Party in Interest.** On a party in interest’s written request, the creditor must send a copy of the writing described in (1) to that party within 30 days after the request is sent.
+**(B) Copy to a Party in Interest.** On a party in interest's written request, the creditor must send a copy of the writing described in (1) to that party within 30 days after the request is sent.
 
-**(d) Claim Based on a Security Interest in the Debtor ’ s Prop - erty .** If a creditor claims a security interest in the debtor’s property, the proof of claim must be accompanied by evidence that the security interest has been perfected.
+**(d) Claim Based on a Security Interest in the Debtor's Property.** If a creditor claims a security interest in the debtor's property, the proof of claim must be accompanied by evidence that the security interest has been perfected.
 
 **(e) Transferred Claim.**
 
@@ -75,7 +75,7 @@ versions: ["2025"]
 
 **(B) Notice of a Right to Join in a Proof of Claim; Consolidating Proofs.** If either the transferor or transferee files a proof of claim, the clerk must, by mail, immediately notify the other of the right to join in the claim. If both file proofs of the same claim, the claims must be consolidated.
 
-**(C) Failure to File an Agreement About the Rights of the Transferor and Transferee.** On a party in interest’s motion and after notice and a hearing, the court must issue appropriate orders regarding the rights of the transferor and transferee if either one fails to file an agreement on voting the claim, receiving dividends on it, or participating in the estate’s administration.
+**(C) Failure to File an Agreement About the Rights of the Transferor and Transferee.** On a party in interest's motion and after notice and a hearing, the court must issue appropriate orders regarding the rights of the transferor and transferee if either one fails to file an agreement on voting the claim, receiving dividends on it, or participating in the estate's administration.
 
 **(4) Claim Transferred for Security After a Proof of Claim Was Filed.**
 
@@ -85,11 +85,11 @@ versions: ["2025"]
 
 **(C) Hearing on an Objection.** If the alleged transferor files a timely objection, the court must, after notice and a hearing, determine whether the transfer was for security.
 
-**(D) Failure to File an Agreement About the Rights of the Transferor and Transferee.** On a party in interest’s motion and after notice and a hearing, the court must issue appropriate orders regarding the rights of the transferor and transferee if either one fails to file an agreement on voting the claim, receiving dividends on it, or participating in the estate’s administration.
+**(D) Failure to File an Agreement About the Rights of the Transferor and Transferee.** On a party in interest's motion and after notice and a hearing, the court must issue appropriate orders regarding the rights of the transferor and transferee if either one fails to file an agreement on voting the claim, receiving dividends on it, or participating in the estate's administration.
 
 **(5) Serving an Objection or Motion; Notice of a Hearing.** At least 30 days before a hearing, a copy of any objection filed under (2) or (4) or any motion filed under (3) or (4) must be mailed or delivered to either the transferor or transferee as appropriate, together with notice of the hearing.
 
-**(f) Proof of Claim as Prima Facie Evidence of a Claim and Its Amount.** A proof of claim signed and filed in accordance with these rules is prima facie evidence of the claim’s validity and amount.
+**(f) Proof of Claim as Prima Facie Evidence of a Claim and Its Amount.** A proof of claim signed and filed in accordance with these rules is prima facie evidence of the claim's validity and amount.
 
 **(g) Proving the Ownership and Quantity of Grain.** To the extent not inconsistent with the United States Warehouse Act or applicable State law, a warehouse receipt, scale ticket, or similar document of the type routinely issued as evidence of title by a grain storage facility, as defined in section 557 of title 11, shall constitute prima facie evidence of the validity and amount of a claim of ownership of a quantity of grain.
 

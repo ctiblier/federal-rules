@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(b) Pleading Requirements.** The complaint must be verified and must:
 
-**(1)** allege that the plaintiff was a shareholder or member at the time of the transaction complained of, or that the plaintiff’s share or membership later devolved on it by operation of law;
+**(1)** allege that the plaintiff was a shareholder or member at the time of the transaction complained of, or that the plaintiff's share or membership later devolved on it by operation of law;
 
 **(2)** allege that the action is not a collusive one to confer jurisdiction that the court would otherwise lack; and
 
@@ -27,6 +27,6 @@ versions: ["2025"]
 
 **(B)** the reasons for not obtaining the action or not making the effort.
 
-**(c) Settlement, Dismissal, and Compromise.** A derivative action may be settled, voluntarily dismissed, or compromised only with the court’s approval. Notice of a proposed settlement, voluntary dismissal, or compromise must be given to shareholders or members in the manner that the court orders.
+**(c) Settlement, Dismissal, and Compromise.** A derivative action may be settled, voluntarily dismissed, or compromised only with the court's approval. Notice of a proposed settlement, voluntary dismissal, or compromise must be given to shareholders or members in the manner that the court orders.
 
 <p class="amendment-history">(As added Feb. 28, 1966, eff. July 1, 1966; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

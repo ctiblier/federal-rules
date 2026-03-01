@@ -17,11 +17,11 @@ versions: ["2025"]
 
 **(1) Required Party.** A person who is subject to service of process and whose joinder will not deprive the court of subjectmatter jurisdiction must be joined as a party if:
 
-**(A)** in that person’s absence, the court cannot accord complete relief among existing parties; or
+**(A)** in that person's absence, the court cannot accord complete relief among existing parties; or
 
-**(B)** that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person’s absence may:
+**(B)** that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
 
-**(i)** as a practical matter impair or impede the person’s ability to protect the interest; or
+**(i)** as a practical matter impair or impede the person's ability to protect the interest; or
 
 **(ii)** leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
 
@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(b) When Joinder Is Not Feasible.** If a person who is required to be joined if feasible cannot be joined, the court must determine whether, in equity and good conscience, the action should proceed among the existing parties or should be dismissed. The factors for the court to consider include:
 
-**(1)** the extent to which a judgment rendered in the person’s absence might prejudice that person or the existing parties;
+**(1)** the extent to which a judgment rendered in the person's absence might prejudice that person or the existing parties;
 
 **(2)** the extent to which any prejudice could be lessened or avoided by:
 
@@ -41,7 +41,7 @@ versions: ["2025"]
 
 **(C)** other measures;
 
-**(3)** whether a judgment rendered in the person’s absence would be adequate; and
+**(3)** whether a judgment rendered in the person's absence would be adequate; and
 
 **(4)** whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
 

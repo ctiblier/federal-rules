@@ -13,6 +13,6 @@ source_pdf_page: 156
 versions: ["2025"]
 ---
 
-When the Code or these rules require or permit a party to give security and the party gives security with one or more security providers, each provider submits to the court’s jurisdiction. Liability may be determined in an adversary proceeding governed by the Part VII rules.
+When the Code or these rules require or permit a party to give security and the party gives security with one or more security providers, each provider submits to the court's jurisdiction. Liability may be determined in an adversary proceeding governed by the Part VII rules.
 
 <p class="amendment-history">(As amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

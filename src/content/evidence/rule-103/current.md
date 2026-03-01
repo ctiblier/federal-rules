@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(b) Not Needing to Renew an Objection or Offer of Proof.** Once the court rules definitively on the record—either before or at trial—a party need not renew an objection or offer of proof to preserve a claim of error for appeal.
 
-**(c) Court ’ s Statement About the Ruling; Directing an Offer of Proof.** The court may make any statement about the character or form of the evidence, the objection made, and the ruling. The court may direct that an offer of proof be made in questionand-answer form.
+**(c) Court's Statement About the Ruling; Directing an Offer of Proof.** The court may make any statement about the character or form of the evidence, the objection made, and the ruling. The court may direct that an offer of proof be made in questionand-answer form.
 
 **(d) Preventing the Jury from Hearing Inadmissible Evidence.** To the extent practicable, the court must conduct a jury trial so that inadmissible evidence is not suggested to the jury by any means.
 

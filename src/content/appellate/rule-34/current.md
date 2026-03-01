@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) In General.**
 
-**(1) Party’s Statement.** Any party may file, or a court may require by local rule, a statement explaining why oral argument should, or need not, be permitted.
+**(1) Party's Statement.** Any party may file, or a court may require by local rule, a statement explaining why oral argument should, or need not, be permitted.
 
 **(2) Standards.** Oral argument must be allowed in every case unless a panel of three judges who have examined the briefs and record unanimously agrees that oral argument is unnecessary for any of the following reasons:
 
@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(d) Cross-Appeals and Separate Appeals.** If there is a cross-appeal, Rule 28.1(b) determines which party is the appellant and which is the appellee for purposes of oral argument. Unless the court directs otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
 
-**(e) Nonappearance of a Party.** If the appellee fails to appear for argument, the court must hear appellant’s argument. If the appellant fails to appear for argument, the court may hear the appellee’s argument. If neither party appears, the case will be decided on the briefs, unless the court orders otherwise.
+**(e) Nonappearance of a Party.** If the appellee fails to appear for argument, the court must hear appellant's argument. If the appellant fails to appear for argument, the court may hear the appellee's argument. If neither party appears, the case will be decided on the briefs, unless the court orders otherwise.
 
 **(f) Submission on Briefs.** The parties may agree to submit a case for decision on the briefs, but the court may direct that the case be argued.
 

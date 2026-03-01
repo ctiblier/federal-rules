@@ -13,9 +13,9 @@ source_pdf_page: 56
 versions: ["2025"]
 ---
 
-**(a) Notice of the Report.** Unless the court orders otherwise, a patient-care ombudsman must give at least 14 days’ notice before making a report under § 333(b)(2).
+**(a) Notice of the Report.** Unless the court orders otherwise, a patient-care ombudsman must give at least 14 days' notice before making a report under § 333(b)(2).
 
-**(1) Recipients of the Notice.** The notice must be sent to the United States trustee, posted conspicuously at the health-care facility that is the report’s subject, and served on: • the debtor; • the trustee; • all patients; • any committee elected under § 705 or appointed under § 1102 or its authorized agent; • in a Chapter 9 or 11 case, the creditors on the list filed under Rule 1007(d) if no committee of unsecured creditors has been appointed under § 1102; and • any other entity as the court orders.
+**(1) Recipients of the Notice.** The notice must be sent to the United States trustee, posted conspicuously at the health-care facility that is the report's subject, and served on: • the debtor; • the trustee; • all patients; • any committee elected under § 705 or appointed under § 1102 or its authorized agent; • in a Chapter 9 or 11 case, the creditors on the list filed under Rule 1007(d) if no committee of unsecured creditors has been appointed under § 1102; and • any other entity as the court orders.
 
 **(2) Content of the Notice.** The notice must state:
 
@@ -23,15 +23,15 @@ versions: ["2025"]
 
 **(B)** the manner in which it will be made; and
 
-**(C)** if it will be in writing, the name, address, telephone number, email address, and any website of the person from whom a copy may be obtained at the debtor’s expense.
+**(C)** if it will be in writing, the name, address, telephone number, email address, and any website of the person from whom a copy may be obtained at the debtor's expense.
 
 **(b) Authorization to Review Confidential Patient Records.**
 
-**(1) Motion to Review; Service.** Rule 9014 governs a patient-care ombudsman’s motion under § 333(c) to review confidential patient records. The motion must:
+**(1) Motion to Review; Service.** Rule 9014 governs a patient-care ombudsman's motion under § 333(c) to review confidential patient records. The motion must:
 
 **(A)** be served on the patient;
 
-**(B)** be served on any family member or other contact person whose name and address have been given to the trustee or the debtor in order to provide information about the patient’s health care; and
+**(B)** be served on any family member or other contact person whose name and address have been given to the trustee or the debtor in order to provide information about the patient's health care; and
 
 **(C)** be sent to the United States trustee, subject to applicable nonbankruptcy law concerning patient privacy.
 

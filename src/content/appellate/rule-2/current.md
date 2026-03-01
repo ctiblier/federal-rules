@@ -13,11 +13,11 @@ source_pdf_page: 16
 versions: ["2025"]
 ---
 
-**(a) In a Particular Case.** On its own or a party’s motion, a court of appeals may—to expedite its decision or for other good cause— suspend any provision of these rules in a particular case and order proceedings as it directs, except as otherwise provided in Rule 26(b).
+**(a) In a Particular Case.** On its own or a party's motion, a court of appeals may—to expedite its decision or for other good cause— suspend any provision of these rules in a particular case and order proceedings as it directs, except as otherwise provided in Rule 26(b).
 
 **(b) In an Appellate Rules Emergency.**
 
-**(1) Conditions for an Emergency.** The Judicial Conference of the United States may declare an Appellate Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court’s ability to perform its functions in compliance with these rules.
+**(1) Conditions for an Emergency.** The Judicial Conference of the United States may declare an Appellate Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court's ability to perform its functions in compliance with these rules.
 
 **(2) Content.** The declaration must:
 

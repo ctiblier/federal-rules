@@ -1,6 +1,6 @@
 ---
 rule: "705"
-title: "Disclosing the Facts or Data Underlying an Expert’s Opinion"
+title: "Disclosing the Facts or Data Underlying an Expert's Opinion"
 title_number: "VII"
 title_name: "Opinions and Expert Testimony"
 summary: ""

@@ -1,46 +1,66 @@
 ---
 rule: "17"
-title: "Subpoena"
+title: "Plaintiff and Defendant; Capacity; Public Officers"
 title_number: "IV"
 title_name: "Arraignment and Preparation for Trial"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 51
+source_pdf_page: 46
 versions: ["2025"]
 ---
 
-**(a) Content.** A subpoena must state the court’s name and the title of the proceeding, include the seal of the court, and command the witness to attend and testify at the time and place the subpoena specifies. The clerk must issue a blank subpoena—signed and sealed—to the party requesting it, and that party must fill in the blanks before the subpoena is served.
+**(a) Real Party in Interest.**
 
-**(b) Defendant Unable to Pay.** Upon a defendant’s ex parte application, the court must order that a subpoena be issued for a named witness if the defendant shows an inability to pay the witness’s fees and the necessity of the witness’s presence for an adequate defense. If the court orders a subpoena to be issued, the process costs and witness fees will be paid in the same manner as those paid for witnesses the government subpoenas.
+**(1) Designation in General.** An action must be prosecuted in the name of the real party in interest. The following may sue in their own names without joining the person for whose benefit the action is brought:
 
-**(c) Producing Documents and Objects.**
+**(A)** an executor;
 
-**(1) In General.** A subpoena may order the witness to produce any books, papers, documents, data, or other objects the subpoena designates. The court may direct the witness to produce the designated items in court before trial or before they are to be offered in evidence. When the items arrive, the court may permit the parties and their attorneys to inspect all or part of them.
+**(B)** an administrator;
 
-**(2) Quashing or Modifying the Subpoena.** On motion made promptly, the court may quash or modify the subpoena if compliance would be unreasonable or oppressive.
+**(C)** a guardian;
 
-**(3) Subpoena for Personal or Confidential Information About a Victim.** After a complaint, indictment, or information is filed, a subpoena requiring the production of personal or confidential information about a victim may be served on a third party only by court order. Before entering the order and unless there are exceptional circumstances, the court must require giving notice to the victim so that the victim can move to quash or modify the subpoena or otherwise object.
+**(D)** a bailee;
 
-**(d) Service.** A marshal, a deputy marshal, or any nonparty who is at least 18 years old may serve a subpoena. The server must deliver a copy of the subpoena to the witness and must tender to the witness one day’s witness-attendance fee and the legal mileage allowance. The server need not tender the attendance fee or mileage allowance when the United States, a federal officer, or a federal agency has requested the subpoena.
+**(E)** a trustee of an express trust;
 
-**(e) Place of Service.**
+**(F)** a party with whom or in whose name a contract has been made for another's benefit; and
 
-**(1) In the United States.** A subpoena requiring a witness to attend a hearing or trial may be served at any place within the United States.
+**(G)** a party authorized by statute.
 
-**(2) In a Foreign Country.** If the witness is in a foreign country, 28 U.S.C. § 1783 governs the subpoena’s service.
+**(2) Action in the Name of the United States for Another's Use or Benefit.** When a federal statute so provides, an action for another's use or benefit must be brought in the name of the United States.
 
-**(f) Issuing a Deposition Subpoena.**
+**(3) Joinder of the Real Party in Interest.** The court may not dismiss an action for failure to prosecute in the name of the real party in interest until, after an objection, a reasonable time has been allowed for the real party in interest to ratify, join, or be substituted into the action. After ratification, joinder, or substitution, the action proceeds as if it had been originally commenced by the real party in interest.
 
-**(1) Issuance.** A court order to take a deposition authorizes the clerk in the district where the deposition is to be taken to issue a subpoena for any witness named or described in the order.
+**(b) Capacity to Sue or Be Sued.** Capacity to sue or be sued is determined as follows:
 
-**(2) Place.** After considering the convenience of the witness and the parties, the court may order—and the subpoena may require—the witness to appear anywhere the court designates.
+**(1)** for an individual who is not acting in a representative capacity, by the law of the individual's domicile;
 
-**(g) Contempt.** The court (other than a magistrate judge) may hold in contempt a witness who, without adequate excuse, disobeys a subpoena issued by a federal court in that district. A magistrate judge may hold in contempt a witness who, without adequate excuse, disobeys a subpoena issued by that magistrate judge as provided in 28 U.S.C. § 636(e).
+**(2)** for a corporation, by the law under which it was organized; and
 
-**(h) Information Not Subject to a Subpoena.** No party may subpoena a statement of a witness or of a prospective witness under this rule. Rule 26.2 governs the production of the statement.
+**(3)** for all other parties, by the law of the state where the court is located, except that:
 
-<p class="amendment-history">(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(29), July 31, 1975, 89 Stat. 375, eff. Dec. 1, 1975; Apr. 30, 1979, eff. Dec. 1, 1980; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)</p>
+**(A)** a partnership or other unincorporated association with no such capacity under that state's law may sue or be sued in its common name to enforce a substantive right existing under the United States Constitution or laws; and
+
+**(B)** 28 U.S.C. §§ 754 and 959(a) govern the capacity of a receiver appointed by a United States court to sue or be sued in a United States court.
+
+**(c) Minor or Incompetent Person.**
+
+**(1) With a Representative.** The following representatives may sue or defend on behalf of a minor or an incompetent person:
+
+**(A)** a general guardian;
+
+**(B)** a committee;
+
+**(C)** a conservator; or
+
+**(D)** a like fiduciary.
+
+**(2) Without a Representative.** A minor or an incompetent person who does not have a duly appointed representative may sue by a next friend or by a guardian ad litem. The court must appoint a guardian ad litem—or issue another appropriate order—to protect a minor or incompetent person who is unrepresented in an action.
+
+**(d) Public Officer's Title and Name.** A public officer who sues or is sued in an official capacity may be designated by official title rather than by name, but the court may order that the officer's name be added.
+
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Pub. L. 100–690, title VII, § 7049, Nov. 18, 1988, 102 Stat. 4401; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

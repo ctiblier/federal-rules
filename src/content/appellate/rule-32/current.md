@@ -23,7 +23,7 @@ versions: ["2025"]
 
 **(C)** Photographs, illustrations, and tables may be reproduced by any method that results in a good copy of the original; a glossy finish is acceptable if the original is glossy.
 
-**(2) Cover.** Except for filings by unrepresented parties, the cover of the appellant’s brief must be blue; the appellee’s, red; an intervenor’s or amicus curiae’s, green; any reply brief, gray and any supplemental brief, tan. The front cover of a brief must contain:
+**(2) Cover.** Except for filings by unrepresented parties, the cover of the appellant's brief must be blue; the appellee's, red; an intervenor's or amicus curiae's, green; any reply brief, gray and any supplemental brief, tan. The front cover of a brief must contain:
 
 **(A)** the number of the case centered at the top;
 
@@ -43,7 +43,7 @@ versions: ["2025"]
 
 **(5) Typeface.** Either a proportionally spaced or a monospaced face may be used.
 
-**(A) A proportionally spaced face must include serifs, but sans-serif type may be used in headings and captions.** A proportionally spaced face must be 14-point or larger.
+**(A)** A proportionally spaced face must include serifs, but sans-serif type may be used in headings and captions. A proportionally spaced face must be 14-point or larger.
 
 **(B) A monospaced face may not contain more than 10 ⁄ characters per inch.**
 
@@ -73,11 +73,11 @@ versions: ["2025"]
 
 **(2) Other Papers.** Any other paper, including a petition for panel rehearing and a petition for hearing or rehearing en banc, and any response to such a petition, must be reproduced in the manner prescribed by Rule 32(a), with the following exceptions:
 
-**(A) A cover is not necessary if the caption and signature page of the paper together contain the information required by Rule 32(a)(2).** If a cover is used, it must be white.
+**(A)** A cover is not necessary if the caption and signature page of the paper together contain the information required by Rule 32(a)(2). If a cover is used, it must be white.
 
 **(B) Rule 32(a)(7) does not apply.**
 
-**(d) Signature.** Every brief, motion, or other paper filed with the court must be signed by the party filing the paper or, if the party is represented, by one of the party’s attorneys.
+**(d) Signature.** Every brief, motion, or other paper filed with the court must be signed by the party filing the paper or, if the party is represented, by one of the party's attorneys.
 
 **(e) Local Variation.** Every court of appeals must accept documents that comply with the form requirements of this rule and the length limits set by these rules. By local rule or order in a particular case, a court of appeals may accept documents that do not meet all the form requirements of this rule or the length limits set by these rules.
 

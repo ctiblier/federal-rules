@@ -1,6 +1,6 @@
 ---
 rule: "33"
-title: "New Trial"
+title: "Interrogatories to Parties"
 title_number: "VII"
 title_name: "Post-Conviction Procedures"
 summary: ""
@@ -9,16 +9,38 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 70
+source_pdf_page: 75
 versions: ["2025"]
 ---
 
-**(a) Defendant’s Motion.** Upon the defendant’s motion, the court may vacate any judgment and grant a new trial if the interest of justice so requires. If the case was tried without a jury, the court may take additional testimony and enter a new judgment.
+**(a) In General.**
 
-**(b) Time to File.**
+**(1) Number.** Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
 
-**(1) Newly Discovered Evidence.** Any motion for a new trial grounded on newly discovered evidence must be filed within 3 years after the verdict or finding of guilty. If an appeal is pending, the court may not grant a motion for a new trial until the appellate court remands the case.
+**(2) Scope.** An interrogatory may relate to any matter that may be inquired into under Rule 26(b). An interrogatory is not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the court may order that the interrogatory need not be answered until designated discovery is complete, or until a pretrial conference or some other time.
 
-**(2) Other Grounds.** Any motion for a new trial grounded on any reason other than newly discovered evidence must be filed within 14 days after the verdict or finding of guilty.
+**(b) Answers and Objections.**
 
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+**(1) Responding Party.** The interrogatories must be answered:
+
+**(A)** by the party to whom they are directed; or
+
+**(B)** if that party is a public or private corporation, a partnership, an association, or a governmental agency, by any officer or agent, who must furnish the information available to the party.
+
+**(2) Time to Respond.** The responding party must serve its answers and any objections within 30 days after being served with the interrogatories. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
+
+**(3) Answering Each Interrogatory.** Each interrogatory must, to the extent it is not objected to, be answered separately and fully in writing under oath.
+
+**(4) Objections.** The grounds for objecting to an interrogatory must be stated with specificity. Any ground not stated in a timely objection is waived unless the court, for good cause, excuses the failure.
+
+**(5) Signature.** The person who makes the answers must sign them, and the attorney who objects must sign any objections.
+
+**(c) Use.** An answer to an interrogatory may be used to the extent allowed by the Federal Rules of Evidence.
+
+**(d) Option to Produce Business Records.** If the answer to an interrogatory may be determined by examining, auditing, compiling, abstracting, or summarizing a party's business records (including electronically stored information), and if the burden of deriving or ascertaining the answer will be substantially the same for either party, the responding party may answer by:
+
+**(1)** specifying the records that must be reviewed, in sufficient detail to enable the interrogating party to locate and identify them as readily as the responding party could; and
+
+**(2)** giving the interrogating party a reasonable opportunity to examine and audit the records and to make copies, compilations, abstracts, or summaries.
+
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)</p>

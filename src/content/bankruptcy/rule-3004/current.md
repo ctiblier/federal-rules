@@ -13,7 +13,7 @@ source_pdf_page: 68
 versions: ["2025"]
 ---
 
-**(a) Filing by the Debtor or Trustee.** If a creditor does not file a proof of claim within the time prescribed by Rule 3002(c) or Rule 3003(c), the debtor or trustee may do so within 30 days after the creditor’s time to file expires.
+**(a) Filing by the Debtor or Trustee.** If a creditor does not file a proof of claim within the time prescribed by Rule 3002(c) or Rule 3003(c), the debtor or trustee may do so within 30 days after the creditor's time to file expires.
 
 **(b) Notice by the Clerk.** The clerk must promptly give notice of the filing to: • the creditor; • the debtor; and • the trustee.
 

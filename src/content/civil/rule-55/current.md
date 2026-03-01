@@ -13,11 +13,11 @@ source_pdf_page: 99
 versions: ["2025"]
 ---
 
-**(a) Entering a Default.** When a party against whom a judgment for affirmative relief is sought has failed to plead or otherwise defend, and that failure is shown by affidavit or otherwise, the clerk must enter the party’s default.
+**(a) Entering a Default.** When a party against whom a judgment for affirmative relief is sought has failed to plead or otherwise defend, and that failure is shown by affidavit or otherwise, the clerk must enter the party's default.
 
 **(b) Entering a Default Judgment.**
 
-**(1) By the Clerk.** If the plaintiff’s claim is for a sum certain or a sum that can be made certain by computation, the clerk— on the plaintiff’s request, with an affidavit showing the amount due—must enter judgment for that amount and costs against a defendant who has been defaulted for not appearing and who is neither a minor nor an incompetent person.
+**(1) By the Clerk.** If the plaintiff's claim is for a sum certain or a sum that can be made certain by computation, the clerk— on the plaintiff's request, with an affidavit showing the amount due—must enter judgment for that amount and costs against a defendant who has been defaulted for not appearing and who is neither a minor nor an incompetent person.
 
 **(2) By the Court.** In all other cases, the party must apply to the court for a default judgment. A default judgment may be entered against a minor or incompetent person only if represented by a general guardian, conservator, or other like fiduciary who has appeared. If the party against whom a default judgment is sought has appeared personally or by a representative, that party or its representative must be served with written notice of the application at least 7 days before the hearing. The court may conduct hearings or make referrals— preserving any federal statutory right to a jury trial—when, to enter or effectuate judgment, it needs to:
 

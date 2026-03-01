@@ -13,13 +13,13 @@ source_pdf_page: 118
 versions: ["2025"]
 ---
 
-**(a) Notice of Appeal and Accompanying Motion for Leave to Appeal.** To appeal under 28 U.S.C. § 158(a)(3) from a bankruptcy court’s interlocutory order or decree, a party must file with the bankruptcy clerk a notice of appeal under Rule 8003(a). The notice must:
+**(a) Notice of Appeal and Accompanying Motion for Leave to Appeal.** To appeal under 28 U.S.C. § 158(a)(3) from a bankruptcy court's interlocutory order or decree, a party must file with the bankruptcy clerk a notice of appeal under Rule 8003(a). The notice must:
 
 **(1)** be filed within the time allowed by Rule 8002;
 
 **(2)** be accompanied by a motion for leave to appeal prepared in accordance with (b); and
 
-**(3)** unless served electronically using the court’s electronicfiling system, include proof of service in accordance with Rule 8011(d).
+**(3)** unless served electronically using the court's electronicfiling system, include proof of service in accordance with Rule 8011(d).
 
 **(b) Content of the Motion for Leave to Appeal; Response.**
 

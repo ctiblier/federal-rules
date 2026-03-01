@@ -13,9 +13,9 @@ source_pdf_page: 151
 versions: ["2025"]
 ---
 
-**(a) Signature.** Every petition, pleading, written motion, and other document—except a list, schedule, or statement, or an amendment to one of them—must be signed by at least one attorney of record in the attorney’s individual name. A party not represented by an attorney must sign all documents. Each document must state the signer’s address and telephone number, if any. The court must strike an unsigned document unless the omission is promptly corrected after being called to the attorney’s or party’s attention.
+**(a) Signature.** Every petition, pleading, written motion, and other document—except a list, schedule, or statement, or an amendment to one of them—must be signed by at least one attorney of record in the attorney's individual name. A party not represented by an attorney must sign all documents. Each document must state the signer's address and telephone number, if any. The court must strike an unsigned document unless the omission is promptly corrected after being called to the attorney's or party's attention.
 
-**(b) Representations to the Court.** By presenting to the court a petition, pleading, written motion, or other document—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that, to the best of the person’s knowledge, information, and belief formed after an inquiry reasonable under the circumstances:
+**(b) Representations to the Court.** By presenting to the court a petition, pleading, written motion, or other document—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that, to the best of the person's knowledge, information, and belief formed after an inquiry reasonable under the circumstances:
 
 **(1)** it is not presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase litigation costs;
 
@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(B) When to File.** The motion for sanctions must not be filed or presented to the court if the challenged document, claim, defense, contention, allegation, or denial is withdrawn or appropriately corrected within 21 days after the motion was served (or within another period as the court may order). This limitation does not apply if the conduct alleged is filing a petition in violation of (b).
 
-**(C) Awarding Damages.** If warranted, the court may award to the prevailing party the reasonable expenses and attorney’s fees incurred in presenting or opposing the motion.
+**(C) Awarding Damages.** If warranted, the court may award to the prevailing party the reasonable expenses and attorney's fees incurred in presenting or opposing the motion.
 
 **(3) By the Court.** On its own, the court may enter an order describing the specific conduct that appears to violate (b) and directing an attorney, law firm, or party to show cause why it has not violated (b).
 
@@ -47,7 +47,7 @@ versions: ["2025"]
 
 **(ii)** an order to pay a penalty into court; or
 
-**(iii)** if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of all or part of the reasonable attorney’s fees and other expenses directly resulting from the violation.
+**(iii)** if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of all or part of the reasonable attorney's fees and other expenses directly resulting from the violation.
 
 **(B) Limitations on a Monetary Sanction.** The court must not impose a monetary sanction:
 

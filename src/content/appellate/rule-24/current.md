@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) Motion in the District Court.** Except as stated in Rule 24(a)(3), a party to a district-court action who desires to appeal in forma pauperis must file a motion in the district court. The party must attach an affidavit that:
 
-**(A)** shows in the detail prescribed by Form 4 of the Appendix of Forms the party’s inability to pay or to give security for fees and costs;
+**(A)** shows in the detail prescribed by Form 4 of the Appendix of Forms the party's inability to pay or to give security for fees and costs;
 
 **(B)** claims an entitlement to redress; and
 
@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(B)** a statute provides otherwise.
 
-**(4) Notice of District Court’s Denial.** The district clerk must immediately notify the parties and the court of appeals when the district court does any of the following:
+**(4) Notice of District Court's Denial.** The district clerk must immediately notify the parties and the court of appeals when the district court does any of the following:
 
 **(A)** denies a motion to proceed on appeal in forma pauperis;
 
@@ -39,9 +39,9 @@ versions: ["2025"]
 
 **(C)** finds that the party is not otherwise entitled to proceed in forma pauperis.
 
-**(5) Motion in the Court of Appeals.** A party may file a motion to proceed on appeal in forma pauperis in the court of appeals within 30 days after service of the notice prescribed in Rule 24(a)(4). The motion must include a copy of the affidavit filed in the district court and the district court’s statement of reasons for its action. If no affidavit was filed in the district court, the party must include the affidavit prescribed by Rule 24(a)(1).
+**(5) Motion in the Court of Appeals.** A party may file a motion to proceed on appeal in forma pauperis in the court of appeals within 30 days after service of the notice prescribed in Rule 24(a)(4). The motion must include a copy of the affidavit filed in the district court and the district court's statement of reasons for its action. If no affidavit was filed in the district court, the party must include the affidavit prescribed by Rule 24(a)(1).
 
-**(b) Leave to Proceed in Forma Pauperis on Appeal from the United States Tax Court or on Appeal or Review of an Administrative-Agency Proceeding.** A party may file in the court of appeals a motion for leave to proceed on appeal in forma pauperis with an affidavit prescribed by Rule 24(a)(1):
+**(b)** Leave to Proceed in Forma Pauperis on Appeal from the United States Tax Court or on Appeal or Review of an Administrative-Agency Proceeding. A party may file in the court of appeals a motion for leave to proceed on appeal in forma pauperis with an affidavit prescribed by Rule 24(a)(1):
 
 **(1)** in an appeal from the United States Tax Court; and
 

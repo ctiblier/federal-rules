@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(C) The moving party must give reasonable notice of the motion to all parties.**
 
-**(D) The motion must be filed with the circuit clerk and normally will be considered by a panel of the court.** But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.
+**(D)** The motion must be filed with the circuit clerk and normally will be considered by a panel of the court. But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.
 
 **(b) Bond.** The court may condition relief on the filing of a bond or other appropriate security.
 

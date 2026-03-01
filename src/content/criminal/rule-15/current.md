@@ -1,76 +1,52 @@
 ---
 rule: "15"
-title: "Depositions"
+title: "Amended and Supplemental Pleadings"
 title_number: "IV"
 title_name: "Arraignment and Preparation for Trial"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 45
+source_pdf_page: 43
 versions: ["2025"]
 ---
 
-**(a) When Taken.**
+**(a) Amendments Before Trial.**
 
-**(1) In General.** A party may move that a prospective witness be deposed in order to preserve testimony for trial. The court may grant the motion because of exceptional circumstances and in the interest of justice. If the court orders the deposition to be taken, it may also require the deponent to produce at the deposition any designated material that is not privileged, including any book, paper, document, record, recording, or data.
+**(1) Amending as a Matter of Course.** A party may amend its pleading once as a matter of course no later than:
 
-**(2) Detained Material Witness.** A witness who is detained under 18 U.S.C. § 3144 may request to be deposed by filing a written motion and giving notice to the parties. The court may then order that the deposition be taken and may discharge the witness after the witness has signed under oath the deposition transcript.
+**(A) 21 days after serving it, or**
 
-**(b) Notice.**
+**(B)** if the pleading is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of a motion under Rule 12(b), (e), or (f), whichever is earlier.
 
-**(1) In General.** A party seeking to take a deposition must give every other party reasonable written notice of the deposition’s date and location. The notice must state the name and address of each deponent. If requested by a party receiving the notice, the court may, for good cause, change the deposition’s date or location.
+**(2) Other Amendments.** In all other cases, a party may amend its pleading only with the opposing party's written consent or the court's leave. The court should freely give leave when justice so requires.
 
-**(2) To the Custodial Officer.** A party seeking to take the deposition must also notify the officer who has custody of the defendant of the scheduled date and location.
+**(3) Time to Respond.** Unless the court orders otherwise, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 14 days after service of the amended pleading, whichever is later.
 
-**(c) Defendant’s Presence.**
+**(b) Amendments During and After Trial.**
 
-**(1) Defendant in Custody.** Except as authorized by Rule 15(c)(3), the officer who has custody of the defendant must produce the defendant at the deposition and keep the defendant in the witness’s presence during the examination, unless the defendant:
+**(1) Based on an Objection at Trial.** If, at trial, a party objects that evidence is not within the issues raised in the pleadings, the court may permit the pleadings to be amended. The court should freely permit an amendment when doing so will aid in presenting the merits and the objecting party fails to satisfy the court that the evidence would prejudice that party's action or defense on the merits. The court may grant a continuance to enable the objecting party to meet the evidence.
 
-**(A)** waives in writing the right to be present; or
+**(2) For Issues Tried by Consent.** When an issue not raised by the pleadings is tried by the parties' express or implied consent, it must be treated in all respects as if raised in the pleadings. A party may move—at any time, even after judgment— to amend the pleadings to conform them to the evidence and to raise an unpleaded issue. But failure to amend does not affect the result of the trial of that issue.
 
-**(B)** persists in disruptive conduct justifying exclusion after being warned by the court that disruptive conduct will result in the defendant’s exclusion.
+**(c) Relation Back of Amendments.**
 
-**(2) Defendant Not in Custody.** Except as authorized by Rule 15(c)(3), a defendant who is not in custody has the right upon request to be present at the deposition, subject to any conditions imposed by the court. If the government tenders the defendant’s expenses as provided in Rule 15(d) but the defendant still fails to appear, the defendant—absent good cause—waives both the right to appear and any objection to the taking and use of the deposition based on that right.
+**(1) When an Amendment Relates Back.** An amendment to a pleading relates back to the date of the original pleading when:
 
-**(3) Taking Depositions Outside the United States Without the Defendant’s Presence.** The deposition of a witness who is outside the United States may be taken without the defendant’s presence if the court makes case-specific findings of all the following:
+**(A)** the law that provides the applicable statute of limitations allows relation back;
 
-**(A)** the witness’s testimony could provide substantial proof of a material fact in a felony prosecution;
+**(B)** the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence set out—or attempted to be set out—in the original pleading; or
 
-**(B)** there is a substantial likelihood that the witness’s attendance at trial cannot be obtained;
+**(C)** the amendment changes the party or the naming of the party against whom a claim is asserted, if Rule 15(c)(1)(B) is satisfied and if, within the period provided by Rule 4(m) for serving the summons and complaint, the party to be brought in by amendment:
 
-**(C)** the witness’s presence for a deposition in the United States cannot be obtained;
+**(i)** received such notice of the action that it will not be prejudiced in defending on the merits; and
 
-**(D)** the defendant cannot be present because:
+**(ii)** knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
 
-**(i)** the country where the witness is located will not permit the defendant to attend the deposition;
+**(2) Notice to the United States.** When the United States or a United States officer or agency is added as a defendant by amendment, the notice requirements of Rule 15(c)(1)(C)(i) and (ii) are satisfied if, during the stated period, process was delivered or mailed to the United States attorney or the United States attorney's designee, to the Attorney General of the United States, or to the officer or agency.
 
-**(ii)** for an in-custody defendant, secure transportation and continuing custody cannot be assured at the witness’s location; or
+**(d) Supplemental Pleadings.** On motion and reasonable notice, the court may, on just terms, permit a party to serve a supplemental pleading setting out any transaction, occurrence, or event that happened after the date of the pleading to be supplemented. The court may permit supplementation even though the original pleading is defective in stating a claim or defense. The court may order that the opposing party plead to the supplemental pleading within a specified time.
 
-**(iii)** for an out-of-custody defendant, no reasonable conditions will assure an appearance at the deposition or at trial or sentencing; and
-
-**(E)** the defendant can meaningfully participate in the deposition through reasonable means.
-
-**(d) Expenses.** If the deposition was requested by the government, the court may—or if the defendant is unable to bear the deposition expenses, the court must—order the government to pay:
-
-**(1)** any reasonable travel and subsistence expenses of the defendant and the defendant’s attorney to attend the deposition; and
-
-**(2)** the costs of the deposition transcript.
-
-**(e) Manner of Taking.** Unless these rules or a court order provides otherwise, a deposition must be taken and filed in the same manner as a deposition in a civil action, except that:
-
-**(1) A defendant may not be deposed without that defendant’s consent.**
-
-**(2)** The scope and manner of the deposition examination and cross-examination must be the same as would be allowed during trial.
-
-**(3)** The government must provide to the defendant or the defendant’s attorney, for use at the deposition, any statement of the deponent in the government’s possession to which the defendant would be entitled at trial.
-
-**(f) Admissibility and Use as Evidence.** An order authorizing a deposition to be taken under this rule does not determine its admissibility. A party may use all or part of a deposition as provided by the Federal Rules of Evidence.
-
-**(g) Objections.** A party objecting to deposition testimony or evidence must state the grounds for the objection during the deposition.
-
-**(h) Depositions by Agreement Permitted.** The parties may by agreement take and use a deposition with the court’s consent.
-
-<p class="amendment-history">(As amended Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(15)–(19), July 31, 1975, 89 Stat. 373, 374, eff. Dec. 1, 1975; Pub. L. 98–473, title II, § 209(b), Oct. 12, 1984, 98 Stat. 1986; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2012, eff. Dec. 1, 2012.)</p>
+<p class="amendment-history">(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Pub. L. 102–198, § 11(a), Dec. 9, 1991, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 24, 2023, eff. Dec. 1, 2023.)</p>

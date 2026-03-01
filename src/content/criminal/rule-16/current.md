@@ -1,6 +1,6 @@
 ---
 rule: "16"
-title: "Discovery and Inspection"
+title: "Pretrial Conferences; Scheduling; Management"
 title_number: "IV"
 title_name: "Arraignment and Preparation for Trial"
 summary: ""
@@ -9,126 +9,106 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 47
+source_pdf_page: 44
 versions: ["2025"]
 ---
 
-**(a) Government’s Disclosure.**
+**(a) Purposes of a Pretrial Conference.** In any action, the court may order the attorneys and any unrepresented parties to appear for one or more pretrial conferences for such purposes as:
 
-**(1) Information Subject to Disclosure.**
+**(1)** expediting disposition of the action;
 
-**(A) Defendant’s Oral Statement.** Upon a defendant’s request, the government must disclose to the defendant the substance of any relevant oral statement made by the defendant, before or after arrest, in response to interrogation by a person the defendant knew was a government agent if the government intends to use the statement at trial.
+**(2)** establishing early and continuing control so that the case will not be protracted because of lack of management;
 
-**(B) Defendant’s Written or Recorded Statement.** Upon a defendant’s request, the government must disclose to the defendant, and make available for inspection, copying, or photographing, all of the following:
+**(3)** discouraging wasteful pretrial activities;
 
-**(i)** any relevant written or recorded statement by the defendant if: • the statement is within the government’s possession, custody, or control; and • the attorney for the government knows—or through due diligence could know—that the statement exists;
+**(4)** improving the quality of the trial through more thorough preparation; and
 
-**(ii)** the portion of any written record containing the substance of any relevant oral statement made before or after arrest if the defendant made the statement in response to interrogation by a person the defendant knew was a government agent; and
+**(5)** facilitating settlement.
 
-**(iii)** the defendant’s recorded testimony before a grand jury relating to the charged offense.
+**(b) Scheduling.**
 
-**(C) Organizational Defendant.** Upon a defendant’s request, if the defendant is an organization, the government must disclose to the defendant any statement described in Rule 16(a)(1)(A) and (B) if the government contends that the person making the statement:
+**(1) Scheduling Order.** Except in categories of actions exempted by local rule, the district judge—or a magistrate judge when authorized by local rule—must issue a scheduling order:
 
-**(i)** was legally able to bind the defendant regarding the subject of the statement because of that person’s position as the defendant’s director, officer, employee, or agent; or
+**(A)** after receiving the parties' report under Rule 26(f); or
 
-**(ii)** was personally involved in the alleged conduct constituting the offense and was legally able to bind the defendant regarding that conduct because of that person’s position as the defendant’s director, officer, employee, or agent.
+**(B)** after consulting with the parties' attorneys and any unrepresented parties at a scheduling conference.
 
-**(D) Defendant’s Prior Record.** Upon a defendant’s request, the government must furnish the defendant with a copy of the defendant’s prior criminal record that is within the government’s possession, custody, or control if the attorney for the government knows—or through due diligence could know—that the record exists.
+**(2) Time to Issue.** The judge must issue the scheduling order as soon as practicable, but unless the judge finds good cause for delay, the judge must issue it within the earlier of 90 days after any defendant has been served with the complaint or 60 days after any defendant has appeared.
 
-**(E) Documents and Objects.** Upon a defendant’s request, the government must permit the defendant to inspect and to copy or photograph books, papers, documents, data, photographs, tangible objects, buildings or places, or copies or portions of any of these items, if the item is within the government’s possession, custody, or control and:
+**(3) Contents of the Order.**
 
-**(i)** the item is material to preparing the defense;
+**(A) Required Contents.** The scheduling order must limit the time to join other parties, amend the pleadings, complete discovery, and file motions.
 
-**(ii)** the government intends to use the item in its case-in-chief at trial; or
+**(B) Permitted Contents.** The scheduling order may:
 
-**(iii)** the item was obtained from or belongs to the defendant.
+**(i)** modify the timing of disclosures under Rules 26(a) and 26(e)(1);
 
-**(F) Reports of Examinations and Tests.** Upon a defendant’s request, the government must permit a defendant to inspect and to copy or photograph the results or reports of any physical or mental examination and of any scientific test or experiment if:
+**(ii)** modify the extent of discovery;
 
-**(i)** the item is within the government’s possession, custody, or control;
+**(iii)** provide for disclosure, discovery, or preservation of electronically stored information;
 
-**(ii)** the attorney for the government knows—or through due diligence could know—that the item exists; and
+**(iv)** include any agreements the parties reach for asserting claims of privilege or of protection as trialpreparation material after information is produced, including agreements reached under Federal Rule of Evidence 502;
 
-**(iii)** the item is material to preparing the defense or the government intends to use the item in its case-inchief at trial.
+**(v)** direct that before moving for an order relating to discovery, the movant must request a conference with the court;
 
-**(G) Expert Witnesses.**
+**(vi)** set dates for pretrial conferences and for trial; and
 
-**(i)** At the defendant’s request, the government must disclose to the defendant, in writing, the information required by (iii) for any testimony that the government intends to use at trial under Federal Rule of Evidence 702, 703, or 705 during its case-inchief, or during its rebuttal to counter testimony that the defendant has timely disclosed under (b)(1)(C). If the government requests discovery under the second bullet point in (b)(1)(C)(i) and the defendant complies, the government must, at the defendant’s request, disclose to the defendant, in writing, the information required by (iii) for testimony that the government intends to use at trial under Federal Rule of Evidence 702, 703, or 705 on the issue of the defendant’s mental condition.
+**(vii)** include other appropriate matters.
 
-**(ii)** The court, by order or local rule, must set a time for the government to make its disclosures. The time must be sufficiently before trial to provide a fair opportunity for the defendant to meet the government’s evidence.
+**(4) Modifying a Schedule.** A schedule may be modified only for good cause and with the judge's consent.
 
-**(iii)** The disclosure for each expert witness must contain: • a complete statement of all opinions that the government will elicit from the witness in its casein-chief, or during its rebuttal to counter testimony that the defendant has timely disclosed under (b)(1)(C); • the bases and reasons for them; • the witness’s qualifications, including a list of all publications authored in the previous 10 years; and • a list of all other cases in which, during the previous 4 years, the witness has testified as an expert at trial or by deposition.
+**(c) Attendance and Matters for Consideration at a Pretrial Conference.**
 
-**(iv)** If the government previously provided a report under (F) that contained information required by (iii), that information may be referred to, rather than repeated, in the expertwitness disclosure.
+**(1) Attendance.** A represented party must authorize at least one of its attorneys to make stipulations and admissions about all matters that can reasonably be anticipated for discussion at a pretrial conference. If appropriate, the court may require that a party or its representative be present or reasonably available by other means to consider possible settlement.
 
-**(v)** The witness must approve and sign the disclosure, unless the government: • states in the disclosure why it could not obtain the witness’s signature through reasonable efforts; or • has previously provided under (F) a report, signed by the witness, that contains all the opinions and the bases and reasons for them required by (iii).
+**(2) Matters for Consideration.** At any pretrial conference, the court may consider and take appropriate action on the following matters:
 
-**(vi)** The government must supplement or correct its disclosures in accordance with (c).
+**(A)** formulating and simplifying the issues, and eliminating frivolous claims or defenses;
 
-**(2) Information Not Subject to Disclosure.** Except as permitted by Rule 16(a)(1)(A)–(D), (F), and (G), this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by an attorney for the government or other government agent in connection with investigating or prosecuting the case. Nor does this rule authorize the discovery or inspection of statements made by prospective government witnesses except as provided in 18 U.S.C. § 3500.
+**(B)** amending the pleadings if necessary or desirable;
 
-**(3) Grand Jury Transcripts.** This rule does not apply to the discovery or inspection of a grand jury’s recorded proceedings, except as provided in Rules 6, 12(h), 16(a)(1), and 26.2.
+**(C)** obtaining admissions and stipulations about facts and documents to avoid unnecessary proof, and ruling in advance on the admissibility of evidence;
 
-**(b) Defendant’s Disclosure.**
+**(D)** avoiding unnecessary proof and cumulative evidence, and limiting the use of testimony under Federal Rule of Evidence 702;
 
-**(1) Information Subject to Disclosure.**
+**(E)** determining the appropriateness and timing of summary adjudication under Rule 56;
 
-**(A) Documents and Objects.** If a defendant requests disclosure under Rule 16(a)(1)(E) and the government complies, then the defendant must permit the government, upon request, to inspect and to copy or photograph books, papers, documents, data, photographs, tangible objects, buildings or places, or copies or portions of any of these items if:
+**(F)** controlling and scheduling discovery, including orders affecting disclosures and discovery under Rule 26 and Rules 29 through 37;
 
-**(i)** the item is within the defendant’s possession, custody, or control; and
+**(G)** identifying witnesses and documents, scheduling the filing and exchange of any pretrial briefs, and setting dates for further conferences and for trial;
 
-**(ii)** the defendant intends to use the item in the defendant’s case-in-chief at trial.
+**(H)** referring matters to a magistrate judge or a master;
 
-**(B) Reports of Examinations and Tests.** If a defendant requests disclosure under Rule 16(a)(1)(F) and the government complies, the defendant must permit the government, upon request, to inspect and to copy or photograph the results or reports of any physical or mental examination and of any scientific test or experiment if:
+**(I)** settling the case and using special procedures to assist in resolving the dispute when authorized by statute or local rule;
 
-**(i)** the item is within the defendant’s possession, custody, or control; and
+**(J)** determining the form and content of the pretrial order;
 
-**(ii)** the defendant intends to use the item in the defendant’s case-in-chief at trial, or intends to call the witness who prepared the report and the report relates to the witness’s testimony.
+**(K)** disposing of pending motions;
 
-**(C) Expert Witnesses.**
+**(L)** adopting special procedures for managing potentially difficult or protracted actions that may involve complex issues, multiple parties, difficult legal questions, or unusual proof problems;
 
-**(i)** At the government’s request, the defendant must disclose to the government, in writing, the information required by (iii) for any testimony that the defendant intends to use under Federal Rule of Evidence 702, 703, or 705 during the defendant’s case-in-chief at trial, if: • the defendant requests disclosure under (a)(1)(G) and the government complies; or • the defendant has given notice under Rule 12.2(b) of an intent to present expert testimony on the defendant’s mental condition.
+**(M)** ordering a separate trial under Rule 42(b) of a claim, counterclaim, crossclaim, third-party claim, or particular issue;
 
-**(ii)** The court, by order or local rule, must set a time for the defendant to make the defendant’s disclosures. The time must be sufficiently before trial to provide a fair opportunity for the government to meet the defendant’s evidence.
+**(N)** ordering the presentation of evidence early in the trial on a manageable issue that might, on the evidence, be the basis for a judgment as a matter of law under Rule 50(a) or a judgment on partial findings under Rule 52(c);
 
-**(iii)** The disclosure for each expert witness must contain: • a complete statement of all opinions that the defendant will elicit from the witness in the defendant’s case-in-chief; • the bases and reasons for them; • the witness’s qualifications, including a list of all publications authored in the previous 10 years; and • a list of all other cases in which, during the previous 4 years, the witness has testified as an expert at trial or by deposition.
+**(O)** establishing a reasonable limit on the time allowed to present evidence; and
 
-**(iv)** If the defendant previously provided a report under (B) that contained information required by (iii), that information may be referred to, rather than repeated, in the expertwitness disclosure.
+**(P)** facilitating in other ways the just, speedy, and inexpensive disposition of the action.
 
-**(v)** The witness must approve and sign the disclosure, unless the defendant: • states in the disclosure why the defendant could not obtain the witness’s signature through reasonable efforts; or • has previously provided under (B) a report, signed by the witness, that contains all the opinions and the bases and reasons for them required by (iii).
+**(d) Pretrial Orders.** After any conference under this rule, the court should issue an order reciting the action taken. This order controls the course of the action unless the court modifies it.
 
-**(vi)** The defendant must supplement or correct the defendant’s disclosures in accordance with (c).
+**(e) Final Pretrial Conference and Orders.** The court may hold a final pretrial conference to formulate a trial plan, including a plan to facilitate the admission of evidence. The conference must be held as close to the start of trial as is reasonable, and must be attended by at least one attorney who will conduct the trial for each party and by any unrepresented party. The court may modify the order issued after a final pretrial conference only to prevent manifest injustice.
 
-**(2) Information Not Subject to Disclosure.** Except for scientific or medical reports, Rule 16(b)(1) does not authorize discovery or inspection of:
+**(f) Sanctions.**
 
-**(A)** reports, memoranda, or other documents made by the defendant, or the defendant’s attorney or agent, during the case’s investigation or defense; or
+**(1) In General.** On motion or on its own, the court may issue any just orders, including those authorized by Rule 37(b)(2)(A)(ii)–(vii), if a party or its attorney:
 
-**(B)** a statement made to the defendant, or the defendant’s attorney or agent, by:
+**(A)** fails to appear at a scheduling or other pretrial conference;
 
-**(i)** the defendant;
+**(B)** is substantially unprepared to participate—or does not participate in good faith—in the conference; or
 
-**(ii)** a government or defense witness; or
+**(C)** fails to obey a scheduling or other pretrial order.
 
-**(iii)** a prospective government or defense witness.
+**(2) Imposing Fees and Costs.** Instead of or in addition to any other sanction, the court must order the party, its attorney, or both to pay the reasonable expenses—including attorney's fees—incurred because of any noncompliance with this rule, unless the noncompliance was substantially justified or other circumstances make an award of expenses unjust.
 
-**(c) Continuing Duty to Disclose.** A party who discovers additional evidence or material before or during trial must promptly disclose its existence to the other party or the court if:
-
-**(1)** the evidence or material is subject to discovery or inspection under this rule; and
-
-**(2)** the other party previously requested, or the court ordered, its production.
-
-**(d) Regulating Discovery.**
-
-**(1) Protective and Modifying Orders.** At any time the court may, for good cause, deny, restrict, or defer discovery or inspection, or grant other appropriate relief. The court may permit a party to show good cause by a written statement that the court will inspect ex parte. If relief is granted, the court must preserve the entire text of the party’s statement under seal.
-
-**(2) Failure to Comply.** If a party fails to comply with this rule, the court may:
-
-**(A)** order that party to permit the discovery or inspection; specify its time, place, and manner; and prescribe other just terms and conditions;
-
-**(B)** grant a continuance;
-
-**(C)** prohibit that party from introducing the undisclosed evidence; or
-
-**(D)** enter any other order that is just under the circumstances.
-
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(20)–(28), July 31, 1975, 89 Stat. 374, 375, eff. Dec. 1, 1975; Pub. L. 94–149, § 5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, § 11019(b), Nov. 2, 2002, 117 Stat. 1825, eff. Dec. 1, 2002; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.)</p>
+<p class="amendment-history">(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)</p>

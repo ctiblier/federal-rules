@@ -13,41 +13,41 @@ source_pdf_page: 123
 versions: ["2025"]
 ---
 
-**(a) Designating the Record on Appeal; Statement of the Is - sues ; Content of the Record.**
+**(a) Designating the Record on Appeal; Statement of the Issues; Content of the Record.**
 
-**(1) Appellant’s Designation and Statement of the Issues.** The appellant must:
+**(1) Appellant's Designation and Statement of the Issues.** The appellant must:
 
 **(A)** file with the bankruptcy clerk a designation of the items to be included in the record on appeal and a statement of the issues to be presented; and
 
 **(B)** file and serve the designation and statement on the appellee within 14 days after: • the notice of appeal as of right has become effective under Rule 8002; or • an order granting leave to appeal has been entered. Premature service is treated as service on the first day on which filing is timely.
 
-**(2) Appellee’s and Cross-Appellant’s Designation and Statement of the Issues.**
+**(2) Appellee's and Cross-Appellant's Designation and Statement of the Issues.**
 
 **(A) Appellee.** Within 14 days after being served, the appellee may file with the bankruptcy clerk and serve on the appellant a designation of additional items to be included in the record.
 
 **(B) Cross-Appellant.** An appellee who files a cross-appeal must file and serve a designation of additional items to be included in the record and a statement of the issues to be presented on the cross-appeal.
 
-**(3) Cross-Appellee’s Designation.** Within 14 days after the cross-appellant’s designation and statement have been served, the cross-appellee may file with the bankruptcy clerk and serve on the cross-appellant a designation of additional items to be included in the record.
+**(3) Cross-Appellee's Designation.** Within 14 days after the cross-appellant's designation and statement have been served, the cross-appellee may file with the bankruptcy clerk and serve on the cross-appellant a designation of additional items to be included in the record.
 
 **(4) Record on Appeal.** The record on appeal must include: • the docket entries kept by the bankruptcy clerk; • items designated by the parties; • the notice of appeal; • the judgment, order, or decree being appealed; • any order granting leave to appeal; • any certification required for a direct appeal to the court of appeals; • any opinion, findings of fact and conclusions of law relating to the issues on appeal, including transcripts of all oral rulings; • any transcript ordered under (b); • any statement required by (c); and • any other items from the record that the court where the appeal is pending orders to be included.
 
-**(5) Copies for the Bankruptcy Clerk.** If paper copies are needed and the bankruptcy clerk requests copies of designated items, the party filing the designation must provide them. If the party fails to do so, the bankruptcy clerk must prepare them at that party’s expense.
+**(5) Copies for the Bankruptcy Clerk.** If paper copies are needed and the bankruptcy clerk requests copies of designated items, the party filing the designation must provide them. If the party fails to do so, the bankruptcy clerk must prepare them at that party's expense.
 
 **(b) Transcript of Proceedings.**
 
-**(1) Appellant’s Duty to Order.** Within the period prescribed by (a)(1), the appellant must:
+**(1) Appellant's Duty to Order.** Within the period prescribed by (a)(1), the appellant must:
 
 **(A)** order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such parts of the proceedings not already on file as the appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
 
 **(B)** file with the bankruptcy clerk a certificate stating that the appellant is not ordering a transcript.
 
-**(2) Appellee’s Duty to Order as a Cross-Appellant.** Within 14 days after the appellant has filed a copy of the transcript order—or a certificate stating that the appellant is not ordering a transcript—the appellee as cross-appellant must:
+**(2) Appellee's Duty to Order as a Cross-Appellant.** Within 14 days after the appellant has filed a copy of the transcript order—or a certificate stating that the appellant is not ordering a transcript—the appellee as cross-appellant must:
 
 **(A)** order in writing from the reporter a transcript of such additional parts of the proceedings as the cross-appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
 
 **(B)** file with the bankruptcy clerk a certificate stating that the cross-appellant is not ordering a transcript.
 
-**(3) Appellee’s or Cross-Appellee’s Right to Order.** Within 14 days after the appellant or cross-appellant has filed a copy of a transcript order—or a certificate stating that the appellant or cross-appellant is not ordering a transcript—the appellee or cross-appellee:
+**(3) Appellee's or Cross-Appellee's Right to Order.** Within 14 days after the appellant or cross-appellant has filed a copy of a transcript order—or a certificate stating that the appellant or cross-appellant is not ordering a transcript—the appellee or cross-appellee:
 
 **(A)** may order in writing from the reporter a transcript of any additional parts of the proceeding that the appellee or cross-appellee considers necessary for the appeal; and
 
@@ -59,9 +59,9 @@ versions: ["2025"]
 
 **(c) When a Transcript Is Unavailable.**
 
-**(1) Statement of the Evidence.** If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant’s recollection. The statement must be filed within the time prescribed by (a)(1) and served on the appellee.
+**(1) Statement of the Evidence.** If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be filed within the time prescribed by (a)(1) and served on the appellee.
 
-**(2) Appellee’s Response.** The appellee may serve objections or proposed amendments within 14 days after being served.
+**(2) Appellee's Response.** The appellee may serve objections or proposed amendments within 14 days after being served.
 
 **(3) Court Approval.** The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
 
@@ -69,7 +69,7 @@ versions: ["2025"]
 
 **(1) Agreed Statement.** Instead of the record on appeal as defined in (a), the parties may prepare, sign, and submit to the bankruptcy court a statement of the case showing how the issues presented by the appeal arose and were decided in the bankruptcy court.
 
-**(2) Content.** The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court’s resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court considers necessary to a full presentation of the issues on appeal—must be:
+**(2) Content.** The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court's resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court considers necessary to a full presentation of the issues on appeal—must be:
 
 **(A)** approved by the bankruptcy court; and
 

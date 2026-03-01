@@ -27,6 +27,6 @@ versions: ["2025"]
 
 **(c) Intervention; Final Decision on the Merits.** Unless the court sets a later time, the attorney general may intervene within 60 days after the notice is filed or after the court certifies the challenge, whichever is earlier. Before the time to intervene expires, the court may reject the constitutional challenge, but may not enter a final judgment holding the statute unconstitutional.
 
-**(d) No Forfeiture.** A party’s failure to file and serve the notice, or the court’s failure to certify, does not forfeit a constitutional claim or defense that is otherwise timely asserted.
+**(d) No Forfeiture.** A party's failure to file and serve the notice, or the court's failure to certify, does not forfeit a constitutional claim or defense that is otherwise timely asserted.
 
 <p class="amendment-history">(As added Apr. 12, 2006, eff. Dec. 1, 2006; amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -33,7 +33,7 @@ versions: ["2025"]
 
 **(4) Perpetuating Testimony.** An entity desiring to perpetuate testimony may do so in the manner provided by Rule 7027 for taking a deposition before an adversary proceeding.
 
-**(d) Taking Testimony on a Disputed Factual Issue.** A witness’s testimony on a disputed material factual issue must be taken in the same manner as testimony in an adversary proceeding.
+**(d) Taking Testimony on a Disputed Factual Issue.** A witness's testimony on a disputed material factual issue must be taken in the same manner as testimony in an adversary proceeding.
 
 **(e) Determining Whether a Hearing Will Be an Evidentiary Hearing.** The court must provide procedures that allow parties— at a reasonable time before a scheduled hearing—to determine whether it will be an evidentiary hearing at which witnesses may testify.
 

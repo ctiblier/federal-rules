@@ -13,9 +13,9 @@ source_pdf_page: 36
 versions: ["2025"]
 ---
 
-**(a) 21-Day Notices to the Debtor, Trustee, Creditors, and In - denture Trustees.** Except as (h), (i), (l), (p), and (q) provide otherwise, the clerk or the court’s designee must give the debtor, the trustee, all creditors, and all indenture trustees at least 21 days’ notice by mail of:
+**(a) 21-Day Notices to the Debtor, Trustee, Creditors, and Indenture Trustees.** Except as (h), (i), (l), (p), and (q) provide otherwise, the clerk or the court's designee must give the debtor, the trustee, all creditors, and all indenture trustees at least 21 days' notice by mail of:
 
-**(1)** the meeting of creditors under § 341 or § 1104(b), which notice—unless the court orders otherwise—must include the debtor’s:
+**(1)** the meeting of creditors under § 341 or § 1104(b), which notice—unless the court orders otherwise—must include the debtor's:
 
 **(A)** employer-identification number;
 
@@ -39,7 +39,7 @@ versions: ["2025"]
 
 **(9)** the time to object to confirming a Chapter 13 plan.
 
-**(b) 28-Day Notices to the Debtor, Trustee, Creditors, and In - denture Trustees.** Except as (l) provides otherwise, the clerk or the court’s designee must give the debtor, trustee, all creditors, and all indenture trustees at least 28 days’ notice by mail of:
+**(b) 28-Day Notices to the Debtor, Trustee, Creditors, and Indenture Trustees.** Except as (l) provides otherwise, the clerk or the court's designee must give the debtor, trustee, all creditors, and all indenture trustees at least 28 days' notice by mail of:
 
 **(1)** the time to file an objection and the time of the hearing to:
 
@@ -75,13 +75,13 @@ versions: ["2025"]
 
 **(C)** identify the entities that would be subject to it.
 
-**(d) Notice to Equity Security Holders in a Chapter 11 Case.** Unless the court orders otherwise, in a Chapter 11 case the clerk or the court’s designee must give notice as the court orders to the equity security holders of:
+**(d) Notice to Equity Security Holders in a Chapter 11 Case.** Unless the court orders otherwise, in a Chapter 11 case the clerk or the court's designee must give notice as the court orders to the equity security holders of:
 
 **(1)** the order for relief;
 
 **(2)** a meeting of equity security holders under § 341;
 
-**(3)** a hearing on a proposed sale of all, or substantially all, the debtor’s assets;
+**(3)** a hearing on a proposed sale of all, or substantially all, the debtor's assets;
 
 **(4)** a hearing on a motion to dismiss a case or convert it to another chapter;
 
@@ -105,13 +105,13 @@ versions: ["2025"]
 
 **(A)** the order for relief;
 
-**(B)** a case’s dismissal or conversion to another chapter;
+**(B)** a case's dismissal or conversion to another chapter;
 
 **(C)** a suspension of proceedings under § 305;
 
 **(D)** the time to file a proof of claim under Rule 3002;
 
-**(E)** the time to file a complaint to object to the debtor’s discharge under § 727, as Rule 4004 provides;
+**(E)** the time to file a complaint to object to the debtor's discharge under § 727, as Rule 4004 provides;
 
 **(F)** the time to file a complaint to determine whether a debt is dischargeable under § 523, as Rule 4007 provides;
 
@@ -119,11 +119,11 @@ versions: ["2025"]
 
 **(H)** entry of an order confirming a plan in a Chapter 9, 11, 12 or 13 case;
 
-**(I)** a summary of the trustee’s final report in a Chapter 7 case if the net proceeds realized exceed $1,500;
+**(I)** a summary of the trustee's final report in a Chapter 7 case if the net proceeds realized exceed $1,500;
 
 **(J)** a notice under Rule 5008 regarding the presumption of abuse;
 
-**(K)** a statement under § 704(b)(1) about whether the debtor’s case would be presumed to be an abuse under § 707(b); and
+**(K)** a statement under § 704(b)(1) about whether the debtor's case would be presumed to be an abuse under § 707(b); and
 
 **(L)** the time to request a delay in granting the discharge under § 1141(d)(5)(C), 1228(f), or 1328(h).
 
@@ -139,7 +139,7 @@ versions: ["2025"]
 
 **(2) When No Request Has Been Filed.** Except as § 342(f) provides otherwise, if a creditor or indenture trustee has not filed a request under (1) or Rule 5003(e), the notice must be mailed to the address shown on the list of creditors or schedule of liabilities, whichever is filed later. If an equity security holder has not filed a request, the notice must be mailed to the address shown on the list of equity security holders.
 
-**(3) Notices to Representatives of an Infant or Incompetent Person.** This paragraph (3) applies if a list or schedule filed under Rule 1007 includes a name and address of an infant’s or an incompetent person’s representative, and a person other than that representative files a request or proof of claim designating a different name and mailing address. Unless the court orders otherwise, the notice must be mailed to the designated address of:
+**(3) Notices to Representatives of an Infant or Incompetent Person.** This paragraph (3) applies if a list or schedule filed under Rule 1007 includes a name and address of an infant's or an incompetent person's representative, and a person other than that representative files a request or proof of claim designating a different name and mailing address. Unless the court orders otherwise, the notice must be mailed to the designated address of:
 
 **(A)** the representative; and
 
@@ -147,13 +147,13 @@ versions: ["2025"]
 
 **(4) Using an Address Agreed to Between an Entity and a Notice Provider.** Notwithstanding (g)(1)–(3), when the court orders that notice be given, the notice provider may do so in the manner agreed to between the provider and an entity, and at the address or addresses the entity supplies. An address supplied by the entity is conclusively presumed to be a proper address. But a failure to use a supplied address does not invalidate a notice that is otherwise effective under applicable law.
 
-**(5) When a Notice Is Not Brought to a Creditor’s Attention.** A creditor may treat a notice as not having been brought to the creditor’s attention under § 342(g)(1) only if, before the notice was issued, the creditor has filed a statement:
+**(5) When a Notice Is Not Brought to a Creditor's Attention.** A creditor may treat a notice as not having been brought to the creditor's attention under § 342(g)(1) only if, before the notice was issued, the creditor has filed a statement:
 
 **(A)** designating the name and address of the person or organizational subdivision responsible for receiving notices; and
 
-**(B)** describing the creditor’s procedures for delivering notices to the designated person or organizational subdivision.
+**(B)** describing the creditor's procedures for delivering notices to the designated person or organizational subdivision.
 
-**(h) Notice to Creditors Who Filed Proofs of Claim in a Chap - ter 7, 12, or 13 Case.**
+**(h) Notice to Creditors Who Filed Proofs of Claim in a Chapter 7, 12, or 13 Case.**
 
 **(1) Voluntary Case.** This paragraph (1) applies in a voluntary Chapter 7 case, or in a Chapter 12 or 13 case. After 70 days following the order for relief under that chapter or the date of the order converting the case to Chapter 12 or 13, the court may direct that all notices required by (a) be mailed only to: • the debtor; • the trustee; • indenture trustees; • creditors with claims for which proofs of claim have been filed; and • creditors that are still permitted to file proofs of claim because they have received an extension of time under Rule 3002(c)(1) or (2).
 
@@ -191,7 +191,7 @@ versions: ["2025"]
 
 **(k) Notice to the United States Trustee.**
 
-**(1) In General.** Except in a Chapter 9 case or unless the United States trustee requests otherwise, the clerk or the court’s designee must send to the United States trustee notice of:
+**(1) In General.** Except in a Chapter 9 case or unless the United States trustee requests otherwise, the clerk or the court's designee must send to the United States trustee notice of:
 
 **(A)** all matters described in (a)(2)–(4), (a)(8)–(9), (b), (f)(1)(A)–(C), (f)(1)(E), (f)(1)(G)–(I), and (q);
 
@@ -209,19 +209,19 @@ versions: ["2025"]
 
 **(n) Notice of an Order for Relief in a Consumer Case.** In a voluntary case commenced under the Code by an individual debtor whose debts are primarily consumer debts, the clerk, or some other person as the court may direct, shall give the trustee and all creditors notice by mail of the order for relief not more than 20 days after the entry of such order.
 
-**(o) Caption.** The caption of a notice given under this Rule 2002 must conform to Rule 1005. The caption of a debtor’s notice to a creditor must also include the information that § 342(c) requires.
+**(o) Caption.** The caption of a notice given under this Rule 2002 must conform to Rule 1005. The caption of a debtor's notice to a creditor must also include the information that § 342(c) requires.
 
 **(p) Notice to a Creditor with a Foreign Address.**
 
 **(1) When Notice by Mail Does Not Suffice.** At the request of the United States trustee or a party in interest, or on its own, the court may find that a notice mailed to a creditor with a foreign address within the time these rules prescribe would not give the creditor reasonable notice. The court may then order that the notice be supplemented with notice by other means or that the time prescribed for the notice by mail be extended.
 
-**(2) Notice of the Time to File a Proof of Claim.** Unless the court, for cause, orders otherwise, a creditor with a foreign address must be given at least 30 days’ notice of the time to file a proof of claim under Rule 3002(c) or Rule 3003(c).
+**(2) Notice of the Time to File a Proof of Claim.** Unless the court, for cause, orders otherwise, a creditor with a foreign address must be given at least 30 days' notice of the time to file a proof of claim under Rule 3002(c) or Rule 3003(c).
 
 **(3) Determining a Foreign Address.** Unless the court, for cause, orders otherwise, the mailing address of a creditor with a foreign address must be determined under (g).
 
-**(q)** Notice of a Petition for Recognition of a Foreign Pro - ceeding ; Notice of an Intent to Communicate with a Foreign Court or Foreign Representative.
+**(q)** Notice of a Petition for Recognition of a Foreign Proceeding; Notice of an Intent to Communicate with a Foreign Court or Foreign Representative.
 
-**(1) Timing of the Notice; Who Must Receive It.** After a petition for recognition of a foreign proceeding is filed, the court must promptly hold a hearing on it. The clerk or the court’s designee must promptly give at least 21 days’ notice by mail of the hearing to: • the debtor; • all persons or bodies authorized to administer the debtor’s foreign proceedings; • all entities against whom provisional relief is being sought under § 1519; • all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and • any other entities as the court orders. If the court consolidates the hearing on the petition with a hearing on a request for provisional relief, the court may set a shorter notice period.
+**(1) Timing of the Notice; Who Must Receive It.** After a petition for recognition of a foreign proceeding is filed, the court must promptly hold a hearing on it. The clerk or the court's designee must promptly give at least 21 days' notice by mail of the hearing to: • the debtor; • all persons or bodies authorized to administer the debtor's foreign proceedings; • all entities against whom provisional relief is being sought under § 1519; • all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and • any other entities as the court orders. If the court consolidates the hearing on the petition with a hearing on a request for provisional relief, the court may set a shorter notice period.
 
 **(2) Content of the Notice.** The notice must:
 
@@ -229,6 +229,6 @@ versions: ["2025"]
 
 **(B)** include a copy of the petition and any other document the court specifies.
 
-**(3) Communicating with a Foreign Court or Foreign Representative.** If the court intends to communicate with a foreign court or foreign representative, the clerk or the court’s designee must give notice by mail of the court’s intention to all those listed in (q)(1).
+**(3) Communicating with a Foreign Court or Foreign Representative.** If the court intends to communicate with a foreign court or foreign representative, the clerk or the court's designee must give notice by mail of the court's intention to all those listed in (q)(1).
 
 <p class="amendment-history">(As amended Pub. L. 98–91, § 2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, § 321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

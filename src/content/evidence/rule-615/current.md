@@ -1,6 +1,6 @@
 ---
 rule: "615"
-title: "Excluding Witnesses from the Courtroom; Preventing an Excluded Witness’s Access to Trial Testimony"
+title: "Excluding Witnesses from the Courtroom; Preventing an Excluded Witness's Access to Trial Testimony"
 title_number: "VI"
 title_name: "Witnesses"
 summary: ""
@@ -13,13 +13,13 @@ source_pdf_page: 30
 versions: ["2025"]
 ---
 
-**(a) Excluding Witnesses.** At a party’s request, the court must order witnesses excluded from the courtroom so that they cannot hear other witnesses’ testimony. Or the court may do so on its own. But this rule does not authorize excluding:
+**(a) Excluding Witnesses.** At a party's request, the court must order witnesses excluded from the courtroom so that they cannot hear other witnesses' testimony. Or the court may do so on its own. But this rule does not authorize excluding:
 
 **(1)** a party who is a natural person;
 
-**(2)** one officer or employee of a party that is not a natural person if that officer or employee has been designated as the party’s representative by its attorney;
+**(2)** one officer or employee of a party that is not a natural person if that officer or employee has been designated as the party's representative by its attorney;
 
-**(3)** any person whose presence a party shows to be essential to presenting the party’s claim or defense; or
+**(3)** any person whose presence a party shows to be essential to presenting the party's claim or defense; or
 
 **(4)** a person authorized by statute to be present.
 

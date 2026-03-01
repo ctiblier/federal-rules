@@ -1,6 +1,6 @@
 ---
 rule: "61"
-title: "Title"
+title: "Harmless Error"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
@@ -9,10 +9,10 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 93
+source_pdf_page: 104
 versions: ["2025"]
 ---
 
-These rules may be known and cited as the Federal Rules of Criminal Procedure.
+Unless justice requires otherwise, no error in admitting or excluding evidence—or any other error by the court or a party—is ground for granting a new trial, for setting aside a verdict, or for vacating, modifying, or otherwise disturbing a judgment or order. At every stage of the proceeding, the court must disregard all errors and defects that do not affect any party's substantial rights.
 
-<p class="amendment-history">(As amended Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1. 2008.)</p>
+<p class="amendment-history">(As amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

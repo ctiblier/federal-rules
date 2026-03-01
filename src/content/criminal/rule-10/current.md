@@ -1,6 +1,6 @@
 ---
 rule: "10"
-title: "Arraignment"
+title: "Form of Pleadings"
 title_number: "IV"
 title_name: "Arraignment and Preparation for Trial"
 summary: ""
@@ -9,26 +9,14 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 35
+source_pdf_page: 36
 versions: ["2025"]
 ---
 
-**(a) In General.** An arraignment must be conducted in open court and must consist of:
+**(a) Caption; Names of Parties.** Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 
-**(1)** ensuring that the defendant has a copy of the indictment or information;
+**(b) Paragraphs; Separate Statements.** A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
 
-**(2)** reading the indictment or information to the defendant or stating to the defendant the substance of the charge; and then
+**(c) Adoption by Reference; Exhibits.** A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-**(3)** asking the defendant to plead to the indictment or information.
-
-**(b) Waiving Appearance.** A defendant need not be present for the arraignment if:
-
-**(1)** the defendant has been charged by indictment or misdemeanor information;
-
-**(2)** the defendant, in a written waiver signed by both the defendant and defense counsel, has waived appearance and has affirmed that the defendant received a copy of the indictment or information and that the plea is not guilty; and
-
-**(3)** the court accepts the waiver.
-
-**(c) Video Teleconferencing.** Video teleconferencing may be used to arraign a defendant if the defendant consents.
-
-<p class="amendment-history">(As amended Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

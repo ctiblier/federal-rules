@@ -1,36 +1,40 @@
 ---
 rule: "35"
-title: "Correcting or Reducing a Sentence"
+title: "Physical and Mental Examinations"
 title_number: "VII"
 title_name: "Post-Conviction Procedures"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 71
+source_pdf_page: 77
 versions: ["2025"]
 ---
 
-**(a) Correcting Clear Error.** Within 14 days after sentencing, the court may correct a sentence that resulted from arithmetical, technical, or other clear error.
+**(a) Order for an Examination.**
 
-**(b) Reducing a Sentence for Substantial Assistance.**
+**(1) In General.** The court where the action is pending may order a party whose mental or physical condition—including blood group—is in controversy to submit to a physical or mental examination by a suitably licensed or certified examiner. The court has the same authority to order a party to produce for examination a person who is in its custody or under its legal control.
 
-**(1) In General.** Upon the government’s motion made within one year of sentencing, the court may reduce a sentence if the defendant, after sentencing, provided substantial assistance in investigating or prosecuting another person.
+**(2) Motion and Notice; Contents of the Order.** The order:
 
-**(2) Later Motion.** Upon the government’s motion made more than one year after sentencing, the court may reduce a sentence if the defendant’s substantial assistance involved:
+**(A)** may be made only on motion for good cause and on notice to all parties and the person to be examined; and
 
-**(A)** information not known to the defendant until one year or more after sentencing;
+**(B)** must specify the time, place, manner, conditions, and scope of the examination, as well as the person or persons who will perform it.
 
-**(B)** information provided by the defendant to the government within one year of sentencing, but which did not become useful to the government until more than one year after sentencing; or
+**(b) Examiner's Report.**
 
-**(C)** information the usefulness of which could not reasonably have been anticipated by the defendant until more than one year after sentencing and which was promptly provided to the government after its usefulness was reasonably apparent to the defendant.
+**(1) Request by the Party or Person Examined.** The party who moved for the examination must, on request, deliver to the requester a copy of the examiner's report, together with like reports of all earlier examinations of the same condition. The request may be made by the party against whom the examination order was issued or by the person examined.
 
-**(3) Evaluating Substantial Assistance.** In evaluating whether the defendant has provided substantial assistance, the court may consider the defendant’s presentence assistance.
+**(2) Contents.** The examiner's report must be in writing and must set out in detail the examiner's findings, including diagnoses, conclusions, and the results of any tests.
 
-**(4) Below Statutory Minimum.** When acting under Rule 35(b), the court may reduce the sentence to a level below the minimum sentence established by statute.
+**(3) Request by the Moving Party.** After delivering the reports, the party who moved for the examination may request—and is entitled to receive—from the party against whom the examination order was issued like reports of all earlier or later examinations of the same condition. But those reports need not be delivered by the party with custody or control of the person examined if the party shows that it could not obtain them.
 
-**(c) ‘‘Sentencing’’ Defined.** As used in this rule, ‘‘sentencing’’ means the oral announcement of the sentence.
+**(4) Waiver of Privilege.** By requesting and obtaining the examiner's report, or by deposing the examiner, the party examined waives any privilege it may have—in that action or any other action involving the same controversy—concerning testimony about all examinations of the same condition.
 
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, § 215(b), Oct. 12, 1984, 98 Stat. 2015, eff. Nov. 1, 1987; Apr. 29, 1985, eff. Aug. 1, 1985; Pub. L. 99–570, title I, § 1009(a), Oct. 27, 1986, 100 Stat. 3207–8, eff. Nov. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+**(5) Failure to Deliver a Report.** The court on motion may order—on just terms—that a party deliver the report of an examination. If the report is not provided, the court may exclude the examiner's testimony at trial.
+
+**(6) Scope.** This subdivision (b) applies also to an examination made by the parties' agreement, unless the agreement states otherwise. This subdivision does not preclude obtaining an examiner's report or deposing an examiner under other rules.
+
+<p class="amendment-history">(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Pub. L. 100–690, title VII, § 7047(b), Nov. 18, 1988, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

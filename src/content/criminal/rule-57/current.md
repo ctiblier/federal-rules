@@ -1,6 +1,6 @@
 ---
 rule: "57"
-title: "District Court Rules"
+title: "Declaratory Judgment"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
@@ -9,18 +9,10 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 87
+source_pdf_page: 101
 versions: ["2025"]
 ---
 
-**(a) In General.**
+These rules govern the procedure for obtaining a declaratory judgment under 28 U.S.C. § 2201. Rules 38 and 39 govern a demand for a jury trial. The existence of another adequate remedy does not preclude a declaratory judgment that is otherwise appropriate. The court may order a speedy hearing of a declaratoryjudgment action.
 
-**(1) Adopting Local Rules.** Each district court acting by a majority of its district judges may, after giving appropriate public notice and an opportunity to comment, make and amend rules governing its practice. A local rule must be consistent with—but not duplicative of—federal statutes and rules adopted under 28 U.S.C. § 2072 and must conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
-
-**(2) Limiting Enforcement.** A local rule imposing a requirement of form must not be enforced in a manner that causes a party to lose rights because of an unintentional failure to comply with the requirement.
-
-**(b) Procedure When There Is No Controlling Law.** A judge may regulate practice in any manner consistent with federal law, these rules, and the local rules of the district. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, or the local district rules unless the alleged violator was furnished with actual notice of the requirement before the noncompliance.
-
-**(c) Effective Date and Notice.** A local rule adopted under this rule takes effect on the date specified by the district court and remains in effect unless amended by the district court or abrogated by the judicial council of the circuit in which the district is located. Copies of local rules and their amendments, when promulgated, must be furnished to the judicial council and the Administrative Office of the United States Courts and must be made available to the public.
-
-<p class="amendment-history">(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Dec. 4, 1967, eff. July 1, 1968; Apr. 29, 1985, eff. Aug. 1, 1985; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

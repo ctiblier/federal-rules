@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) In General.** A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
 
-**(A)** arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim; and
+**(A)** arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
 
 **(B)** does not require adding another party over whom the court cannot acquire jurisdiction.
 
@@ -41,6 +41,6 @@ versions: ["2025"]
 
 **(h) Joining Additional Parties.** Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
-**(i) Separate Trials; Separate Judgments.** If the court orders separate trials under Rule 42(b), it may enter judgment on a counterclaim or crossclaim under Rule 54(b) when it has jurisdiction to do so, even if the opposing party’s claims have been dismissed or otherwise resolved.
+**(i) Separate Trials; Separate Judgments.** If the court orders separate trials under Rule 42(b), it may enter judgment on a counterclaim or crossclaim under Rule 54(b) when it has jurisdiction to do so, even if the opposing party's claims have been dismissed or otherwise resolved.
 
 <p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

@@ -33,11 +33,11 @@ versions: ["2025"]
 
 **(E)** for each piece of property, a designation of each defendant who has been joined as an owner or owner of an interest in it.
 
-**(3) Parties.** When the action commences, the plaintiff need join as defendants only those persons who have or claim an interest in the property and whose names are then known. But before any hearing on compensation, the plaintiff must add as defendants all those persons who have or claim an interest and whose names have become known or can be found by a reasonably diligent search of the records, considering both the property’s character and value and the interests to be acquired. All others may be made defendants under the designation ‘‘Unknown Owners.’’
+**(3) Parties.** When the action commences, the plaintiff need join as defendants only those persons who have or claim an interest in the property and whose names are then known. But before any hearing on compensation, the plaintiff must add as defendants all those persons who have or claim an interest and whose names have become known or can be found by a reasonably diligent search of the records, considering both the property's character and value and the interests to be acquired. All others may be made defendants under the designation ''Unknown Owners.''
 
 **(4) Procedure.** Notice must be served on all defendants as provided in Rule 71.1(d), whether they were named as defendants when the action commenced or were added later. A defendant may answer as provided in Rule 71.1(e). The court, meanwhile, may order any distribution of a deposit that the facts warrant.
 
-**(5) Filing; Additional Copies.** In addition to filing the complaint, the plaintiff must give the clerk at least one copy for the defendants’ use and additional copies at the request of the clerk or a defendant.
+**(5) Filing; Additional Copies.** In addition to filing the complaint, the plaintiff must give the clerk at least one copy for the defendants' use and additional copies at the request of the clerk or a defendant.
 
 **(d) Process.**
 
@@ -55,13 +55,13 @@ versions: ["2025"]
 
 **(iv)** the uses for which the property is to be taken;
 
-**(v)** that the defendant may serve an answer on the plaintiff’s attorney within 21 days after being served with the notice;
+**(v)** that the defendant may serve an answer on the plaintiff's attorney within 21 days after being served with the notice;
 
-**(vi)** that the failure to so serve an answer constitutes consent to the taking and to the court’s authority to proceed with the action and fix the compensation; and
+**(vi)** that the failure to so serve an answer constitutes consent to the taking and to the court's authority to proceed with the action and fix the compensation; and
 
 **(vii)** that a defendant who does not serve an answer may file a notice of appearance.
 
-**(B) Conclusion.** The notice must conclude with the name, telephone number, and e-mail address of the plaintiff’s attorney and an address within the district in which the action is brought where the attorney may be served.
+**(B) Conclusion.** The notice must conclude with the name, telephone number, and e-mail address of the plaintiff's attorney and an address within the district in which the action is brought where the attorney may be served.
 
 **(3) Serving the Notice.**
 
@@ -69,9 +69,9 @@ versions: ["2025"]
 
 **(B) Service by Publication.**
 
-**(i)** Service is then made by publishing the notice—once a week for at least 3 successive weeks—in a newspaper published in the county where the property is located or, if there is no such newspaper, in a newspaper with general circulation where the property is located. Before the last publication, a copy of the notice must also be mailed to every defendant who cannot be personally served but whose place of residence is then known. Unknown owners may be served by publication in the same manner by a notice addressed to ‘‘Unknown Owners.’’
+**(i)** A defendant may be served by publication only when the plaintiff's attorney files a certificate stating that the attorney believes the defendant cannot be personally served, because after diligent inquiry within the state where the complaint is filed, the defendant's place of residence is still unknown or, if known, that it is beyond the territorial limits of personal service. Service is then made by publishing the notice—once a week for at least 3 successive weeks—in a newspaper published in the county where the property is located or, if there is no such newspaper, in a newspaper with general circulation where the property is located. Before the last publication, a copy of the notice must also be mailed to every defendant who cannot be personally served but whose place of residence is then known. Unknown owners may be served by publication in the same manner by a notice addressed to ''Unknown Owners.''
 
-**(ii)** The plaintiff’s attorney must prove publication and mailing by a certificate, attach a printed copy of the published notice, and mark on the copy the newspaper’s name and the dates of publication.
+**(ii)** The plaintiff's attorney must prove publication and mailing by a certificate, attach a printed copy of the published notice, and mark on the copy the newspaper's name and the dates of publication.
 
 **(4) Effect of Delivery and Service.** Delivering the notice to the clerk and serving it have the same effect as serving a summons under Rule 4.
 
@@ -87,11 +87,11 @@ versions: ["2025"]
 
 **(B)** state the nature and extent of the interest; and
 
-**(C)** state all the defendant’s objections and defenses to the taking.
+**(C)** state all the defendant's objections and defenses to the taking.
 
 **(3) Waiver of Other Objections and Defenses; Evidence on Compensation.** A defendant waives all objections and defenses not stated in its answer. No other pleading or motion asserting an additional objection or defense is allowed. But at the trial on compensation, a defendant—whether or not it has previously appeared or answered—may present evidence on the amount of compensation to be paid and may share in the award.
 
-**(f) Amending Pleadings.** Without leave of court, the plaintiff may—as often as it wants—amend the complaint at any time before the trial on compensation. But no amendment may be made if it would result in a dismissal inconsistent with Rule 71.1(i)(1) or (2). The plaintiff need not serve a copy of an amendment, but must serve notice of the filing, as provided in Rule 5(b), on every affected party who has appeared and, as provided in Rule 71.1(d), on every affected party who has not appeared. In addition, the plaintiff must give the clerk at least one copy of each amendment for the defendants’ use, and additional copies at the request of the clerk or a defendant. A defendant may appear or answer in the time and manner and with the same effect as provided in Rule 71.1(e).
+**(f) Amending Pleadings.** Without leave of court, the plaintiff may—as often as it wants—amend the complaint at any time before the trial on compensation. But no amendment may be made if it would result in a dismissal inconsistent with Rule 71.1(i)(1) or (2). The plaintiff need not serve a copy of an amendment, but must serve notice of the filing, as provided in Rule 5(b), on every affected party who has appeared and, as provided in Rule 71.1(d), on every affected party who has not appeared. In addition, the plaintiff must give the clerk at least one copy of each amendment for the defendants' use, and additional copies at the request of the clerk or a defendant. A defendant may appear or answer in the time and manner and with the same effect as provided in Rule 71.1(e).
 
 **(g) Substituting Parties.** If a defendant dies, becomes incompetent, or transfers an interest after being joined, the court may, on motion and notice of hearing, order that the proper party be substituted. Service of the motion and notice on a nonparty must be made as provided in Rule 71.1(d)(3).
 
@@ -103,7 +103,7 @@ versions: ["2025"]
 
 **(B)** if there is no such tribunal, by a jury when a party demands one within the time to answer or within any additional time the court sets, unless the court appoints a commission.
 
-**(2) Appointing a Commission; Commission’s Powers and Report.**
+**(2) Appointing a Commission; Commission's Powers and Report.**
 
 **(A) Reasons for Appointing.** If a party has demanded a jury, the court may instead appoint a three-person commission to determine compensation because of the character, location, or quantity of the property to be condemned or for other just reasons.
 
@@ -111,7 +111,7 @@ versions: ["2025"]
 
 **(C) Examining the Prospective Commissioners.** Before making its appointments, the court must advise the parties of the identity and qualifications of each prospective commissioner and alternate, and may permit the parties to examine them. The parties may not suggest appointees, but for good cause may object to a prospective commissioner or alternate.
 
-**(D) Commission’s Powers and Report.** A commission has the powers of a master under Rule 53(c). Its action and report are determined by a majority. Rule 53(d), (e), and (f) apply to its action and report.
+**(D) Commission's Powers and Report.** A commission has the powers of a master under Rule 53(c). Its action and report are determined by a majority. Rule 53(d), (e), and (f) apply to its action and report.
 
 **(i) Dismissal of the Action or a Defendant.**
 
@@ -133,7 +133,7 @@ versions: ["2025"]
 
 **(2) Distribution; Adjusting Distribution.** After a deposit, the court and attorneys must expedite the proceedings so as to distribute the deposit and to determine and pay compensation. If the compensation finally awarded to a defendant exceeds the amount distributed to that defendant, the court must enter judgment against the plaintiff for the deficiency. If the compensation awarded to a defendant is less than the amount distributed to that defendant, the court must enter judgment against that defendant for the overpayment.
 
-**(k) Condemnation Under a State ’ s Power of Eminent Domain.** This rule governs an action involving eminent domain under state law. But if state law provides for trying an issue by jury—or for trying the issue of compensation by jury or commission or both— that law governs.
+**(k) Condemnation Under a State's Power of Eminent Domain.** This rule governs an action involving eminent domain under state law. But if state law provides for trying an issue by jury—or for trying the issue of compensation by jury or commission or both— that law governs.
 
 **(l) Costs.** Costs are not subject to Rule 54(d).
 

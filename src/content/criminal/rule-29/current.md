@@ -1,40 +1,20 @@
 ---
 rule: "29"
-title: "Motion for a Judgment of Acquittal"
+title: "Stipulations About Discovery Procedure"
 title_number: "VI"
 title_name: "Trial"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 58
+source_pdf_page: 67
 versions: ["2025"]
 ---
 
-**(a) Before Submission to the Jury.** After the government closes its evidence or after the close of all the evidence, the court on the defendant’s motion must enter a judgment of acquittal of any offense for which the evidence is insufficient to sustain a conviction. The court may on its own consider whether the evidence is insufficient to sustain a conviction. If the court denies a motion for a judgment of acquittal at the close of the government’s evidence, the defendant may offer evidence without having reserved the right to do so.
+**(a)** Unless the court orders otherwise, the parties may stipulate that: a deposition may be taken before any person, at any time or place, on any notice, and in the manner specified—in which event it may be used in the same way as any other deposition; and
 
-**(b) Reserving Decision.** The court may reserve decision on the motion, proceed with the trial (where the motion is made before the close of all the evidence), submit the case to the jury, and decide the motion either before the jury returns a verdict or after it returns a verdict of guilty or is discharged without having returned a verdict. If the court reserves decision, it must decide the motion on the basis of the evidence at the time the ruling was reserved.
+**(b)** other procedures governing or limiting discovery be modified—but a stipulation extending the time for any form of discovery must have court approval if it would interfere with the time set for completing discovery, for hearing a motion, or for trial.
 
-**(c) After Jury Verdict or Discharge.**
-
-**(1) Time for a Motion.** A defendant may move for a judgment of acquittal, or renew such a motion, within 14 days after a guilty verdict or after the court discharges the jury, whichever is later.
-
-**(2) Ruling on the Motion.** If the jury has returned a guilty verdict, the court may set aside the verdict and enter an acquittal. If the jury has failed to return a verdict, the court may enter a judgment of acquittal.
-
-**(3) No Prior Motion Required.** A defendant is not required to move for a judgment of acquittal before the court submits the case to the jury as a prerequisite for making such a motion after jury discharge.
-
-**(d) Conditional Ruling on a Motion for a New Trial.**
-
-**(1) Motion for a New Trial.** If the court enters a judgment of acquittal after a guilty verdict, the court must also conditionally determine whether any motion for a new trial should be granted if the judgment of acquittal is later vacated or reversed. The court must specify the reasons for that determination.
-
-**(2) Finality.** The court’s order conditionally granting a motion for a new trial does not affect the finality of the judgment of acquittal.
-
-**(3) Appeal.**
-
-**(A) Grant of a Motion for a New Trial.** If the court conditionally grants a motion for a new trial and an appellate court later reverses the judgment of acquittal, the trial court must proceed with the new trial unless the appellate court orders otherwise.
-
-**(B) Denial of a Motion for a New Trial.** If the court conditionally denies a motion for a new trial, an appellee may assert that the denial was erroneous. If the appellate court later reverses the judgment of acquittal, the trial court must proceed as the appellate court directs.
-
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Pub. L. 99–646, § 54(a), Nov. 10, 1986, 100 Stat. 3607, eff. Dec. 10, 1986; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+<p class="amendment-history">(As amended Mar. 30, 1970, eff. July 1, 1970; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

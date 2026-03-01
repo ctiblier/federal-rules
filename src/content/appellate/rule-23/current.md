@@ -25,6 +25,6 @@ versions: ["2025"]
 
 **(c) Release Pending Review of Decision Ordering Release.** While a decision ordering the release of a prisoner is under review, the prisoner must—unless the court or judge rendering the decision, or the court of appeals, or the Supreme Court, or a judge or justice of either court orders otherwise—be released on personal recognizance, with or without surety.
 
-**(d) Modification of the Initial Order on Custody.** An initial order governing the prisoner’s custody or release, including any recognizance or surety, continues in effect pending review unless for special reasons shown to the court of appeals or the Supreme Court, or to a judge or justice of either court, the order is modified or an independent order regarding custody, release, or surety is issued.
+**(d) Modification of the Initial Order on Custody.** An initial order governing the prisoner's custody or release, including any recognizance or surety, continues in effect pending review unless for special reasons shown to the court of appeals or the Supreme Court, or to a judge or justice of either court, the order is modified or an independent order regarding custody, release, or surety is issued.
 
 <p class="amendment-history">(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998.)</p>

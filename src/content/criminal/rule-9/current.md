@@ -1,6 +1,6 @@
 ---
 rule: "9"
-title: "Arrest Warrant or Summons on an Indictment or Information"
+title: "Pleading Special Matters"
 title_number: "III"
 title_name: "The Grand Jury, the Indictment, and the Information"
 summary: ""
@@ -9,30 +9,38 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 34
+source_pdf_page: 35
 versions: ["2025"]
 ---
 
-**(a) Issuance.** The court must issue a warrant—or at the government’s request, a summons—for each defendant named in an indictment or named in an information if one or more affidavits accompanying the information establish probable cause to believe that an offense has been committed and that the defendant committed it. The court may issue more than one warrant or summons for the same defendant. If a defendant fails to appear in response to a summons, the court may, and upon request of an attorney for the government must, issue a warrant. The court must issue the arrest warrant to an officer authorized to execute it or the summons to a person authorized to serve it.
+**(a) Capacity or Authority to Sue; Legal Existence.**
 
-**(b) Form.**
+**(1) In General.** Except when required to show that the court has jurisdiction, a pleading need not allege:
 
-**(1) Warrant.** The warrant must conform to Rule 4(b)(1) except that it must be signed by the clerk and must describe the offense charged in the indictment or information.
+**(A)** a party's capacity to sue or be sued;
 
-**(2) Summons.** The summons must be in the same form as a warrant except that it must require the defendant to appear before the court at a stated time and place.
+**(B)** a party's authority to sue or be sued in a representative capacity; or
 
-**(c) Execution or Service; Return; Initial Appearance.**
+**(C)** the legal existence of an organized association of persons that is made a party.
 
-**(1) Execution or Service.**
+**(2) Raising Those Issues.** To raise any of those issues, a party must do so by a specific denial, which must state any supporting facts that are peculiarly within the party's knowledge.
 
-**(A) The warrant must be executed or the summons served as provided in Rule 4(c)(1), (2), and (3).**
+**(b) Fraud or Mistake; Conditions of Mind.** In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally.
 
-**(B) The officer executing the warrant must proceed in accordance with Rule 5(a)(1).**
+**(c) Conditions Precedent.** In pleading conditions precedent, it suffices to allege generally that all conditions precedent have occurred or been performed. But when denying that a condition precedent has occurred or been performed, a party must do so with particularity.
 
-**(2) Return.** A warrant or summons must be returned in accordance with Rule 4(c)(4).
+**(d) Official Document or Act.** In pleading an official document or official act, it suffices to allege that the document was legally issued or the act legally done.
 
-**(3) Initial Appearance.** When an arrested or summoned defendant first appears before the court, the judge must proceed under Rule 5.
+**(e) Judgment.** In pleading a judgment or decision of a domestic or foreign court, a judicial or quasi-judicial tribunal, or a board or officer, it suffices to plead the judgment or decision without showing jurisdiction to render it.
 
-**(d) Warrant by Telephone or Other Means.** In accordance with Rule 4.1, a magistrate judge may issue an arrest warrant or summons based on information communicated by telephone or other reliable electronic means.
+**(f) Time and Place.** An allegation of time or place is material when testing the sufficiency of a pleading.
 
-<p class="amendment-history">(As amended Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(4), July 31, 1975, 89 Stat. 370, eff. Dec. 1, 1975; Pub. L. 94–149, § 5, Dec. 12, 1975, 89 Stat. 806; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
+**(g) Special Damages.** If an item of special damage is claimed, it must be specifically stated.
+
+**(h) Admiralty or Maritime Claim.**
+
+**(1) How Designated.** If a claim for relief is within the admiralty or maritime jurisdiction and also within the court's subject-matter jurisdiction on some other ground, the pleading may designate the claim as an admiralty or maritime claim for purposes of Rules 14(c), 38(e), and 82 and the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions. A claim cognizable only in the admiralty or maritime jurisdiction is an admiralty or maritime claim for those purposes, whether or not so designated.
+
+**(2) Designation for Appeal.** A case that includes an admiralty or maritime claim within this subdivision (h) is an admiralty case within 28 U.S.C. § 1292(a)(3).
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -41,15 +41,15 @@ versions: ["2025"]
 
 **(B)** leaving it:
 
-**(i)** at the person’s office with a clerk or other person in charge or, if no one is in charge, in a conspicuous place in the office; or
+**(i)** at the person's office with a clerk or other person in charge or, if no one is in charge, in a conspicuous place in the office; or
 
-**(ii)** if the person has no office or the office is closed, at the person’s dwelling or usual place of abode with someone of suitable age and discretion who resides there;
+**(ii)** if the person has no office or the office is closed, at the person's dwelling or usual place of abode with someone of suitable age and discretion who resides there;
 
-**(C)** mailing it to the person’s last known address—in which event service is complete upon mailing;
+**(C)** mailing it to the person's last known address—in which event service is complete upon mailing;
 
 **(D)** leaving it with the court clerk if the person has no known address;
 
-**(E)** sending it to a registered user by filing it with the court’s electronic-filing system or sending it by other electronic means that the person consented to in writing—in either of which events service is complete upon filing or sending, but is not effective if the filer or sender learns that it did not reach the person to be served; or
+**(E)** sending it to a registered user by filing it with the court's electronic-filing system or sending it by other electronic means that the person consented to in writing—in either of which events service is complete upon filing or sending, but is not effective if the filer or sender learns that it did not reach the person to be served; or
 
 **(F)** delivering it by any other means that the person consented to in writing—in which event service is complete when the person making service delivers it to the agency designated to make delivery.
 
@@ -59,7 +59,7 @@ versions: ["2025"]
 
 **(1) In General.** If an action involves an unusually large number of defendants, the court may, on motion or on its own, order that:
 
-**(A)** defendants’ pleadings and replies to them need not be served on other defendants;
+**(A)** defendants' pleadings and replies to them need not be served on other defendants;
 
 **(B)** any crossclaim, counterclaim, avoidance, or affirmative defense in those pleadings and replies to them will be treated as denied or avoided by all other parties; and
 
@@ -73,7 +73,7 @@ versions: ["2025"]
 
 **(A) Papers after the Complaint.** Any paper after the complaint that is required to be served must be filed no later than a reasonable time after service. But disclosures under Rule 26(a)(1) or (2) and the following discovery requests and responses must not be filed until they are used in the proceeding or the court orders filing: depositions, interrogatories, requests for documents or tangible things or to permit entry onto land, and requests for admission.
 
-**(B) Certificate of Service.** No certificate of service is required when a paper is served by filing it with the court’s electronic-filing system. When a paper that is required to be served is served by other means:
+**(B) Certificate of Service.** No certificate of service is required when a paper is served by filing it with the court's electronic-filing system. When a paper that is required to be served is served by other means:
 
 **(i)** if the paper is filed, a certificate of service must be filed with it or within a reasonable time after service; and
 
@@ -95,7 +95,7 @@ versions: ["2025"]
 
 **(ii)** may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
 
-**(C) Signing.** A filing made through a person’s electronicfiling account and authorized by that person, together with that person’s name on a signature block, constitutes the person’s signature.
+**(C) Signing.** A filing made through a person's electronicfiling account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
 
 **(D) Same as a Written Paper.** A paper filed electronically is a written paper for purposes of these rules.
 

@@ -31,13 +31,13 @@ versions: ["2025"]
 
 **(4) Temporarily Allowing a Claim or Interest.** Even if an objection to a claim or interest has been filed, the court may, after notice and a hearing, temporarily allow a claim or interest in an amount that the court considers proper for voting to accept or reject a plan.
 
-**(b) Treatment of Acceptances or Rejections Obtained Be - fore the Petition Was Filed.**
+**(b) Treatment of Acceptances or Rejections Obtained Before the Petition Was Filed.**
 
 **(1) Acceptance or Rejection by a Nonholder of Record.** An equity security holder or creditor who accepted or rejected a plan before the petition was filed will not be considered to have accepted or rejected the plan under § 1126(b) if the equity security holder or creditor:
 
 **(A)** has a claim or interest based on a security of record; and
 
-**(B)** was not the security’s holder of record on the date specified in the solicitation of the acceptance or rejection.
+**(B)** was not the security's holder of record on the date specified in the solicitation of the acceptance or rejection.
 
 **(2) Defective Solicitations.** A holder of a claim or interest who accepted or rejected a plan before the petition was filed will not be considered to have accepted or rejected the plan if the court finds, after notice and a hearing, that:
 
@@ -61,6 +61,6 @@ versions: ["2025"]
 
 **(2) When More Than One Plan Is Distributed.** If more than one plan is sent under Rule 3017, a creditor or equity security holder may accept or reject one or more plans and may indicate preferences among those accepted.
 
-**(d) Partially Secured Creditor.** If a creditor’s claim has been allowed in part as a secured claim and in part as an unsecured claim, the creditor may accept or reject a plan in both capacities.
+**(d) Partially Secured Creditor.** If a creditor's claim has been allowed in part as a secured claim and in part as an unsecured claim, the creditor may accept or reject a plan in both capacities.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

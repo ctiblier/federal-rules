@@ -13,7 +13,7 @@ source_pdf_page: 43
 versions: ["2025"]
 ---
 
-**(a) Summaries of Voluminous Materials Admissible as Evi - dence .** The court may admit as evidence a summary, chart, or calculation offered to prove the content of voluminous admissible writings, recordings, or photographs that cannot be conveniently examined in court, whether or not they have been introduced into evidence.
+**(a) Summaries of Voluminous Materials Admissible as Evidence.** The court may admit as evidence a summary, chart, or calculation offered to prove the content of voluminous admissible writings, recordings, or photographs that cannot be conveniently examined in court, whether or not they have been introduced into evidence.
 
 **(b) Procedures.** The proponent must make the underlying originals or duplicates available for examination or copying, or both, by other parties at a reasonable time and place. And the court may order the proponent to produce them in court.
 

@@ -13,6 +13,12 @@ source_pdf_page: 42
 versions: ["2025"]
 ---
 
-An original is not required and other evidence of the content of a writing, recording, or photograph is admissible if: (a) all the originals are lost or destroyed, and not by the proponent acting in bad faith; (b) an original cannot be obtained by any available judicial process; (c) the party against whom the original would be offered had control of the original; was at that time put on notice, by pleadings or otherwise, that the original would be a subject of proof at the trial or hearing; and fails to produce it at the trial or hearing; or (d) the writing, recording, or photograph is not closely related to a controlling issue.
+**(a)** An original is not required and other evidence of the content of a writing, recording, or photograph is admissible if: all the originals are lost or destroyed, and not by the proponent acting in bad faith;
+
+**(b)** an original cannot be obtained by any available judicial process;
+
+**(c)** the party against whom the original would be offered had control of the original; was at that time put on notice, by pleadings or otherwise, that the original would be a subject of proof at the trial or hearing; and fails to produce it at the trial or hearing; or
+
+**(d)** the writing, recording, or photograph is not closely related to a controlling issue.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

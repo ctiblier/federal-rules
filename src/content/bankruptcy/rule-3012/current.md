@@ -13,7 +13,7 @@ source_pdf_page: 72
 versions: ["2025"]
 ---
 
-**(a) In General.** On a party in interest’s request, after notice and a hearing, the court may determine the amount of a secured claim under § 506(a) or the amount of a priority claim under § 507. The notice must be served on: • the claim holder; and • any other entity the court designates.
+**(a) In General.** On a party in interest's request, after notice and a hearing, the court may determine the amount of a secured claim under § 506(a) or the amount of a priority claim under § 507. The notice must be served on: • the claim holder; and • any other entity the court designates.
 
 **(b) Determining the Amount of a Claim.**
 
@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(2) Priority Claim.** A request to determine the amount of a priority claim may be made only by motion after the claim is filed or in an objection to the claim.
 
-**(c) Governmental Unit ’ s Secured Claim.** A request to determine the amount of a governmental unit’s secured claim may be made only by motion—or in an objection to a claim—filed after:
+**(c) Governmental Unit's Secured Claim.** A request to determine the amount of a governmental unit's secured claim may be made only by motion—or in an objection to a claim—filed after:
 
 **(1)** the governmental unit has filed the proof of claim; or
 

@@ -41,11 +41,11 @@ versions: ["2025"]
 
 **(C) The moving party must give reasonable notice of the motion to all parties.**
 
-**(D) A motion under this Rule 8(a)(2) must be filed with the circuit clerk and normally will be considered by a panel of the court.** But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.
+**(D)** A motion under this Rule 8(a)(2) must be filed with the circuit clerk and normally will be considered by a panel of the court. But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.
 
-**(E) The court may condition relief on a party’s filing a bond or other security in the district court.**
+**(E) The court may condition relief on a party's filing a bond or other security in the district court.**
 
-**(b) Proceeding Against a Security Provider.** If a party gives security with one or more security providers, each provider submits to the jurisdiction of the district court and irrevocably appoints the district clerk as its agent on whom any papers affecting its liability on the security may be served. On motion, a security provider’s liability may be enforced in the district court without the necessity of an independent action. The motion and any notice that the district court prescribes may be served on the district clerk, who must promptly send a copy to each security provider whose address is known.
+**(b) Proceeding Against a Security Provider.** If a party gives security with one or more security providers, each provider submits to the jurisdiction of the district court and irrevocably appoints the district clerk as its agent on whom any papers affecting its liability on the security may be served. On motion, a security provider's liability may be enforced in the district court without the necessity of an independent action. The motion and any notice that the district court prescribes may be served on the district clerk, who must promptly send a copy to each security provider whose address is known.
 
 **(c) Stay in a Criminal Case.** Rule 38 of the Federal Rules of Criminal Procedure governs a stay in a criminal case.
 

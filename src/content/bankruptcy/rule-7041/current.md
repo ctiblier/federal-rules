@@ -13,7 +13,7 @@ source_pdf_page: 112
 versions: ["2025"]
 ---
 
-**(a) Fed.** R. Civ. P. 41 applies in an adversary proceeding. But a complaint objecting to the debtor’s discharge may be dismissed on the plaintiff’s motion only: by a court order setting out any terms and conditions for the dismissal; and
+**(a) Fed.** R. Civ. P. 41 applies in an adversary proceeding. But a complaint objecting to the debtor's discharge may be dismissed on the plaintiff's motion only: by a court order setting out any terms and conditions for the dismissal; and
 
 **(b)** with notice to the trustee, the United States trustee, and any other person the court designates.
 

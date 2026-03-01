@@ -23,7 +23,7 @@ versions: ["2025"]
 
 **(b) The Transcript of Proceedings.**
 
-**(1) Appellant’s Duty to Order.** Within 14 days after filing the notice of appeal or entry of an order disposing of the last timely remaining motion of a type specified in Rule 4(a)(4)(A), whichever is later, the appellant must do either of the following:
+**(1) Appellant's Duty to Order.** Within 14 days after filing the notice of appeal or entry of an order disposing of the last timely remaining motion of a type specified in Rule 4(a)(4)(A), whichever is later, the appellant must do either of the following:
 
 **(A)** order from the reporter a transcript of such parts of the proceedings not already on file as the appellant considers necessary, subject to a local rule of the court of appeals and with the following qualifications:
 
@@ -47,9 +47,9 @@ versions: ["2025"]
 
 **(4) Payment.** At the time of ordering, a party must make satisfactory arrangements with the reporter for paying the cost of the transcript.
 
-**(c) Statement of the Evidence When the Proceedings Were Not Recorded or When a Transcript Is Unavailable.** If the transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant’s recollection. The statement must be served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the district court for settlement and approval. As settled and approved, the statement must be included by the district clerk in the record on appeal.
+**(c)** Statement of the Evidence When the Proceedings Were Not Recorded or When a Transcript Is Unavailable. If the transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the district court for settlement and approval. As settled and approved, the statement must be included by the district clerk in the record on appeal.
 
-**(d) Agreed Statement as the Record on Appeal.** In place of the record on appeal as defined in Rule 10(a), the parties may prepare, sign, and submit to the district court a statement of the case showing how the issues presented by the appeal arose and were decided in the district court. The statement must set forth only those facts averred and proved or sought to be proved that are essential to the court’s resolution of the issues. If the statement is truthful, it—together with any additions that the district court may consider necessary to a full presentation of the issues on appeal—must be approved by the district court and must then be certified to the court of appeals as the record on appeal. The district clerk must then send it to the circuit clerk within the time provided by Rule 11. A copy of the agreed statement may be filed in place of the appendix required by Rule 30.
+**(d) Agreed Statement as the Record on Appeal.** In place of the record on appeal as defined in Rule 10(a), the parties may prepare, sign, and submit to the district court a statement of the case showing how the issues presented by the appeal arose and were decided in the district court. The statement must set forth only those facts averred and proved or sought to be proved that are essential to the court's resolution of the issues. If the statement is truthful, it—together with any additions that the district court may consider necessary to a full presentation of the issues on appeal—must be approved by the district court and must then be certified to the court of appeals as the record on appeal. The district clerk must then send it to the circuit clerk within the time provided by Rule 11. A copy of the agreed statement may be filed in place of the appendix required by Rule 30.
 
 **(e) Correction or Modification of the Record.**
 

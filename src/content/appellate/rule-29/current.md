@@ -15,13 +15,13 @@ versions: ["2025"]
 
 **(a) During Initial Consideration of a Case on the Merits.**
 
-**(1) Applicability.** This Rule 29(a) governs amicus filings during a court’s initial consideration of a case on the merits.
+**(1) Applicability.** This Rule 29(a) governs amicus filings during a court's initial consideration of a case on the merits.
 
-**(2) When Permitted.** The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a court of appeals may prohibit the filing of or may strike an amicus brief that would result in a judge’s disqualification.
+**(2) When Permitted.** The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a court of appeals may prohibit the filing of or may strike an amicus brief that would result in a judge's disqualification.
 
 **(3) Motion for Leave to File.** The motion must be accompanied by the proposed brief and state:
 
-**(A)** the movant’s interest; and
+**(A)** the movant's interest; and
 
 **(B)** the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the case.
 
@@ -37,9 +37,9 @@ versions: ["2025"]
 
 **(E)** unless the amicus curiae is one listed in the first sentence of Rule 29(a)(2), a statement that indicates whether:
 
-**(i)** a party’s counsel authored the brief in whole or in part;
+**(i)** a party's counsel authored the brief in whole or in part;
 
-**(ii)** a party or a party’s counsel contributed money that was intended to fund preparing or submitting the brief; and
+**(ii)** a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
 
 **(iii)** a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
 
@@ -47,17 +47,17 @@ versions: ["2025"]
 
 **(G)** a certificate of compliance under Rule 32(g)(1), if length is computed using a word or line limit.
 
-**(5) Length.** Except by the court’s permission, an amicus brief may be no more than one-half the maximum length authorized by these rules for a party’s principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
+**(5) Length.** Except by the court's permission, an amicus brief may be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
 
-**(6) Time for Filing.** An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant’s or petitioner’s principal brief is filed. A court may grant leave for later filing, specifying the time within which an opposing party may answer.
+**(6) Time for Filing.** An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's or petitioner's principal brief is filed. A court may grant leave for later filing, specifying the time within which an opposing party may answer.
 
-**(7) Reply Brief.** Except by the court’s permission, an amicus curiae may not file a reply brief.
+**(7) Reply Brief.** Except by the court's permission, an amicus curiae may not file a reply brief.
 
-**(8) Oral Argument.** An amicus curiae may participate in oral argument only with the court’s permission.
+**(8) Oral Argument.** An amicus curiae may participate in oral argument only with the court's permission.
 
 **(b) During Consideration of Whether to Grant Rehearing.**
 
-**(1) Applicability.** This Rule 29(b) governs amicus filings during a court’s consideration of whether to grant panel rehearing or rehearing en banc, unless a local rule or order in a case provides otherwise.
+**(1) Applicability.** This Rule 29(b) governs amicus filings during a court's consideration of whether to grant panel rehearing or rehearing en banc, unless a local rule or order in a case provides otherwise.
 
 **(2) When Permitted.** The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court.
 

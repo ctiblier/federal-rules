@@ -15,17 +15,17 @@ versions: ["2025"]
 
 **(a) Time to Serve and File a Brief.** Unless the district court or BAP by order in a particular case excuses the filing of briefs or sets a different time, the following time limits apply:
 
-**(1) Appellant’s Brief.** The appellant must serve and file a brief within 30 days after the docketing of notice that the record has been sent or that it is available electronically.
+**(1) Appellant's Brief.** The appellant must serve and file a brief within 30 days after the docketing of notice that the record has been sent or that it is available electronically.
 
-**(2) Appellee’s Brief.** The appellee must serve and file a brief within 30 days after the appellant’s brief is served.
+**(2) Appellee's Brief.** The appellee must serve and file a brief within 30 days after the appellant's brief is served.
 
-**(3) Appellant’s Reply Brief.** The appellant may serve and file a reply brief within 14 days after service of the appellee’s brief but at least 7 days before scheduled argument—unless the district court or BAP, for cause, allows a later filing.
+**(3) Appellant's Reply Brief.** The appellant may serve and file a reply brief within 14 days after service of the appellee's brief but at least 7 days before scheduled argument—unless the district court or BAP, for cause, allows a later filing.
 
-**(4) Consequence of Failure to File.** If an appellant fails to file a brief on time or within an extended time authorized under (a)(3), the district court or BAP may—on its own after notice or on the appellee’s motion—dismiss the appeal. An appellee who fails to file a brief will not be heard at oral argument unless the district court or BAP grants permission.
+**(4) Consequence of Failure to File.** If an appellant fails to file a brief on time or within an extended time authorized under (a)(3), the district court or BAP may—on its own after notice or on the appellee's motion—dismiss the appeal. An appellee who fails to file a brief will not be heard at oral argument unless the district court or BAP grants permission.
 
 **(b) Duty to Serve and File an Appendix.**
 
-**(1) Appellant’s Duty.** Subject to (e) and Rule 8009(d), the appellant must serve and file with its principal brief an appendix containing excerpts from the record. It must contain:
+**(1) Appellant's Duty.** Subject to (e) and Rule 8009(d), the appellant must serve and file with its principal brief an appendix containing excerpts from the record. It must contain:
 
 **(A)** the relevant docket entries;
 
@@ -39,9 +39,9 @@ versions: ["2025"]
 
 **(F)** any relevant transcript or portion of it.
 
-**(2) Appellee’s Appendix.** The appellee may serve and file with its brief an appendix containing any material that is required to be included or is relevant to the appeal or cross-appeal but that is omitted from the appellant’s appendix.
+**(2) Appellee's Appendix.** The appellee may serve and file with its brief an appendix containing any material that is required to be included or is relevant to the appeal or cross-appeal but that is omitted from the appellant's appendix.
 
-**(3) Cross-Appellee’s Appendix.** The appellant—as cross-appellee—may also serve and file with its response an appendix containing material that is relevant to matters raised initially by the cross-appeal but that is omitted by the cross-appellant.
+**(3) Cross-Appellee's Appendix.** The appellant—as cross-appellee—may also serve and file with its response an appendix containing material that is relevant to matters raised initially by the cross-appeal but that is omitted by the cross-appellant.
 
 **(c) Format of the Appendix.**
 

@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(2)** preparing and sending the record;
 
-**(3)** the reporter’s transcript, if needed to determine the appeal;
+**(3)** the reporter's transcript, if needed to determine the appeal;
 
 **(4)** premiums paid for a bond or other security to preserve rights pending appeal; and
 

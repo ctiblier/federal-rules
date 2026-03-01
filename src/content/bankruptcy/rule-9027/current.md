@@ -19,13 +19,13 @@ versions: ["2025"]
 
 **(A)** contain a short and plain statement of the facts that entitle the party to remove;
 
-**(B)** contain a statement that the party filing the notice does or does not consent to the bankruptcy court’s entry of a final judgment or order; and
+**(B)** contain a statement that the party filing the notice does or does not consent to the bankruptcy court's entry of a final judgment or order; and
 
 **(C)** be accompanied by a copy of all process and pleadings.
 
 **(2) Time to File When the Claim Was Filed Before the Bankruptcy Case Is Commenced.** If the claim or cause of action in a civil action is pending when a bankruptcy case is commenced, the notice of removal must be filed within the longest of these periods:
 
-**(A) 90 days after the order for relief in the bankruptcy case;**
+**(A)** 90 days after the order for relief in the bankruptcy case;
 
 **(B)** if the claim or cause of action has been stayed under § 362, 30 days after an order terminating the stay is entered; or
 
@@ -55,7 +55,7 @@ versions: ["2025"]
 
 **(3) Statement by a Party Other Than the Removing Party.** A party who has filed a pleading regarding a removed claim or cause of action—except the party filing the notice of removal—must:
 
-**(A)** file a statement that the party does or does not consent to the bankruptcy court’s entry of a final order or judgment;
+**(A)** file a statement that the party does or does not consent to the bankruptcy court's entry of a final order or judgment;
 
 **(B)** sign the statement under Rule 9011;
 
@@ -77,7 +77,7 @@ versions: ["2025"]
 
 **(C) 7 days after the notice of removal was filed.**
 
-**(h) Clerk ’ s Failure to Supply Certified Records of Court Proceedings.** If a party is entitled to copies of the records and proceedings in a civil action or proceeding in a federal or state court for use in the removed action or proceeding, the party may demand certified copies from that court’s clerk. After the party pays for them or tenders the fees, if the clerk fails to provide them, the court to which the action or proceeding is removed may—after receiving an affidavit stating these facts—order that the record be supplied by affidavit or otherwise. The court may then proceed to trial and judgment, and may award all process, as if certified copies had been filed.
+**(h) Clerk's Failure to Supply Certified Records of Court Proceedings.** If a party is entitled to copies of the records and proceedings in a civil action or proceeding in a federal or state court for use in the removed action or proceeding, the party may demand certified copies from that court's clerk. After the party pays for them or tenders the fees, if the clerk fails to provide them, the court to which the action or proceeding is removed may—after receiving an affidavit stating these facts—order that the record be supplied by affidavit or otherwise. The court may then proceed to trial and judgment, and may award all process, as if certified copies had been filed.
 
 **(i) Property Attached or Sequestered; Security; Injunction.**
 

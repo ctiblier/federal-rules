@@ -19,6 +19,6 @@ versions: ["2025"]
 
 **(2)** conduct or a statement made during compromise negotiations about the claim—except when offered in a criminal case and when the negotiations related to a claim by a public office in the exercise of its regulatory, investigative, or enforcement authority.
 
-**(b) Exceptions.** The court may admit this evidence for another purpose, such as proving a witness’s bias or prejudice, negating a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
+**(b) Exceptions.** The court may admit this evidence for another purpose, such as proving a witness's bias or prejudice, negating a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
 
 <p class="amendment-history">(As amended Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

@@ -1,6 +1,6 @@
 ---
 rule: "806"
-title: "Attacking and Supporting the Declarant’s Credibility"
+title: "Attacking and Supporting the Declarant's Credibility"
 title_number: "VIII"
 title_name: "Hearsay"
 summary: ""
@@ -13,6 +13,6 @@ source_pdf_page: 38
 versions: ["2025"]
 ---
 
-When a hearsay statement—or a statement described in Rule 801(d)(2)(C), (D), or (E)—has been admitted in evidence, the declarant’s credibility may be attacked, and then supported, by any evidence that would be admissible for those purposes if the declarant had testified as a witness. The court may admit evidence of the declarant’s inconsistent statement or conduct, regardless of when it occurred or whether the declarant had an opportunity to explain or deny it. If the party against whom the statement was admitted calls the declarant as a witness, the party may examine the declarant on the statement as if on cross-examination.
+When a hearsay statement—or a statement described in Rule 801(d)(2)(C), (D), or (E)—has been admitted in evidence, the declarant's credibility may be attacked, and then supported, by any evidence that would be admissible for those purposes if the declarant had testified as a witness. The court may admit evidence of the declarant's inconsistent statement or conduct, regardless of when it occurred or whether the declarant had an opportunity to explain or deny it. If the party against whom the statement was admitted calls the declarant as a witness, the party may examine the declarant on the statement as if on cross-examination.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

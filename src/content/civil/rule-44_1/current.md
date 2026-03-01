@@ -13,6 +13,6 @@ source_pdf_page: 87
 versions: ["2025"]
 ---
 
-A party who intends to raise an issue about a foreign country’s law must give notice by a pleading or other writing. In determining foreign law, the court may consider any relevant material or source, including testimony, whether or not submitted by a party or admissible under the Federal Rules of Evidence. The court’s determination must be treated as a ruling on a question of law.
+A party who intends to raise an issue about a foreign country's law must give notice by a pleading or other writing. In determining foreign law, the court may consider any relevant material or source, including testimony, whether or not submitted by a party or admissible under the Federal Rules of Evidence. The court's determination must be treated as a ruling on a question of law.
 
 <p class="amendment-history">(As added Feb. 28, 1966, eff. July 1, 1966; amended Nov. 20, 1972, eff. July 1, 1975; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

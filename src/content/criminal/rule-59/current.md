@@ -1,6 +1,6 @@
 ---
 rule: "59"
-title: "Matters Before a Magistrate Judge"
+title: "New Trial; Altering or Amending a Judgment"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
@@ -9,18 +9,26 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 91
+source_pdf_page: 102
 versions: ["2025"]
 ---
 
-**(a) Nondispositive Matters.** A district judge may refer to a magistrate judge for determination any matter that does not dispose of a charge or defense. The magistrate judge must promptly conduct the required proceedings and, when appropriate, enter on the record an oral or written order stating the determination. A party may serve and file objections to the order within 14 days after being served with a copy of a written order or after the oral order is stated on the record, or at some other time the court sets. The district judge must consider timely objections and modify or set aside any part of the order that is contrary to law or clearly erroneous. Failure to object in accordance with this rule waives a party’s right to review.
+**(a) In General.**
 
-**(b) Dispositive Matters.**
+**(1) Grounds for New Trial.** The court may, on motion, grant a new trial on all or some of the issues—and to any party—as follows:
 
-**(1) Referral to Magistrate Judge.** A district judge may refer to a magistrate judge for recommendation a defendant’s motion to dismiss or quash an indictment or information, a motion to suppress evidence, or any matter that may dispose of a charge or defense. The magistrate judge must promptly conduct the required proceedings. A record must be made of any evidentiary proceeding and of any other proceeding if the magistrate judge considers it necessary. The magistrate judge must enter on the record a recommendation for disposing of the matter, including any proposed findings of fact. The clerk must immediately serve copies on all parties.
+**(A)** after a jury trial, for any reason for which a new trial has heretofore been granted in an action at law in federal court; or
 
-**(2) Objections to Findings and Recommendations.** Within 14 days after being served with a copy of the recommended disposition, or at some other time the court sets, a party may serve and file specific written objections to the proposed findings and recommendations. Unless the district judge directs otherwise, the objecting party must promptly arrange for transcribing the record, or whatever portions of it the parties agree to or the magistrate judge considers sufficient. Failure to object in accordance with this rule waives a party’s right to review.
+**(B)** after a nonjury trial, for any reason for which a rehearing has heretofore been granted in a suit in equity in federal court.
 
-**(3) De Novo Review of Recommendations.** The district judge must consider de novo any objection to the magistrate judge’s recommendation. The district judge may accept, reject, or modify the recommendation, receive further evidence, or resubmit the matter to the magistrate judge with instructions.
+**(2) Further Action After a Nonjury Trial.** After a nonjury trial, the court may, on motion for a new trial, open the judgment if one has been entered, take additional testimony, amend findings of fact and conclusions of law or make new ones, and direct the entry of a new judgment.
 
-<p class="amendment-history">(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+**(b) Time to File a Motion for a New Trial.** A motion for a new trial must be filed no later than 28 days after the entry of judgment.
+
+**(c) Time to Serve Affidavits.** When a motion for a new trial is based on affidavits, they must be filed with the motion. The opposing party has 14 days after being served to file opposing affidavits. The court may permit reply affidavits.
+
+**(d) New Trial on the Court's Initiative or for Reasons Not in the Motion.** No later than 28 days after the entry of judgment, the court, on its own, may order a new trial for any reason that would justify granting one on a party's motion. After giving the parties notice and an opportunity to be heard, the court may grant a timely motion for a new trial for a reason not stated in the motion. In either event, the court must specify the reasons in its order.
+
+**(e) Motion to Alter or Amend a Judgment.** A motion to alter or amend a judgment must be filed no later than 28 days after the entry of the judgment.
+
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Feb. 28, 1966, eff. July 1, 1966; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

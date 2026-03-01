@@ -19,6 +19,6 @@ versions: ["2025"]
 
 **(2)** include the amount due each entity.
 
-**(b) Making the Information Searchable.** On the court’s website, the clerk must provide searchable access to information about funds deposited under § 347(a). The court may, for cause, limit access to that information in a specific case.
+**(b) Making the Information Searchable.** On the court's website, the clerk must provide searchable access to information about funds deposited under § 347(a). The court may, for cause, limit access to that information in a specific case.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

@@ -29,19 +29,19 @@ versions: ["2025"]
 
 **(ii)** may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
 
-**(C) Signing.** A filing made through a person’s electronicfiling account and authorized by that person, together with the person’s name on a signature block, constitutes the person’s signature.
+**(C) Signing.** A filing made through a person's electronicfiling account and authorized by that person, together with the person's name on a signature block, constitutes the person's signature.
 
 **(D) Same as a Written Paper.** A paper filed electronically is a written paper for purposes of these rules, the Federal Rules of Civil Procedure made applicable by these rules, and § 107.
 
 **(b) Sending Copies to the United States Trustee.**
 
-**(1) Papers Sent Electronically.** All papers required to be sent to the United States trustee may be sent by using the court’s electronic-filing system in accordance with Rule 9036, unless a court order or local rule provides otherwise.
+**(1) Papers Sent Electronically.** All papers required to be sent to the United States trustee may be sent by using the court's electronic-filing system in accordance with Rule 9036, unless a court order or local rule provides otherwise.
 
-**(2) Papers Not Sent Electronically.** If an entity other than the clerk sends a paper to the United States trustee without using the court’s electronic-filing system, the entity must promptly file a statement identifying the paper and stating the manner by which and the date it was sent. The clerk need not send a copy of a paper to a United States trustee who requests in writing that it not be sent.
+**(2) Papers Not Sent Electronically.** If an entity other than the clerk sends a paper to the United States trustee without using the court's electronic-filing system, the entity must promptly file a statement identifying the paper and stating the manner by which and the date it was sent. The clerk need not send a copy of a paper to a United States trustee who requests in writing that it not be sent.
 
 **(c) When a Paper Is Erroneously Filed or Delivered.**
 
-**(1) Paper Intended for the Clerk.** If a paper intended to be filed with the clerk is erroneously delivered to a person listed below, that person must note on it the date of receipt and promptly send it to the clerk: • the United States trustee; • the trustee; • the trustee’s attorney; • a bankruptcy judge; • a district judge; • the clerk of the bankruptcy appellate panel; or • the clerk of the district court.
+**(1) Paper Intended for the Clerk.** If a paper intended to be filed with the clerk is erroneously delivered to a person listed below, that person must note on it the date of receipt and promptly send it to the clerk: • the United States trustee; • the trustee; • the trustee's attorney; • a bankruptcy judge; • a district judge; • the clerk of the bankruptcy appellate panel; or • the clerk of the district court.
 
 **(2) Paper Intended for the United States Trustee.** If a paper intended for the United States trustee is erroneously delivered to the clerk or to another person listed in (1), the clerk or that person must note on it the date of receipt and promptly send it to the United States trustee.
 

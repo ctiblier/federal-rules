@@ -1,6 +1,6 @@
 ---
 rule: "8024"
-title: "Clerk’s Duties on Disposition of the Appeal"
+title: "Clerk's Duties on Disposition of the Appeal"
 title_number: "VIII"
 title_name: "Appeal to a District Court or a Bankruptcy Appellate Panel"
 summary: ""
@@ -13,7 +13,7 @@ source_pdf_page: 144
 versions: ["2025"]
 ---
 
-**(a) Preparing the Judgment.** After receiving the court’s opinion—or instructions if there is no opinion—the district or BAP clerk must:
+**(a) Preparing the Judgment.** After receiving the court's opinion—or instructions if there is no opinion—the district or BAP clerk must:
 
 **(1)** prepare and sign the judgment; and
 

@@ -17,13 +17,13 @@ versions: ["2025"]
 
 **(b) Stay by Bond or Other Security.** At any time after judgment is entered, a party may obtain a stay by providing a bond or other security. The stay takes effect when the court approves the bond or other security and remains in effect for the time specified in the bond or other security.
 
-**(c) Stay of an Injunction, Receivership, or Patent Account - ing Order.** Unless the court orders otherwise, the following are not stayed after being entered, even if an appeal is taken:
+**(c) Stay of an Injunction, Receivership, or Patent Accounting Order.** Unless the court orders otherwise, the following are not stayed after being entered, even if an appeal is taken:
 
 **(1)** an interlocutory or final judgment in an action for an injunction or receivership; or
 
 **(2)** a judgment or order that directs an accounting in an action for patent infringement.
 
-**(d) Injunction Pending an Appeal.** While an appeal is pending from an interlocutory order or final judgment that grants, continues, modifies, refuses, dissolves, or refuses to dissolve or modify an injunction, the court may suspend, modify, restore, or grant an injunction on terms for bond or other terms that secure the opposing party’s rights. If the judgment appealed from is rendered by a statutory three-judge district court, the order must be made either:
+**(d) Injunction Pending an Appeal.** While an appeal is pending from an interlocutory order or final judgment that grants, continues, modifies, refuses, dissolves, or refuses to dissolve or modify an injunction, the court may suspend, modify, restore, or grant an injunction on terms for bond or other terms that secure the opposing party's rights. If the judgment appealed from is rendered by a statutory three-judge district court, the order must be made either:
 
 **(1)** by that court sitting in open session; or
 
@@ -31,9 +31,9 @@ versions: ["2025"]
 
 **(e) Stay Without Bond on an Appeal by the United States, Its Officers, or Its Agencies.** The court must not require a bond, obligation, or other security from the appellant when granting a stay on an appeal by the United States, its officers, or its agencies or on an appeal directed by a department of the federal government.
 
-**(f) Stay in Favor of a Judgment Debtor Under State Law.** If a judgment is a lien on the judgment debtor’s property under the law of the state where the court is located, the judgment debtor is entitled to the same stay of execution the state court would give.
+**(f) Stay in Favor of a Judgment Debtor Under State Law.** If a judgment is a lien on the judgment debtor's property under the law of the state where the court is located, the judgment debtor is entitled to the same stay of execution the state court would give.
 
-**(g) Appellate Court ’ s Power Not Limited.** This rule does not limit the power of the appellate court or one of its judges or justices:
+**(g) Appellate Court's Power Not Limited.** This rule does not limit the power of the appellate court or one of its judges or justices:
 
 **(1)** to stay proceedings—or suspend, modify, restore, or grant an injunction—while an appeal is pending; or
 

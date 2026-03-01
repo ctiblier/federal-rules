@@ -13,7 +13,7 @@ source_pdf_page: 80
 versions: ["2025"]
 ---
 
-**(a) Chapter 11—Depositing Funds Before the Plan is Con - firmed .** Before a plan is confirmed in a Chapter 11 case, the court may order that the consideration required to be distributed upon confirmation be deposited with the trustee or debtor in possession. Any funds deposited must be kept in a special account established for the sole purpose of making the distribution.
+**(a) Chapter 11—Depositing Funds Before the Plan is Confirmed.** Before a plan is confirmed in a Chapter 11 case, the court may order that the consideration required to be distributed upon confirmation be deposited with the trustee or debtor in possession. Any funds deposited must be kept in a special account established for the sole purpose of making the distribution.
 
 **(b) Chapter 9 or 11—Objecting to Confirmation; Confirmation Hearing.**
 
@@ -37,7 +37,7 @@ versions: ["2025"]
 
 **(3) Copy to the United States Trustee.** In a Chapter 11 case, a copy of the order must be sent to the United States trustee under Rule 2002(k).
 
-**(d) Retained Power to Issue Future Orders Relating to Ad - ministration .** After a plan is confirmed, the court may continue to issue orders needed to administer the estate.
+**(d) Retained Power to Issue Future Orders Relating to Administration.** After a plan is confirmed, the court may continue to issue orders needed to administer the estate.
 
 **(e) Staying a Confirmation Order.** Unless the court orders otherwise, a confirmation order is stayed for 14 days after its entry.
 

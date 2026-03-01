@@ -13,7 +13,7 @@ source_pdf_page: 100
 versions: ["2025"]
 ---
 
-**(a) Motion for Summary Judgment or Partial Summary Judg - ment .** A party may move for summary judgment, identifying each claim or defense—or the part of each claim or defense—on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
+**(a) Motion for Summary Judgment or Partial Summary Judgment.** A party may move for summary judgment, identifying each claim or defense—or the part of each claim or defense—on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 
 **(b) Time to File a Motion.** Unless a different time is set by local rule or the court orders otherwise, a party may file a motion for summary judgment at any time until 30 days after the close of all discovery.
 
@@ -39,7 +39,7 @@ versions: ["2025"]
 
 **(3)** issue any other appropriate order.
 
-**(e) Failing to Properly Support or Address a Fact.** If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
+**(e) Failing to Properly Support or Address a Fact.** If a party fails to properly support an assertion of fact or fails to properly address another party's assertion of fact as required by Rule 56(c), the court may:
 
 **(1)** give an opportunity to properly support or address the fact;
 
@@ -59,6 +59,6 @@ versions: ["2025"]
 
 **(g) Failing to Grant All the Requested Relief.** If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact—including an item of damages or other relief—that is not genuinely in dispute and treating the fact as established in the case.
 
-**(h) Affidavit or Declaration Submitted in Bad Faith.** If satisfied that an affidavit or declaration under this rule is submitted in bad faith or solely for delay, the court—after notice and a reasonable time to respond—may order the submitting party to pay the other party the reasonable expenses, including attorney’s fees, it incurred as a result. An offending party or attorney may also be held in contempt or subjected to other appropriate sanctions.
+**(h) Affidavit or Declaration Submitted in Bad Faith.** If satisfied that an affidavit or declaration under this rule is submitted in bad faith or solely for delay, the court—after notice and a reasonable time to respond—may order the submitting party to pay the other party the reasonable expenses, including attorney's fees, it incurred as a result. An offending party or attorney may also be held in contempt or subjected to other appropriate sanctions.
 
 <p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)</p>

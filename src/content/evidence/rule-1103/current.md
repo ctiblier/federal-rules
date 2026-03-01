@@ -16,7 +16,3 @@ versions: ["2025"]
 These rules may be cited as the Federal Rules of Evidence.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-Æ

@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) When a Deposition May Be Taken.**
 
-**(1) Without Leave.** A party may, by written questions, depose any person, including a party, without leave of court except as provided in Rule 31(a)(2). The deponent’s attendance may be compelled by subpoena under Rule 45.
+**(1) Without Leave.** A party may, by written questions, depose any person, including a party, without leave of court except as provided in Rule 31(a)(2). The deponent's attendance may be compelled by subpoena under Rule 45.
 
 **(2) With Leave.** A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(1) and (2):
 
@@ -29,15 +29,15 @@ versions: ["2025"]
 
 **(B)** if the deponent is confined in prison.
 
-**(3) Service; Required Notice.** A party who wants to depose a person by written questions must serve them on every other party, with a notice stating, if known, the deponent’s name and address. If the name is unknown, the notice must provide a general description sufficient to identify the person or the particular class or group to which the person belongs. The notice must also state the name or descriptive title and the address of the officer before whom the deposition will be taken.
+**(3) Service; Required Notice.** A party who wants to depose a person by written questions must serve them on every other party, with a notice stating, if known, the deponent's name and address. If the name is unknown, the notice must provide a general description sufficient to identify the person or the particular class or group to which the person belongs. The notice must also state the name or descriptive title and the address of the officer before whom the deposition will be taken.
 
 **(4) Questions Directed to an Organization.** A public or private corporation, a partnership, an association, or a governmental agency may be deposed by written questions in accordance with Rule 30(b)(6).
 
 **(5) Questions from Other Parties.** Any questions to the deponent from other parties must be served on all parties as follows: cross-questions, within 14 days after being served with the notice and direct questions; redirect questions, within 7 days after being served with cross-questions; and recross-questions, within 7 days after being served with redirect questions. The court may, for good cause, extend or shorten these times.
 
-**(b) Delivery to the Officer; Officer ’ s Duties.** The party who noticed the deposition must deliver to the officer a copy of all the questions served and of the notice. The officer must promptly proceed in the manner provided in Rule 30(c), (e), and (f) to:
+**(b) Delivery to the Officer; Officer's Duties.** The party who noticed the deposition must deliver to the officer a copy of all the questions served and of the notice. The officer must promptly proceed in the manner provided in Rule 30(c), (e), and (f) to:
 
-**(1)** take the deponent’s testimony in response to the questions;
+**(1)** take the deponent's testimony in response to the questions;
 
 **(2)** prepare and certify the deposition; and
 

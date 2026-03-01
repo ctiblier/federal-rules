@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) Notice and Hearing.**
 
-**(A) Notice.** Except as provided in Rule 3017.1 for a small business case, the court must hold a hearing on a disclosure statement filed under Rule 3016(b) and any objection or modification to it. The hearing must be held on at least 28 days’ notice under Rule 2002(b) to: • the debtor; • creditors; • equity security holders; and • other parties in interest.
+**(A) Notice.** Except as provided in Rule 3017.1 for a small business case, the court must hold a hearing on a disclosure statement filed under Rule 3016(b) and any objection or modification to it. The hearing must be held on at least 28 days' notice under Rule 2002(b) to: • the debtor; • creditors; • equity security holders; and • other parties in interest.
 
 **(B) Limit on Sending the Plan and Disclosure Statement.** A copy of the plan and disclosure statement must be mailed with the notice of a hearing to: • the debtor; • any trustee or appointed committee; • the Securities and Exchange Commission; and • any party in interest that, in writing, requests a copy of the disclosure statement or plan.
 
@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(b) Court Ruling on the Disclosure Statement.** After the hearing, the court must determine whether the disclosure statement should be approved.
 
-**(c) Time to Accept or Reject a Plan and for the Confirma - tion Hearing.** At the time or before the disclosure statement is approved, the court:
+**(c) Time to Accept or Reject a Plan and for the Confirmation Hearing.** At the time or before the disclosure statement is approved, the court:
 
 **(1)** must set a deadline for the holders of claims and interests to accept or reject the plan; and
 
@@ -49,19 +49,19 @@ versions: ["2025"]
 
 **(B) Exception.** The court may vary the requirements for an unimpaired class of creditors or equity security holders.
 
-**(2) Time to Object to a Plan; Notice of the Confirmation Hearing.** Notice of the time to file an objection to a plan’s confirmation and the date of the hearing on confirmation must be mailed to creditors and equity security holders in accordance with Rule 2002(b). A ballot that conforms to Form 314 must also be mailed to creditors and equity security holders who are entitled to vote on the plan. If the court’s opinion is not sent (or only a summary of the plan was sent), a party in interest may request a copy of the opinion or plan, which must be provided at the plan proponent’s expense.
+**(2) Time to Object to a Plan; Notice of the Confirmation Hearing.** Notice of the time to file an objection to a plan's confirmation and the date of the hearing on confirmation must be mailed to creditors and equity security holders in accordance with Rule 2002(b). A ballot that conforms to Form 314 must also be mailed to creditors and equity security holders who are entitled to vote on the plan. If the court's opinion is not sent (or only a summary of the plan was sent), a party in interest may request a copy of the opinion or plan, which must be provided at the plan proponent's expense.
 
 **(3) Notice to Unimpaired Classes.** If the court orders that the disclosure statement and plan (or the plan summary) not be mailed to an unimpaired class, a notice that the class has been designated as unimpaired must be mailed to the class members. The notice must show:
 
-**(A)** the name and address of the person from whom the plan (or summary) and the disclosure statement may be obtained at the plan proponent’s expense;
+**(A)** the name and address of the person from whom the plan (or summary) and the disclosure statement may be obtained at the plan proponent's expense;
 
-**(B)** the time to file an objection to the plan’s confirmation; and
+**(B)** the time to file an objection to the plan's confirmation; and
 
 **(C)** the date of the confirmation hearing.
 
-**(4)** Definition of ‘‘Creditors’’ and ‘‘Equity Security Holders.’’ In this Rule 3017(d), ‘‘creditors’’ and ‘‘equity security holders’’ include record holders of stock, bonds, debentures, notes, and other securities on the date the order approving the disclosure statement is entered—or another date the court sets for cause and after notice and a hearing.
+**(4)** Definition of ''Creditors'' and ''Equity Security Holders.''In this Rule 3017(d), ''creditors'' and ''equity security holders'' include record holders of stock, bonds, debentures, notes, and other securities on the date the order approving the disclosure statement is entered—or another date the court sets for cause and after notice and a hearing.
 
-**(e) Procedure for Sending Information to Beneficial Hold - ers of Securities.** At the hearing under (a), the court must:
+**(e) Procedure for Sending Information to Beneficial Holders of Securities.** At the hearing under (a), the court must:
 
 **(1)** determine the adequacy of the procedures for sending the documents and information listed in (d)(1) to beneficial holders of stock, bonds, debentures, notes, and other securities; and
 
@@ -69,7 +69,7 @@ versions: ["2025"]
 
 **(f) Sending Information to Entities Subject to an Injunction.**
 
-**(1) Timing of the Notice.** This Rule 3017(f) applies if, under a plan, an entity that is not a creditor or equity security holder is subject to an injunction against conduct not otherwise enjoined by the Code. At the hearing under (a), the court must consider procedures to provide the entity with at least 28 days’ notice of:
+**(1) Timing of the Notice.** This Rule 3017(f) applies if, under a plan, an entity that is not a creditor or equity security holder is subject to an injunction against conduct not otherwise enjoined by the Code. At the hearing under (a), the court must consider procedures to provide the entity with at least 28 days' notice of:
 
 **(A)** the time to file an objection; and
 

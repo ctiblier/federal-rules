@@ -35,6 +35,6 @@ versions: ["2025"]
 
 **(B)** advise the debtors that if they fail to do so, they will be considered to have elected exemptions under § 522(b)(2).
 
-**(c) Protective Orders to Avoid Unnecessary Costs and Delay.** When cases are consolidated or jointly administered, the court may issue orders to avoid unnecessary costs and delay while still protecting the parties’ rights under the Code.
+**(c) Protective Orders to Avoid Unnecessary Costs and Delay.** When cases are consolidated or jointly administered, the court may issue orders to avoid unnecessary costs and delay while still protecting the parties' rights under the Code.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

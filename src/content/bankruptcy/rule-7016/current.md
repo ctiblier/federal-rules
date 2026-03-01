@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Pretrial Conferences; Scheduling; Management.** Fed. R. Civ. P. 16 applies in an adversary proceeding.
 
-**(b) Determining Procedure.** On its own or a party’s timely motion, the court must decide whether:
+**(b) Determining Procedure.** On its own or a party's timely motion, the court must decide whether:
 
 **(1)** to hear and determine the proceeding;
 

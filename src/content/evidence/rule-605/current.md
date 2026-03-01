@@ -1,6 +1,6 @@
 ---
 rule: "605"
-title: "Judge’s Competency as a Witness"
+title: "Judge's Competency as a Witness"
 title_number: "VI"
 title_name: "Witnesses"
 summary: ""

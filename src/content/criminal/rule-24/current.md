@@ -1,6 +1,6 @@
 ---
 rule: "24"
-title: "Trial Jurors"
+title: "Intervention"
 title_number: "VI"
 title_name: "Trial"
 summary: ""
@@ -13,42 +13,28 @@ source_pdf_page: 55
 versions: ["2025"]
 ---
 
-**(a) Examination.**
+**(a) Intervention of Right.** On timely motion, the court must permit anyone to intervene who:
 
-**(1) In General.** The court may examine prospective jurors or may permit the attorneys for the parties to do so.
+**(1)** is given an unconditional right to intervene by a federal statute; or
 
-**(2) Court Examination.** If the court examines the jurors, it must permit the attorneys for the parties to:
+**(2)** claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
 
-**(A)** ask further questions that the court considers proper; or
+**(b) Permissive Intervention.**
 
-**(B)** submit further questions that the court may ask if it considers them proper.
+**(1) In General.** On timely motion, the court may permit anyone to intervene who:
 
-**(b) Peremptory Challenges.** Each side is entitled to the number of peremptory challenges to prospective jurors specified below. The court may allow additional peremptory challenges to multiple defendants, and may allow the defendants to exercise those challenges separately or jointly.
+**(A)** is given a conditional right to intervene by a federal statute; or
 
-**(1) Capital Case.** Each side has 20 peremptory challenges when the government seeks the death penalty.
+**(B)** has a claim or defense that shares with the main action a common question of law or fact.
 
-**(2) Other Felony Case.** The government has 6 peremptory challenges and the defendant or defendants jointly have 10 peremptory challenges when the defendant is charged with a crime punishable by imprisonment of more than one year.
+**(2) By a Government Officer or Agency.** On timely motion, the court may permit a federal or state governmental officer or agency to intervene if a party's claim or defense is based on:
 
-**(3) Misdemeanor Case.** Each side has 3 peremptory challenges when the defendant is charged with a crime punishable by fine, imprisonment of one year or less, or both.
+**(A)** a statute or executive order administered by the officer or agency; or
 
-**(c) Alternate Jurors.**
+**(B)** any regulation, order, requirement, or agreement issued or made under the statute or executive order.
 
-**(1) In General.** The court may impanel up to 6 alternate jurors to replace any jurors who are unable to perform or who are disqualified from performing their duties.
+**(3) Delay or Prejudice.** In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
 
-**(2) Procedure.**
+**(c) Notice and Pleading Required.** A motion to intervene must be served on the parties as provided in Rule 5. The motion must state the grounds for intervention and be accompanied by a pleading that sets out the claim or defense for which intervention is sought.
 
-**(A)** Alternate jurors must have the same qualifications and be selected and sworn in the same manner as any other juror.
-
-**(B) Alternate jurors replace jurors in the same sequence in which the alternates were selected.** An alternate juror who replaces a juror has the same authority as the other jurors.
-
-**(3) Retaining Alternate Jurors.** The court may retain alternate jurors after the jury retires to deliberate. The court must ensure that a retained alternate does not discuss the case with anyone until that alternate replaces a juror or is discharged. If an alternate replaces a juror after deliberations have begun, the court must instruct the jury to begin its deliberations anew.
-
-**(4) Peremptory Challenges.** Each side is entitled to the number of additional peremptory challenges to prospective alternate jurors specified below. These additional challenges may be used only to remove alternate jurors.
-
-**(A) One or Two Alternates.** One additional peremptory challenge is permitted when one or two alternates are impaneled.
-
-**(B) Three or Four Alternates.** Two additional peremptory challenges are permitted when three or four alternates are impaneled.
-
-**(C) Five or Six Alternates.** Three additional peremptory challenges are permitted when five or six alternates are impaneled.
-
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(A)** an official publication of the record; or
 
-**(B)** a copy attested by the officer with legal custody of the record—or by the officer’s deputy—and accompanied by a certificate that the officer has custody. The certificate must be made under seal:
+**(B)** a copy attested by the officer with legal custody of the record—or by the officer's deputy—and accompanied by a certificate that the officer has custody. The certificate must be made under seal:
 
 **(i)** by a judge of a court of record in the district or political subdivision where the record is kept; or
 
@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(B) Final Certification of Genuineness.** A final certification must certify the genuineness of the signature and official position of the attester or of any foreign official whose certificate of genuineness relates to the attestation or is in a chain of certificates of genuineness relating to the attestation. A final certification may be made by a secretary of a United States embassy or legation; by a consul general, vice consul, or consular agent of the United States; or by a diplomatic or consular official of the foreign country assigned or accredited to the United States.
 
-**(C) Other Means of Proof.** If all parties have had a reasonable opportunity to investigate a foreign record’s authenticity and accuracy, the court may, for good cause, either:
+**(C) Other Means of Proof.** If all parties have had a reasonable opportunity to investigate a foreign record's authenticity and accuracy, the court may, for good cause, either:
 
 **(i)** admit an attested copy without final certification; or
 

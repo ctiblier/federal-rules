@@ -13,6 +13,6 @@ source_pdf_page: 108
 versions: ["2025"]
 ---
 
-Fed. R. Civ. P. 10 applies in an adversary proceeding—except that a pleading’s caption must substantially conform to the appropriate version of Form 416.
+Fed. R. Civ. P. 10 applies in an adversary proceeding—except that a pleading's caption must substantially conform to the appropriate version of Form 416.
 
 <p class="amendment-history">(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

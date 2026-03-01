@@ -15,9 +15,9 @@ versions: ["2025"]
 
 **(a) Filing a Notice of Appeal.**
 
-**(1) Time to File.** An appeal under 28 U.S.C. § 158(a)(1) or (2) from a bankruptcy court’s judgment, order, or decree to a district court or a BAP may be taken only by filing a notice of appeal with the bankruptcy clerk within the time allowed by Rule 8002.
+**(1) Time to File.** An appeal under 28 U.S.C. § 158(a)(1) or (2) from a bankruptcy court's judgment, order, or decree to a district court or a BAP may be taken only by filing a notice of appeal with the bankruptcy clerk within the time allowed by Rule 8002.
 
-**(2) Failure to Take Any Other Step.** An appellant’s failure to take any step other than timely filing a notice of appeal does not affect the appeal’s validity, but is ground only for the district court or BAP to act as it considers appropriate, including dismissing the appeal.
+**(2) Failure to Take Any Other Step.** An appellant's failure to take any step other than timely filing a notice of appeal does not affect the appeal's validity, but is ground only for the district court or BAP to act as it considers appropriate, including dismissing the appeal.
 
 **(3) Content of the Notice of Appeal.** A notice of appeal must:
 
@@ -39,19 +39,19 @@ versions: ["2025"]
 
 **(7) Impermissible Ground for Dismissal.** An appeal must not be dismissed for failure to properly identify the judgment or appealable order or decree if the notice of appeal was filed after entry of the judgment or appealable order or decree and identifies an order that merged into that judgment or appealable order or decree.
 
-**(8) Clerk’s Request for Additional Copies of the Notice of Appeal.** On the bankruptcy clerk’s request, the appellant must provide enough copies of the notice of appeal to enable the clerk to comply with (c).
+**(8) Clerk's Request for Additional Copies of the Notice of Appeal.** On the bankruptcy clerk's request, the appellant must provide enough copies of the notice of appeal to enable the clerk to comply with (c).
 
 **(b) Joint or Consolidated Appeals.**
 
-**(1) Joint Notice of Appeal.** When two or more parties are entitled to appeal from a bankruptcy court’s judgment, order, or decree and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.
+**(1) Joint Notice of Appeal.** When two or more parties are entitled to appeal from a bankruptcy court's judgment, order, or decree and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.
 
 **(2) Consolidating Appeals.** When parties have separately filed timely notices of appeal, the district court or BAP may join or consolidate the appeals.
 
 **(c) Serving the Notice of Appeal.**
 
-**(1) Serving Parties; Sending to the United States Trustee.** The bankruptcy clerk must serve the notice of appeal by sending a copy to 1counsel of record for each party to the appeal—excluding the appellant’s counsel—and send it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice to the party’s last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
+**(1) Serving Parties; Sending to the United States Trustee.** The bankruptcy clerk must serve the notice of appeal by sending a copy to 1counsel of record for each party to the appeal—excluding the appellant's counsel—and send it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice to the party's last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
 
-**(2) Failure to Serve the Notice of Appeal.** The bankruptcy clerk’s failure to serve notice on a party or send notice to the United States trustee does not affect the appeal’s validity.
+**(2) Failure to Serve the Notice of Appeal.** The bankruptcy clerk's failure to serve notice on a party or send notice to the United States trustee does not affect the appeal's validity.
 
 **(3) Entry of Service on the Docket.** The clerk must note on the docket the names of the parties served and the date and method of service.
 
@@ -63,4 +63,4 @@ versions: ["2025"]
 
 **(A)** docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding; and
 
-**(B)** identify the appellant, adding the appellant’s name if necessary. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)
+**(B)** identify the appellant, adding the appellant's name if necessary. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)

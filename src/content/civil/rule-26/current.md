@@ -47,17 +47,17 @@ versions: ["2025"]
 
 **(ix)** an action to enforce an arbitration award.
 
-**(C) Time for Initial Disclosures—In General.** A party must make the initial disclosures at or within 14 days after the parties’ Rule 26(f) conference unless a different time is set by stipulation or court order, or unless a party objects during the conference that initial disclosures are not appropriate in this action and states the objection in the proposed discovery plan. In ruling on the objection, the court must determine what disclosures, if any, are to be made and must set the time for disclosure.
+**(C) Time for Initial Disclosures—In General.** A party must make the initial disclosures at or within 14 days after the parties' Rule 26(f) conference unless a different time is set by stipulation or court order, or unless a party objects during the conference that initial disclosures are not appropriate in this action and states the objection in the proposed discovery plan. In ruling on the objection, the court must determine what disclosures, if any, are to be made and must set the time for disclosure.
 
 **(D) Time for Initial Disclosures—For Parties Served or Joined Later.** A party that is first served or otherwise joined after the Rule 26(f) conference must make the initial disclosures within 30 days after being served or joined, unless a different time is set by stipulation or court order.
 
-**(E) Basis for Initial Disclosure; Unacceptable Excuses.** A party must make its initial disclosures based on the information then reasonably available to it. A party is not excused from making its disclosures because it has not fully investigated the case or because it challenges the sufficiency of another party’s disclosures or because another party has not made its disclosures.
+**(E) Basis for Initial Disclosure; Unacceptable Excuses.** A party must make its initial disclosures based on the information then reasonably available to it. A party is not excused from making its disclosures because it has not fully investigated the case or because it challenges the sufficiency of another party's disclosures or because another party has not made its disclosures.
 
 **(2) Disclosure of Expert Testimony.**
 
 **(A) In General.** In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705.
 
-**(B) Witnesses Who Must Provide a Written Report.** Unless otherwise stipulated or ordered by the court, this disclosure must be accompanied by a written report—prepared and signed by the witness—if the witness is one retained or specially employed to provide expert testimony in the case or one whose duties as the party’s employee regularly involve giving expert testimony. The report must contain:
+**(B) Witnesses Who Must Provide a Written Report.** Unless otherwise stipulated or ordered by the court, this disclosure must be accompanied by a written report—prepared and signed by the witness—if the witness is one retained or specially employed to provide expert testimony in the case or one whose duties as the party's employee regularly involve giving expert testimony. The report must contain:
 
 **(i)** a complete statement of all opinions the witness will express and the basis and reasons for them;
 
@@ -65,7 +65,7 @@ versions: ["2025"]
 
 **(iii)** any exhibits that will be used to summarize or support them;
 
-**(iv)** the witness’s qualifications, including a list of all publications authored in the previous 10 years;
+**(iv)** the witness's qualifications, including a list of all publications authored in the previous 10 years;
 
 **(v)** a list of all other cases in which, during the previous 4 years, the witness testified as an expert at trial or by deposition; and
 
@@ -81,7 +81,7 @@ versions: ["2025"]
 
 **(i)** at least 90 days before the date set for trial or for the case to be ready for trial; or
 
-**(ii)** if the evidence is intended solely to contradict or rebut evidence on the same subject matter identified by another party under Rule 26(a)(2)(B) or (C), within 30 days after the other party’s disclosure.
+**(ii)** if the evidence is intended solely to contradict or rebut evidence on the same subject matter identified by another party under Rule 26(a)(2)(B) or (C), within 30 days after the other party's disclosure.
 
 **(E) Supplementing the Disclosure.** The parties must supplement these disclosures when required under Rule 26(e).
 
@@ -101,7 +101,7 @@ versions: ["2025"]
 
 **(b) Discovery Scope and Limits.**
 
-**(1) Scope in General.** Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party’s claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties’ relative access to relevant information, the parties’ resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable.
+**(1) Scope in General.** Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties' relative access to relevant information, the parties' resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable.
 
 **(2) Limitations on Frequency and Extent.**
 
@@ -119,19 +119,19 @@ versions: ["2025"]
 
 **(3) Trial Preparation: Materials.**
 
-**(A) Documents and Tangible Things.** Ordinarily, a party may not discover documents and tangible things that are prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party’s attorney, consultant, surety, indemnitor, insurer, or agent). But, subject to Rule 26(b)(4), those materials may be discovered if:
+**(A) Documents and Tangible Things.** Ordinarily, a party may not discover documents and tangible things that are prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party's attorney, consultant, surety, indemnitor, insurer, or agent). But, subject to Rule 26(b)(4), those materials may be discovered if:
 
 **(i)** they are otherwise discoverable under Rule 26(b)(1); and
 
 **(ii)** the party shows that it has substantial need for the materials to prepare its case and cannot, without undue hardship, obtain their substantial equivalent by other means.
 
-**(B) Protection Against Disclosure.** If the court orders discovery of those materials, it must protect against disclosure of the mental impressions, conclusions, opinions, or legal theories of a party’s attorney or other representative concerning the litigation.
+**(B) Protection Against Disclosure.** If the court orders discovery of those materials, it must protect against disclosure of the mental impressions, conclusions, opinions, or legal theories of a party's attorney or other representative concerning the litigation.
 
-**(C) Previous Statement.** Any party or other person may, on request and without the required showing, obtain the person’s own previous statement about the action or its subject matter. If the request is refused, the person may move for a court order, and Rule 37(a)(5) applies to the award of expenses. A previous statement is either:
+**(C) Previous Statement.** Any party or other person may, on request and without the required showing, obtain the person's own previous statement about the action or its subject matter. If the request is refused, the person may move for a court order, and Rule 37(a)(5) applies to the award of expenses. A previous statement is either:
 
 **(i)** a written statement that the person has signed or otherwise adopted or approved; or
 
-**(ii)** a contemporaneous stenographic, mechanical, electrical, or other recording—or a transcription of it—that recites substantially verbatim the person’s oral statement.
+**(ii)** a contemporaneous stenographic, mechanical, electrical, or other recording—or a transcription of it—that recites substantially verbatim the person's oral statement.
 
 **(4) Trial Preparation: Experts.**
 
@@ -139,13 +139,13 @@ versions: ["2025"]
 
 **(B) Trial-Preparation Protection for Draft Reports or Disclosures.** Rules 26(b)(3)(A) and (B) protect drafts of any report or disclosure required under Rule 26(a)(2), regardless of the form in which the draft is recorded.
 
-**(C) Trial-Preparation Protection for Communications Between a Party’s Attorney and Expert Witnesses.** Rules 26(b)(3)(A) and (B) protect communications between the party’s attorney and any witness required to provide a report under Rule 26(a)(2)(B), regardless of the form of the communications, except to the extent that the communications:
+**(C) Trial-Preparation Protection for Communications Between a Party's Attorney and Expert Witnesses.** Rules 26(b)(3)(A) and (B) protect communications between the party's attorney and any witness required to provide a report under Rule 26(a)(2)(B), regardless of the form of the communications, except to the extent that the communications:
 
-**(i)** relate to compensation for the expert’s study or testimony;
+**(i)** relate to compensation for the expert's study or testimony;
 
-**(ii)** identify facts or data that the party’s attorney provided and that the expert considered in forming the opinions to be expressed; or
+**(ii)** identify facts or data that the party's attorney provided and that the expert considered in forming the opinions to be expressed; or
 
-**(iii)** identify assumptions that the party’s attorney provided and that the expert relied on in forming the opinions to be expressed.
+**(iii)** identify assumptions that the party's attorney provided and that the expert relied on in forming the opinions to be expressed.
 
 **(D) Expert Employed Only for Trial Preparation.** Ordinarily, a party may not, by interrogatories or deposition, discover facts known or opinions held by an expert who has been retained or specially employed by another party in anticipation of litigation or to prepare for trial and who is not expected to be called as a witness at trial. But a party may do so only:
 
@@ -157,7 +157,7 @@ versions: ["2025"]
 
 **(i)** pay the expert a reasonable fee for time spent in responding to discovery under Rule 26(b)(4)(A) or (D); and
 
-**(ii)** for discovery under (D), also pay the other party a fair portion of the fees and expenses it reasonably incurred in obtaining the expert’s facts and opinions.
+**(ii)** for discovery under (D), also pay the other party a fair portion of the fees and expenses it reasonably incurred in obtaining the expert's facts and opinions.
 
 **(5) Claiming Privilege or Protecting Trial-Preparation Materials.**
 
@@ -207,7 +207,7 @@ versions: ["2025"]
 
 **(B) When Considered Served.** The request is considered to have been served at the first Rule 26(f) conference.
 
-**(3) Sequence.** Unless the parties stipulate or the court orders otherwise for the parties’ and witnesses’ convenience and in the interests of justice:
+**(3) Sequence.** Unless the parties stipulate or the court orders otherwise for the parties' and witnesses' convenience and in the interests of justice:
 
 **(A)** methods of discovery may be used in any sequence; and
 
@@ -221,15 +221,15 @@ versions: ["2025"]
 
 **(B)** as ordered by the court.
 
-**(2) Expert Witness.** For an expert whose report must be disclosed under Rule 26(a)(2)(B), the party’s duty to supplement extends both to information included in the report and to information given during the expert’s deposition. Any additions or changes to this information must be disclosed by the time the party’s pretrial disclosures under Rule 26(a)(3) are due.
+**(2) Expert Witness.** For an expert whose report must be disclosed under Rule 26(a)(2)(B), the party's duty to supplement extends both to information included in the report and to information given during the expert's deposition. Any additions or changes to this information must be disclosed by the time the party's pretrial disclosures under Rule 26(a)(3) are due.
 
 **(f) Conference of the Parties; Planning for Discovery.**
 
 **(1) Conference Timing.** Except in a proceeding exempted from initial disclosure under Rule 26(a)(1)(B) or when the court orders otherwise, the parties must confer as soon as practicable—and in any event at least 21 days before a scheduling conference is to be held or a scheduling order is due under Rule 16(b).
 
-**(2) Conference Content; Parties’ Responsibilities.** In conferring, the parties must consider the nature and basis of their claims and defenses and the possibilities for promptly settling or resolving the case; make or arrange for the disclosures required by Rule 26(a)(1); discuss any issues about preserving discoverable information; and develop a proposed discovery plan. The attorneys of record and all unrepresented parties that have appeared in the case are jointly responsible for arranging the conference, for attempting in good faith to agree on the proposed discovery plan, and for submitting to the court within 14 days after the conference a written report outlining the plan. The court may order the parties or attorneys to attend the conference in person.
+**(2) Conference Content; Parties' Responsibilities.** In conferring, the parties must consider the nature and basis of their claims and defenses and the possibilities for promptly settling or resolving the case; make or arrange for the disclosures required by Rule 26(a)(1); discuss any issues about preserving discoverable information; and develop a proposed discovery plan. The attorneys of record and all unrepresented parties that have appeared in the case are jointly responsible for arranging the conference, for attempting in good faith to agree on the proposed discovery plan, and for submitting to the court within 14 days after the conference a written report outlining the plan. The court may order the parties or attorneys to attend the conference in person.
 
-**(3) Discovery Plan.** A discovery plan must state the parties’ views and proposals on:
+**(3) Discovery Plan.** A discovery plan must state the parties' views and proposals on:
 
 **(A)** what changes should be made in the timing, form, or requirement for disclosures under Rule 26(a), including a statement of when initial disclosures were made or will be made;
 
@@ -245,13 +245,13 @@ versions: ["2025"]
 
 **(4) Expedited Schedule.** If necessary to comply with its expedited schedule for Rule 16(b) conferences, a court may by local rule:
 
-**(A)** require the parties’ conference to occur less than 21 days before the scheduling conference is held or a scheduling order is due under Rule 16(b); and
+**(A)** require the parties' conference to occur less than 21 days before the scheduling conference is held or a scheduling order is due under Rule 16(b); and
 
-**(B)** require the written report outlining the discovery plan to be filed less than 14 days after the parties’ conference, or excuse the parties from submitting a written report and permit them to report orally on their discovery plan at the Rule 16(b) conference.
+**(B)** require the written report outlining the discovery plan to be filed less than 14 days after the parties' conference, or excuse the parties from submitting a written report and permit them to report orally on their discovery plan at the Rule 16(b) conference.
 
 **(g) Signing Disclosures and Discovery Requests, Responses, and Objections.**
 
-**(1) Signature Required; Effect of Signature.** Every disclosure under Rule 26(a)(1) or (a)(3) and every discovery request, response, or objection must be signed by at least one attorney of record in the attorney’s own name—or by the party personally, if unrepresented—and must state the signer’s address, email address, and telephone number. By signing, an attorney or party certifies that to the best of the person’s knowledge, information, and belief formed after a reasonable inquiry:
+**(1) Signature Required; Effect of Signature.** Every disclosure under Rule 26(a)(1) or (a)(3) and every discovery request, response, or objection must be signed by at least one attorney of record in the attorney's own name—or by the party personally, if unrepresented—and must state the signer's address, email address, and telephone number. By signing, an attorney or party certifies that to the best of the person's knowledge, information, and belief formed after a reasonable inquiry:
 
 **(A)** with respect to a disclosure, it is complete and correct as of the time it is made; and
 
@@ -263,8 +263,8 @@ versions: ["2025"]
 
 **(iii)** neither unreasonable nor unduly burdensome or expensive, considering the needs of the case, prior discovery in the case, the amount in controversy, and the importance of the issues at stake in the action.
 
-**(2) Failure to Sign.** Other parties have no duty to act on an unsigned disclosure, request, response, or objection until it is signed, and the court must strike it unless a signature is promptly supplied after the omission is called to the attorney’s or party’s attention.
+**(2) Failure to Sign.** Other parties have no duty to act on an unsigned disclosure, request, response, or objection until it is signed, and the court must strike it unless a signature is promptly supplied after the omission is called to the attorney's or party's attention.
 
-**(3) Sanction for Improper Certification.** If a certification violates this rule without substantial justification, the court, on motion or on its own, must impose an appropriate sanction on the signer, the party on whose behalf the signer was acting, or both. The sanction may include an order to pay the reasonable expenses, including attorney’s fees, caused by the violation.
+**(3) Sanction for Improper Certification.** If a certification violates this rule without substantial justification, the court, on motion or on its own, must impose an appropriate sanction on the signer, the party on whose behalf the signer was acting, or both. The sanction may include an order to pay the reasonable expenses, including attorney's fees, caused by the violation.
 
 <p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 29, 2015, eff. Dec. 1, 2015.)</p>

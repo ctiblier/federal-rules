@@ -13,7 +13,7 @@ source_pdf_page: 140
 versions: ["2025"]
 ---
 
-**(a) Party ’ s Statement.** Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.
+**(a) Party's Statement.** Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.
 
 **(b) Presumption of Oral Argument; Exceptions.** Oral argument must be allowed in every case unless the district judge—or each BAP judge assigned to hear the appeal—examines the briefs and record and determines that oral argument is unnecessary because:
 
@@ -29,7 +29,7 @@ versions: ["2025"]
 
 **(e) Cross -Appeals and Separate Appeals.** If there is a crossappeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP orders otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
 
-**(f) Nonappearance of a Party.** If the appellee fails to appear for argument, the district court or BAP may hear the appellant’s argument. If the appellant fails to appear for argument, the district court or BAP may hear the appellee’s argument. If neither party appears, the case will be decided on the briefs unless the district court or BAP orders otherwise.
+**(f) Nonappearance of a Party.** If the appellee fails to appear for argument, the district court or BAP may hear the appellant's argument. If the appellant fails to appear for argument, the district court or BAP may hear the appellee's argument. If neither party appears, the case will be decided on the briefs unless the district court or BAP orders otherwise.
 
 **(g) Submission on Briefs.** The parties may agree to submit a case for decision on the briefs, but the district court or BAP may order that the case be argued.
 

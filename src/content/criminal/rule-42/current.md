@@ -1,6 +1,6 @@
 ---
 rule: "42"
-title: "Criminal Contempt"
+title: "Consolidation; Separate Trials"
 title_number: "VIII"
 title_name: "Supplementary and Special Proceedings"
 summary: ""
@@ -9,24 +9,18 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 78
+source_pdf_page: 85
 versions: ["2025"]
 ---
 
-**(a) Disposition After Notice.** Any person who commits criminal contempt may be punished for that contempt after prosecution on notice.
+**(a) Consolidation.** If actions before the court involve a common question of law or fact, the court may:
 
-**(1) Notice.** The court must give the person notice in open court, in an order to show cause, or in an arrest order. The notice must:
+**(1)** join for hearing or trial any or all matters at issue in the actions;
 
-**(A)** state the time and place of the trial;
+**(2)** consolidate the actions; or
 
-**(B)** allow the defendant a reasonable time to prepare a defense; and
+**(3)** issue any other orders to avoid unnecessary cost or delay.
 
-**(C)** state the essential facts constituting the charged criminal contempt and describe it as such.
+**(b) Separate Trials.** For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
 
-**(2) Appointing a Prosecutor.** The court must request that the contempt be prosecuted by an attorney for the government, unless the interest of justice requires the appointment of another attorney. If the government declines the request, the court must appoint another attorney to prosecute the contempt.
-
-**(3) Trial and Disposition.** A person being prosecuted for criminal contempt is entitled to a jury trial in any case in which federal law so provides and must be released or detained as Rule 46 provides. If the criminal contempt involves disrespect toward or criticism of a judge, that judge is disqualified from presiding at the contempt trial or hearing unless the defendant consents. Upon a finding or verdict of guilty, the court must impose the punishment.
-
-**(b) Summary Disposition.** Notwithstanding any other provision of these rules, the court (other than a magistrate judge) may summarily punish a person who commits criminal contempt in its presence if the judge saw or heard the contemptuous conduct and so certifies; a magistrate judge may summarily punish a person as provided in 28 U.S.C. § 636(e). The contempt order must recite the facts, be signed by the judge, and be filed with the clerk.
-
-<p class="amendment-history">(As amended Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

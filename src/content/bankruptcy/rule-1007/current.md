@@ -23,7 +23,7 @@ versions: ["2025"]
 
 **(2) Involuntary Case.** Within 7 days after the order for relief has been entered in an involuntary case, the debtor must file a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H of the Official Forms.
 
-**(3) Chapter 11—List of Equity Security Holders.** Unless the court orders otherwise, a Chapter 11 debtor must, within 14 days after the order for relief is entered, file a list of the debtor’s equity security holders by class. The list must show the number and type of interests registered in each holder’s name, along with the holder’s last known address or place of business.
+**(3) Chapter 11—List of Equity Security Holders.** Unless the court orders otherwise, a Chapter 11 debtor must, within 14 days after the order for relief is entered, file a list of the debtor's equity security holders by class. The list must show the number and type of interests registered in each holder's name, along with the holder's last known address or place of business.
 
 **(4) Chapter 15—Information Required from a Foreign Representative.** If a foreign representative files a petition under Chapter 15 for recognition of a foreign proceeding, the representative must—in addition to the documents required by § 1515—include with the petition:
 
@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(B)** unless the court orders otherwise, a list containing the names and addresses of:
 
-**(i)** all persons or bodies authorized to administer the debtor’s foreign proceedings;
+**(i)** all persons or bodies authorized to administer the debtor's foreign proceedings;
 
 **(ii)** all entities against whom provisional relief is sought under § 1519; and
 
@@ -51,9 +51,9 @@ versions: ["2025"]
 
 **(D)** a statement of financial affairs;
 
-**(E)** copies of all payment advices or other evidence of payment that the debtor received from any employer within 60 days before the petition was filed—with all but the last 4 digits of the debtor’s social-security number or individual taxpayer-identification number deleted; and
+**(E)** copies of all payment advices or other evidence of payment that the debtor received from any employer within 60 days before the petition was filed—with all but the last 4 digits of the debtor's social-security number or individual taxpayer-identification number deleted; and
 
-**(F)** a record of the debtor’s interest, if any, in an account or program of the type specified in § 521(c).
+**(F)** a record of the debtor's interest, if any, in an account or program of the type specified in § 521(c).
 
 **(2) Statement of Intention.** In a Chapter 7 case, an individual debtor must:
 
@@ -75,7 +75,7 @@ versions: ["2025"]
 
 **(A)** file a statement of current monthly income (Form 122A–1); and
 
-**(B)** if that income exceeds the median family income for the debtor’s state and household size, file the Chapter 7 means-test calculation (Form 122A–2).
+**(B)** if that income exceeds the median family income for the debtor's state and household size, file the Chapter 7 means-test calculation (Form 122A–2).
 
 **(5)** Current Monthly Income—Chapter 11. An individual debtor in a Chapter 11 case (unless under Subchapter V) must file a statement of current monthly income (Form 122B).
 
@@ -83,7 +83,7 @@ versions: ["2025"]
 
 **(A)** file a statement of current monthly income (Form 122C–1); and
 
-**(B)** if that income exceeds the median family income for the debtor’s state and household size, file the Chapter 13 calculation of disposable income (Form 122C-2).
+**(B)** if that income exceeds the median family income for the debtor's state and household size, file the Chapter 13 calculation of disposable income (Form 122C-2).
 
 **(7) Personal Financial-Management Course.** Unless an approved provider has notified the court that the debtor has completed a course in personal financial management after filing the petition or the debtor is not required to complete one as a condition to discharge, an individual debtor in a Chapter 7 or Chapter 13 case—or in a Chapter 11 case in which § 1141(d)(3) applies—must file a certificate of course completion issued by the provider.
 
@@ -117,11 +117,11 @@ versions: ["2025"]
 
 **(e) Chapter 9 Lists.** In a Chapter 9 case, the court must set the time for the debtor to file the list required by (a). If a proposed plan requires real estate assessments to be revised so that the proportion of special assessments or special taxes for some property will be different from the proportion in effect when the petition is filed, the debtor must also file a list that shows—for each adversely affected property—the name and address of each known holder of title, both legal and equitable. On motion and for cause, the court may modify the requirements of this Rule 1007(e) and those of (a).
 
-**(f) Social -Security Number.** In a voluntary case, an individual debtor must submit with the petition a verified statement that gives the debtor’s social-security number or states that the debtor does not have one (Form 121). In an involuntary case, the debtor must submit the statement within 14 days after the order for relief is entered.
+**(f) Social -Security Number.** In a voluntary case, an individual debtor must submit with the petition a verified statement that gives the debtor's social-security number or states that the debtor does not have one (Form 121). In an involuntary case, the debtor must submit the statement within 14 days after the order for relief is entered.
 
 **(g) Partnership Case.** The general partners of a debtor partnership must file for the partnership the list required by (a) and the documents required by (b)(1)(A)–(D). The court may order any general partner to file a statement of personal assets and liabilities and may set the deadline for doing so.
 
-**(h) Interests in Property Acquired or Arising After a Peti - tion Is Filed.** After the petition is filed in a Chapter 7, 11, 12, or 13 case, if the debtor acquires—or becomes entitled to acquire—an interest in property described in § 541(a)(5), the debtor must file a supplemental schedule and include any claimed exemption. Unless the court allows additional time, the debtor must file the schedule within 14 days after learning about the property interest. This duty continues even after the case is closed but does not apply to property acquired after an order is entered:
+**(h) Interests in Property Acquired or Arising After a Petition Is Filed.** After the petition is filed in a Chapter 7, 11, 12, or 13 case, if the debtor acquires—or becomes entitled to acquire—an interest in property described in § 541(a)(5), the debtor must file a supplemental schedule and include any claimed exemption. Unless the court allows additional time, the debtor must file the schedule within 14 days after learning about the property interest. This duty continues even after the case is closed but does not apply to property acquired after an order is entered:
 
 **(1)** confirming a Chapter 11 plan (other than one confirmed under § 1191(b)); or
 
@@ -129,7 +129,7 @@ versions: ["2025"]
 
 **(i) Security Holders Known to Others.** After notice and a hearing and for cause, the court may direct an entity other than the debtor or trustee to:
 
-**(1)** disclose any list of the debtor’s security holders in its possession or under its control by:
+**(1)** disclose any list of the debtor's security holders in its possession or under its control by:
 
 **(A)** producing the list or a copy of it;
 
@@ -139,9 +139,9 @@ versions: ["2025"]
 
 **(2)** indicate the name, address, and security held by each listed holder.
 
-**(j) Impounding Lists.** On a party in interest’s motion and for cause, the court may impound any list filed under this rule and may refuse inspection. But the court may permit a party in interest to inspect or use an impounded list on terms prescribed by the court.
+**(j) Impounding Lists.** On a party in interest's motion and for cause, the court may impound any list filed under this rule and may refuse inspection. But the court may permit a party in interest to inspect or use an impounded list on terms prescribed by the court.
 
-**(k) Debtor ’ s Failure to File a Required Document.** If a debtor fails to properly prepare and file a list, schedule, or statement (other than a statement of intention) as required by this rule, the court may order:
+**(k) Debtor's Failure to File a Required Document.** If a debtor fails to properly prepare and file a list, schedule, or statement (other than a statement of intention) as required by this rule, the court may order:
 
 **(1)** that the trustee, a petitioning creditor, a committee, or other party do so within the time set by the court; and
 

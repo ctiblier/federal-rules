@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(2) Issuing and Delivering a Summons.** The clerk may:
 
-**(A)** sign, seal, and issue the summons electronically by placing an ‘‘s/’’ before the clerk’s name and adding the court’s seal to the summons; and
+**(A)** sign, seal, and issue the summons electronically by placing an ''s/'' before the clerk's name and adding the court's seal to the summons; and
 
 **(B)** deliver the summons to the person who will serve it.
 
@@ -27,13 +27,13 @@ versions: ["2025"]
 
 **(b) Service by Mail as an Alternative.** Except as provided in subdivision (h), in addition to the methods of service authorized by Fed. R. Civ. P. 4(e)–(j), a copy of a summons and complaint may be served by first-class mail, postage prepaid, within the United States on:
 
-**(1)** an individual except an infant or an incompetent person—by mailing the copy to the individual’s dwelling or usual place of abode or where the individual regularly conducts a business or profession;
+**(1)** an individual except an infant or an incompetent person—by mailing the copy to the individual's dwelling or usual place of abode or where the individual regularly conducts a business or profession;
 
 **(2)** an infant or incompetent person—by mailing the copy:
 
-**(A)** to a person who, under the law of the state where service is made, is authorized to receive service on behalf of the infant or incompetent person when an action is brought in that state’s courts of general jurisdiction; and
+**(A)** to a person who, under the law of the state where service is made, is authorized to receive service on behalf of the infant or incompetent person when an action is brought in that state's courts of general jurisdiction; and
 
-**(B)** at that person’s dwelling or usual place of abode or where the person regularly conducts a business or profession;
+**(B)** at that person's dwelling or usual place of abode or where the person regularly conducts a business or profession;
 
 **(3)** a domestic or foreign corporation, or a partnership or other unincorporated association—by mailing the copy:
 
@@ -45,7 +45,7 @@ versions: ["2025"]
 
 **(A)** a copy of the summons and complaint must be mailed to:
 
-**(i)** the civil-process clerk in the United States attorney’s office in the district where the action is filed;
+**(i)** the civil-process clerk in the United States attorney's office in the district where the action is filed;
 
 **(ii)** the Attorney General of the United States in Washington, D.C.; and
 
@@ -63,27 +63,27 @@ versions: ["2025"]
 
 **(6)** a state or municipal corporation or other governmental organization subject to suit, with these requirements:
 
-**(A)** the summons and complaint must be mailed to the person or office that, under the law of the state where service is made, is authorized to receive service in a case filed against that defendant in that state’s courts of general jurisdiction; and
+**(A)** the summons and complaint must be mailed to the person or office that, under the law of the state where service is made, is authorized to receive service in a case filed against that defendant in that state's courts of general jurisdiction; and
 
-**(B)** if there is no such authorized person or office, the summons and complaint must be mailed to the defendant’s chief executive officer;
+**(B)** if there is no such authorized person or office, the summons and complaint must be mailed to the defendant's chief executive officer;
 
-**(7)** a defendant of any class referred to in (1) and (3)—for whom it also suffices to mail the summons and complaint to the entity on which service must be made under a federal statute or under the law of the state where service is made when an action is brought against that defendant in that state’s courts of general jurisdiction;
+**(7)** a defendant of any class referred to in (1) and (3)—for whom it also suffices to mail the summons and complaint to the entity on which service must be made under a federal statute or under the law of the state where service is made when an action is brought against that defendant in that state's courts of general jurisdiction;
 
-**(8)** any defendant—for whom it also suffices to mail the summons and complaint to the defendant’s agent under these conditions:
+**(8)** any defendant—for whom it also suffices to mail the summons and complaint to the defendant's agent under these conditions:
 
 **(A)** the agent is authorized by appointment or by law to accept service;
 
-**(B)** the mail is addressed to the agent’s dwelling or usual place of abode or where the agent regularly conducts a business or profession; and
+**(B)** the mail is addressed to the agent's dwelling or usual place of abode or where the agent regularly conducts a business or profession; and
 
-**(C)** if the agent’s authorization so requires, a copy is also mailed to the defendant as provided in this subdivision (b);
+**(C)** if the agent's authorization so requires, a copy is also mailed to the defendant as provided in this subdivision (b);
 
-**(9)** the debtor, after a petition has been filed by or served upon a debtor, and until the case is dismissed or closed—by mailing the copy to the address shown on the debtor’s petition or the address the debtor specifies in a filed writing;
+**(9)** the debtor, after a petition has been filed by or served upon a debtor, and until the case is dismissed or closed—by mailing the copy to the address shown on the debtor's petition or the address the debtor specifies in a filed writing;
 
-**(10)** a United States trustee who is the trustee in the case and service is made upon the United States trustee solely as trustee—by addressing the mail to the United States trustee’s office or other place that the United States trustee designates within the district.
+**(10)** a United States trustee who is the trustee in the case and service is made upon the United States trustee solely as trustee—by addressing the mail to the United States trustee's office or other place that the United States trustee designates within the district.
 
-**(c) Service by Publication in an Adversary Proceeding In - volving Property Rights.** If a party to an adversary proceeding to determine or protect rights in property in the court’s custody cannot be served under (b) or Fed. R. Civ. P. 4(e)–(j), the court may order the summons and complaint to be served by:
+**(c) Service by Publication in an Adversary Proceeding Involving Property Rights.** If a party to an adversary proceeding to determine or protect rights in property in the court's custody cannot be served under (b) or Fed. R. Civ. P. 4(e)–(j), the court may order the summons and complaint to be served by:
 
-**(1)** first-class mail, postage prepaid, to the party’s last known address; and
+**(1)** first-class mail, postage prepaid, to the party's last known address; and
 
 **(2)** at least one publication in a form and manner as the court orders.
 
@@ -101,7 +101,7 @@ versions: ["2025"]
 
 **(2)** in a civil proceeding arising under the Code, or arising in or related to a case under the Code.
 
-**(g) Serving a Debtor ’ s Attorney.** If, when served, a debtor is represented by an attorney, the attorney must also be served by any means authorized by Fed. R. Civ. P. 5(b).
+**(g) Serving a Debtor's Attorney.** If, when served, a debtor is represented by an attorney, the attorney must also be served by any means authorized by Fed. R. Civ. P. 5(b).
 
 **(h) Service of Process on an Insured Depository Institution.** Service on an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act) in a contested matter or adversary proceeding shall be made by certified mail addressed to an officer of the institution unless—
 
@@ -111,6 +111,6 @@ versions: ["2025"]
 
 **(3)** the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-**(i) Service of Process by Title.** This subdivision (i) applies to service on a domestic or foreign corporation or partnership or other unincorporated association under Rule 7004(b)(3), or on an officer of an insured depository institution under Rule 7004(h). The defendant’s officer or agent need not be correctly named in the address—or even be named—if the envelope is addressed to the defendant’s proper address and directed to the attention of the officer’s or agent’s position or title.
+**(i) Service of Process by Title.** This subdivision (i) applies to service on a domestic or foreign corporation or partnership or other unincorporated association under Rule 7004(b)(3), or on an officer of an insured depository institution under Rule 7004(h). The defendant's officer or agent need not be correctly named in the address—or even be named—if the envelope is addressed to the defendant's proper address and directed to the attention of the officer's or agent's position or title.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, § 114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(ii)** A brief or appendix not filed electronically is also timely filed if, on or before the last day for filing, it is: • mailed to the clerk by first-class mail—or other class of mail that is at least as expeditious—postage prepaid; or • dispatched to a third-party commercial carrier for delivery to the clerk within 3 days.
 
-**(iii)** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this item (iii). A document not filed electronically by an inmate confined in an institution is timely if it is deposited in the institution’s internal mailing system on or before the last day for filing and: • it is accompanied by a declaration in compliance with 28 U.S.C. § 1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or by evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or • the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies this item (iii).
+**(iii)** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this item (iii). A document not filed electronically by an inmate confined in an institution is timely if it is deposited in the institution's internal mailing system on or before the last day for filing and: • it is accompanied by a declaration in compliance with 28 U.S.C. § 1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or by evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or • the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies this item (iii).
 
 **(B) Electronic Filing.**
 
@@ -37,9 +37,9 @@ versions: ["2025"]
 
 **(C) When Paper Copies Are Required.** No paper copies are required when a document is filed electronically. If a document is filed by mail or by delivery to the district court or BAP, no additional copies are required. But the district court or BAP may, by local rule or order in a particular case, require that a specific number of paper copies be filed or furnished.
 
-**(3) Clerk’s Refusal of Documents.** The court clerk must not refuse to accept for filing any document solely because it is not presented in proper form as required by these rules or by any local rule or practice.
+**(3) Clerk's Refusal of Documents.** The court clerk must not refuse to accept for filing any document solely because it is not presented in proper form as required by these rules or by any local rule or practice.
 
-**(b) Service of All Documents Required.** Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party’s counsel.
+**(b) Service of All Documents Required.** Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party's counsel.
 
 **(c) Manner of Service.**
 
@@ -53,7 +53,7 @@ versions: ["2025"]
 
 **(2) Service By Electronic Means.** Electronic service may be made by:
 
-**(A)** sending a document to a registered user by filing it with the court’s electronic-filing system; or
+**(A)** sending a document to a registered user by filing it with the court's electronic-filing system; or
 
 **(B)** using other electronic means that the person served consented to in writing.
 
@@ -61,7 +61,7 @@ versions: ["2025"]
 
 **(d) Proof of Service.**
 
-**(1) Requirements.** A document presented for filing must contain either of the following if it was served other than through the court’s electronic-filing system:
+**(1) Requirements.** A document presented for filing must contain either of the following if it was served other than through the court's electronic-filing system:
 
 **(A)** an acknowledgement of service by the person served; or
 
@@ -79,6 +79,6 @@ versions: ["2025"]
 
 **(e) Signature Always Required.**
 
-**(1) Electronic Filing.** Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the counsel’s electronic signature. A filing made through a person’s electronic-filing account and authorized by that person—together with that person’s name on a signature block—constitutes the person’s signature.
+**(1) Electronic Filing.** Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the counsel's electronic signature. A filing made through a person's electronic-filing account and authorized by that person—together with that person's name on a signature block—constitutes the person's signature.
 
-**(2) Paper Filing.** Every document filed in paper form must be signed by the person filing it or, if the person is represented, by the person’s counsel. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
+**(2) Paper Filing.** Every document filed in paper form must be signed by the person filing it or, if the person is represented, by the person's counsel. (Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)

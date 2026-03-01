@@ -27,6 +27,6 @@ versions: ["2025"]
 
 **(d) Cross -Examining a Defendant in a Criminal Case.** By testifying on a preliminary question, a defendant in a criminal case does not become subject to cross-examination on other issues in the case.
 
-**(e) Evidence Relevant to Weight and Credibility.** This rule does not limit a party’s right to introduce before the jury evidence that is relevant to the weight or credibility of other evidence.
+**(e) Evidence Relevant to Weight and Credibility.** This rule does not limit a party's right to introduce before the jury evidence that is relevant to the weight or credibility of other evidence.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

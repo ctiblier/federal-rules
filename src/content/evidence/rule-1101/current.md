@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(d) Exceptions.** These rules—except for those on privilege—do not apply to the following:
 
-**(1)** the court’s determination, under Rule 104(a), on a preliminary question of fact governing admissibility;
+**(1)** the court's determination, under Rule 104(a), on a preliminary question of fact governing admissibility;
 
 **(2)** grand-jury proceedings; and
 

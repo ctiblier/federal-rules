@@ -1,6 +1,6 @@
 ---
 rule: "903"
-title: "Subscribing Witness’s Testimony"
+title: "Subscribing Witness's Testimony"
 title_number: "IX"
 title_name: "Authentication and Identification"
 summary: ""
@@ -13,6 +13,6 @@ source_pdf_page: 41
 versions: ["2025"]
 ---
 
-A subscribing witness’s testimony is necessary to authenticate a writing only if required by the law of the jurisdiction that governs its validity.
+A subscribing witness's testimony is necessary to authenticate a writing only if required by the law of the jurisdiction that governs its validity.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

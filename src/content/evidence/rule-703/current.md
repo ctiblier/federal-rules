@@ -1,6 +1,6 @@
 ---
 rule: "703"
-title: "Bases of an Expert’s Opinion Testimony"
+title: "Bases of an Expert's Opinion Testimony"
 title_number: "VII"
 title_name: "Opinions and Expert Testimony"
 summary: ""

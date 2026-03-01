@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(b) Costs For and Against the United States.** Costs for or against the United States, its agency, or officer will be assessed under Rule 39(a) only if authorized by law.
 
-**(c) Costs of Copies.** Each court of appeals must, by local rule, fix the maximum rate for taxing the cost of producing necessary copies of a brief or appendix, or copies of records authorized by Rule 30(f). The rate must not exceed that generally charged for such work in the area where the clerk’s office is located and should encourage economical methods of copying.
+**(c) Costs of Copies.** Each court of appeals must, by local rule, fix the maximum rate for taxing the cost of producing necessary copies of a brief or appendix, or copies of records authorized by Rule 30(f). The rate must not exceed that generally charged for such work in the area where the clerk's office is located and should encourage economical methods of copying.
 
 **(d) Bill of Costs: Objections; Insertion in Mandate.**
 
@@ -33,13 +33,13 @@ versions: ["2025"]
 
 **(2)** Objections must be filed within 14 days after service of the bill of costs, unless the court extends the time.
 
-**(3) The clerk must prepare and certify an itemized statement of costs for insertion in the mandate, but issuance of the mandate must not be delayed for taxing costs.** If the mandate issues before costs are finally determined, the district clerk must—upon the circuit clerk’s request—add the statement of costs, or any amendment of it, to the mandate.
+**(3)** The clerk must prepare and certify an itemized statement of costs for insertion in the mandate, but issuance of the mandate must not be delayed for taxing costs. If the mandate issues before costs are finally determined, the district clerk must—upon the circuit clerk's request—add the statement of costs, or any amendment of it, to the mandate.
 
 **(e) Costs on Appeal Taxable in the District Court.** The following costs on appeal are taxable in the district court for the benefit of the party entitled to costs under this rule:
 
 **(1)** the preparation and transmission of the record;
 
-**(2)** the reporter’s transcript, if needed to determine the appeal;
+**(2)** the reporter's transcript, if needed to determine the appeal;
 
 **(3)** premiums paid for a bond or other security to preserve rights pending appeal; and
 

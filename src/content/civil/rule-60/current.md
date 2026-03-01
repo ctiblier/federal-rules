@@ -13,7 +13,7 @@ source_pdf_page: 103
 versions: ["2025"]
 ---
 
-**(a) Corrections Based on Clerical Mistakes; Oversights and Omissions.** The court may correct a clerical mistake or a mistake arising from oversight or omission whenever one is found in a judgment, order, or other part of the record. The court may do so on motion or on its own, with or without notice. But after an appeal has been docketed in the appellate court and while it is pending, such a mistake may be corrected only with the appellate court’s leave.
+**(a) Corrections Based on Clerical Mistakes; Oversights and Omissions.** The court may correct a clerical mistake or a mistake arising from oversight or omission whenever one is found in a judgment, order, or other part of the record. The court may do so on motion or on its own, with or without notice. But after an appeal has been docketed in the appellate court and while it is pending, such a mistake may be corrected only with the appellate court's leave.
 
 **(b) Grounds for Relief from a Final Judgment, Order, or Proceeding.** On motion and just terms, the court may relieve a party or its legal representative from a final judgment, order, or proceeding for the following reasons:
 
@@ -33,9 +33,9 @@ versions: ["2025"]
 
 **(1) Timing.** A motion under Rule 60(b) must be made within a reasonable time—and for reasons (1), (2), and (3) no more than a year after the entry of the judgment or order or the date of the proceeding.
 
-**(2) Effect on Finality.** The motion does not affect the judgment’s finality or suspend its operation.
+**(2) Effect on Finality.** The motion does not affect the judgment's finality or suspend its operation.
 
-**(d) Other Powers to Grant Relief.** This rule does not limit a court’s power to:
+**(d) Other Powers to Grant Relief.** This rule does not limit a court's power to:
 
 **(1)** entertain an independent action to relieve a party from a judgment, order, or proceeding;
 

@@ -13,7 +13,7 @@ source_pdf_page: 120
 versions: ["2025"]
 ---
 
-**(a) Effective Date of a Certification.** A certification of a bankruptcy court’s judgment, order, or decree to a court of appeals for direct review under 28 U.S.C. § 158(d)(2) becomes effective when:
+**(a) Effective Date of a Certification.** A certification of a bankruptcy court's judgment, order, or decree to a court of appeals for direct review under 28 U.S.C. § 158(d)(2) becomes effective when:
 
 **(1)** it is filed;
 
@@ -27,19 +27,19 @@ versions: ["2025"]
 
 **(1) In General.** A joint certification by all appellants and appellees under 28 U.S.C. § 158(d)(2)(A) must be made using Form 424. The parties may supplement the certification with a short statement about its basis. The statement may include the information required by (f)(2).
 
-**(2) Supplemental Statement by the Court.** Within 14 days after the parties file the certification, the bankruptcy court—or the court where the matter is pending—may file a short supplemental statement about the certification’s merits.
+**(2) Supplemental Statement by the Court.** Within 14 days after the parties file the certification, the bankruptcy court—or the court where the matter is pending—may file a short supplemental statement about the certification's merits.
 
-**(d) Court ’ s Authority to Certify a Direct Appeal.** Only the court where the matter is pending under (b) may certify a direct appeal to a court of appeals. The court may do so on a party’s request or on its own.
+**(d) Court's Authority to Certify a Direct Appeal.** Only the court where the matter is pending under (b) may certify a direct appeal to a court of appeals. The court may do so on a party's request or on its own.
 
 **(e) Certification by the Court Acting on Its Own.**
 
 **(1) Separate Document Required; Service; Content.** A certification by a court acting on its own must be set forth in a separate document. The clerk of the certifying court must serve the document on the parties to the appeal in the manner required for serving a notice of appeal under Rule 8003(c)(1). It must be accompanied by an opinion or memorandum that contains the information required by (f)(2)(A)–(D).
 
-**(2) Supplemental Statement by a Party.** Within 14 days after the court’s certification, a party may file with the clerk of the certifying court a short supplemental statement about the merits of certification.
+**(2) Supplemental Statement by a Party.** Within 14 days after the court's certification, a party may file with the clerk of the certifying court a short supplemental statement about the merits of certification.
 
 **(f) Certification by the Court on Request.**
 
-**(1) How Requested.** A party’s request for certification under 28 U.S.C. § 158(d)(2)(A)—or a request by a majority of the appellants and of the appellees—must be filed with the clerk of the court where the matter is pending. The request must be filed within 60 days after the judgment, order, or decree is entered.
+**(1) How Requested.** A party's request for certification under 28 U.S.C. § 158(d)(2)(A)—or a request by a majority of the appellants and of the appellees—must be filed with the clerk of the court where the matter is pending. The request must be filed within 60 days after the judgment, order, or decree is entered.
 
 **(2) Service; Content.** The request must be served on all parties to the appeal in the manner required for serving a notice of appeal under Rule 8003(c)(1). The request must include:
 

@@ -1,6 +1,6 @@
 ---
 rule: "6"
-title: "The Grand Jury"
+title: "Computing and Extending Time; Time for Motion Papers"
 title_number: "III"
 title_name: "The Grand Jury, the Indictment, and the Information"
 summary: ""
@@ -9,112 +9,72 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 28
+source_pdf_page: 31
 versions: ["2025"]
 ---
 
-**(a) Summoning a Grand Jury.**
+**(a) Computing Time.** The following rules apply in computing any time period specified in these rules, in any local rule or court order, or in any statute that does not specify a method of computing time.
 
-**(1) In General.** When the public interest so requires, the court must order that one or more grand juries be summoned. A grand jury must have 16 to 23 members, and the court must order that enough legally qualified persons be summoned to meet this requirement.
+**(1) Period Stated in Days or a Longer Unit.** When the period is stated in days or a longer unit of time:
 
-**(2) Alternate Jurors.** When a grand jury is selected, the court may also select alternate jurors. Alternate jurors must have the same qualifications and be selected in the same manner as any other juror. Alternate jurors replace jurors in the same sequence in which the alternates were selected. An alternate juror who replaces a juror is subject to the same challenges, takes the same oath, and has the same authority as the other jurors.
+**(A)** exclude the day of the event that triggers the period;
 
-**(b) Objection to the Grand Jury or to a Grand Juror.**
+**(B)** count every day, including intermediate Saturdays, Sundays, and legal holidays; and
 
-**(1) Challenges.** Either the government or a defendant may challenge the grand jury on the ground that it was not lawfully drawn, summoned, or selected, and may challenge an individual juror on the ground that the juror is not legally qualified.
+**(C)** include the last day of the period, but if the last day is a Saturday, Sunday, or legal holiday, the period continues to run until the end of the next day that is not a Saturday, Sunday, or legal holiday.
 
-**(2) Motion to Dismiss an Indictment.** A party may move to dismiss the indictment based on an objection to the grand jury or on an individual juror’s lack of legal qualification, unless the court has previously ruled on the same objection under Rule 6(b)(1). The motion to dismiss is governed by 28 U.S.C. § 1867(e). The court must not dismiss the indictment on the ground that a grand juror was not legally qualified if the record shows that at least 12 qualified jurors concurred in the indictment.
+**(2) Period Stated in Hours.** When the period is stated in hours:
 
-**(c) Foreperson and Deputy Foreperson.** The court will appoint one juror as the foreperson and another as the deputy foreperson. In the foreperson’s absence, the deputy foreperson will act as the foreperson. The foreperson may administer oaths and affirmations and will sign all indictments. The foreperson—or another juror designated by the foreperson—will record the number of jurors concurring in every indictment and will file the record with the clerk, but the record may not be made public unless the court so orders.
+**(A)** begin counting immediately on the occurrence of the event that triggers the period;
 
-**(d) Who May Be Present.**
+**(B)** count every hour, including hours during intermediate Saturdays, Sundays, and legal holidays; and
 
-**(1) While the Grand Jury Is in Session.** The following persons may be present while the grand jury is in session: attorneys for the government, the witness being questioned, interpreters when needed, and a court reporter or an operator of a recording device.
+**(C)** if the period would end on a Saturday, Sunday, or legal holiday, the period continues to run until the same time on the next day that is not a Saturday, Sunday, or legal holiday.
 
-**(2) During Deliberations and Voting.** No person other than the jurors, and any interpreter needed to assist a hearing-impaired or speech-impaired juror, may be present while the grand jury is deliberating or voting.
+**(3) Inaccessibility of the Clerk's Office.** Unless the court orders otherwise, if the clerk's office is inaccessible:
 
-**(e) Recording and Disclosing the Proceedings.**
+**(A)** on the last day for filing under Rule 6(a)(1), then the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or legal holiday; or
 
-**(1) Recording the Proceedings.** Except while the grand jury is deliberating or voting, all proceedings must be recorded by a court reporter or by a suitable recording device. But the validity of a prosecution is not affected by the unintentional failure to make a recording. Unless the court orders otherwise, an attorney for the government will retain control of the recording, the reporter’s notes, and any transcript prepared from those notes.
+**(B)** during the last hour for filing under Rule 6(a)(2), then the time for filing is extended to the same time on the first accessible day that is not a Saturday, Sunday, or legal holiday.
 
-**(2) Secrecy.**
+**(4) ''Last Day'' Defined.** Unless a different time is set by a statute, local rule, or court order, the last day ends:
 
-**(A) No obligation of secrecy may be imposed on any person except in accordance with Rule 6(e)(2)(B).**
+**(A)** for electronic filing, at midnight in the court's time zone; and
 
-**(B)** Unless these rules provide otherwise, the following persons must not disclose a matter occurring before the grand jury:
+**(B)** for filing by other means, when the clerk's office is scheduled to close.
 
-**(i)** a grand juror;
+**(5) ''Next Day'' Defined.** The ''next day'' is determined by continuing to count forward when the period is measured after an event and backward when measured before an event.
 
-**(ii)** an interpreter;
+**(6) ''Legal Holiday'' Defined.''Legal holiday'' means:**
 
-**(iii)** a court reporter;
+**(A)** the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
 
-**(iv)** an operator of a recording device;
+**(B)** any day declared a holiday by the President or Congress; and
 
-**(v)** a person who transcribes recorded testimony;
+**(C)** for periods that are measured after an event, any other day declared a holiday by the state where the district court is located.
 
-**(vi)** an attorney for the government; or
+**(b) Extending Time.**
 
-**(vii)** a person to whom disclosure is made under Rule 6(e)(3)(A)(ii) or (iii).
+**(1) In General.** When an act may or must be done within a specified time, the court may, for good cause, extend the time:
 
-**(3) Exceptions.**
+**(A)** with or without motion or notice if the court acts, or if a request is made, before the original time or its extension expires; or
 
-**(A)** Disclosure of a grand-jury matter—other than the grand jury’s deliberations or any grand juror’s vote—may be made to:
+**(B)** on motion made after the time has expired if the party failed to act because of excusable neglect.
 
-**(i)** an attorney for the government for use in performing that attorney’s duty;
+**(2) Exceptions.** A court must not extend the time to act under Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b).
 
-**(ii)** any government personnel—including those of a state, state subdivision, Indian tribe, or foreign government—that an attorney for the government considers necessary to assist in performing that attorney’s duty to enforce federal criminal law; or
+**(c) Motions, Notices of Hearing, and Affidavits.**
 
-**(iii)** a person authorized by 18 U.S.C. § 3322.
+**(1) In General.** A written motion and notice of the hearing must be served at least 14 days before the time specified for the hearing, with the following exceptions:
 
-**(B) A person to whom information is disclosed under Rule 6(e)(3)(A)(ii) may use that information only to assist an attorney for the government in performing that attorney’s duty to enforce federal criminal law.** An attorney for the government must promptly provide the court that impaneled the grand jury with the names of all persons to whom a disclosure has been made, and must certify that the attorney has advised those persons of their obligation of secrecy under this rule.
+**(A)** when the motion may be heard ex parte;
 
-**(C) An attorney for the government may disclose any grand-jury matter to another federal grand jury.**
+**(B)** when these rules set a different time; or
 
-**(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. § 3003), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official’s duties.** An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
+**(C)** when a court order—which a party may, for good cause, apply for ex parte—sets a different time.
 
-**(i)** Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
+**(2) Supporting Affidavit.** Any affidavit supporting a motion must be served with the motion. Except as Rule 59(c) provides otherwise, any opposing affidavit must be served at least 7 days before the hearing, unless the court permits service at another time.
 
-**(ii)** Within a reasonable time after disclosure is made under Rule 6(e)(3)(D), an attorney for the government must file, under seal, a notice with the court in the district where the grand jury convened stating that such information was disclosed and the departments, agencies, or entities to which the disclosure was made.
+**(d) Additional Time After Certain Kinds of Service.** When a party may or must act within a specified time after being served and service is made under Rule 5(b)(2)(C) (mail), (D) (leaving with the clerk), or (F) (other means consented to), 3 days are added after the period would otherwise expire under Rule 6(a).
 
-**(iii)** As used in Rule 6(e)(3)(D), the term ‘‘foreign intelligence information’’ means: (a) information, whether or not it concerns a United States person, that relates to the ability of the United States to protect against— • actual or potential attack or other grave hostile acts of a foreign power or its agent; • sabotage or international terrorism by a foreign power or its agent; or • clandestine intelligence activities by an intelligence service or network of a foreign power or by its agent; or (b) information, whether or not it concerns a United States person, with respect to a foreign power or foreign territory that relates to— • the national defense or the security of the United States; or • the conduct of the foreign affairs of the United States.
-
-**(E)** The court may authorize disclosure—at a time, in a manner, and subject to any other conditions that it directs—of a grand-jury matter:
-
-**(i)** preliminarily to or in connection with a judicial proceeding;
-
-**(ii)** at the request of a defendant who shows that a ground may exist to dismiss the indictment because of a matter that occurred before the grand jury;
-
-**(iii)** at the request of the government, when sought by a foreign court or prosecutor for use in an official criminal investigation;
-
-**(iv)** at the request of the government if it shows that the matter may disclose a violation of State, Indian tribal, or foreign criminal law, as long as the disclosure is to an appropriate state, state-subdivision, Indian tribal, or foreign government official for the purpose of enforcing that law; or
-
-**(v)** at the request of the government if it shows that the matter may disclose a violation of military criminal law under the Uniform Code of Military Justice, as long as the disclosure is to an appropriate military official for the purpose of enforcing that law.
-
-**(F) A petition to disclose a grand-jury matter under Rule 6(e)(3)(E)(i) must be filed in the district where the grand jury convened.** Unless the hearing is ex parte—as it may be when the government is the petitioner—the petitioner must serve the petition on, and the court must afford a reasonable opportunity to appear and be heard to:
-
-**(i)** an attorney for the government;
-
-**(ii)** the parties to the judicial proceeding; and
-
-**(iii)** any other person whom the court may designate.
-
-**(G) If the petition to disclose arises out of a judicial proceeding in another district, the petitioned court must transfer the petition to the other court unless the petitioned court can reasonably determine whether disclosure is proper.** If the petitioned court decides to transfer, it must send to the transferee court the material sought to be disclosed, if feasible, and a written evaluation of the need for continued grand-jury secrecy. The transferee court must afford those persons identified in Rule 6(e)(3)(F) a reasonable opportunity to appear and be heard.
-
-**(4) Sealed Indictment.** The magistrate judge to whom an indictment is returned may direct that the indictment be kept secret until the defendant is in custody or has been released pending trial. The clerk must then seal the indictment, and no person may disclose the indictment’s existence except as necessary to issue or execute a warrant or summons.
-
-**(5) Closed Hearing.** Subject to any right to an open hearing in a contempt proceeding, the court must close any hearing to the extent necessary to prevent disclosure of a matter occurring before a grand jury.
-
-**(6) Sealed Records.** Records, orders, and subpoenas relating to grand-jury proceedings must be kept under seal to the extent and as long as necessary to prevent the unauthorized disclosure of a matter occurring before a grand jury.
-
-**(7) Contempt.** A knowing violation of Rule 6, or of any guidelines jointly issued by the Attorney General and the Director of National Intelligence under Rule 6, may be punished as a contempt of court.
-
-**(f) Indictment and Return.** A grand jury may indict only if at least 12 jurors concur. The grand jury—or its foreperson or deputy foreperson—must return the indictment to a magistrate judge in open court. To avoid unnecessary cost or delay, the magistrate judge may take the return by video teleconference from the court where the grand jury sits. If a complaint or information is pending against the defendant and 12 jurors do not concur in the indictment, the foreperson must promptly and in writing report the lack of concurrence to the magistrate judge.
-
-**(g) Discharging the Grand Jury.** A grand jury must serve until the court discharges it, but it may serve more than 18 months only if the court, having determined that an extension is in the public interest, extends the grand jury’s service. An extension may be granted for no more than 6 months, except as otherwise provided by statute.
-
-**(h) Excusing a Juror.** At any time, for good cause, the court may excuse a juror either temporarily or permanently, and if permanently, the court may impanel an alternate juror in place of the excused juror.
-
-**(i)** ‘‘Indian Tribe’’ Defined. ‘‘Indian tribe’’ means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. § 479a–1.
-
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, § 2(a), July 30, 1977, 91 Stat. 319, eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, § 215(f), Oct. 12, 1984, 98 Stat. 2016, eff. Nov. 1, 1987; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Pub. L. 107–56, title II, § 203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–296, title VIII, § 895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, § 6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206.)</p>
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023.)</p>

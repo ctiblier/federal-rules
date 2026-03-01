@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(1) When a Presumption Applies.** Under this Rule 2015.3, the estate is presumed to have a substantial or controlling interest in an entity of which it controls or owns at least a 20% interest. Otherwise, the estate is presumed not to have a substantial or controlling interest.
 
-**(2) Rebutting the Presumption.** The entity, any holder of an interest in it, the United States trustee, or any other party in interest may move to rebut either presumption. After notice and a hearing, the court must determine whether the estate’s interest in the entity is substantial or controlling.
+**(2) Rebutting the Presumption.** The entity, any holder of an interest in it, the United States trustee, or any other party in interest may move to rebut either presumption. After notice and a hearing, the court must determine whether the estate's interest in the entity is substantial or controlling.
 
 **(d) Modifying the Reporting Requirement.** After notice and a hearing, the court may vary the reporting requirements of (a) for cause, including that:
 

@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Claim for Relief.** A pleading that states a claim for relief must contain:
 
-**(1)** a short and plain statement of the grounds for the court’s jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
+**(1)** a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
 
 **(2)** a short and plain statement of the claim showing that the pleader is entitled to relief; and
 
@@ -45,7 +45,7 @@ versions: ["2025"]
 
 **(2) Mistaken Designation.** If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
-**(d) Pleading to Be Concise and Direct; Alternative State - ments ; Inconsistency.**
+**(d) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.**
 
 **(1) In General.** Each allegation must be simple, concise, and direct. No technical form is required.
 

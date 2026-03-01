@@ -1,6 +1,6 @@
 ---
 rule: "614"
-title: "Court’s Calling or Examining a Witness"
+title: "Court's Calling or Examining a Witness"
 title_number: "VI"
 title_name: "Witnesses"
 summary: ""
@@ -13,10 +13,10 @@ source_pdf_page: 30
 versions: ["2025"]
 ---
 
-**(a) Calling.** The court may call a witness on its own or at a party’s request. Each party is entitled to cross-examine the witness.
+**(a) Calling.** The court may call a witness on its own or at a party's request. Each party is entitled to cross-examine the witness.
 
 **(b) Examining.** The court may examine a witness regardless of who calls the witness.
 
-**(c) Objections.** A party may object to the court’s calling or examining a witness either at that time or at the next opportunity when the jury is not present.
+**(c) Objections.** A party may object to the court's calling or examining a witness either at that time or at the next opportunity when the jury is not present.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) In General.** Ordinarily, a party must move first in the bankruptcy court for the following relief:
 
-**(A)** a stay of the bankruptcy court’s judgment, order, or decree pending appeal;
+**(A)** a stay of the bankruptcy court's judgment, order, or decree pending appeal;
 
 **(B)** the approval of a bond or other security provided to obtain a stay of judgment;
 
@@ -29,7 +29,7 @@ versions: ["2025"]
 
 **(b) Motion in the District Court, BAP, or Court of Appeals on Direct Appeal.**
 
-**(1) In General.** A motion for the relief specified in (a)(1)—or to vacate or modify a bankruptcy court’s order granting such relief—may be filed in the court where the appeal is pending.
+**(1) In General.** A motion for the relief specified in (a)(1)—or to vacate or modify a bankruptcy court's order granting such relief—may be filed in the court where the appeal is pending.
 
 **(2) Required Showing.** The motion must:
 

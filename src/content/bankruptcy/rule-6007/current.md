@@ -25,6 +25,6 @@ versions: ["2025"]
 
 **(2) Objection.** A party in interest may file and serve an objection within 14 days after service or within the time set by the court. If a timely objection is filed, the court must set a hearing on notice to the United States trustee and other entities as the court orders.
 
-**(3) Order.** Unless the court orders otherwise, an order granting the motion to abandon property effects the trustee’s or debtor in possession’s abandonment without further notice.
+**(3) Order.** Unless the court orders otherwise, an order granting the motion to abandon property effects the trustee's or debtor in possession's abandonment without further notice.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

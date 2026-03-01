@@ -29,9 +29,9 @@ versions: ["2025"]
 
 **(1) Scheduling Order.** Except in categories of actions exempted by local rule, the district judge—or a magistrate judge when authorized by local rule—must issue a scheduling order:
 
-**(A)** after receiving the parties’ report under Rule 26(f); or
+**(A)** after receiving the parties' report under Rule 26(f); or
 
-**(B)** after consulting with the parties’ attorneys and any unrepresented parties at a scheduling conference.
+**(B)** after consulting with the parties' attorneys and any unrepresented parties at a scheduling conference.
 
 **(2) Time to Issue.** The judge must issue the scheduling order as soon as practicable, but unless the judge finds good cause for delay, the judge must issue it within the earlier of 90 days after any defendant has been served with the complaint or 60 days after any defendant has appeared.
 
@@ -55,7 +55,7 @@ versions: ["2025"]
 
 **(vii)** include other appropriate matters.
 
-**(4) Modifying a Schedule.** A schedule may be modified only for good cause and with the judge’s consent.
+**(4) Modifying a Schedule.** A schedule may be modified only for good cause and with the judge's consent.
 
 **(c) Attendance and Matters for Consideration at a Pretrial Conference.**
 
@@ -109,6 +109,6 @@ versions: ["2025"]
 
 **(C)** fails to obey a scheduling or other pretrial order.
 
-**(2) Imposing Fees and Costs.** Instead of or in addition to any other sanction, the court must order the party, its attorney, or both to pay the reasonable expenses—including attorney’s fees—incurred because of any noncompliance with this rule, unless the noncompliance was substantially justified or other circumstances make an award of expenses unjust.
+**(2) Imposing Fees and Costs.** Instead of or in addition to any other sanction, the court must order the party, its attorney, or both to pay the reasonable expenses—including attorney's fees—incurred because of any noncompliance with this rule, unless the noncompliance was substantially justified or other circumstances make an award of expenses unjust.
 
 <p class="amendment-history">(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)</p>

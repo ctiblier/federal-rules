@@ -13,6 +13,10 @@ source_pdf_page: 30
 versions: ["2025"]
 ---
 
-If a witness is not testifying as an expert, testimony in the form of an opinion is limited to one that is: (a) rationally based on the witness’s perception; (b) helpful to clearly understanding the witness’s testimony or to determining a fact in issue; and (c) not based on scientific, technical, or other specialized knowledge within the scope of Rule 702.
+**(a)** If a witness is not testifying as an expert, testimony in the form of an opinion is limited to one that is: rationally based on the witness's perception;
+
+**(b)** helpful to clearly understanding the witness's testimony or to determining a fact in issue; and
+
+**(c)** not based on scientific, technical, or other specialized knowledge within the scope of Rule 702.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

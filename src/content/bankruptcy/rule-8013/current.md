@@ -37,7 +37,7 @@ versions: ["2025"]
 
 **(ii)** An affidavit must contain only factual information, not legal argument.
 
-**(iii)** A motion seeking substantive relief must include a copy of the bankruptcy court’s judgment, order, or decree, and any accompanying opinion as a separate exhibit.
+**(iii)** A motion seeking substantive relief must include a copy of the bankruptcy court's judgment, order, or decree, and any accompanying opinion as a separate exhibit.
 
 **(D) Documents Barred or Not Required.**
 
@@ -57,7 +57,7 @@ versions: ["2025"]
 
 **(d) Emergency Motion.**
 
-**(1) Noting the Emergency.** A movant who requests expedited action—because irreparable harm would occur during the time needed to consider a response—must insert ‘‘Emergency’’ before the motion’s title.
+**(1) Noting the Emergency.** A movant who requests expedited action—because irreparable harm would occur during the time needed to consider a response—must insert ''Emergency'' before the motion's title.
 
 **(2) Content.** An emergency motion must:
 
@@ -81,7 +81,7 @@ versions: ["2025"]
 
 **(e) Motion Considered by a Single BAP Judge.**
 
-**(1) Judge’s Authority.** A BAP judge may act alone on any motion but may not:
+**(1) Judge's Authority.** A BAP judge may act alone on any motion but may not:
 
 **(A)** dismiss or otherwise determine an appeal;
 
@@ -89,7 +89,7 @@ versions: ["2025"]
 
 **(C)** deny a motion for a stay pending appeal if denial would make the appeal moot.
 
-**(2) Reviewing a Single Judge’s Action.** The BAP, on its own or on a party’s motion, may review a single judge’s action.
+**(2) Reviewing a Single Judge's Action.** The BAP, on its own or on a party's motion, may review a single judge's action.
 
 **(f) Form of Documents; Length Limits; Number of Copies.**
 
@@ -97,7 +97,7 @@ versions: ["2025"]
 
 **(2) Document Filed Electronically.** A motion, response, or reply filed electronically must comply with the requirements in (1) for covers, line spacing, margins, typeface, and type style. It must also comply with the length limits in (3).
 
-**(3) Length Limits.** Except by the district court’s or BAP’s permission, and excluding the accompanying documents authorized by (a)(2)(C):
+**(3) Length Limits.** Except by the district court's or BAP's permission, and excluding the accompanying documents authorized by (a)(2)(C):
 
 **(A)** a motion or a response to a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 5,200 words;
 
@@ -115,7 +115,7 @@ versions: ["2025"]
 
 **(2) Content.** The motion must concisely state:
 
-**(A)** the movant’s interest;
+**(A)** the movant's interest;
 
 **(B)** the grounds for intervention;
 

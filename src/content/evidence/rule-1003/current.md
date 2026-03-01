@@ -13,6 +13,6 @@ source_pdf_page: 42
 versions: ["2025"]
 ---
 
-A duplicate is admissible to the same extent as the original unless a genuine question is raised about the original’s authenticity or the circumstances make it unfair to admit the duplicate.
+A duplicate is admissible to the same extent as the original unless a genuine question is raised about the original's authenticity or the circumstances make it unfair to admit the duplicate.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

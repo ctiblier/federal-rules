@@ -1,0 +1,34 @@
+---
+rule: "A"
+title: "Scope of Rules"
+title_number: ""
+title_name: ""
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
+source_pdf_page: 123
+versions: ["2025"]
+---
+
+**(1) These Supplemental Rules apply to:**
+
+**(A)** the procedure in admiralty and maritime claims within the meaning of Rule 9(h) with respect to the following remedies:
+
+**(i)** maritime attachment and garnishment,
+
+**(ii)** actions in rem,
+
+**(iii)** possessory, petitory, and partition actions, and
+
+**(iv)** actions for exoneration from or limitation of liability;
+
+**(B)** forfeiture actions in rem arising from a federal statute; and
+
+**(C)** the procedure in statutory condemnation proceedings analogous to maritime actions in rem, whether within the admiralty and maritime jurisdiction or not. Except as otherwise provided, references in these Supplemental Rules to actions in rem include such analogous statutory condemnation proceedings.
+
+**(2)** The Federal Rules of Civil Procedure also apply to the foregoing proceedings except to the extent that they are inconsistent with these Supplemental Rules.
+
+<p class="amendment-history">(As added Feb. 28, 1966, eff. July 1, 1966; amended Apr. 12, 2006, eff. Dec. 1, 2006.)</p>

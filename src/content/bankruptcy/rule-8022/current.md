@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(C)** issue any other appropriate order.
 
-**(b) Form; Length.** A motion for rehearing must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as Rule 8011 provides. Except by the district court’s or BAP’s permission:
+**(b) Form; Length.** A motion for rehearing must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as Rule 8011 provides. Except by the district court's or BAP's permission:
 
 **(1)** a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 3,900 words; and
 

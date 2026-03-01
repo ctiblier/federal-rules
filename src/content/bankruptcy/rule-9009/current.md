@@ -1,6 +1,6 @@
 ---
 rule: "9009"
-title: "Using Official Forms; Director’s Forms"
+title: "Using Official Forms; Director's Forms"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
@@ -19,9 +19,9 @@ versions: ["2025"]
 
 **(2)** deletes space not needed for a response; or
 
-**(3)** deletes items requiring detail in a question or category if the filer indicates—either by checking ‘‘no’’ or ‘‘none,’’ or by stating in words—that there is nothing to report on that item.
+**(3)** deletes items requiring detail in a question or category if the filer indicates—either by checking ''no'' or ''none,'' or by stating in words—that there is nothing to report on that item.
 
-**(b) Director ’ s Forms.** The Director of the Administrative Office of the United States Courts may issue additional forms.
+**(b) Director's Forms.** The Director of the Administrative Office of the United States Courts may issue additional forms.
 
 **(c) Construing Forms.** The forms must be construed to be consistent with these rules and the Code.
 

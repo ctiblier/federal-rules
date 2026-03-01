@@ -13,13 +13,13 @@ source_pdf_page: 162
 versions: ["2025"]
 ---
 
-**(a) Redacted Filings.** Unless the court orders otherwise, in an electronic or paper filing with the court that contains an individual’s social-security number, taxpayer-identification number, or birth date, the name of an individual other than the debtor known to be and identified as a minor, or a financial-account number, a party or nonparty making the filing may include only:
+**(a) Redacted Filings.** Unless the court orders otherwise, in an electronic or paper filing with the court that contains an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual other than the debtor known to be and identified as a minor, or a financial-account number, a party or nonparty making the filing may include only:
 
 **(1)** the last four digits of a social-security and taxpayeridentification number;
 
-**(2)** the year of the individual’s birth;
+**(2)** the year of the individual's birth;
 
-**(3)** the minor’s initials; and
+**(3)** the minor's initials; and
 
 **(4)** the last four digits of the financial-account number.
 
@@ -43,13 +43,13 @@ versions: ["2025"]
 
 **(1)** require redaction of additional information; or
 
-**(2)** limit or prohibit a nonparty’s remote electronic access to a document filed with the court.
+**(2)** limit or prohibit a nonparty's remote electronic access to a document filed with the court.
 
 **(e) Option for Additional Unredacted Document Under Seal.** An entity filing a redacted document may also file an unredacted copy under seal. The court must retain the unredacted copy as part of the record.
 
 **(f) Option for Filing a Reference List.** A filing that contains redacted information may be filed together with a reference list that identifies each item of redacted information and specifies an appropriate identifier that uniquely corresponds to each item listed. The list must be filed under seal and may be amended as of right. A reference in the case to a listed identifier will be construed to refer to the corresponding item of information.
 
-**(g) Waiver of Protection of Identifiers.** An entity waives the protection of (a) for the entity’s own information by filing it without redaction and not under seal.
+**(g) Waiver of Protection of Identifiers.** An entity waives the protection of (a) for the entity's own information by filing it without redaction and not under seal.
 
 **(h) Motion to Redact a Previously Filed Document.**
 
@@ -61,6 +61,6 @@ versions: ["2025"]
 
 **(C)** include the docket number—or proof-of-claim number—of the previously filed document; and
 
-**(D)** serve the motion and attachment on: • the debtor; • the debtor’s attorney; • any trustee; • the United States trustee; • the entity that filed the unredacted document; and • any individual whose personal identifying information is to be redacted.
+**(D)** serve the motion and attachment on: • the debtor; • the debtor's attorney; • any trustee; • the United States trustee; • the entity that filed the unredacted document; and • any individual whose personal identifying information is to be redacted.
 
 **(2) Restricting Public Access to the Unredacted Document; Docketing the Redacted Document.** Pending its ruling, the court must promptly restrict access to the motion and the unredacted document. If the court grants the motion, the clerk must docket the redacted document. The restrictions on public access to the motion and unredacted document remain in effect until a further court order. If the court denies the motion, the restrictions must be lifted, unless the court orders otherwise. (Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)

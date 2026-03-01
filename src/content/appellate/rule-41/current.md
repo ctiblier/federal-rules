@@ -13,9 +13,9 @@ source_pdf_page: 60
 versions: ["2025"]
 ---
 
-**(a) Contents.** Unless the court directs that a formal mandate issue, the mandate consists of a certified copy of the judgment, a copy of the court’s opinion, if any, and any direction about costs.
+**(a) Contents.** Unless the court directs that a formal mandate issue, the mandate consists of a certified copy of the judgment, a copy of the court's opinion, if any, and any direction about costs.
 
-**(b) When Issued.** The court’s mandate must issue 7 days after the time to file a petition for rehearing expires, or 7 days after entry of an order denying a timely petition for panel rehearing, petition for rehearing en banc, or motion for stay of mandate, whichever is later. The court may shorten or extend the time by order.
+**(b) When Issued.** The court's mandate must issue 7 days after the time to file a petition for rehearing expires, or 7 days after entry of an order denying a timely petition for panel rehearing, petition for rehearing en banc, or motion for stay of mandate, whichever is later. The court may shorten or extend the time by order.
 
 **(c) Effective Date.** The mandate is effective when issued.
 
@@ -31,7 +31,7 @@ versions: ["2025"]
 
 **(i)** that the time for filing a petition has been extended, in which case the stay continues for the extended period; or
 
-**(ii)** that the petition has been filed, in which case the stay continues until the Supreme Court’s final disposition.
+**(ii)** that the petition has been filed, in which case the stay continues until the Supreme Court's final disposition.
 
 **(3) Security.** The court may require a bond or other security as a condition to granting or continuing a stay of the mandate.
 

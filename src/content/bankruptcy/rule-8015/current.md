@@ -39,7 +39,7 @@ versions: ["2025"]
 
 **(3) Binding.** The brief must be bound in any manner that is secure, does not obscure the text, and permits the brief to lie reasonably flat when open.
 
-**(4) Paper Size, Line Spacing, and Margins.** The brief must be on 8 ⁄ ’’-by-11’’ paper. The text must be double-spaced, but quotations more than two lines long may be indented and single-spaced. Headings and footnotes may be single-spaced. Margins must be at least one inch on all four sides. Page numbers may be placed in the margins, but no text may appear there.
+**(4) Paper Size, Line Spacing, and Margins.** The brief must be on 8 ⁄''-by-11'' paper. The text must be double-spaced, but quotations more than two lines long may be indented and single-spaced. Headings and footnotes may be single-spaced. Margins must be at least one inch on all four sides. Page numbers may be placed in the margins, but no text may appear there.
 
 **(5) Typeface.** Either a proportionally spaced or monospaced face may be used.
 
@@ -65,7 +65,7 @@ versions: ["2025"]
 
 **(1)** an appendix may include a legible photocopy of any document found in the record or of a printed decision; and
 
-**(2)** when necessary for including odd-sized documents such as technical drawings, an appendix may be a size other than 8 ⁄ ’’ by 11’’, and need not lie reasonably flat when opened.
+**(2)** when necessary for including odd-sized documents such as technical drawings, an appendix may be a size other than 8 ⁄'' by 11'', and need not lie reasonably flat when opened.
 
 **(d) Appendix Filed Electronically.** An appendix filed electronically must comply with (a)(2) and (4)—except for the paper requirement of (a)(4).
 

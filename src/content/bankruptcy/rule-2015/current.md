@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Duties of a Trustee or Debtor in Possession.** A trustee or debtor in possession must:
 
-**(1)** in a Chapter 7 case and, if the court so orders, in a Chapter 11 case (other than under Subchapter V), file and send to the United States trustee a complete inventory of the debtor’s property within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
+**(1)** in a Chapter 7 case and, if the court so orders, in a Chapter 11 case (other than under Subchapter V), file and send to the United States trustee a complete inventory of the debtor's property within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
 
 **(2)** keep a record of receipts and the disposition of money and property received;
 
@@ -23,11 +23,11 @@ versions: ["2025"]
 
 **(A)** the reports and summaries required by § 704(a)(8); and
 
-**(B)** if payments are made to employees, a statement of the amounts of deductions for all taxes required to be withheld or paid on the employees’ behalf and the place where these funds are deposited;
+**(B)** if payments are made to employees, a statement of the amounts of deductions for all taxes required to be withheld or paid on the employees' behalf and the place where these funds are deposited;
 
 **(4)** give notice of the case, as soon as possible after it commences, to the following entities, except those who know or have previously been notified of it:
 
-**(A)** every entity known to be holding money or property subject to the debtor’s withdrawal or order, including every bank, savings- or building-and-loan association, public utility company, and landlord with whom the debtor has a deposit; and
+**(A)** every entity known to be holding money or property subject to the debtor's withdrawal or order, including every bank, savings- or building-and-loan association, public utility company, and landlord with whom the debtor has a deposit; and
 
 **(B)** every insurance company that has issued a policy with a cash-surrender value payable to the debtor;
 
@@ -35,9 +35,9 @@ versions: ["2025"]
 
 **(6)** in a Chapter 11 small business case, unless the court, for cause, sets a different schedule, file and send to the United States trustee a report under § 308, using Form 425C, for each calendar month after the order for relief—with the following adjustments: • if the order for relief is within the first 15 days of a calendar month, the report must be filed for the rest of that month; or • if the order for relief is after the 15th, the information for the rest of that month must be included in the report for the next calendar month. Each report must be filed within 21 days after the last day of the month following the month that the report covers. The obligation to file reports ends on the date that the plan becomes effective or the case is converted or dismissed.
 
-**(b) Trustee, Debtor in Possession, and Debtor in a Case Under Subchapter Vof Chapter 11. In a case under Subchapter V of Chapter 11, the debtor in possession must perform the duties prescribed in (a)(2)–(4) and, if the court orders, must file and send to the United States trustee a complete inventory of the debtor’s property within the time the court sets.** If the debtor is removed as debtor in possession, the trustee must perform these duties. The debtor must perform the duties prescribed in (a)(6).
+**(b)** Trustee, Debtor in Possession, and Debtor in a Case Under Subchapter Vof Chapter 11. In a case under Subchapter V of Chapter 11, the debtor in possession must perform the duties prescribed in (a)(2)–(4) and, if the court orders, must file and send to the United States trustee a complete inventory of the debtor's property within the time the court sets. If the debtor is removed as debtor in possession, the trustee must perform these duties. The debtor must perform the duties prescribed in (a)(6).
 
-**(c) Duties of a Chapter 12 Trustee or Debtor in Possession.** In a Chapter 12 case, the debtor in possession must perform the duties prescribed in (a)(2)–(4) and, if the court orders, file and send to the United States trustee a complete inventory of the debtor’s property within the time the court sets. If the debtor is removed as debtor in possession, the trustee must perform these duties.
+**(c) Duties of a Chapter 12 Trustee or Debtor in Possession.** In a Chapter 12 case, the debtor in possession must perform the duties prescribed in (a)(2)–(4) and, if the court orders, file and send to the United States trustee a complete inventory of the debtor's property within the time the court sets. If the debtor is removed as debtor in possession, the trustee must perform these duties.
 
 **(d) Duties of a Chapter 13 Trustee and Debtor.**
 
@@ -45,7 +45,7 @@ versions: ["2025"]
 
 **(A)** perform the duties prescribed by (a)(2)–(4); and
 
-**(B)** if the court so orders, file and send to the United States trustee a complete inventory of the debtor’s property within the time the court sets.
+**(B)** if the court so orders, file and send to the United States trustee a complete inventory of the debtor's property within the time the court sets.
 
 **(2) Other Chapter 13 Case.** In a Chapter 13 case in which the debtor is not engaged in business, the trustee must perform the duties prescribed by (a)(2).
 

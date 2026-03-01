@@ -19,13 +19,13 @@ versions: ["2025"]
 
 **(1) Testimony of a Witness with Knowledge.** Testimony that an item is what it is claimed to be.
 
-**(2) Nonexpert Opinion About Handwriting.** A nonexpert’s opinion that handwriting is genuine, based on a familiarity with it that was not acquired for the current litigation.
+**(2) Nonexpert Opinion About Handwriting.** A nonexpert's opinion that handwriting is genuine, based on a familiarity with it that was not acquired for the current litigation.
 
 **(3) Comparison by an Expert Witness or the Trier of Fact.** A comparison with an authenticated specimen by an expert witness or the trier of fact.
 
 **(4) Distinctive Characteristics and the Like.** The appearance, contents, substance, internal patterns, or other distinctive characteristics of the item, taken together with all the circumstances.
 
-**(5) Opinion About a Voice.** An opinion identifying a person’s voice—whether heard firsthand or through mechanical or electronic transmission or recording—based on hearing the voice at any time under circumstances that connect it with the alleged speaker.
+**(5) Opinion About a Voice.** An opinion identifying a person's voice—whether heard firsthand or through mechanical or electronic transmission or recording—based on hearing the voice at any time under circumstances that connect it with the alleged speaker.
 
 **(6) Evidence About a Telephone Conversation.** For a telephone conversation, evidence that a call was made to the number assigned at the time to:
 

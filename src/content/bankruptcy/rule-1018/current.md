@@ -19,8 +19,8 @@ versions: ["2025"]
 
 **(2)** a proceeding to vacate an order for relief.
 
-**(b)** References to an ‘‘Adversary Proceeding.’’ Any reference to an ‘‘adversary proceeding’’ in the rules listed in (a) is a reference to the proceedings listed in (a)(1)–(2).
+**(b)** References to an''Adversary Proceeding.'' Any reference to an ''adversary proceeding'' in the rules listed in (a) is a reference to the proceedings listed in (a)(1)–(2).
 
-**(c)** ‘‘Complaint ’’ Means ‘‘Petition.’’ For the proceedings described in (a), a reference to the ‘‘complaint’’ in the Federal Rules of Civil Procedure must be read as a reference to the petition.
+**(c)** ''Complaint'' Means''Petition.'' For the proceedings described in (a), a reference to the ''complaint'' in the Federal Rules of Civil Procedure must be read as a reference to the petition.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

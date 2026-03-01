@@ -15,13 +15,13 @@ versions: ["2025"]
 
 **(a) Modifying a Plan Before Confirmation.** In a Chapter 9 or 11 case, after a plan has been accepted and before confirmation, the plan proponent may file a modification. The modification is considered accepted by any creditor or equity security holder who has accepted it in writing. For others who have not accepted it in writing but have accepted the plan, the modification is considered accepted if, after notice and a hearing, the court finds that it does not adversely change the treatment of their claims or interests. The notice must be served on: • the trustee; • any appointed committee; and • any other entity the court designates.
 
-**(b) Modifying a Plan After Confirmation in an Individual Debtor ’ s Chapter 11 Case.**
+**(b) Modifying a Plan After Confirmation in an Individual Debtor's Chapter 11 Case.**
 
-**(1) In General.** When a plan in an individual debtor’s Chapter 11 case has been confirmed, a request to modify it under § 1127(e) is governed by Rule 9014. The request must identify the proponent, and the proposed modification must be filed with it.
+**(1) In General.** When a plan in an individual debtor's Chapter 11 case has been confirmed, a request to modify it under § 1127(e) is governed by Rule 9014. The request must identify the proponent, and the proposed modification must be filed with it.
 
 **(2) Time to File an Objection; Service.**
 
-**(A) Time.** Unless the court orders otherwise for creditors who are not affected by the proposed modification, the clerk—or the court’s designee—must give the debtor, trustee, and creditors at least 21 days’ notice, by mail, of:
+**(A) Time.** Unless the court orders otherwise for creditors who are not affected by the proposed modification, the clerk—or the court's designee—must give the debtor, trustee, and creditors at least 21 days' notice, by mail, of:
 
 **(i)** the time to file an objection; and
 

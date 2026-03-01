@@ -19,6 +19,6 @@ versions: ["2025"]
 
 **(c)** approving a waiver of discharge; or
 
-**(d)** closing an individual debtor’s case without entering a discharge.
+**(d)** closing an individual debtor's case without entering a discharge.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

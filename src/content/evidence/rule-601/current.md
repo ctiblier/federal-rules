@@ -13,6 +13,6 @@ source_pdf_page: 26
 versions: ["2025"]
 ---
 
-Every person is competent to be a witness unless these rules provide otherwise. But in a civil case, state law governs the witness’s competency regarding a claim or defense for which state law supplies the rule of decision.
+Every person is competent to be a witness unless these rules provide otherwise. But in a civil case, state law governs the witness's competency regarding a claim or defense for which state law supplies the rule of decision.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

@@ -1,6 +1,6 @@
 ---
 rule: "44"
-title: "Right to and Appointment of Counsel"
+title: "Proving an Official Record"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
@@ -9,22 +9,40 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 79
+source_pdf_page: 86
 versions: ["2025"]
 ---
 
-**(a) Right to Appointed Counsel.** A defendant who is unable to obtain counsel is entitled to have counsel appointed to represent the defendant at every stage of the proceeding from initial appearance through appeal, unless the defendant waives this right.
+**(a) Means of Proving.**
 
-**(b) Appointment Procedure.** Federal law and local court rules govern the procedure for implementing the right to counsel.
+**(1) Domestic Record.** Each of the following evidences an official record—or an entry in it—that is otherwise admissible and is kept within the United States, any state, district, or commonwealth, or any territory subject to the administrative or judicial jurisdiction of the United States:
 
-**(c) Inquiry Into Joint Representation.**
+**(A)** an official publication of the record; or
 
-**(1) Joint Representation.** Joint representation occurs when:
+**(B)** a copy attested by the officer with legal custody of the record—or by the officer's deputy—and accompanied by a certificate that the officer has custody. The certificate must be made under seal:
 
-**(A)** two or more defendants have been charged jointly under Rule 8(b) or have been joined for trial under Rule 13; and
+**(i)** by a judge of a court of record in the district or political subdivision where the record is kept; or
 
-**(B)** the defendants are represented by the same counsel, or counsel who are associated in law practice.
+**(ii)** by any public officer with a seal of office and with official duties in the district or political subdivision where the record is kept.
 
-**(2) Court’s Responsibilities in Cases of Joint Representation.** The court must promptly inquire about the propriety of joint representation and must personally advise each defendant of the right to the effective assistance of counsel, including separate representation. Unless there is good cause to believe that no conflict of interest is likely to arise, the court must take appropriate measures to protect each defendant’s right to counsel.
+**(2) Foreign Record.**
 
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Dec. 1, 1980; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+**(A) In General.** Each of the following evidences a foreign official record—or an entry in it—that is otherwise admissible:
+
+**(i)** an official publication of the record; or
+
+**(ii)** the record—or a copy—that is attested by an authorized person and is accompanied either by a final certification of genuineness or by a certification under a treaty or convention to which the United States and the country where the record is located are parties.
+
+**(B) Final Certification of Genuineness.** A final certification must certify the genuineness of the signature and official position of the attester or of any foreign official whose certificate of genuineness relates to the attestation or is in a chain of certificates of genuineness relating to the attestation. A final certification may be made by a secretary of a United States embassy or legation; by a consul general, vice consul, or consular agent of the United States; or by a diplomatic or consular official of the foreign country assigned or accredited to the United States.
+
+**(C) Other Means of Proof.** If all parties have had a reasonable opportunity to investigate a foreign record's authenticity and accuracy, the court may, for good cause, either:
+
+**(i)** admit an attested copy without final certification; or
+
+**(ii)** permit the record to be evidenced by an attested summary with or without a final certification.
+
+**(b) Lack of a Record.** A written statement that a diligent search of designated records revealed no record or entry of a specified tenor is admissible as evidence that the records contain no such record or entry. For domestic records, the statement must be authenticated under Rule 44(a)(1). For foreign records, the statement must comply with (a)(2)(C)(ii).
+
+**(c) Other Proof.** A party may prove an official record—or an entry or lack of an entry in it—by any other method authorized by law.
+
+<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -1,6 +1,6 @@
 ---
 rule: "9028"
-title: "Judge’s Disability"
+title: "Judge's Disability"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""

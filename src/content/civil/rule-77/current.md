@@ -1,6 +1,6 @@
 ---
 rule: "77"
-title: "Conducting Business; Clerk’s Authority; Notice of an Order or Judgment"
+title: "Conducting Business; Clerk's Authority; Notice of an Order or Judgment"
 title_number: "X"
 title_name: "District Courts and Clerks: Conducting Business; Issuing Orders"
 summary: ""
@@ -17,11 +17,11 @@ versions: ["2025"]
 
 **(b) Place for Trial and Other Proceedings.** Every trial on the merits must be conducted in open court and, so far as convenient, in a regular courtroom. Any other act or proceeding may be done or conducted by a judge in chambers, without the attendance of the clerk or other court official, and anywhere inside or outside the district. But no hearing—other than one ex parte—may be conducted outside the district unless all the affected parties consent.
 
-**(c) Clerk ’ s Office Hours; Clerk ’ s Orders.**
+**(c) Clerk's Office Hours; Clerk's Orders.**
 
-**(1) Hours.** The clerk’s office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays. But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(6)(A).
+**(1) Hours.** The clerk's office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays. But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(6)(A).
 
-**(2) Orders.** Subject to the court’s power to suspend, alter, or rescind the clerk’s action for good cause, the clerk may:
+**(2) Orders.** Subject to the court's power to suspend, alter, or rescind the clerk's action for good cause, the clerk may:
 
 **(A)** issue process;
 
@@ -29,7 +29,7 @@ versions: ["2025"]
 
 **(C)** enter a default judgment under Rule 55(b)(1); and
 
-**(D)** act on any other matter that does not require the court’s action.
+**(D)** act on any other matter that does not require the court's action.
 
 **(d) Serving Notice of an Order or Judgment.**
 

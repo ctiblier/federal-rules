@@ -23,10 +23,10 @@ versions: ["2025"]
 
 **(C)** conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
 
-**(2) Delegating Authority to the Bankruptcy Judges.** A district court may—subject to any limitation or condition it may prescribe and Fed. R. Civ. P. 83—authorize the district’s bankruptcy judges to make and amend local bankruptcy rules.
+**(2) Delegating Authority to the Bankruptcy Judges.** A district court may—subject to any limitation or condition it may prescribe and Fed. R. Civ. P. 83—authorize the district's bankruptcy judges to make and amend local bankruptcy rules.
 
 **(b) Limit on Enforcing a Local Rule Regarding Form.** A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
 
-**(c) Procedure When There Is No Controlling Law.** A judge may regulate practice in any manner consistent with federal law, these rules, the Official Forms, and the district’s local rules. For any requirement set out elsewhere, a sanction or other disadvantage may be imposed for noncompliance only if the alleged violator was given actual notice of the requirement in the particular case.
+**(c) Procedure When There Is No Controlling Law.** A judge may regulate practice in any manner consistent with federal law, these rules, the Official Forms, and the district's local rules. For any requirement set out elsewhere, a sanction or other disadvantage may be imposed for noncompliance only if the alleged violator was given actual notice of the requirement in the particular case.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

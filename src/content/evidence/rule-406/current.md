@@ -13,6 +13,6 @@ source_pdf_page: 20
 versions: ["2025"]
 ---
 
-Evidence of a person’s habit or an organization’s routine practice may be admitted to prove that on a particular occasion the person or organization acted in accordance with the habit or routine practice. The court may admit this evidence regardless of whether it is corroborated or whether there was an eyewitness.
+Evidence of a person's habit or an organization's routine practice may be admitted to prove that on a particular occasion the person or organization acted in accordance with the habit or routine practice. The court may admit this evidence regardless of whether it is corroborated or whether there was an eyewitness.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

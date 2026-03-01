@@ -1,6 +1,6 @@
 ---
 rule: "48"
-title: "Dismissal"
+title: "Number of Jurors; Verdict; Polling"
 title_number: "IX"
 title_name: "General Provisions"
 summary: ""
@@ -9,18 +9,14 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 83
+source_pdf_page: 91
 versions: ["2025"]
 ---
 
-**(a) By the Government.** The government may, with leave of court, dismiss an indictment, information, or complaint. The government may not dismiss the prosecution during trial without the defendant’s consent.
+**(a) Number of Jurors.** A jury must begin with at least 6 and no more than 12 members, and each juror must participate in the verdict unless excused under Rule 47(c).
 
-**(b) By the Court.** The court may dismiss an indictment, information, or complaint if unnecessary delay occurs in:
+**(b) Verdict.** Unless the parties stipulate otherwise, the verdict must be unanimous and must be returned by a jury of at least 6 members.
 
-**(1)** presenting a charge to a grand jury;
+**(c) Polling.** After a verdict is returned but before the jury is discharged, the court must on a party's request, or may on its own, poll the jurors individually. If the poll reveals a lack of unanimity or lack of assent by the number of jurors that the parties stipulated to, the court may direct the jury to deliberate further or may order a new trial.
 
-**(2)** filing an information against a defendant; or
-
-**(3)** bringing a defendant to trial.
-
-<p class="amendment-history">(As amended Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

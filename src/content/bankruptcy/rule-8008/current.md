@@ -13,7 +13,7 @@ source_pdf_page: 122
 versions: ["2025"]
 ---
 
-**(a) Motion for Relief Filed When an Appeal Is Pending; Bankruptcy Court’s Options.** If a party files a timely motion in the bankruptcy court for relief that the court lacks authority to grant because an appeal has been docketed and is pending, the bankruptcy court may:
+**(a) Motion for Relief Filed When an Appeal Is Pending; Bankruptcy Court's Options.** If a party files a timely motion in the bankruptcy court for relief that the court lacks authority to grant because an appeal has been docketed and is pending, the bankruptcy court may:
 
 **(1)** defer considering the motion;
 

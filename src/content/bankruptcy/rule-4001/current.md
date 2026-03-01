@@ -13,11 +13,11 @@ source_pdf_page: 82
 versions: ["2025"]
 ---
 
-**(a) Relief from the Automatic Stay; Prohibiting or Condi - tioning the Use, Sale, or Lease of Property.**
+**(a) Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property.**
 
 **(1) Motion.** A motion under § 362(d) for relief from the automatic stay—or a motion under § 363(e) to prohibit or condition the use, sale, or lease of property—must comply with Rule 9014. The motion must be served on:
 
-**(A)** the following, as applicable: • a committee elected under § 705 or appointed under § 1102; • the committee’s authorized agent; or • the creditors included on the list filed under Rule 1007(d) if the case is a Chapter 9 or Chapter 11 case and no committee of unsecured creditors has been appointed under § 1102; and
+**(A)** the following, as applicable: • a committee elected under § 705 or appointed under § 1102; • the committee's authorized agent; or • the creditors included on the list filed under Rule 1007(d) if the case is a Chapter 9 or Chapter 11 case and no committee of unsecured creditors has been appointed under § 1102; and
 
 **(B)** any other entity the court designates.
 
@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(A)** specific facts—shown by either an affidavit or a verified motion—clearly demonstrate that the movant will suffer immediate and irreparable injury, loss, or damage before the adverse party or its attorney can be heard in opposition; and
 
-**(B)** the movant’s attorney certifies to the court in writing what efforts, if any, have been made to give notice and why it should not be required.
+**(B)** the movant's attorney certifies to the court in writing what efforts, if any, have been made to give notice and why it should not be required.
 
 **(3) Notice of Relief; Motion for Reinstatement or Reconsideration.**
 
@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(ii)** promptly send them a copy of the order granting relief.
 
-**(B) Motion for Reinstatement or Reconsideration.** On 2 days’ notice to the party who obtained relief under (2)—or on shorter notice as the court may order—the adverse party may move to reinstate the stay or reconsider the order prohibiting or conditioning the use, sale, or lease of property. The court must proceed expeditiously to hear and decide the motion.
+**(B) Motion for Reinstatement or Reconsideration.** On 2 days' notice to the party who obtained relief under (2)—or on shorter notice as the court may order—the adverse party may move to reinstate the stay or reconsider the order prohibiting or conditioning the use, sale, or lease of property. The court must proceed expeditiously to hear and decide the motion.
 
 **(4) Stay of an Order Granting Relief from the Automatic Stay.** Unless the court orders otherwise, an order granting a motion for relief from the automatic stay under (1) is stayed for 14 days after it is entered.
 
@@ -45,7 +45,7 @@ versions: ["2025"]
 
 **(A) Motion.** A motion for authorization to use cash collateral must comply with Rule 9014 and must be accompanied by a proposed form of order.
 
-**(B) Content.** The motion must consist of—or if the motion exceeds five pages, begin with—a concise statement of the relief requested, no longer than five pages. The statement must list or summarize all material provisions (citing their locations in the relevant documents), including: • the name of each entity with an interest in the cash collateral; • how it will be used; • the material terms of its use, including duration; and • all liens, cash payments, or other adequate protection that will be provided to each entity with an interest in the cash collateral—or if no such protection is proposed, an explanation of how each entity’s interest is adequately protected.
+**(B) Content.** The motion must consist of—or if the motion exceeds five pages, begin with—a concise statement of the relief requested, no longer than five pages. The statement must list or summarize all material provisions (citing their locations in the relevant documents), including: • the name of each entity with an interest in the cash collateral; • how it will be used; • the material terms of its use, including duration; and • all liens, cash payments, or other adequate protection that will be provided to each entity with an interest in the cash collateral—or if no such protection is proposed, an explanation of how each entity's interest is adequately protected.
 
 **(C) Service.** The motion must be served on: • each entity with an interest in the cash collateral; • all those who must be served under (a)(1)(A); and • any other entity the court designates.
 
@@ -71,7 +71,7 @@ versions: ["2025"]
 
 **(iv)** a waiver or modification of Code provisions or applicable rules regarding the automatic stay;
 
-**(v)** a waiver or modification of an entity’s right to file a plan, seek to extend the time in which the debtor has the exclusive right to file a plan, request the use of cash collateral under § 363(c), or request authorization to obtain credit under § 364;
+**(v)** a waiver or modification of an entity's right to file a plan, seek to extend the time in which the debtor has the exclusive right to file a plan, request the use of cash collateral under § 363(c), or request authorization to obtain credit under § 364;
 
 **(vi)** the establishment of deadlines for filing a plan of reorganization, approving a disclosure statement, holding a hearing on confirmation, or entering a confirmation order;
 
@@ -95,7 +95,7 @@ versions: ["2025"]
 
 **(3) Inapplicability in a Chapter 13 Case.** This subdivision (c) does not apply in a Chapter 13 case.
 
-**(d)** Various Agreements: Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Prop - erty ; Providing Adequate Protection; Using Cash Collateral; or Obtaining Credit.
+**(d)** Various Agreements: Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Providing Adequate Protection; Using Cash Collateral; or Obtaining Credit.
 
 **(1) Motion; Content; Service.**
 
@@ -109,11 +109,11 @@ versions: ["2025"]
 
 **(iv)** an agreement to use cash collateral; or
 
-**(v)** an agreement between the debtor and an entity that has a lien or interest in property of the estate under which the entity consents to creating a lien that is senior or equal to the entity’s lien or interest.
+**(v)** an agreement between the debtor and an entity that has a lien or interest in property of the estate under which the entity consents to creating a lien that is senior or equal to the entity's lien or interest.
 
 **(B) Content.** The motion must consist of—or if the motion exceeds five pages, begin with—a concise statement of the relief requested, no longer than five pages. The statement must:
 
-**(i)** list or summarize all the agreement’s material provisions (citing their locations in the relevant documents); and
+**(i)** list or summarize all the agreement's material provisions (citing their locations in the relevant documents); and
 
 **(ii)** briefly list or summarize, cite the location of, and describe the nature and extent of each provision in the proposed form of order, agreement, or other document of the type listed in (c)(1)(B).
 
@@ -123,8 +123,8 @@ versions: ["2025"]
 
 **(3) Disposition Without a Hearing.** If no objection is filed, the court may enter an order approving or disapproving the agreement without holding a hearing.
 
-**(4) Hearing.** If an objection is filed or if the court decides that a hearing is appropriate, the court must hold one after giving at least 7 days’ notice to: • the objector; • the movant; • the parties who must be served with the motion under (1)(C); and • any other entity the court designates.
+**(4) Hearing.** If an objection is filed or if the court decides that a hearing is appropriate, the court must hold one after giving at least 7 days' notice to: • the objector; • the movant; • the parties who must be served with the motion under (1)(C); and • any other entity the court designates.
 
-**(5) Agreement to Settle a Motion.** The court may decide that a motion made under (a), (b), or (c) was sufficient to give reasonable notice of the agreement’s material provisions and an opportunity for a hearing. If so, the court may order that the procedures prescribed in (1)–(4) do not apply and may approve the agreement without further notice.
+**(5) Agreement to Settle a Motion.** The court may decide that a motion made under (a), (b), or (c) was sufficient to give reasonable notice of the agreement's material provisions and an opportunity for a hearing. If so, the court may order that the procedures prescribed in (1)–(4) do not apply and may approve the agreement without further notice.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

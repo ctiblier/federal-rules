@@ -13,6 +13,6 @@ source_pdf_page: 22
 versions: ["2025"]
 ---
 
-Evidence that a person was or was not insured against liability is not admissible to prove whether the person acted negligently or otherwise wrongfully. But the court may admit this evidence for another purpose, such as proving a witness’s bias or prejudice or proving agency, ownership, or control.
+Evidence that a person was or was not insured against liability is not admissible to prove whether the person acted negligently or otherwise wrongfully. But the court may admit this evidence for another purpose, such as proving a witness's bias or prejudice or proving agency, ownership, or control.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

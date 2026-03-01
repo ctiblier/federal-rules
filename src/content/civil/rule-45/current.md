@@ -23,13 +23,13 @@ versions: ["2025"]
 
 **(ii)** state the title of the action and its civil-action number;
 
-**(iii)** command each person to whom it is directed to do the following at a specified time and place: attend and testify; produce designated documents, electronically stored information, or tangible things in that person’s possession, custody, or control; or permit the inspection of premises; and
+**(iii)** command each person to whom it is directed to do the following at a specified time and place: attend and testify; produce designated documents, electronically stored information, or tangible things in that person's possession, custody, or control; or permit the inspection of premises; and
 
 **(iv)** set out the text of Rule 45(d) and (e).
 
 **(B) Command to Attend a Deposition—Notice of the Recording Method.** A subpoena commanding attendance at a deposition must state the method for recording the testimony.
 
-**(C) Combining or Separating a Command to Produce or to Permit Inspection; Specifying the Form for Electronically Stored Information.** A command to produce documents, electronically stored information, or tangible things or to permit the inspection of premises may be included in a subpoena commanding attendance at a deposition, hearing, or trial, or may be set out in a separate subpoena. A subpoena may specify the form or forms in which electronically stored information is to be produced.
+**(C)** Combining or Separating a Command to Produce or to Permit Inspection; Specifying the Form for Electronically Stored Information. A command to produce documents, electronically stored information, or tangible things or to permit the inspection of premises may be included in a subpoena commanding attendance at a deposition, hearing, or trial, or may be set out in a separate subpoena. A subpoena may specify the form or forms in which electronically stored information is to be produced.
 
 **(D) Command to Produce; Included Obligations.** A command in a subpoena to produce documents, electronically stored information, or tangible things requires the responding person to permit inspection, copying, testing, or sampling of the materials.
 
@@ -41,7 +41,7 @@ versions: ["2025"]
 
 **(b) Service.**
 
-**(1) By Whom and How; Tendering Fees.** Any person who is at least 18 years old and not a party may serve a subpoena. Serving a subpoena requires delivering a copy to the named person and, if the subpoena requires that person’s attendance, tendering the fees for 1 day’s attendance and the mileage allowed by law. Fees and mileage need not be tendered when the subpoena issues on behalf of the United States or any of its officers or agencies.
+**(1) By Whom and How; Tendering Fees.** Any person who is at least 18 years old and not a party may serve a subpoena. Serving a subpoena requires delivering a copy to the named person and, if the subpoena requires that person's attendance, tendering the fees for 1 day's attendance and the mileage allowed by law. Fees and mileage need not be tendered when the subpoena issues on behalf of the United States or any of its officers or agencies.
 
 **(2) Service in the United States.** A subpoena may be served at any place within the United States.
 
@@ -57,7 +57,7 @@ versions: ["2025"]
 
 **(B)** within the state where the person resides, is employed, or regularly transacts business in person, if the person
 
-**(i)** is a party or a party’s officer; or
+**(i)** is a party or a party's officer; or
 
 **(ii)** is commanded to attend a trial and would not incur substantial expense.
 
@@ -67,9 +67,9 @@ versions: ["2025"]
 
 **(B)** inspection of premises at the premises to be inspected.
 
-**(d) Protecting a Person Subject to a Subpoena; Enforce - ment .**
+**(d) Protecting a Person Subject to a Subpoena; Enforcement.**
 
-**(1) Avoiding Undue Burden or Expense; Sanctions.** A party or attorney responsible for issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or expense on a person subject to the subpoena. The court for the district where compliance is required must enforce this duty and impose an appropriate sanction—which may include lost earnings and reasonable attorney’s fees—on a party or attorney who fails to comply.
+**(1) Avoiding Undue Burden or Expense; Sanctions.** A party or attorney responsible for issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or expense on a person subject to the subpoena. The court for the district where compliance is required must enforce this duty and impose an appropriate sanction—which may include lost earnings and reasonable attorney's fees—on a party or attorney who fails to comply.
 
 **(2) Command to Produce Materials or Permit Inspection.**
 
@@ -79,7 +79,7 @@ versions: ["2025"]
 
 **(i)** At any time, on notice to the commanded person, the serving party may move the court for the district where compliance is required for an order compelling production or inspection.
 
-**(ii)** These acts may be required only as directed in the order, and the order must protect a person who is neither a party nor a party’s officer from significant expense resulting from compliance.
+**(ii)** These acts may be required only as directed in the order, and the order must protect a person who is neither a party nor a party's officer from significant expense resulting from compliance.
 
 **(3) Quashing or Modifying a Subpoena.**
 
@@ -97,7 +97,7 @@ versions: ["2025"]
 
 **(i)** disclosing a trade secret or other confidential research, development, or commercial information; or
 
-**(ii)** disclosing an unretained expert’s opinion or information that does not describe specific occurrences in dispute and results from the expert’s study that was not requested by a party.
+**(ii)** disclosing an unretained expert's opinion or information that does not describe specific occurrences in dispute and results from the expert's study that was not requested by a party.
 
 **(C) Specifying Conditions as an Alternative.** In the circumstances described in Rule 45(d)(3)(B), the court may, instead of quashing or modifying a subpoena, order appearance or production under specified conditions if the serving party:
 

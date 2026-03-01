@@ -17,6 +17,6 @@ versions: ["2025"]
 
 **(b) Time for Filing; Supplemental Filing.** The statement must:
 
-**(1)** be filed with the corporation’s first appearance, pleading, motion, response, or other request to the court; and
+**(1)** be filed with the corporation's first appearance, pleading, motion, response, or other request to the court; and
 
 **(2)** be supplemented whenever the information required by this rule changes. (Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 2, 2024, eff. Dec. 1, 2024.)

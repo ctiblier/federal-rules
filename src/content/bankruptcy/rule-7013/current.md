@@ -13,7 +13,7 @@ source_pdf_page: 109
 versions: ["2025"]
 ---
 
-**(a) Fed.** R. Civ. P. 13 applies in an adversary proceeding. But a party sued by a trustee or debtor in possession need not state as a counterclaim any claim the party has against the debtor, the debtor’s property, or the estate, unless the claim arose after the order for relief. If, through oversight, inadvertence, or excusable neglect, a trustee or debtor in possession fails to plead a counterclaim—or when justice so requires—the court may permit the trustee or debtor in possession to: amend the pleading; or
+**(a) Fed.** R. Civ. P. 13 applies in an adversary proceeding. But a party sued by a trustee or debtor in possession need not state as a counterclaim any claim the party has against the debtor, the debtor's property, or the estate, unless the claim arose after the order for relief. If, through oversight, inadvertence, or excusable neglect, a trustee or debtor in possession fails to plead a counterclaim—or when justice so requires—the court may permit the trustee or debtor in possession to: amend the pleading; or
 
 **(b)** commence a new adversary proceeding or separate action.
 

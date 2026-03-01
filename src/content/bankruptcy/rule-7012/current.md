@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(B)** a court order requiring an answer, unless the order states otherwise.
 
-**(5) Answer to a Complaint or Crossclaim—or Answer to a Counterclaim—Served on the United States or an Officer or Agency.** The United States or its officer or agency must serve:
+**(5)** Answer to a Complaint or Crossclaim—or Answer to a Counterclaim—Served on the United States or an Officer or Agency. The United States or its officer or agency must serve:
 
 **(A)** an answer to a complaint within 35 days after the summons was issued; and
 
@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(6) Effect of a Motion.** Unless the court sets a different time, serving a motion under this rule alters these times as follows:
 
-**(A)** if the court denies the motion or postpones disposition until trial, the responsive pleading must be served within 14 days after notice of the court’s action; or
+**(A)** if the court denies the motion or postpones disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
 
 **(B)** if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the statement is served.
 

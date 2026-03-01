@@ -25,6 +25,6 @@ versions: ["2025"]
 
 **(1)** may try any issue with an advisory jury; or
 
-**(2)** may, with the parties’ consent, try any issue by a jury whose verdict has the same effect as if a jury trial had been a matter of right, unless the action is against the United States and a federal statute provides for a nonjury trial.
+**(2)** may, with the parties' consent, try any issue by a jury whose verdict has the same effect as if a jury trial had been a matter of right, unless the action is against the United States and a federal statute provides for a nonjury trial.
 
 <p class="amendment-history">(As amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

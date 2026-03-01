@@ -1,6 +1,6 @@
 ---
 rule: "83"
-title: "Rules by District Courts; Judge’s Directives"
+title: "Rules by District Courts; Judge's Directives"
 title_number: "XI"
 title_name: "General Provisions"
 summary: ""
@@ -19,6 +19,6 @@ versions: ["2025"]
 
 **(2) Requirement of Form.** A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
 
-**(b) Procedure When There Is No Controlling Law.** A judge may regulate practice in any manner consistent with federal law, rules adopted under 28 U.S.C. §§ 2072 and 2075, and the district’s local rules. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, or the local rules unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
+**(b) Procedure When There Is No Controlling Law.** A judge may regulate practice in any manner consistent with federal law, rules adopted under 28 U.S.C. §§ 2072 and 2075, and the district's local rules. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, or the local rules unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
 
 <p class="amendment-history">(As amended Apr. 29, 1985, eff. Aug. 1, 1985; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

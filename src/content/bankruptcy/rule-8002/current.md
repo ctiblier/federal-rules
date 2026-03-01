@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(3) Multiple Appeals.** If one party timely files a notice of appeal, any other party may file a notice of appeal within 14 days after the date when the first notice was filed, or within the time otherwise allowed by this rule—whichever is later.
 
-**(4) Mistaken Filing in Another Court.** If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, that court’s clerk must note on it the date when it was received and send it to the bankruptcy clerk. The notice is then considered filed in the bankruptcy court on the date noted.
+**(4) Mistaken Filing in Another Court.** If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, that court's clerk must note on it the date when it was received and send it to the bankruptcy clerk. The notice is then considered filed in the bankruptcy court on the date noted.
 
 **(5) Entry Defined.**
 
@@ -57,7 +57,7 @@ versions: ["2025"]
 
 **(c) Appeal by an Inmate Confined in an Institution.**
 
-**(1) In General.** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this paragraph (1). If an inmate files a notice of appeal from a bankruptcy court’s judgment, order, or decree, the notice is timely if it is deposited in the institution’s internal mail system on or before the last day for filing and:
+**(1) In General.** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this paragraph (1). If an inmate files a notice of appeal from a bankruptcy court's judgment, order, or decree, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
 
 **(A)** it is accompanied by:
 

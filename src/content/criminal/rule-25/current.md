@@ -1,32 +1,30 @@
 ---
 rule: "25"
-title: "Judge’s Disability"
+title: "Substitution of Parties"
 title_number: "VI"
 title_name: "Trial"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
 source_pdf_page: 56
 versions: ["2025"]
 ---
 
-**(a) During Trial.** Any judge regularly sitting in or assigned to the court may complete a jury trial if:
+**(a) Death.**
 
-**(1)** the judge before whom the trial began cannot proceed because of death, sickness, or other disability; and
+**(1) Substitution if the Claim Is Not Extinguished.** If a party dies and the claim is not extinguished, the court may order substitution of the proper party. A motion for substitution may be made by any party or by the decedent's successor or representative. If the motion is not made within 90 days after service of a statement noting the death, the action by or against the decedent must be dismissed.
 
-**(2)** the judge completing the trial certifies familiarity with the trial record.
+**(2) Continuation Among the Remaining Parties.** After a party's death, if the right sought to be enforced survives only to or against the remaining parties, the action does not abate, but proceeds in favor of or against the remaining parties. The death should be noted on the record.
 
-**(b) After a Verdict or Finding of Guilty.**
+**(3) Service.** A motion to substitute, together with a notice of hearing, must be served on the parties as provided in Rule 5 and on nonparties as provided in Rule 4. A statement noting death must be served in the same manner. Service may be made in any judicial district.
 
-**(1) In General.** After a verdict or finding of guilty, any judge regularly sitting in or assigned to a court may complete the court’s duties if the judge who presided at trial cannot perform those duties because of absence, death, sickness, or other disability.
+**(b) Incompetency.** If a party becomes incompetent, the court may, on motion, permit the action to be continued by or against the party's representative. The motion must be served as provided in Rule 25(a)(3).
 
-**(2) Granting a New Trial.** The successor judge may grant a new trial if satisfied that:
+**(c) Transfer of Interest.** If an interest is transferred, the action may be continued by or against the original party unless the court, on motion, orders the transferee to be substituted in the action or joined with the original party. The motion must be served as provided in Rule 25(a)(3).
 
-**(A)** a judge other than the one who presided at the trial cannot perform the post-trial duties; or
+**(d) Public Officers; Death or Separation from Office.** An action does not abate when a public officer who is a party in an official capacity dies, resigns, or otherwise ceases to hold office while the action is pending. The officer's successor is automatically substituted as a party. Later proceedings should be in the substituted party's name, but any misnomer not affecting the parties' substantial rights must be disregarded. The court may order substitution at any time, but the absence of such an order does not affect the substitution.
 
-**(B)** a new trial is necessary for some other reason.
-
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002.)</p>
+<p class="amendment-history">(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

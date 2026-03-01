@@ -15,9 +15,9 @@ versions: ["2025"]
 
 **(a) Scope.** This rule applies only in a Chapter 9 or 11 case.
 
-**(b)** Scheduled Liabilities and Listed Equity Security Hold - ers as Prima Facie Evidence of Validity and Amount.
+**(b)** Scheduled Liabilities and Listed Equity Security Holders as Prima Facie Evidence of Validity and Amount.
 
-**(1) Creditor’s Claim.** An entry on the schedule of liabilities filed under § 521(a)(1)(B)(i) is prima facie evidence of the validity and the amount of a creditor’s claim—except for a claim scheduled as disputed, contingent, or unliquidated. Filing a proof of claim is unnecessary except as provided in (c)(2).
+**(1) Creditor's Claim.** An entry on the schedule of liabilities filed under § 521(a)(1)(B)(i) is prima facie evidence of the validity and the amount of a creditor's claim—except for a claim scheduled as disputed, contingent, or unliquidated. Filing a proof of claim is unnecessary except as provided in (c)(2).
 
 **(2) Interest of an Equity Security Holder.** An entry on the list of equity security holders filed under Rule 1007(a)(3) is prima facie evidence of the validity and the amount of the equity interest. Filing a proof of the interest is unnecessary except as provided in (c)(2).
 

@@ -19,7 +19,7 @@ versions: ["2025"]
 
 **(2) Whom to Serve; Manner of Service.**
 
-**(A) Serving the Claim Holder.** The notice—substantially conforming to Form 420B—and objection must be served by mail on the person the claim holder most recently designated to receive notices on the claim holder’s original or latest amended proof of claim, at the address so indicated. If the objection is to a claim of:
+**(A) Serving the Claim Holder.** The notice—substantially conforming to Form 420B—and objection must be served by mail on the person the claim holder most recently designated to receive notices on the claim holder's original or latest amended proof of claim, at the address so indicated. If the objection is to a claim of:
 
 **(i)** the United States or one of its officers or agencies, service must also be made as if it were a summons and complaint under Rule 7004(b)(4) or (5); or
 
@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(B) Serving Others.** The notice and objection must also be served, by mail (or other permitted means), on: • the debtor or debtor in possession; • the trustee; and • if applicable, the entity that filed the proof of claim under Rule 3005.
 
-**(b) Demanding Relief That Requires an Adversary Proceed - ing Not Permitted.** In objecting to a claim, a party in interest must not include a demand for a type of relief specified in Rule 7001 but may include the objection in an adversary proceeding.
+**(b) Demanding Relief That Requires an Adversary Proceeding Not Permitted.** In objecting to a claim, a party in interest must not include a demand for a type of relief specified in Rule 7001 but may include the objection in an adversary proceeding.
 
 **(c) Limit on Omnibus Objections.** Unless the court orders otherwise or (d) permits, objections to more than one claim may not be joined in a single objection.
 
@@ -47,7 +47,7 @@ versions: ["2025"]
 
 **(E)** have been satisfied or released during the case in accordance with the Code, applicable rules, or a court order;
 
-**(F)** were presented in a form that does not comply with applicable rules and the objection states that the objector is therefore unable to determine a claim’s validity;
+**(F)** were presented in a form that does not comply with applicable rules and the objection states that the objector is therefore unable to determine a claim's validity;
 
 **(G)** are interests, not claims; or
 
@@ -61,7 +61,7 @@ versions: ["2025"]
 
 **(3)** state for each claim the grounds for the objection and provide a cross-reference to the pages where pertinent information about the grounds appears;
 
-**(4)** state in the title the objector’s identity and the grounds for the objections;
+**(4)** state in the title the objector's identity and the grounds for the objections;
 
 **(5)** be numbered consecutively with other omnibus objections filed by the same objector; and
 

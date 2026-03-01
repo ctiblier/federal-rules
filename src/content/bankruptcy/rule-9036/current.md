@@ -17,11 +17,11 @@ versions: ["2025"]
 
 **(b) Notices from and Service by the Court.**
 
-**(1) To Registered Users.** The clerk may send notice to or serve a registered user by filing the notice or document with the court’s electronic-filing system.
+**(1) To Registered Users.** The clerk may send notice to or serve a registered user by filing the notice or document with the court's electronic-filing system.
 
 **(2) To All Recipients.** For any recipient, the clerk may send notice or serve a document by electronic means that the recipient consented to in writing, including by designating an electronic address for receiving notices. But these exceptions apply:
 
-**(A)** if the recipient has registered an electronic address with the Administrative Office of the United States Courts’ bankruptcy-noticing program, the clerk must use that address; and
+**(A)** if the recipient has registered an electronic address with the Administrative Office of the United States Courts' bankruptcy-noticing program, the clerk must use that address; and
 
 **(B)** if an entity has been designated by the Director of the Administrative Office of the United States Courts as a high-volume paper-notice recipient, the clerk may send the notice to or serve the document electronically at an address designated by the Director, unless the entity has designated an address under § 342(e) or (f).
 

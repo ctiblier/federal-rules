@@ -1,6 +1,6 @@
 ---
 rule: "5.1"
-title: "Preliminary Hearing"
+title: "Constitutional Challenge to a Statute—Notice, Certification, and Intervention"
 title_number: "II"
 title_name: "Preliminary Proceedings"
 summary: ""
@@ -9,38 +9,24 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 27
+source_pdf_page: 30
 versions: ["2025"]
 ---
 
-**(a) In General.** If a defendant is charged with an offense other than a petty offense, a magistrate judge must conduct a preliminary hearing unless:
+**(a) Notice by a Party.** A party that files a pleading, written motion, or other paper drawing into question the constitutionality of a federal or state statute must promptly:
 
-**(1)** the defendant waives the hearing;
+**(1)** file a notice of constitutional question stating the question and identifying the paper that raises it, if:
 
-**(2)** the defendant is indicted;
+**(A)** a federal statute is questioned and the parties do not include the United States, one of its agencies, or one of its officers or employees in an official capacity; or
 
-**(3)** the government files an information under Rule 7(b) charging the defendant with a felony;
+**(B)** a state statute is questioned and the parties do not include the state, one of its agencies, or one of its officers or employees in an official capacity; and
 
-**(4)** the government files an information charging the defendant with a misdemeanor; or
+**(2)** serve the notice and paper on the Attorney General of the United States if a federal statute is questioned—or on the state attorney general if a state statute is questioned—either by certified or registered mail or by sending it to an electronic address designated by the attorney general for this purpose.
 
-**(5)** the defendant is charged with a misdemeanor and consents to trial before a magistrate judge.
+**(b) Certification by the Court.** The court must, under 28 U.S.C. § 2403, certify to the appropriate attorney general that a statute has been questioned.
 
-**(b) Selecting a District.** A defendant arrested in a district other than where the offense was allegedly committed may elect to have the preliminary hearing conducted in the district where the prosecution is pending.
+**(c) Intervention; Final Decision on the Merits.** Unless the court sets a later time, the attorney general may intervene within 60 days after the notice is filed or after the court certifies the challenge, whichever is earlier. Before the time to intervene expires, the court may reject the constitutional challenge, but may not enter a final judgment holding the statute unconstitutional.
 
-**(c) Scheduling.** The magistrate judge must hold the preliminary hearing within a reasonable time, but no later than 14 days after the initial appearance if the defendant is in custody and no later than 21 days if not in custody.
+**(d) No Forfeiture.** A party's failure to file and serve the notice, or the court's failure to certify, does not forfeit a constitutional claim or defense that is otherwise timely asserted.
 
-**(d) Extending the Time.** With the defendant’s consent and upon a showing of good cause—taking into account the public interest in the prompt disposition of criminal cases—a magistrate judge may extend the time limits in Rule 5.1(c) one or more times. If the defendant does not consent, the magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay.
-
-**(e) Hearing and Finding.** At the preliminary hearing, the defendant may cross-examine adverse witnesses and may introduce evidence but may not object to evidence on the ground that it was unlawfully acquired. If the magistrate judge finds probable cause to believe an offense has been committed and the defendant committed it, the magistrate judge must promptly require the defendant to appear for further proceedings.
-
-**(f) Discharging the Defendant.** If the magistrate judge finds no probable cause to believe an offense has been committed or the defendant committed it, the magistrate judge must dismiss the complaint and discharge the defendant. A discharge does not preclude the government from later prosecuting the defendant for the same offense.
-
-**(g) Recording the Proceedings.** The preliminary hearing must be recorded by a court reporter or by a suitable recording device. A recording of the proceeding may be made available to any party upon request. A copy of the recording and a transcript may be provided to any party upon request and upon any payment required by applicable Judicial Conference regulations.
-
-**(h) Producing a Statement.**
-
-**(1) In General.** Rule 26.2(a)–(d) and (f) applies at any hearing under this rule, unless the magistrate judge for good cause rules otherwise in a particular case.
-
-**(2) Sanctions for Not Producing a Statement.** If a party disobeys a Rule 26.2 order to deliver a statement to the moving party, the magistrate judge must not consider the testimony of a witness whose statement is withheld.
-
-<p class="amendment-history">(As added Apr. 24, 1972, eff. Oct. 1, 1972; amended Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+<p class="amendment-history">(As added Apr. 12, 2006, eff. Dec. 1, 2006; amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

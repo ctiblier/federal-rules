@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(ii)** A brief or appendix not filed electronically is timely filed, however, if on or before the last day for filing, it is: • mailed to the clerk by first-class mail, or other class of mail that is at least as expeditious, postage prepaid; or • dispatched to a third-party commercial carrier for delivery to the clerk within 3 days.
 
-**(iii)** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 25(a)(2)(A)(iii). A paper not filed electronically by an inmate is timely if it is deposited in the institution’s internal mail system on or before the last day for filing and: • it is accompanied by: a declaration in compliance with 28 U.S.C. § 1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or evidence (such as a postmark or date stamp) showing that the paper was so deposited and that postage was prepaid; or • the court of appeals exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 25(a)(2)(A)(iii).
+**(iii)** If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 25(a)(2)(A)(iii). A paper not filed electronically by an inmate is timely if it is deposited in the institution's internal mail system on or before the last day for filing and: • it is accompanied by: a declaration in compliance with 28 U.S.C. § 1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or evidence (such as a postmark or date stamp) showing that the paper was so deposited and that postage was prepaid; or • the court of appeals exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 25(a)(2)(A)(iii).
 
 **(B) Electronic Filing and Signing.**
 
@@ -33,17 +33,17 @@ versions: ["2025"]
 
 **(ii)** A person not represented by an attorney: • may file electronically only if allowed by court order or by local rule; and • may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
 
-**(iii)** A filing made through a person’s electronic-filing account and authorized by that person, together with that person’s name on a signature block, constitutes the person’s signature.
+**(iii)** A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
 
 **(iv)** A paper filed electronically is a written paper for purposes of these rules.
 
 **(3) Filing a Motion with a Judge.** If a motion requests relief that may be granted by a single judge, the judge may permit the motion to be filed with the judge; the judge must note the filing date on the motion and give it to the clerk.
 
-**(4) Clerk’s Refusal of Documents.** The clerk must not refuse to accept for filing any paper presented for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
+**(4) Clerk's Refusal of Documents.** The clerk must not refuse to accept for filing any paper presented for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
 
 **(5) Privacy Protection.** An appeal in a case whose privacy protection was governed by Federal Rule of Bankruptcy Procedure 9037, Federal Rule of Civil Procedure 5.2, or Federal Rule of Criminal Procedure 49.1 is governed by the same rule on appeal. In all other proceedings, privacy protection is governed by Federal Rule of Civil Procedure 5.2, except that Federal Rule of Criminal Procedure 49.1 governs when an extraordinary writ is sought in a criminal case. The provisions on remote electronic access in Federal Rule of Civil Procedure 5.2(c)(1) and (2) apply in a petition for review of a benefits decision of the Railroad Retirement Board under the Railroad Retirement Act.
 
-**(b) Service of All Papers Required.** Unless a rule requires service by the clerk, a party must, at or before the time of filing a paper, serve a copy on the other parties to the appeal or review. Service on a party represented by counsel must be made on the party’s counsel.
+**(b) Service of All Papers Required.** Unless a rule requires service by the clerk, a party must, at or before the time of filing a paper, serve a copy on the other parties to the appeal or review. Service on a party represented by counsel must be made on the party's counsel.
 
 **(c) Manner of Service.**
 
@@ -55,7 +55,7 @@ versions: ["2025"]
 
 **(C)** by third-party commercial carrier for delivery within 3 days.
 
-**(2)** Electronic service of a paper may be made (A) by sending it to a registered user by filing it with the court’s electronicfiling system or (B) by sending it by other electronic means that the person to be served consented to in writing.
+**(2)** Electronic service of a paper may be made (A) by sending it to a registered user by filing it with the court's electronicfiling system or (B) by sending it by other electronic means that the person to be served consented to in writing.
 
 **(3)** When reasonable considering such factors as the immediacy of the relief sought, distance, and cost, service on a party must be by a manner at least as expeditious as the manner used to file the paper with the court.
 
@@ -63,7 +63,7 @@ versions: ["2025"]
 
 **(d) Proof of Service.**
 
-**(1)** A paper presented for filing must contain either of the following if it was served other than through the court’s electronic-filing system:
+**(1)** A paper presented for filing must contain either of the following if it was served other than through the court's electronic-filing system:
 
 **(A)** an acknowledgment of service by the person served; or
 

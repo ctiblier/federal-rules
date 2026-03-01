@@ -1,6 +1,6 @@
 ---
 rule: "3"
-title: "The Complaint"
+title: "Commencing an Action"
 title_number: "II"
 title_name: "Preliminary Proceedings"
 summary: ""
@@ -9,10 +9,10 @@ related_rules: []
 last_amended: "December 1, 2024"
 has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
-source_pdf_page: 21
+source_pdf_page: 20
 versions: ["2025"]
 ---
 
-The complaint is a written statement of the essential facts constituting the offense charged. Except as provided in Rule 4.1, it must be made under oath before a magistrate judge or, if none is reasonably available, before a state or local judicial officer.
+A civil action is commenced by filing a complaint with the court.
 
-<p class="amendment-history">(As amended Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
+<p class="amendment-history">(As amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

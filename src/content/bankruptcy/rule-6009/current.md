@@ -15,6 +15,6 @@ versions: ["2025"]
 
 **(a)** With or without court approval, the trustee or debtor in possession may: prosecute—or appear in and defend—any pending action or proceeding by or against the debtor; or
 
-**(b)** commence and prosecute in any tribunal an action or proceeding on the estate’s behalf.
+**(b)** commence and prosecute in any tribunal an action or proceeding on the estate's behalf.
 
 <p class="amendment-history">(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

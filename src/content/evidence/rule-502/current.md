@@ -13,7 +13,7 @@ source_pdf_page: 25
 versions: ["2025"]
 ---
 
-**(a) The following provisions apply, in the circumstances set out, to disclosure of a communication or information covered by the attorney-client privilege or work-product protection.** Disclosure Made in a Federal Proceeding or to a Federal Office or Agency; Scope of a Waiver. When the disclosure is made in a federal proceeding or to a federal office or agency and waives the attorney-client privilege or work-product protection, the waiver extends to an undisclosed communication or information in a federal or state proceeding only if:
+**(a)** The following provisions apply, in the circumstances set out, to disclosure of a communication or information covered by the attorney-client privilege or work-product protection. Disclosure Made in a Federal Proceeding or to a Federal Office or Agency; Scope of a Waiver. When the disclosure is made in a federal proceeding or to a federal office or agency and waives the attorney-client privilege or work-product protection, the waiver extends to an undisclosed communication or information in a federal or state proceeding only if:
 
 **(1)** the waiver is intentional;
 
@@ -43,8 +43,8 @@ versions: ["2025"]
 
 **(g) Definitions.** In this rule:
 
-**(1)** ‘‘attorney-client privilege’’ means the protection that applicable law provides for confidential attorney-client communications; and
+**(1)** ''attorney-client privilege'' means the protection that applicable law provides for confidential attorney-client communications; and
 
-**(2)** ‘‘work-product protection’’ means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.
+**(2)** ''work-product protection'' means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.
 
 <p class="amendment-history">(As added Pub. L. 110–322, § 1(a), Sept. 19, 2008, 122 Stat. 3537; amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

@@ -13,7 +13,7 @@ source_pdf_page: 71
 versions: ["2025"]
 ---
 
-**(a) In a Chapter 7 case, dividends to creditors on claims that have been allowed must be paid as soon as practicable.** A dividend check must be made payable to and mailed to the creditor. But if a power of attorney authorizing another entity to receive payment has been filed under Rule 9010, the check must be: made payable to both the creditor and the other entity; and
+**(a)** In a Chapter 7 case, dividends to creditors on claims that have been allowed must be paid as soon as practicable. A dividend check must be made payable to and mailed to the creditor. But if a power of attorney authorizing another entity to receive payment has been filed under Rule 9010, the check must be: made payable to both the creditor and the other entity; and
 
 **(b)** mailed to the other entity.
 

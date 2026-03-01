@@ -13,11 +13,11 @@ source_pdf_page: 33
 versions: ["2025"]
 ---
 
-**(1) The following are not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness: Present Sense Impression.** A statement describing or explaining an event or condition, made while or immediately after the declarant perceived it.
+**(1)** The following are not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness: Present Sense Impression. A statement describing or explaining an event or condition, made while or immediately after the declarant perceived it.
 
 **(2) Excited Utterance.** A statement relating to a startling event or condition, made while the declarant was under the stress of excitement that it caused.
 
-**(3) Then-Existing Mental, Emotional, or Physical Condition.** A statement of the declarant’s then-existing state of mind (such as motive, intent, or plan) or emotional, sensory, or physical condition (such as mental feeling, pain, or bodily health), but not including a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant’s will.
+**(3) Then-Existing Mental, Emotional, or Physical Condition.** A statement of the declarant's then-existing state of mind (such as motive, intent, or plan) or emotional, sensory, or physical condition (such as mental feeling, pain, or bodily health), but not including a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant's will.
 
 **(4) Statement Made for Medical Diagnosis or Treatment.** A statement that:
 
@@ -29,9 +29,9 @@ versions: ["2025"]
 
 **(A)** is on a matter the witness once knew about but now cannot recall well enough to testify fully and accurately;
 
-**(B)** was made or adopted by the witness when the matter was fresh in the witness’s memory; and
+**(B)** was made or adopted by the witness when the matter was fresh in the witness's memory; and
 
-**(C)** accurately reflects the witness’s knowledge. If admitted, the record may be read into evidence but may be received as an exhibit only if offered by an adverse party.
+**(C)** accurately reflects the witness's knowledge. If admitted, the record may be read into evidence but may be received as an exhibit only if offered by an adverse party.
 
 **(6) Records of a Regularly Conducted Activity.** A record of an act, event, condition, opinion, or diagnosis if:
 
@@ -57,7 +57,7 @@ versions: ["2025"]
 
 **(A)** it sets out:
 
-**(i)** the office’s activities;
+**(i)** the office's activities;
 
 **(ii)** a matter observed while under a legal duty to report, but not including, in a criminal case, a matter observed by law-enforcement personnel; or
 
@@ -97,7 +97,7 @@ versions: ["2025"]
 
 **(C)** a statute authorizes recording documents of that kind in that office.
 
-**(15) Statements in Documents That Affect an Interest in Property.** A statement contained in a document that purports to establish or affect an interest in property if the matter stated was relevant to the document’s purpose—unless later dealings with the property are inconsistent with the truth of the statement or the purport of the document.
+**(15) Statements in Documents That Affect an Interest in Property.** A statement contained in a document that purports to establish or affect an interest in property if the matter stated was relevant to the document's purpose—unless later dealings with the property are inconsistent with the truth of the statement or the purport of the document.
 
 **(16) Statements in Ancient Documents.** A statement in a document that was prepared before January 1, 1998, and whose authenticity is established.
 
@@ -107,13 +107,13 @@ versions: ["2025"]
 
 **(A)** the statement is called to the attention of an expert witness on cross-examination or relied on by the expert on direct examination; and
 
-**(B)** the publication is established as a reliable authority by the expert’s admission or testimony, by another expert’s testimony, or by judicial notice. If admitted, the statement may be read into evidence but not received as an exhibit.
+**(B)** the publication is established as a reliable authority by the expert's admission or testimony, by another expert's testimony, or by judicial notice. If admitted, the statement may be read into evidence but not received as an exhibit.
 
-**(19) Reputation Concerning Personal or Family History.** A reputation among a person’s family by blood, adoption, or marriage—or among a person’s associates or in the community— concerning the person’s birth, adoption, legitimacy, ancestry, marriage, divorce, death, relationship by blood, adoption, or marriage, or similar facts of personal or family history.
+**(19) Reputation Concerning Personal or Family History.** A reputation among a person's family by blood, adoption, or marriage—or among a person's associates or in the community— concerning the person's birth, adoption, legitimacy, ancestry, marriage, divorce, death, relationship by blood, adoption, or marriage, or similar facts of personal or family history.
 
 **(20) Reputation Concerning Boundaries or General History.** A reputation in a community—arising before the controversy— concerning boundaries of land in the community or customs that affect the land, or concerning general historical events important to that community, state, or nation.
 
-**(21) Reputation Concerning Character.** A reputation among a person’s associates or in the community concerning the person’s character.
+**(21) Reputation Concerning Character.** A reputation among a person's associates or in the community concerning the person's character.
 
 **(22) Judgment of a Previous Conviction.** Evidence of a final judgment of conviction if:
 

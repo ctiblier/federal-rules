@@ -13,7 +13,7 @@ source_pdf_page: 22
 versions: ["2025"]
 ---
 
-**(a) Caption and Title; Required Information.** A petition’s caption must contain the name of the court, the title of the case, and the case number (if known). The title must include the following information about the debtor:
+**(a) Caption and Title; Required Information.** A petition's caption must contain the name of the court, the title of the case, and the case number (if known). The title must include the following information about the debtor:
 
 **(1)** name;
 

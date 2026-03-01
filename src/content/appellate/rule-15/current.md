@@ -15,11 +15,11 @@ versions: ["2025"]
 
 **(a) Petition for Review; Joint Petition.**
 
-**(1) Review of an agency order is commenced by filing, within the time prescribed by law, a petition for review with the clerk of a court of appeals authorized to review the agency order.** If their interests make joinder practicable, two or more persons may join in a petition to the same court to review the same order.
+**(1)** Review of an agency order is commenced by filing, within the time prescribed by law, a petition for review with the clerk of a court of appeals authorized to review the agency order. If their interests make joinder practicable, two or more persons may join in a petition to the same court to review the same order.
 
 **(2) The petition must:**
 
-**(A)** name each party seeking review either in the caption or the body of the petition—using such terms as ‘‘et al.,’’ ‘‘petitioners,’’ or ‘‘respondents’’ does not effectively name the parties;
+**(A)** name each party seeking review either in the caption or the body of the petition—using such terms as ''et al.,'' ''petitioners,'' or ''respondents'' does not effectively name the parties;
 
 **(B)** name the agency as a respondent (even though not named in the petition, the United States is a respondent if required by statute); and
 
@@ -27,13 +27,13 @@ versions: ["2025"]
 
 **(3) Form 3 in the Appendix of Forms is a suggested form of a petition for review.**
 
-**(4)** In this rule ‘‘agency’’ includes an agency, board, commission, or officer; ‘‘petition for review’’ includes a petition to enjoin, suspend, modify, or otherwise review, or a notice of appeal, whichever form is indicated by the applicable statute.
+**(4)** In this rule ''agency'' includes an agency, board, commission, or officer; ''petition for review'' includes a petition to enjoin, suspend, modify, or otherwise review, or a notice of appeal, whichever form is indicated by the applicable statute.
 
 **(b) Application or Cross-Application to Enforce an Order; Answer; Default.**
 
-**(1) An application to enforce an agency order must be filed with the clerk of a court of appeals authorized to enforce the order.** If a petition is filed to review an agency order that the court may enforce, a party opposing the petition may file a cross-application for enforcement.
+**(1)** An application to enforce an agency order must be filed with the clerk of a court of appeals authorized to enforce the order. If a petition is filed to review an agency order that the court may enforce, a party opposing the petition may file a cross-application for enforcement.
 
-**(2) Within 21 days after the application for enforcement is filed, the respondent must serve on the applicant an answer to the application and file it with the clerk.** If the respondent fails to answer in time, the court will enter judgment for the relief requested.
+**(2)** Within 21 days after the application for enforcement is filed, the respondent must serve on the applicant an answer to the application and file it with the clerk. If the respondent fails to answer in time, the court will enter judgment for the relief requested.
 
 **(3)** The application must contain a concise statement of the proceedings in which the order was entered, the facts upon which venue is based, and the relief requested.
 

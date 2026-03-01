@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(B)** a person appointed by the court where the action is pending to administer oaths and take testimony.
 
-**(2)** Definition of ‘‘Officer.’’ The term ‘‘officer’’ in Rules 30, 31, and 32 includes a person appointed by the court under this rule or designated by the parties under Rule 29(a).
+**(2)** Definition of ''Officer.''The term ''officer'' in Rules 30, 31, and 32 includes a person appointed by the court under this rule or designated by the parties under Rule 29(a).
 
 **(b) In a Foreign Country.**
 
@@ -29,7 +29,7 @@ versions: ["2025"]
 
 **(A)** under an applicable treaty or convention;
 
-**(B)** under a letter of request, whether or not captioned a ‘‘letter rogatory’’;
+**(B)** under a letter of request, whether or not captioned a ''letter rogatory'';
 
 **(C)** on notice, before a person authorized to administer oaths either by federal law or by the law in the place of examination; or
 
@@ -41,10 +41,10 @@ versions: ["2025"]
 
 **(B)** without a showing that taking the deposition in another manner is impracticable or inconvenient.
 
-**(3) Form of a Request, Notice, or Commission.** When a letter of request or any other device is used according to a treaty or convention, it must be captioned in the form prescribed by that treaty or convention. A letter of request may be addressed ‘‘To the Appropriate Authority in [name of country].’’ A deposition notice or a commission must designate by name or descriptive title the person before whom the deposition is to be taken.
+**(3) Form of a Request, Notice, or Commission.** When a letter of request or any other device is used according to a treaty or convention, it must be captioned in the form prescribed by that treaty or convention. A letter of request may be addressed ''To the Appropriate Authority in [name of country].'' A deposition notice or a commission must designate by name or descriptive title the person before whom the deposition is to be taken.
 
 **(4) Letter of Request—Admitting Evidence.** Evidence obtained in response to a letter of request need not be excluded merely because it is not a verbatim transcript, because the testimony was not taken under oath, or because of any similar departure from the requirements for depositions taken within the United States.
 
-**(c) Disqualification.** A deposition must not be taken before a person who is any party’s relative, employee, or attorney; who is related to or employed by any party’s attorney; or who is financially interested in the action.
+**(c) Disqualification.** A deposition must not be taken before a person who is any party's relative, employee, or attorney; who is related to or employed by any party's attorney; or who is financially interested in the action.
 
 <p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 1, 2007, eff. Dec. 1, 2007.)</p>

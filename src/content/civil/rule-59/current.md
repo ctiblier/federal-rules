@@ -27,7 +27,7 @@ versions: ["2025"]
 
 **(c) Time to Serve Affidavits.** When a motion for a new trial is based on affidavits, they must be filed with the motion. The opposing party has 14 days after being served to file opposing affidavits. The court may permit reply affidavits.
 
-**(d) New Trial on the Court ’ s Initiative or for Reasons Not in the Motion.** No later than 28 days after the entry of judgment, the court, on its own, may order a new trial for any reason that would justify granting one on a party’s motion. After giving the parties notice and an opportunity to be heard, the court may grant a timely motion for a new trial for a reason not stated in the motion. In either event, the court must specify the reasons in its order.
+**(d) New Trial on the Court's Initiative or for Reasons Not in the Motion.** No later than 28 days after the entry of judgment, the court, on its own, may order a new trial for any reason that would justify granting one on a party's motion. After giving the parties notice and an opportunity to be heard, the court may grant a timely motion for a new trial for a reason not stated in the motion. In either event, the court must specify the reasons in its order.
 
 **(e) Motion to Alter or Amend a Judgment.** A motion to alter or amend a judgment must be filed no later than 28 days after the entry of the judgment.
 

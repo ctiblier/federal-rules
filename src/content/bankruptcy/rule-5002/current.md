@@ -25,6 +25,6 @@ versions: ["2025"]
 
 **(B)** a member, associate, or professional employee of such an entity.
 
-**(b) Other Considerations in Approving Appointments or Em - ployment .** A bankruptcy judge must not approve appointing a person as a trustee or examiner—or employing an attorney, accountant, appraiser, auctioneer, or other professional person—if the person is, or has been, so connected with the judge or the United States trustee as to make the appointment or employment improper.
+**(b) Other Considerations in Approving Appointments or Employment.** A bankruptcy judge must not approve appointing a person as a trustee or examiner—or employing an attorney, accountant, appraiser, auctioneer, or other professional person—if the person is, or has been, so connected with the judge or the United States trustee as to make the appointment or employment improper.
 
 <p class="amendment-history">(As amended Apr. 29, 1985, eff. Aug. 1, 1985; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

@@ -1,80 +1,98 @@
 ---
 rule: "12"
-title: "Pleadings and Pretrial Motions"
+title: "Defenses and Objections: When and How Presented; Motion for Judgment on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing"
 title_number: "IV"
 title_name: "Arraignment and Preparation for Trial"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: false
+has_deadlines: true
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
 source_pdf_page: 38
 versions: ["2025"]
 ---
 
-**(a) Pleadings.** The pleadings in a criminal proceeding are the indictment, the information, and the pleas of not guilty, guilty, and nolo contendere.
+**(a) Time to Serve a Responsive Pleading.** Unless another time is specified by a federal statute, the time for serving a responsive pleading is as follows:
 
-**(b) Pretrial Motions.**
+**(1) In General.**
 
-**(1) In General.** A party may raise by pretrial motion any defense, objection, or request that the court can determine without a trial on the merits. Rule 47 applies to a pretrial motion.
+**(A) A defendant must serve an answer:**
 
-**(2) Motions That May Be Made at Any Time.** A motion that the court lacks jurisdiction may be made at any time while the case is pending.
+**(i)** within 21 days after being served with the summons and complaint; or
 
-**(3) Motions That Must Be Made Before Trial.** The following defenses, objections, and requests must be raised by pretrial motion if the basis for the motion is then reasonably available and the motion can be determined without a trial on the merits:
+**(ii)** if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
 
-**(A)** a defect in instituting the prosecution, including:
+**(B)** A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
 
-**(i)** improper venue;
+**(C)** A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
 
-**(ii)** preindictment delay;
+**(2) United States and Its Agencies, Officers, or Employees Sued in an Official Capacity.** The United States, a United States agency, or a United States officer or employee sued only in an official capacity must serve an answer to a complaint, counterclaim, or crossclaim within 60 days after service on the United States attorney.
 
-**(iii)** a violation of the constitutional right to a speedy trial;
+**(3) United States Officers or Employees Sued in an Individual Capacity.** A United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf must serve an answer to a complaint, counterclaim, or crossclaim within 60 days after service on the officer or employee or service on the United States attorney, whichever is later.
 
-**(iv)** selective or vindictive prosecution; and
+**(4) Effect of a Motion.** Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
 
-**(v)** an error in the grand-jury proceeding or preliminary hearing;
+**(A)** if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
 
-**(B)** a defect in the indictment or information, including:
+**(B)** if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
 
-**(i)** joining two or more offenses in the same count (duplicity);
+**(b) How to Present Defenses.** Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
 
-**(ii)** charging the same offense in more than one count (multiplicity);
+**(1)** lack of subject-matter jurisdiction;
 
-**(iii)** lack of specificity;
+**(2)** lack of personal jurisdiction;
 
-**(iv)** improper joinder; and
+**(3)** improper venue;
 
-**(v)** failure to state an offense;
+**(4)** insufficient process;
 
-**(C)** suppression of evidence;
+**(5)** insufficient service of process;
 
-**(D)** severance of charges or defendants under Rule 14; and
+**(6)** failure to state a claim upon which relief can be granted; and
 
-**(E)** discovery under Rule 16.
+**(7)** failure to join a party under Rule 19. A motion asserting any of these defenses must be made before pleading if a responsive pleading is allowed. If a pleading sets out a claim for relief that does not require a responsive pleading, an opposing party may assert at trial any defense to that claim. No defense or objection is waived by joining it with one or more other defenses or objections in a responsive pleading or in a motion.
 
-**(4) Notice of the Government’s Intent to Use Evidence.**
+**(c) Motion for Judgment on the Pleadings.** After the pleadings are closed—but early enough not to delay trial—a party may move for judgment on the pleadings.
 
-**(A) At the Government’s Discretion.** At the arraignment or as soon afterward as practicable, the government may notify the defendant of its intent to use specified evidence at trial in order to afford the defendant an opportunity to object before trial under Rule 12(b)(3)(C).
+**(d) Result of Presenting Matters Outside the Pleadings.** If, on a motion under Rule 12(b)(6) or 12(c), matters outside the pleadings are presented to and not excluded by the court, the motion must be treated as one for summary judgment under Rule 56. All parties must be given a reasonable opportunity to present all the material that is pertinent to the motion.
 
-**(B) At the Defendant’s Request.** At the arraignment or as soon afterward as practicable, the defendant may, in order to have an opportunity to move to suppress evidence under Rule 12(b)(3)(C), request notice of the government’s intent to use (in its evidence-in-chief at trial) any evidence that the defendant may be entitled to discover under Rule 16.
+**(e) Motion for a More Definite Statement.** A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
 
-**(c) Deadline for a Pretrial Motion; Consequences of Not Making a Timely Motion.**
+**(f) Motion to Strike.** The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
 
-**(1) Setting the Deadline.** The court may, at the arraignment or as soon afterward as practicable, set a deadline for the parties to make pretrial motions and may also schedule a motion hearing. If the court does not set one, the deadline is the start of trial.
+**(1)** on its own; or
 
-**(2) Extending or Resetting the Deadline.** At any time before trial, the court may extend or reset the deadline for pretrial motions.
+**(2)** on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
 
-**(3) Consequences of Not Making a Timely Motion Under Rule 12(b)(3).** If a party does not meet the deadline for making a Rule 12(b)(3) motion, the motion is untimely. But a court may consider the defense, objection, or request if the party shows good cause.
+**(g) Joining Motions.**
 
-**(d) Ruling on a Motion.** The court must decide every pretrial motion before trial unless it finds good cause to defer a ruling. The court must not defer ruling on a pretrial motion if the deferral will adversely affect a party’s right to appeal. When factual issues are involved in deciding a motion, the court must state its essential findings on the record.
+**(1) Right to Join.** A motion under this rule may be joined with any other motion allowed by this rule.
 
-**(e) [Reserved]**
+**(2) Limitation on Further Motions.** Except as provided in Rule 12(h)(2) or (3), a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
 
-**(f) Recording the Proceedings.** All proceedings at a motion hearing, including any findings of fact and conclusions of law made orally by the court, must be recorded by a court reporter or a suitable recording device.
+**(h) Waiving and Preserving Certain Defenses.**
 
-**(g) Defendant’s Continued Custody or Release Status.** If the court grants a motion to dismiss based on a defect in instituting the prosecution, in the indictment, or in the information, it may order the defendant to be released or detained under 18 U.S.C. § 3142 for a specified time until a new indictment or information is filed. This rule does not affect any federal statutory period of limitations.
+**(1) When Some Are Waived.** A party waives any defense listed in Rule 12(b)(2)–(5) by:
 
-**(h) Producing Statements at a Suppression Hearing.** Rule 26.2 applies at a suppression hearing under Rule 12(b)(3)(C). At a suppression hearing, a law enforcement officer is considered a government witness.
+**(A)** omitting it from a motion in the circumstances described in Rule 12(g)(2); or
 
-<p class="amendment-history">(As amended Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, § 3(11), (12), July 31, 1975, 89 Stat. 372, eff. Dec. 1, 1975; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2014, eff. Dec. 1, 2014.)</p>
+**(B)** failing to either:
+
+**(i)** make it by motion under this rule; or
+
+**(ii)** include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
+
+**(2) When to Raise Others.** Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
+
+**(A)** in any pleading allowed or ordered under Rule 7(a);
+
+**(B)** by a motion under Rule 12(c); or
+
+**(C)** at trial.
+
+**(3) Lack of Subject-Matter Jurisdiction.** If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
+
+**(i) Hearing Before Trial.** If a party so moves, any defense listed in Rule 12(b)(1)–(7)—whether made in a pleading or by motion— and a motion under Rule 12(c) must be heard and decided before trial unless the court orders a deferral until trial.
+
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

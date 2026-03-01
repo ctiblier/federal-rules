@@ -35,7 +35,7 @@ versions: ["2025"]
 
 **(3)** the court finds that the questions of law or fact common to class members predominate over any questions affecting only individual members, and that a class action is superior to other available methods for fairly and efficiently adjudicating the controversy. The matters pertinent to these findings include:
 
-**(A)** the class members’ interests in individually controlling the prosecution or defense of separate actions;
+**(A)** the class members' interests in individually controlling the prosecution or defense of separate actions;
 
 **(B)** the extent and nature of any litigation concerning the controversy already begun by or against class members;
 
@@ -95,7 +95,7 @@ versions: ["2025"]
 
 **(ii)** the proposed extent of the judgment; or
 
-**(iii)** the members’ opportunity to signify whether they consider the representation fair and adequate, to intervene and present claims or defenses, or to otherwise come into the action;
+**(iii)** the members' opportunity to signify whether they consider the representation fair and adequate, to intervene and present claims or defenses, or to otherwise come into the action;
 
 **(C)** impose conditions on the representative parties or on intervenors;
 
@@ -105,13 +105,13 @@ versions: ["2025"]
 
 **(2) Combining and Amending Orders.** An order under Rule 23(d)(1) may be altered or amended from time to time and may be combined with an order under Rule 16.
 
-**(e) Settlement, Voluntary Dismissal, or Compromise.** The claims, issues, or defenses of a certified class—or a class proposed to be certified for purposes of settlement—may be settled, voluntarily dismissed, or compromised only with the court’s approval. The following procedures apply to a proposed settlement, voluntary dismissal, or compromise:
+**(e) Settlement, Voluntary Dismissal, or Compromise.** The claims, issues, or defenses of a certified class—or a class proposed to be certified for purposes of settlement—may be settled, voluntarily dismissed, or compromised only with the court's approval. The following procedures apply to a proposed settlement, voluntary dismissal, or compromise:
 
 **(1) Notice to the Class.**
 
 **(A) Information That Parties Must Provide to the Court.** The parties must provide the court with information sufficient to enable it to determine whether to give notice of the proposal to the class.
 
-**(B) Grounds for a Decision to Give Notice.** The court must direct notice in a reasonable manner to all class members who would be bound by the proposal if giving notice is justified by the parties’ showing that the court will likely be able to:
+**(B) Grounds for a Decision to Give Notice.** The court must direct notice in a reasonable manner to all class members who would be bound by the proposal if giving notice is justified by the parties' showing that the court will likely be able to:
 
 **(i)** approve the proposal under Rule 23(e)(2); and
 
@@ -121,7 +121,7 @@ versions: ["2025"]
 
 **(A)** the class representatives and class counsel have adequately represented the class;
 
-**(B)** the proposal was negotiated at arm’s length;
+**(B)** the proposal was negotiated at arm's length;
 
 **(C)** the relief provided for the class is adequate, taking into account:
 
@@ -129,7 +129,7 @@ versions: ["2025"]
 
 **(ii)** the effectiveness of any proposed method of distributing relief to the class, including the method of processing class-member claims;
 
-**(iii)** the terms of any proposed award of attorney’s fees, including timing of payment; and
+**(iii)** the terms of any proposed award of attorney's fees, including timing of payment; and
 
 **(iv)** any agreement required to be identified under Rule 23(e)(3); and
 
@@ -151,7 +151,7 @@ versions: ["2025"]
 
 **(C) Procedure for Approval After an Appeal.** If approval under Rule 23(e)(5)(B) has not been obtained before an appeal is docketed in the court of appeals, the procedure of Rule 62.1 applies while the appeal remains pending.
 
-**(f) Appeals.** A court of appeals may permit an appeal from an order granting or denying class-action certification under this rule, but not from an order under Rule 23(e)(1). A party must file a petition for permission to appeal with the circuit clerk within 14 days after the order is entered, or within 45 days after the order is entered if any party is the United States, a United States agency, or a United States officer or employee sued for an act or omission occurring in connection with duties performed on the United States’ behalf. An appeal does not stay proceedings in the district court unless the district judge or the court of appeals so orders.
+**(f) Appeals.** A court of appeals may permit an appeal from an order granting or denying class-action certification under this rule, but not from an order under Rule 23(e)(1). A party must file a petition for permission to appeal with the circuit clerk within 14 days after the order is entered, or within 45 days after the order is entered if any party is the United States, a United States agency, or a United States officer or employee sued for an act or omission occurring in connection with duties performed on the United States' behalf. An appeal does not stay proceedings in the district court unless the district judge or the court of appeals so orders.
 
 **(g) Class Counsel.**
 
@@ -161,17 +161,17 @@ versions: ["2025"]
 
 **(i)** the work counsel has done in identifying or investigating potential claims in the action;
 
-**(ii)** counsel’s experience in handling class actions, other complex litigation, and the types of claims asserted in the action;
+**(ii)** counsel's experience in handling class actions, other complex litigation, and the types of claims asserted in the action;
 
-**(iii)** counsel’s knowledge of the applicable law; and
+**(iii)** counsel's knowledge of the applicable law; and
 
 **(iv)** the resources that counsel will commit to representing the class;
 
-**(B)** may consider any other matter pertinent to counsel’s ability to fairly and adequately represent the interests of the class;
+**(B)** may consider any other matter pertinent to counsel's ability to fairly and adequately represent the interests of the class;
 
-**(C)** may order potential class counsel to provide information on any subject pertinent to the appointment and to propose terms for attorney’s fees and nontaxable costs;
+**(C)** may order potential class counsel to provide information on any subject pertinent to the appointment and to propose terms for attorney's fees and nontaxable costs;
 
-**(D)** may include in the appointing order provisions about the award of attorney’s fees or nontaxable costs under Rule 23(h); and
+**(D)** may include in the appointing order provisions about the award of attorney's fees or nontaxable costs under Rule 23(h); and
 
 **(E)** may make further orders in connection with the appointment.
 
@@ -181,9 +181,9 @@ versions: ["2025"]
 
 **(4) Duty of Class Counsel.** Class counsel must fairly and adequately represent the interests of the class.
 
-**(h) Attorney ’ s Fees and Nontaxable Costs.** In a certified class action, the court may award reasonable attorney’s fees and nontaxable costs that are authorized by law or by the parties’ agreement. The following procedures apply:
+**(h) Attorney's Fees and Nontaxable Costs.** In a certified class action, the court may award reasonable attorney's fees and nontaxable costs that are authorized by law or by the parties' agreement. The following procedures apply:
 
-**(1) A claim for an award must be made by motion under Rule 54(d)(2), subject to the provisions of this subdivision (h), at a time the court sets.** Notice of the motion must be served on all parties and, for motions by class counsel, directed to class members in a reasonable manner.
+**(1)** A claim for an award must be made by motion under Rule 54(d)(2), subject to the provisions of this subdivision (h), at a time the court sets. Notice of the motion must be served on all parties and, for motions by class counsel, directed to class members in a reasonable manner.
 
 **(2) A class member, or a party from whom payment is sought, may object to the motion.**
 

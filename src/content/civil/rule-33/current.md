@@ -37,7 +37,7 @@ versions: ["2025"]
 
 **(c) Use.** An answer to an interrogatory may be used to the extent allowed by the Federal Rules of Evidence.
 
-**(d) Option to Produce Business Records.** If the answer to an interrogatory may be determined by examining, auditing, compiling, abstracting, or summarizing a party’s business records (including electronically stored information), and if the burden of deriving or ascertaining the answer will be substantially the same for either party, the responding party may answer by:
+**(d) Option to Produce Business Records.** If the answer to an interrogatory may be determined by examining, auditing, compiling, abstracting, or summarizing a party's business records (including electronically stored information), and if the burden of deriving or ascertaining the answer will be substantially the same for either party, the responding party may answer by:
 
 **(1)** specifying the records that must be reviewed, in sufficient detail to enable the interrogating party to locate and identify them as readily as the responding party could; and
 

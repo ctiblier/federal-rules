@@ -13,6 +13,6 @@ source_pdf_page: 35
 versions: ["2025"]
 ---
 
-When the court files an opinion directing entry of judgment enforcing the agency’s order in part, the agency must within 14 days file with the clerk and serve on each other party a proposed judgment conforming to the opinion. A party who disagrees with the agency’s proposed judgment must within 10 days file with the clerk and serve the agency with a proposed judgment that the party believes conforms to the opinion. The court will settle the judgment and direct entry without further hearing or argument.
+When the court files an opinion directing entry of judgment enforcing the agency's order in part, the agency must within 14 days file with the clerk and serve on each other party a proposed judgment conforming to the opinion. A party who disagrees with the agency's proposed judgment must within 10 days file with the clerk and serve the agency with a proposed judgment that the party believes conforms to the opinion. The court will settle the judgment and direct entry without further hearing or argument.
 
 <p class="amendment-history">(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>

@@ -29,11 +29,11 @@ versions: ["2025"]
 
 **(2) United States and Its Agencies, Officers, or Employees Sued in an Official Capacity.** The United States, a United States agency, or a United States officer or employee sued only in an official capacity must serve an answer to a complaint, counterclaim, or crossclaim within 60 days after service on the United States attorney.
 
-**(3) United States Officers or Employees Sued in an Individual Capacity.** A United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States’ behalf must serve an answer to a complaint, counterclaim, or crossclaim within 60 days after service on the officer or employee or service on the United States attorney, whichever is later.
+**(3) United States Officers or Employees Sued in an Individual Capacity.** A United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf must serve an answer to a complaint, counterclaim, or crossclaim within 60 days after service on the officer or employee or service on the United States attorney, whichever is later.
 
 **(4) Effect of a Motion.** Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
 
-**(A)** if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court’s action; or
+**(A)** if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
 
 **(B)** if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
 

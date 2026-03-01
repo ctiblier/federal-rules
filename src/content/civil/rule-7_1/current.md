@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(A)** when the action is filed in or removed to federal court, and
 
-**(B)** when any later event occurs that could affect the court’s jurisdiction under § 1332(a).
+**(B)** when any later event occurs that could affect the court's jurisdiction under § 1332(a).
 
 **(b) Time to File; Supplemental Filing.** A party, intervenor, or proposed intervenor must:
 

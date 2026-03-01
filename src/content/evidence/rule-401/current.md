@@ -13,6 +13,8 @@ source_pdf_page: 19
 versions: ["2025"]
 ---
 
-Evidence is relevant if: (a) it has any tendency to make a fact more or less probable than it would be without the evidence; and (b) the fact is of consequence in determining the action.
+**(a)** Evidence is relevant if: it has any tendency to make a fact more or less probable than it would be without the evidence; and
+
+**(b)** the fact is of consequence in determining the action.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

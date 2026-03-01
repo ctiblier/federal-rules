@@ -1,40 +1,44 @@
 ---
 rule: "7"
-title: "The Indictment and the Information"
+title: "Pleadings Allowed; Form of Motions and Other Papers"
 title_number: "III"
 title_name: "The Grand Jury, the Indictment, and the Information"
 summary: ""
 keywords: []
 related_rules: []
 last_amended: "December 1, 2024"
-has_deadlines: true
+has_deadlines: false
 source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
 source_pdf_page: 33
 versions: ["2025"]
 ---
 
-**(a) When Used.**
+**(a) Pleadings.** Only these pleadings are allowed:
 
-**(1) Felony.** An offense (other than criminal contempt) must be prosecuted by an indictment if it is punishable:
+**(1)** a complaint;
 
-**(A)** by death; or
+**(2)** an answer to a complaint;
 
-**(B)** by imprisonment for more than one year.
+**(3)** an answer to a counterclaim designated as a counterclaim;
 
-**(2) Misdemeanor.** An offense punishable by imprisonment for one year or less may be prosecuted in accordance with Rule 58(b)(1).
+**(4)** an answer to a crossclaim;
 
-**(b) Waiving Indictment.** An offense punishable by imprisonment for more than one year may be prosecuted by information if the defendant—in open court and after being advised of the nature of the charge and of the defendant’s rights—waives prosecution by indictment.
+**(5)** a third-party complaint;
 
-**(c) Nature and Contents.**
+**(6)** an answer to a third-party complaint; and
 
-**(1) In General.** The indictment or information must be a plain, concise, and definite written statement of the essential facts constituting the offense charged and must be signed by an attorney for the government. It need not contain a formal introduction or conclusion. A count may incorporate by reference an allegation made in another count. A count may allege that the means by which the defendant committed the offense are unknown or that the defendant committed it by one or more specified means. For each count, the indictment or information must give the official or customary citation of the statute, rule, regulation, or other provision of law that the defendant is alleged to have violated. For purposes of an indictment referred to in section 3282 of title 18, United States Code, for which the identity of the defendant is unknown, it shall be sufficient for the indictment to describe the defendant as an individual whose name is unknown, but who has a particular DNA profile, as that term is defined in section 3282.
+**(7)** if the court orders one, a reply to an answer.
 
-**(2) Citation Error.** Unless the defendant was misled and thereby prejudiced, neither an error in a citation nor a citation’s omission is a ground to dismiss the indictment or information or to reverse a conviction.
+**(b) Motions and Other Papers.**
 
-**(d) Surplusage.** Upon the defendant’s motion, the court may strike surplusage from the indictment or information.
+**(1) In General.** A request for a court order must be made by motion. The motion must:
 
-**(e) Amending an Information.** Unless an additional or different offense is charged or a substantial right of the defendant is prejudiced, the court may permit an information to be amended at any time before the verdict or finding.
+**(A)** be in writing unless made during a hearing or trial;
 
-**(f) Bill of Particulars.** The court may direct the government to file a bill of particulars. The defendant may move for a bill of particulars before or within 14 days after arraignment or at a later time if the court permits. The government may amend a bill of particulars subject to such conditions as justice requires.
+**(B)** state with particularity the grounds for seeking the order; and
 
-<p class="amendment-history">(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 108–21, title VI, § 610(b), Apr. 30, 2003, 117 Stat. 692; Mar. 26, 2009, eff. Dec. 1, 2009.)</p>
+**(C)** state the relief sought.
+
+**(2) Form.** The rules governing captions and other matters of form in pleadings apply to motions and other papers.
+
+<p class="amendment-history">(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(1) Petition Filed in the Proper District.** If a petition is filed in the proper district, the court may transfer the case to another district in the interest of justice or for the convenience of the parties. The court may do so:
 
-**(A)** on its own or on a party in interest’s timely motion; and
+**(A)** on its own or on a party in interest's timely motion; and
 
 **(B)** only after a hearing on notice to the petitioner, United States trustee, and other entities as the court orders.
 

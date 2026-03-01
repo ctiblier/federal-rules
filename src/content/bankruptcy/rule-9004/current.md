@@ -17,12 +17,12 @@ versions: ["2025"]
 
 **(b) Caption.** A document presented for filing must contain a caption that sets forth:
 
-**(1)** the court’s name;
+**(1)** the court's name;
 
-**(2)** the case’s title;
+**(2)** the case's title;
 
 **(3)** the case number and, if appropriate, adversary-proceeding number; and
 
-**(4)** a brief designation of the document’s character.
+**(4)** a brief designation of the document's character.
 
 <p class="amendment-history">(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)</p>

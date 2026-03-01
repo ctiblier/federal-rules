@@ -15,7 +15,7 @@ versions: ["2025"]
 
 **(a) Stipulated Dismissal.** The clerk of the district court or BAP must dismiss an appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any court fees that are due.
 
-**(b) Appellant ’ s Motion to Dismiss.** An appeal may be dismissed on the appellant’s motion on terms agreed to by the parties or fixed by the district court or BAP.
+**(b) Appellant's Motion to Dismiss.** An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the district court or BAP.
 
 **(c) Other Relief.** A court order is required for any relief beyond the dismissal of an appeal—including approving a settlement, vacating an action of the bankruptcy court, or remanding the case to it.
 

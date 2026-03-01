@@ -17,7 +17,7 @@ versions: ["2025"]
 
 **(b) Stay Pending an Appeal to the United States Court of Appeals.**
 
-**(1) In General.** On a party’s motion with notice to all other parties to the appeal, the district court or BAP may stay its judgment pending an appeal to the court of appeals.
+**(1) In General.** On a party's motion with notice to all other parties to the appeal, the district court or BAP may stay its judgment pending an appeal to the court of appeals.
 
 **(2) Time Limit.** Except for cause, the stay must not exceed 30 days after the judgment is entered.
 
@@ -25,7 +25,7 @@ versions: ["2025"]
 
 **(4) Bond or Other Security.** A bond or other security may be required as a condition for granting or continuing a stay. If a trustee obtains a stay, a bond or other security may be required. But neither is required if a stay is obtained by the United States or its officer or agency, or by direction of any department of the United States government.
 
-**(c) Automatic Stay of the Bankruptcy Court ’ s Order, Judg - ment , or Decree.** If the district court or BAP enters a judgment affirming the bankruptcy court’s order, judgment, or decree, a stay of the district court’s or BAP’s judgment automatically stays the bankruptcy court’s order, judgment, or decree while the appellate stay is in effect.
+**(c) Automatic Stay of the Bankruptcy Court's Order, Judgment, or Decree.** If the district court or BAP enters a judgment affirming the bankruptcy court's order, judgment, or decree, a stay of the district court's or BAP's judgment automatically stays the bankruptcy court's order, judgment, or decree while the appellate stay is in effect.
 
 **(d) Power of a Court of Appeals or Its Judges Not Limited.** This rule does not limit the power of a court of appeals or any of its judges to:
 

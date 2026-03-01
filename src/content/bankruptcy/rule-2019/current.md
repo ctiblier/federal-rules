@@ -15,9 +15,9 @@ versions: ["2025"]
 
 **(a) Definitions.** In this Rule 2019:
 
-**(1)** ‘‘disclosable economic interest’’ means any claim, interest, pledge, lien, option, participation, derivative instrument, or other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest; and
+**(1)** ''disclosable economic interest'' means any claim, interest, pledge, lien, option, participation, derivative instrument, or other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest; and
 
-**(2)** ‘‘represent’’ or ‘‘represents’’ means to take a position before the court or to solicit votes regarding a plan’s confirmation on another’s behalf.
+**(2)** ''represent'' or ''represents'' means to take a position before the court or to solicit votes regarding a plan's confirmation on another's behalf.
 
 **(b) Who Must Disclose.**
 
@@ -43,7 +43,7 @@ versions: ["2025"]
 
 **(A)** for a group or committee (except a committee appointed under § 1102 or § 1114), its formation, including the name of each entity at whose instance it was formed or for whom it has agreed to act; or
 
-**(B)** for an entity, the entity’s employment, including the name of each creditor or equity security holder at whose instance the employment was arranged;
+**(B)** for an entity, the entity's employment, including the name of each creditor or equity security holder at whose instance the employment was arranged;
 
 **(2)** if not disclosed under (1), for each member of a group or committee and for an entity:
 
@@ -57,15 +57,15 @@ versions: ["2025"]
 
 **(A)** name and address; and
 
-**(B)** the nature and amount of each disclosable economic interest held in relation to the debtor on the statement’s date; and
+**(B)** the nature and amount of each disclosable economic interest held in relation to the debtor on the statement's date; and
 
 **(4)** a copy of any instrument authorizing the group, committee, or entity to act on behalf of creditors or equity security holders.
 
-**(d) Supplemental Statement.** If a fact disclosed in its most recent statement has changed materially, a group, committee, or entity must file a verified supplemental statement whenever it takes a position before the court or solicits votes on a plan’s confirmation. The supplemental statement must set forth any material changes in the information specified in (c).
+**(d) Supplemental Statement.** If a fact disclosed in its most recent statement has changed materially, a group, committee, or entity must file a verified supplemental statement whenever it takes a position before the court or solicits votes on a plan's confirmation. The supplemental statement must set forth any material changes in the information specified in (c).
 
 **(e) Failure to Comply; Sanctions.**
 
-**(1) Failure to Comply.** On a party in interest’s motion, or on its own, the court may determine whether there has been a failure to comply with this Rule 2019.
+**(1) Failure to Comply.** On a party in interest's motion, or on its own, the court may determine whether there has been a failure to comply with this Rule 2019.
 
 **(2) Sanctions.** If the court finds a failure to comply, it may:
 

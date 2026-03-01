@@ -13,7 +13,7 @@ source_pdf_page: 85
 versions: ["2025"]
 ---
 
-**(a) In Open Court.** At trial, the witnesses’ testimony must be taken in open court unless a federal statute, the Federal Rules of Evidence, these rules, or other rules adopted by the Supreme Court provide otherwise. For good cause in compelling circumstances and with appropriate safeguards, the court may permit testimony in open court by contemporaneous transmission from a different location.
+**(a) In Open Court.** At trial, the witnesses' testimony must be taken in open court unless a federal statute, the Federal Rules of Evidence, these rules, or other rules adopted by the Supreme Court provide otherwise. For good cause in compelling circumstances and with appropriate safeguards, the court may permit testimony in open court by contemporaneous transmission from a different location.
 
 **(b) Affirmation Instead of an Oath.** When these rules require an oath, a solemn affirmation suffices.
 

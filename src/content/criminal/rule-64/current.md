@@ -1,0 +1,20 @@
+---
+rule: "64"
+title: "Seizing a Person or Property"
+title_number: ""
+title_name: ""
+summary: ""
+keywords: []
+related_rules: []
+last_amended: "December 1, 2024"
+has_deadlines: false
+source_pdf_url: "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure"
+source_pdf_page: 105
+versions: ["2025"]
+---
+
+**(a) Remedies Under State Law —In General.** At the commencement of and throughout an action, every remedy is available that, under the law of the state where the court is located, provides for seizing a person or property to secure satisfaction of the potential judgment. But a federal statute governs to the extent it applies.
+
+**(b) Specific Kinds of Remedies.** The remedies available under this rule include the following—however designated and regardless of whether state procedure requires an independent action: • arrest; • attachment; • garnishment; • replevin; • sequestration; and • other corresponding or equivalent remedies.
+
+<p class="amendment-history">(As amended Apr. 30, 2007, eff. Dec. 1, 2007.)</p>

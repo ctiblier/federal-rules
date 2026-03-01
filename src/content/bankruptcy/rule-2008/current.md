@@ -13,7 +13,7 @@ source_pdf_page: 51
 versions: ["2025"]
 ---
 
-**(a) Giving Notice.** The United States trustee must immediately notify the person selected as trustee how to qualify and, if applicable, the amount of the trustee’s bond.
+**(a) Giving Notice.** The United States trustee must immediately notify the person selected as trustee how to qualify and, if applicable, the amount of the trustee's bond.
 
 **(b) Accepting the Position of Trustee.**
 

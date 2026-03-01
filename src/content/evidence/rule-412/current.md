@@ -1,6 +1,6 @@
 ---
 rule: "412"
-title: "Sex-Offense Cases: The Victim’s Sexual Behavior or Predisposition"
+title: "Sex-Offense Cases: The Victim's Sexual Behavior or Predisposition"
 title_number: "IV"
 title_name: "Relevance and Its Limits"
 summary: ""
@@ -17,19 +17,19 @@ versions: ["2025"]
 
 **(1)** evidence offered to prove that a victim engaged in other sexual behavior; or
 
-**(2)** evidence offered to prove a victim’s sexual predisposition.
+**(2)** evidence offered to prove a victim's sexual predisposition.
 
 **(b) Exceptions.**
 
 **(1) Criminal Cases.** The court may admit the following evidence in a criminal case:
 
-**(A)** evidence of specific instances of a victim’s sexual behavior, if offered to prove that someone other than the defendant was the source of semen, injury, or other physical evidence;
+**(A)** evidence of specific instances of a victim's sexual behavior, if offered to prove that someone other than the defendant was the source of semen, injury, or other physical evidence;
 
-**(B)** evidence of specific instances of a victim’s sexual behavior with respect to the person accused of the sexual misconduct, if offered by the defendant to prove consent or if offered by the prosecutor; and
+**(B)** evidence of specific instances of a victim's sexual behavior with respect to the person accused of the sexual misconduct, if offered by the defendant to prove consent or if offered by the prosecutor; and
 
-**(C)** evidence whose exclusion would violate the defendant’s constitutional rights.
+**(C)** evidence whose exclusion would violate the defendant's constitutional rights.
 
-**(2) Civil Cases.** In a civil case, the court may admit evidence offered to prove a victim’s sexual behavior or sexual predisposition if its probative value substantially outweighs the danger of harm to any victim and of unfair prejudice to any party. The court may admit evidence of a victim’s reputation only if the victim has placed it in controversy.
+**(2) Civil Cases.** In a civil case, the court may admit evidence offered to prove a victim's sexual behavior or sexual predisposition if its probative value substantially outweighs the danger of harm to any victim and of unfair prejudice to any party. The court may admit evidence of a victim's reputation only if the victim has placed it in controversy.
 
 **(c) Procedure to Determine Admissibility.**
 
@@ -41,10 +41,10 @@ versions: ["2025"]
 
 **(C)** serve the motion on all parties; and
 
-**(D)** notify the victim or, when appropriate, the victim’s guardian or representative.
+**(D)** notify the victim or, when appropriate, the victim's guardian or representative.
 
 **(2) Hearing.** Before admitting evidence under this rule, the court must conduct an in camera hearing and give the victim and parties a right to attend and be heard. Unless the court orders otherwise, the motion, related materials, and the record of the hearing must be and remain sealed.
 
-**(d) Definition of ‘‘Victim.’’ In this rule, ‘‘victim’’ includes an alleged victim.**
+**(d) Definition of''Victim.'' In this rule, ''victim'' includes an alleged victim.**
 
 <p class="amendment-history">(As added Pub. L. 95–540, § 2(a), Oct. 28, 1978, 92 Stat. 2046, eff. Nov. 28, 1978; amended Pub. L. 100–690, title VII, § 7046(a), Nov. 18, 1988, 102 Stat. 4400; Apr. 29, 1994, eff. Dec. 1, 1994; Pub. L. 103–322, title IV, § 40141(b), Sept. 13, 1994, 108 Stat. 1919, eff. Dec. 1, 1994; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

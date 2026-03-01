@@ -13,8 +13,8 @@ source_pdf_page: 20
 versions: ["2025"]
 ---
 
-**(a) By Reputation or Opinion.** When evidence of a person’s character or character trait is admissible, it may be proved by testimony about the person’s reputation or by testimony in the form of an opinion. On cross-examination of the character witness, the court may allow an inquiry into relevant specific instances of the person’s conduct.
+**(a) By Reputation or Opinion.** When evidence of a person's character or character trait is admissible, it may be proved by testimony about the person's reputation or by testimony in the form of an opinion. On cross-examination of the character witness, the court may allow an inquiry into relevant specific instances of the person's conduct.
 
-**(b) By Specific Instances of Conduct.** When a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by relevant specific instances of the person’s conduct.
+**(b) By Specific Instances of Conduct.** When a person's character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by relevant specific instances of the person's conduct.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

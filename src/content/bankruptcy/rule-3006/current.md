@@ -21,7 +21,7 @@ versions: ["2025"]
 
 **(3)** the creditor has accepted or rejected the plan or has participated significantly in the case.
 
-**(b) Notice of the Hearing; Order Permitting Withdrawal.** Notice of the hearing must be served on: • the trustee or debtor in possession; and • any creditors’ committee elected under § 705(a) or appointed under § 1102. The court’s order permitting a creditor to withdraw a proof of claim may contain any terms and conditions the court considers proper.
+**(b) Notice of the Hearing; Order Permitting Withdrawal.** Notice of the hearing must be served on: • the trustee or debtor in possession; and • any creditors' committee elected under § 705(a) or appointed under § 1102. The court's order permitting a creditor to withdraw a proof of claim may contain any terms and conditions the court considers proper.
 
 **(c) Effect of Withdrawing a Proof of Claim.** Unless the court orders otherwise, an authorized withdrawal constitutes withdrawal of any related acceptance or rejection of a plan.
 

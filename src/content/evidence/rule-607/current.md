@@ -13,6 +13,6 @@ source_pdf_page: 27
 versions: ["2025"]
 ---
 
-Any party, including the party that called the witness, may attack the witness’s credibility.
+Any party, including the party that called the witness, may attack the witness's credibility.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>

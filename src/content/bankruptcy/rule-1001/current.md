@@ -17,8 +17,8 @@ versions: ["2025"]
 
 **(b) Titles.** These rules should be referred to as the Federal Rules of Bankruptcy Procedure and the forms as the Official Bankruptcy Forms.
 
-**(c) Citations.** In these rules, the Bankruptcy Code is cited with a section sign and number (§ 101). A rule is cited with ‘‘Rule’’ followed by the rule number (Rule 1001(a)).
+**(c) Citations.** In these rules, the Bankruptcy Code is cited with a section sign and number (§ 101). A rule is cited with ''Rule'' followed by the rule number (Rule 1001(a)).
 
-**(d) References to a Specific Form.** A reference to a ‘‘Form’’ followed by a number is a reference to an Official Bankruptcy Form.
+**(d) References to a Specific Form.** A reference to a ''Form'' followed by a number is a reference to an Official Bankruptcy Form.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
