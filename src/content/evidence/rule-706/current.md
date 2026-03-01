@@ -36,7 +36,3 @@ versions: ["2025"]
 **(e) Parties ’ Choice of Their Own Experts.** This rule does not limit a party in calling its own experts.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE VIII. HEARSAY

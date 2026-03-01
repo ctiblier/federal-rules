@@ -22,7 +22,3 @@ versions: ["2025"]
 **(d) References to a Specific Form.** A reference to a ‘‘Form’’ followed by a number is a reference to an Official Bankruptcy Form.
 
 <p class="amendment-history">(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
-
-## Appended Forms
-
-PART I—COMMENCING A BANKRUPTCY CASE; THE PETITION, THE ORDER FOR RELIEF, AND RELATED MATTERS

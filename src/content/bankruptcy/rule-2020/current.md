@@ -13,4 +13,4 @@ source_pdf_page: 61
 versions: ["2025"]
 ---
 
-A proceeding to contest any act or failure to act by a United States trustee is governed by Rule 9014. (Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 2, 2024, eff. Dec. 1, 2024.) PART III—CLAIMS; PLANS; DISTRIBUTIONS TO CREDITORS AND EQUITY SECURITY HOLDERS
+A proceeding to contest any act or failure to act by a United States trustee is governed by Rule 9014. (Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 2, 2024, eff. Dec. 1, 2024.)

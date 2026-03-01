@@ -16,7 +16,3 @@ versions: ["2025"]
 A subscribing witness’s testimony is necessary to authenticate a writing only if required by the law of the jurisdiction that governs its validity.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE X. CONTENTS OF WRITINGS, RECORDINGS, AND PHOTOGRAPHS

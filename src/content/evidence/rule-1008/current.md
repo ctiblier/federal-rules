@@ -16,7 +16,3 @@ versions: ["2025"]
 Ordinarily, the court determines whether the proponent has fulfilled the factual conditions for admitting other evidence of the content of a writing, recording, or photograph under Rule 1004 or 1005. But in a jury trial, the jury determines—in accordance with Rule 104(b)—any issue about whether: (a) an asserted writing, recording, or photograph ever existed; (b) another one produced at the trial or hearing is the original; or (c) other evidence of content accurately reflects the content.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE XI. MISCELLANEOUS RULES

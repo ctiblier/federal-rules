@@ -20,7 +20,3 @@ versions: ["2025"]
 **(c) Effect on Other Rules.** This rule does not limit the admission or consideration of evidence under any other rule.
 
 <p class="amendment-history">(As added Pub. L. 103–322, title XXXII, § 320935(a), Sept. 13, 1994, 108 Stat. 2137, eff. July 9, 1995; amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE V. PRIVILEGES

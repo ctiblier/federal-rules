@@ -22,7 +22,3 @@ versions: ["2025"]
 **(b) Notice.** The statement is admissible only if the proponent gives an adverse party reasonable notice of the intent to offer the statement—including its substance and the declarant’s name—so that the party has a fair opportunity to meet it. The notice must be provided in writing before the trial or hearing—or in any form during the trial or hearing if the court, for good cause, excuses a lack of earlier notice.
 
 <p class="amendment-history">(As added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2019, eff. Dec. 1, 2019.)</p>
-
-## Appended Forms
-
-ARTICLE IX. AUTHENTICATION AND IDENTIFICATION

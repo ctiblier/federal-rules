@@ -34,7 +34,3 @@ versions: ["2025"]
 **(f) Instructing the Jury.** In a civil case, the court must instruct the jury to accept the noticed fact as conclusive. In a criminal case, the court must instruct the jury that it may or may not accept the noticed fact as conclusive.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE III. PRESUMPTIONS IN CIVIL CASES

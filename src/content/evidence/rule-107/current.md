@@ -26,7 +26,3 @@ versions: ["2025"]
 **(d) Summaries of Voluminous Materials Admitted as Evi - dence .** A summary, chart, or calculation admitted as evidence to prove the content of voluminous admissible evidence is governed by Rule 1006.
 
 <p class="amendment-history">(As added Apr. 2, 2024, eff. Dec. 1, 2024.)</p>
-
-## Appended Forms
-
-ARTICLE II. JUDICIAL NOTICE

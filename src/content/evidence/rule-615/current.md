@@ -30,7 +30,3 @@ versions: ["2025"]
 **(2)** prohibit excluded witnesses from accessing trial testimony.
 
 <p class="amendment-history">(As amended Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Pub. L. 100–690, title VII, § 7075(a), Nov. 18, 1988, 102 Stat. 4405; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 24, 2023, eff. Dec. 1, 2023.)</p>
-
-## Appended Forms
-
-ARTICLE VII. OPINIONS AND EXPERT TESTIMONY

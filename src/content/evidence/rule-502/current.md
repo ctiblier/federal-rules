@@ -48,7 +48,3 @@ versions: ["2025"]
 **(2)** ‘‘work-product protection’’ means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.
 
 <p class="amendment-history">(As added Pub. L. 110–322, § 1(a), Sept. 19, 2008, 122 Stat. 3537; amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE VI. WITNESSES

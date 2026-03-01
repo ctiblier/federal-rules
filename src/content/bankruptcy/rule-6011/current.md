@@ -35,4 +35,4 @@ versions: ["2025"]
 
 **(c) Proof of Compliance with Notice Requirements.** Unless the court orders the trustee to file a proof of compliance with § 351(1)(B) under seal, the trustee must keep the proof of compliance for a reasonable time but not file it.
 
-**(d) Report on the Destruction of Unclaimed Records.** Within 30 days after a patient’s unclaimed records have been destroyed under § 351(3), the trustee must file a report that certifies the destruction and explains the method used. The report must not identify any patient by name or by other identifying information. (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Apr. 2, 2024, eff. Dec. 1, 2024.) PART VII—ADVERSARY PROCEEDINGS
+**(d) Report on the Destruction of Unclaimed Records.** Within 30 days after a patient’s unclaimed records have been destroyed under § 351(3), the trustee must file a report that certifies the destruction and explains the method used. The report must not identify any patient by name or by other identifying information. (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Apr. 2, 2024, eff. Dec. 1, 2024.)

@@ -16,7 +16,3 @@ versions: ["2025"]
 In a civil case, state law governs the effect of a presumption regarding a claim or defense for which state law supplies the rule of decision.
 
 <p class="amendment-history">(As amended Apr. 26, 2011, eff. Dec. 1, 2011.)</p>
-
-## Appended Forms
-
-ARTICLE IV. RELEVANCE AND ITS LIMITS
